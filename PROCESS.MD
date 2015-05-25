@@ -13,6 +13,7 @@
 1. Commit and Push branch to github.
 1. Create a pull request and describe your findings and the background for the change proposed.
 1. Contact someone to review your spelling, grammar and usage
+
   >  Hey Chad,
   >  
   >  Could you look over this policy PR and check it for proper english.
