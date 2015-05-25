@@ -6,6 +6,7 @@ When we make a commitment to a customer, keeping that commitment, as it concerns
 In order to ensure that we can deliver on that commitment, all deliverabled must be reviewed by a member of the team, and, if possible the sales lead/dev lead on the project.
 
 ### General Process
+
 The process for all projects should use this project as a template of good process.
 Good process should meet the following criteria
 - An established way of identifying and documenting specifications and defects (This project uses github issues. some projects use Pivotal, Sprint.ly, Asana, or Trello)
@@ -15,6 +16,7 @@ Good process should meet the following criteria
 
 ### Process Improvement
 If accepted process is not followed, or is not adequate, every member of the team is asked to proactively solve this problem.
+
 1. Identify what activity seems to violate process
 2. Identify the accepted process or describe a process that addresses the process problem
 3. Add a description of the activity and the proposed change to process as an issue on github
@@ -26,6 +28,7 @@ Every project must have either a Technical Sales Lead or a Dedicated Project Dev
 This person will act as the account manager for the project and will review or specifically delegate review of project deverables.
 
 In the event that a designated lead is not available, for whatever reason.
+
 1. This situation should be documented as an issue in the policy issues on github
 2. Every other developer on the project has the first resposibility to process as documented here.
 3. If a developer is solo on a project, any developer asked should review that code ASAP. The Senior-most developer should do the review if no specific developer has been asked.
