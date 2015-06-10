@@ -8,4 +8,4 @@ This will the the authoritative company policy document.  Putting it in version 
 
 ## Improving Policy
 - Submit bugs in policy via github issues
-- Follow the [process](PROCESS.md) to resolve issues
+- Follow the [process](PROCESS.MD) to resolve issues
