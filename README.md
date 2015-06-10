@@ -5,3 +5,7 @@ This will the the authoritative company policy document.  Putting it in version 
 ## Current Policies
 - [Attendance](ATTENDANCE.md)
 - [Peer Review](PEER_REVIEW.md)
+
+## Improving Policy
+- Submit bugs in policy via github issues
+- Follow the [process](PROCESS.md) to resolve issues
