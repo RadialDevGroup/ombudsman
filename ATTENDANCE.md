@@ -47,10 +47,10 @@ work, as soon as you know and are able.
 
 Furthermore, it is preferred that you arrive 2 hours and 10 minutes late,
 rather than to arrive merely 2 hours late without an email.  Please take the
-time to send an email if you will be substantively late.  Even for relatively
-insubstantial lateness, please send a text message or `$something` if safety
-permits.  Do not type text messages while driving, or riding a two-wheeled
-vehicle of any kind.
+time to send an email, before you leave, if you will be late more than 10 minutes.
+
+Please do not send messages while operating a vehicle. Stop. It is more important
+that you arrive, than that you arrive on time.
 
 #### Keep your team in the loop.
 
