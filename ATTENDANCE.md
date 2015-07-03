@@ -15,7 +15,7 @@ corrected.
 
 ## Schedule
 
-All employess will need to make a calendar and share it with their
+All employees will need to make a calendar and share it with their
 supervisor(s).  Use your published calendar to commit to your work days and
 times.  Keep it up to date.  That is your schedule.
 
@@ -63,7 +63,7 @@ you make them.
   discretion.
 
 * Please plan to work 40 Hours, and no less than 32 doing client-billable,
-  buisness development or adminstrative work, as-available.
+  business development or adminstrative work, as available.
 
 * The remaining 8 hours may be distributed as each person sees fit and used for
   personal projects, professional development, twitter, Hardforum, etc.
