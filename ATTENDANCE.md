@@ -57,7 +57,7 @@ vehicle of any kind.
 Please notify your team of any significant changes to your calendar if and when
 you make them.
 
-## Hours and hour requirements
+## Hours and Requirements
 
 * All time will be "flex" time and scheduled according to an employee's best
   discretion.
@@ -79,7 +79,7 @@ what qualifies as 20% time and what, when it dovetails somewhat with business
 needs and/or gets suggested by supervisory/administration personnel, qualifies
 as 20% time (or not).
 
-## Overtime and comp time.
+## Overtime and Comptime
 
 You will not be expected to work more than 40 hours on any company-related task
 and will not be compensated in any additional way for working overtime.  If it
@@ -93,14 +93,14 @@ There are currently no set limits on paid time off or vacation time, but please
 get approval from a supervisor before taking time off for a personal day,
 vacation, or other non-emergency event.  Please add time off to your calendar.
 
-## Sick time
+## Sick Time
 
 There is currently no limit to sick time.  It would be preferred that you
 utilize sick days rather than exposing others to illness.
 
 You may work from home.  If sick time can be made up, please make it up.
 
-## Work from Home
+## Work From Home
 
 Work from home is permitted so long as it serves company and client goals for
 effective and timely delivery, within the context of individual capabilities
