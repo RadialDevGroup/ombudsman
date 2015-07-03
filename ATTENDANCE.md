@@ -57,7 +57,7 @@ vehicle of any kind.
 Please notify your team of any significant changes to your calendar if and when
 you make them.
 
-## Hours and Requirements
+## Hours and Hour Requirements
 
 * All time will be "flex" time and scheduled according to an employee's best
   discretion.
