@@ -74,6 +74,11 @@ assumption of no more than a 32-hour week, and the specifics of such resourcing
 should be clearly communicated to the sentient resources whose responsibility
 it is to schedule theirown 20% time.
 
+A policy (formal or informal) should probably be established for deciding on
+what qualifies as 20% time and what, when it dovetails somewhat with business
+needs and/or gets suggested by supervisory/administration personnel, qualifies
+as 20% time (or not).
+
 ## Overtime and comp time.
 
 You will not be expected to work more than 40 hours on any company-related task
