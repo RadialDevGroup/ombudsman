@@ -62,22 +62,14 @@ you make them.
 * All time will be "flex" time and scheduled according to an employee's best
   discretion.
 
-* Please plan to work 40 Hours, and bill no less than 32 hours on
-  client-billable work, as-available.
+* Please plan to work 40 Hours, and no less than 32 doing client-billable,
+  buisness development or adminstrative work, as-available.
+
+* The remaining 8 hours may be distributed as each person sees fit and used for
+  personal projects, professional development, twitter, Hardforum, etc.
 
 * Please account for your 20% time, any networking events or meetups where you
   mention the company, etc, along with other reported times.
-
-***special note:*** The above points, in aggregate, *imply discretionary 20%
-time* to be decided by the individual.  Resourcing should be established on
-assumption of no more than a 32-hour week, and the specifics of such resourcing
-should be clearly communicated to the sentient resources whose responsibility
-it is to schedule theirown 20% time.
-
-A policy (formal or informal) should probably be established for deciding on
-what qualifies as 20% time and what, when it dovetails somewhat with business
-needs and/or gets suggested by supervisory/administration personnel, qualifies
-as 20% time (or not).
 
 ## Overtime and Comptime
 
@@ -98,7 +90,8 @@ vacation, or other non-emergency event.  Please add time off to your calendar.
 There is currently no limit to sick time.  It would be preferred that you
 utilize sick days rather than exposing others to illness.
 
-You may work from home.  If sick time can be made up, please make it up.
+You may work from home.  The company will bear sick or personal time. Do not
+plan to make it up.
 
 ## Work From Home
 
