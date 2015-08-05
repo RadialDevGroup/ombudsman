@@ -15,7 +15,7 @@
 
 ## Policy Repo
   
-  *cover intents from policy articles throughout the repo*
+  [Values](onboarding/PROCESS_VALUES.md)
   
 ### Attendance
   
