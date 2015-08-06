@@ -9,3 +9,6 @@ This will the the authoritative company policy document.  Putting it in version 
 ## Improving Policy
 - Submit bugs in policy via github issues
 - Follow the [process](PROCESS.MD) to resolve issues
+
+## Process Policies
+- [Onboarding](processes/ONBOARDING.md)
