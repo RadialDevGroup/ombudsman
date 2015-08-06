@@ -8,17 +8,31 @@
 
 ## Training
 ### Freckle
-
-### Github
+ - Create Freckle Account
+ - Demonstrate timer, time tracking, hashtags, and 'starred' activities
 
 ### Sprint.ly
+  - I don't know how to even.
+  
+### Github
+  - Add User to Radial Organization on Github
 
 ## Policy Repo
   
-  [Values](onboarding/PROCESS_VALUES.md)
+  - Go over the policy repo, including the Process documentation for it.
+  - Review [Values](onboarding/PROCESS_VALUES.md) as documented in the intents of existing policies
   
 ### Attendance
   
-  *cover specific attendance requirements*
+  - Commitments
+  - Communication
+  - Absences and Lateness
 
 ## Equipment, desk space, network
+  Goal:
+    - Check out company equipment to developer
+    - Assign Personal space to developer
+  
+  Practice:
+    - Explain goal
+    - Explain space limitations and work out solutions and acceptable compromises.
