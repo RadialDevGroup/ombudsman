@@ -1,24 +1,25 @@
 # Pairing
 
+> Collaborative process can enhance developer productivity and provide significant benefits for quality software engineering.  Pair programming often provides beneficial realtime collaborative feedback during creative phases of the practical development process.
+
 ## Intents and Values
 
 As a company, meeting our commitment to producing quality software in a timely fashion for our clients depends on well-tested agile development techniques.
 
-## Pair Programming
-
-Collaborative process can enhance developer productivity and provide significant benefits for quality software engineering.  Pair programming often provides beneficial realtime collaborative feedback during creative phases of the practical development process.
 
 ## Resource assignments
 
-When available, developers will be assigned to projects in pairs.  Periodically pairing teams may be changed in order to incorporate different strengths and points of view to each team.  When resources are not available to pair, it is still recommended to try to "pair with yourself" to keep progress moving forward, or otherwise "stop the assembly line" and seek help from someone else if blocked.
+When available, developers will be assigned to projects in pairs.  Periodically pairing teams may be changed in order to incorporate different strengths and points of view to each team.  As the team is not always balances, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
 
 ## General Process
 
-* Start the process by reviewing the feature that needs to be completed.  Attempt to identify any potential blockers or break down the feature if it appears to be too complex.
+* Start the process by reviewing the feature that needs to be completed.  The pair should attempt to agree on a strategy and data structure at the outset, if relevant.  Attempt to identify any potential blockers or [break down the feature](guides/story_writing.md) if it appears to be too complex.
 
-* For each time period, each programmer will either be a driver or navigator.  Each programmer should get an equivalent amount of time participating in either activity, regardless of familiarity with the software and hardware platform being used and its effect on progress.  The purpose of handing off responsibilities is to allow each developer to learn and provide insight to problems which is not possible if unable to take control at some point.
+* For each time period, each programmer will either be a driver or navigator (some models call the roles 'novice' and 'sage' if that's more evocative).  Each programmer should get an equivalent amount of time participating in either activity, regardless of familiarity with the software and hardware platform being used and its effect on progress.  The purpose of handing off responsibilities is to allow each developer to learn and provide insight to problems which is not possible if unable to take control at some point.
 
-* At times, a developer may lose focus, and it should be the responsibility of the other developer to recognize this and discuss the situation to find a solution.  Try using [Pomodoro technique][pom] to prevent focus from being lost as time progresses.
+    *If the stronger developer is unsure or wishes to guide the development, they should do so by asking leading questions rather than arguing*
+
+* At times, a developer may lose focus, and it should be the responsibility of the other developer to recognize this and discuss the situation to find a solution.  Whether working with a pair or not: try using [Pomodoro technique][pom] to prevent focus from being lost as time progresses.
 
 ## Optimizations
 
@@ -32,74 +33,54 @@ When available, developers will be assigned to projects in pairs.  Periodically 
 [pom]: http://agileworld.blogspot.com/2009/10/applying-pomodoro-technique-during-pair.html
 
 
-"You are finished not when there is nothing left to add, but when there is nothing left to take away."
+"It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove."
 
-- Antoine de St-Exupery (paraphrased from memory)
+- Antoine de St-Exupery (Terre des Hommes (1939), Ch. III: L'Avion, p. 60)
 
+## Problems / Solutions
 
+### Expediency / Efficiency
 
----
+When working independently, focus can be impacted by a number of environmental or personal conditions.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficency of delivery.
 
-Ignore all that shit for a moment.  Let's try this:
+see also trohpy depot-esk projects
 
-# Pair Programming
+> Rather than lose the productivity of a distracted and stressed developer, we would prefer to utilize pairing to ensure that they remain on task.
 
-## Solutions Provided By Pairing
+At times, a developer may be working independently on a project which has fewer allocated resources.  In these cases, difficulties can stagnate development as can numerous questions derail development on other client work.
 
-* Pairing provides continuous interviewgration (id est: continuous integration for code reviews)
+the case of the equity developer
 
-* Pairing helps keep code moving, as one programmer may start driving when the other feels drained.
+> We would prefer that a developer pair with someone struggling to comprehend their task or recommended solution, in order to expidite the complete resolution of the applicable challenge.
 
-* Pairing helps programmers learn from each other in the process of producing code.
+### Culture / Accountability
 
-* Pairing helps improve code quality on the first pass by ensuring realtime feedback, rather than forcing lengthy eye-glazing sessions of missing most of the details across forty-seven files with thousands of changes during a code review after the fact.  Note to self: finish that code review.
+Long streches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.
 
-* Pairing helps ensure that more than one person understands the codebase.
+the case of the underdeveloped developers
 
-* Pairing provides excellent opportunities for coders to pause and discuss abstract concerns, where otherwise they may not ever both have a good stopping point at the same time.
+> By pairing, developers reinforce the company's culture of care and accountability by ensuring that code is applicable to the current work item, tested thorougly, and ready for release when completed.
 
+### Consistent Delivery
 
-## Problems Solved By Pairing
+Because developers take vacations, are ill, or move on to other opportunities, it is important that knowledge not be reduced to include only a single individual.  In addition, because we focus on hiring a diversity of expertises, we expect that resourcing may need to be fluid in order to allocate that expertise on a needs basis.
 
-* Infer from the solution statements.
+see the case of the vacated vacule
+see the case of the thinning thinker
+see the case of the untuned tinkerer
 
+> Pairing allows a natural knowledge share to occur with a project which ensures that work on a project can continue, without respect to unexpected or neccesary changes to project/resource allocation.
 
-## Method For Detecting Problems Pairing Can Solve
+### Being Overwhelmed, Junior Developers, and Unfamiliar Technology
 
-Does it involve programming?  Do you have more than one programmer available?  Is someone willing to pay for both of them to sit in front of the computer and work together on the same code at the same time?  Are you pretty sure they will not kill each other?
+Larry really struggles with pillow, a popular library for doing image processing in python.  When tasked with implementing file uploads with it in Django, he tends to stagnate and complete the work much less quickly than several other python developers on the team.
 
-If you answer to all of these questions, or at least most of them, is "yes" . . . make a list of all the problems associated with this project and label them "solved by pair programming".
+> Larry can utilize pair programming by engaging another developer to sit with him and weigh in on the development.  Ideally, this would begin with Larry as the navigator explaining what he wants to do it, how he has done it, and what he would like to do next.  The other developer can ask leading questions to give Larry insight into what he might do to solve some of the challenges with using the library
 
+Bob has been on the same project for several months, the project's work has been poorly structured, and he is having difficulty with Asana because he feels it interferes, rather than enables, his focus and communication with the client.  Bob find that it takes a good deal longer to begin a new feature correcting deprecations as part of a module upgrade than he would like
 
-## Plan For Implementing Pair Programming Practice, Putting Problems Pat
+> Bob can utilize pair programming by discussing the objectives of the current work item, possibly revising the requirements in Asana, and by taking a less directive role early in the day.  As he begins to write the code for the item, he gets a better sense of what he might do next, or what his pair might be overlooking.  When he takes the navigational role, he can review these concerns and ensure that the work being done is consistent with the requirements
 
-1. Buy a computer and a desk.
+Dave is new to using React.  He has worked through and introductory tutorial, but is unable to apply the tutorial to his current project, as complex content-management-oriented project.  When he sits down to code, he find previous techniques more sensible and familiar and is unsure where to draw the lines between his normal approach and integrating React
 
-2. Buy two monitors, two keyboards, and two rodents.
-
-3. Set these things up together, all connected in one big snarl of wires, with the monitors both showing the same stuff.
-
-4. Chain two programmers to the desk, preferably each with a chair.
-
-5. Tell them to pick a driver and a navigator.
-
-6. Tell them to switch roles frequently.
-
-7. Tell them to take periodic breaks.
-
-8. Tell them to communicate, so that nobody gets left behind and anyone who has questions or ideas can contribute to the process, whether driving or navigating.
-
-9. Get out of their way.
-
-10. Observe results and write a smug, self-satisfied blog post about it.
-
-11. Use that blog post as marketing to get clients to pay you more money.
-
-12. . . .
-
-13. Profit!
-
-
-## The Real Answer
-
-Most of the above is nonsense written by someone who's trying to spark his imagination, because he isn't getting anywhere today.  So far, that inspiration tactic does not seem to be working.
+> By using pair programming, Dave is able to access more experience and expertise, using React and can begin to develop a new sense of how to use the tool
