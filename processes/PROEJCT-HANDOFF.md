@@ -10,4 +10,4 @@ Sales Team members, Account management, Operations, and Management who delegate 
 Whoever is currently responsible for the project is responsible to introduce the new responsible team member to the client before becoming unavailable.  It encouraged that a canned response be prepared so that the email may be sent at short notice, if necessary.  If the client already knows the new responsible team member, they should recieve notice that for [Busines reason, explicit | Reasons of Personal Emergency | Stanard reasons (Vacation | Sick | etc), explicit ] that the current lead will be temporarily unavailable and inform them of the new POC, cc their email. With permission, please provide the new POC's phone number for emergencies during the transition.  WE may use zirtual for this at some point.
 
 ## Work in progress
-All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout prior to departure.
+All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout prior to departure.  This meeting should be echoed in an email and CC'd to management
