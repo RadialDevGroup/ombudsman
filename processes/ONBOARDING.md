@@ -17,6 +17,9 @@
 ### Github
   - Add User to Radial Organization on Github
 
+### Asana
+  - Add User to Asana
+
 ## Policy Repo
   
   - Go over the policy repo, including the Process documentation for it.
