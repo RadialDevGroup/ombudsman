@@ -10,18 +10,20 @@
 ### Freckle
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
-
+## Accounts
 ### Sprint.ly
-  - I don't know how to even.
+  - Add to Radial Project
+  - Add to Initial resourcing
   
 ### Github
-  - Add User to Radial Organization on Github
+  - Add User to Radial Organization on Github (Employees)
+  - Require user to set up two-factor authentication
 
 ### Asana
   - Add User to Asana
 
 ## Policy Repo
-  
+
   - Go over the policy repo, including the Process documentation for it.
   - Review [Values](onboarding/PROCESS_VALUES.md) as documented in the intents of existing policies
   
