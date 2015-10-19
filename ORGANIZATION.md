@@ -14,6 +14,9 @@
 # Operations
 [Marshall Smith](#marshall-smith)
 
+# Sales
+[Mark Jackson](#mark-jackson)
+
 # All other issues
 [Ben West](#ben-west)
 
@@ -25,3 +28,6 @@
 ## Marshall Smith
   - [970 599 1764](tel:9705991764)
   - [marshall@radialdevgroup.com](mailto:marshall@radialdevgroup.com)
+
+## Mark Jackson
+  - [mjackson@radialdevgroup.com](mailto:mjackson@radialdevgroup.com&cc:marketing@radialdevgroup.com&subject:Radial Sales)
