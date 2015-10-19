@@ -32,44 +32,52 @@ When available, developers will be assigned to projects in pairs.  Periodically 
 
 [pom]: http://agileworld.blogspot.com/2009/10/applying-pomodoro-technique-during-pair.html
 
-
-"It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove."
-
-- Antoine de St-Exupery (Terre des Hommes (1939), Ch. III: L'Avion, p. 60)
-
 ## Problems / Solutions
 
 ### Expediency / Efficiency
 
-When working independently, focus can be impacted by a number of environmental or personal conditions.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficency of delivery.
+**When working independently, focus can be impacted by a number of environmental or personal conditions.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficiency of delivery.**
 
-see also trohpy depot-esk projects
+James has been working on a poorly organized project with a difficult-to-understand code-base and data model.
 
-> Rather than lose the productivity of a distracted and stressed developer, we would prefer to utilize pairing to ensure that they remain on task.
+> James can work with another developer to help him to stay focused and navigate much needless indirection.  While James navigates the code, his pair can ask leading questions to help cue his next step.  When James gets tired of navigating, his pair can take over, and James can cue the other developer as they work towards a solution
 
-At times, a developer may be working independently on a project which has fewer allocated resources.  In these cases, difficulties can stagnate development as can numerous questions derail development on other client work.
+Mark has been working on a poorly-written legacy code-base that seems obscure the purpose of each method rather than breaking methods into comprehensible blocks.
 
-the case of the equity developer
+> Mark's pair can help him from descending into a refactoring rabbit hole by refocusing the work on the goal, rather than on a refactoring towards impossible perfection.
 
-> We would prefer that a developer pair with someone struggling to comprehend their task or recommended solution, in order to expidite the complete resolution of the applicable challenge.
+**At times, a developer may be working independently on a project which has fewer allocated resources.  In these cases, difficulties can stagnate development as can numerous questions derail development on other client work.**
+
+Peter is the only resourced developer on a project and the project is an internal initiative.
+> Peter may not be able to pair on his project full time, but when possible, he should pair with an internal stakeholder, if applicable, or a senior member of the engineering staff in order to keep himself on task.  Since Peter is flying solo, he should ensure that he communicates effectively and regularly to his stakeholders; this regular communication can allow him to stay on task by ensuring that he is frequently reminded that he is responsible to deliver functioning work at regular intervals.
+
 
 ### Culture / Accountability
 
-Long streches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.
+Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.
 
-the case of the underdeveloped developers
+Kim doesn't really like to write test because other developers on the project rarely run the tests and frequently commit broken tests to master.
+
+> WIP BLAH BLAH
 
 > By pairing, developers reinforce the company's culture of care and accountability by ensuring that code is applicable to the current work item, tested thorougly, and ready for release when completed.
 
 ### Consistent Delivery
 
-Because developers take vacations, are ill, or move on to other opportunities, it is important that knowledge not be reduced to include only a single individual.  In addition, because we focus on hiring a diversity of expertises, we expect that resourcing may need to be fluid in order to allocate that expertise on a needs basis.
+**Because developers take vacations, are ill, or move on to other opportunities, it is important that knowledge not be reduced to include only a single individual.  In addition, because we focus on hiring a diversity of expertises, we expect that resourcing may need to be fluid in order to allocate that expertise on a needs basis.**
 
-see the case of the vacated vacule
-see the case of the thinning thinker
-see the case of the untuned tinkerer
+Levi has worked on his project for several months and is becoming an expert in the client's domain.  He has worked with several pairs throughout, but he has been on the project the longest.  Levi gets sick and the project loses significant brainshare.
+> Under most circumstances, pairing alone does a great job of ensuring brain-share on a project and with respect to a client's domain.  Sometimes, however, pairing, alone, is not enough to ensure long-term knowledge-sharing.  Effective Documentation, Test-driven development, and periodic publication (Blogs, internal knowledge-base articles, etc).
 
-> Pairing allows a natural knowledge share to occur with a project which ensures that work on a project can continue, without respect to unexpected or neccesary changes to project/resource allocation.
+Efrain has been with the team for 5 years, a long time for any consultant, and is familiar with most company practices and techiniques.  In addition, he has gained a great deal of experience from working on so many kinds of projects.  As a result, many of the team rely on him to help them, when they are stuck; especially after the great legacy code purge of 2012.
+
+> Pair programming is critical to using Efrain's skills well.  Since he is liable to be interrupted, it is important that another member of the team hold much of the brainshare on the project theirself, as he could be called away without notice.  Whereas Efrain is able to share the knowledge of the project, himself, from experience, his pair needs to be able to carry on if he is interrupted or needs to help another team member.
+
+Liz is relatively new to software and comes from a product-management background.  She is able to quickly find the most important features in the client's specifications, but is weaker on the implementation details themselves, sometimes requiring guidance on the best plugins and libraries to use.
+
+> Liz is a great pair because she always seems to understand how best to meet the clients specification, but does not always quite know the best way to engineer the feature, or how to write an effective test for it.  Because she uses pair programming, she works with a mid-level developer as often as possible, since that allows her to ask about specific syntaxes and structures to use to build out the specified features
+
+**Pairing allows a natural knowledge share to occur with a project which ensures that work on a project can continue, without respect to unexpected or necessary changes to project/resource allocation.**
 
 ### Being Overwhelmed, Junior Developers, and Unfamiliar Technology
 
