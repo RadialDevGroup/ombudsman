@@ -4,13 +4,13 @@
 
 ## Payroll
 
-## Google Account
-
 ## Training
 ### Freckle
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
 ## Accounts
+### Google
+  - train how to set Default outbound to radialdevgroup
 ### Sprint.ly
   - Add to Radial Project
   - Add to Initial resourcing
@@ -20,7 +20,15 @@
   - Require user to set up two-factor authentication
 
 ### Asana
-  - Add User to Asana
+  - Add User to Content Team
+  - Add User to Operations Team (if Applicable)
+  
+### Other
+- Slack
+
+### Project-specific
+- Heroku
+- AWS Credentials
 
 ## Policy Repo
 
