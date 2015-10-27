@@ -54,13 +54,13 @@ Peter is the only resourced developer on a project and the project is an interna
 
 ### Culture / Accountability
 
-Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.
+**Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.**
 
 Kim doesn't really like to write test because other developers on the project rarely run the tests and frequently commit broken tests to master.
 
-> WIP BLAH BLAH
+> Kim can help to develop a culture of testing by pairing with other members of the team.  As each team member shares Kim's experience -- having to fix broken tests in master, adding tests, and reporting regressions -- they begin to understand the frustration and loneliness of being the only member of the team to write tests.  Care must be taken.  It is not uncommon for this process to initially reduce overall morale within the team, because the burden of sole responsibility produces powerful emotions.  It is critical for Kim to be successful, by committing to run the tests, and to continue writing them.  This commitment can be the basis of hope for other members of the team, and each one that hears this commitment will have hope and be more diligent -- no-one wants to make Kim's day any harder, and knowing she is on their side will help them to keep up the habit, themself.
 
-> By pairing, developers reinforce the company's culture of care and accountability by ensuring that code is applicable to the current work item, tested thorougly, and ready for release when completed.
+*By pairing, developers reinforce the company's culture of care and accountability by ensuring that code is applicable to the current work item, tested thorougly, and ready for release when completed.*
 
 ### Consistent Delivery
 
@@ -91,4 +91,4 @@ Bob has been on the same project for several months, the project's work has been
 
 Dave is new to using React.  He has worked through and introductory tutorial, but is unable to apply the tutorial to his current project, as complex content-management-oriented project.  When he sits down to code, he find previous techniques more sensible and familiar and is unsure where to draw the lines between his normal approach and integrating React
 
-> By using pair programming, Dave is able to access more experience and expertise, using React and can begin to develop a new sense of how to use the tool
+> By using pair programming, Dave is able to access more experience and expertise. With a help from a pair, he can begin to develop a new sense of how to use the new tool.  Whereas his usual approach may be more familiar, as the driver, he can listen to the navigator's instructions.  As the navigator, instructive questions from the driver can help him gain a new perspective about how to structure the project.
