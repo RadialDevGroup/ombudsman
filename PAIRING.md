@@ -9,7 +9,7 @@ As a company, meeting our commitment to producing quality software in a timely f
 
 ## Resource assignments
 
-When available, developers will be assigned to projects in pairs.  Periodically pairing teams may be changed in order to incorporate different strengths and points of view to each team.  As the team is not always balances, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
+When available, developers will be assigned to projects in pairs.  Pairing teams may be periodically changed in order to incorporate different strengths and points of view to each team.  As the team is not always balanced, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
 
 ## General Process
 
