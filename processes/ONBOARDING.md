@@ -8,9 +8,11 @@
 ### Freckle
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
+### Teambook
+ - How to indicate vacations/absences
 ## Accounts
 ### Google
-  - train how to set Default outbound to radialdevgroup
+  - add to team@ group
 ### Sprint.ly
   - Add to Radial Project
   - Add to Initial resourcing
@@ -45,6 +47,7 @@
   Goal:
     - Check out company equipment to developer
     - Assign Personal space to developer
+    - Provide WiFi credentials
   
   Practice:
     - Explain goal
