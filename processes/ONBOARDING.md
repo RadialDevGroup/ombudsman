@@ -8,12 +8,14 @@
 ### Freckle
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
+
 ### Teambook
  - How to indicate vacations/absences
 
 ## Accounts
 ### Google
   - add to team@ group
+
 ### Sprint.ly
   - Add to Radial Project
   - Add to Initial resourcing
