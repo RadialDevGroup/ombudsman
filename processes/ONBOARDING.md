@@ -55,3 +55,6 @@
   Practice:
     - Explain goal
     - Explain space limitations and work out solutions and acceptable compromises.
+    
+## Goals
+  use [Goals.md](../documents/goals.md) to create an email to the new hire.  CC "David Beveridge" <davidjbeveridge@gmail.com> and indicate that the response should be sent to David.
