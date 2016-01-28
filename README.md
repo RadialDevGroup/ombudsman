@@ -12,3 +12,4 @@ This will the the authoritative company policy document.  Putting it in version 
 
 ## Process Policies
 - [Onboarding](processes/ONBOARDING.md)
+- [Kickoff](processes/KICKOFF.md)
