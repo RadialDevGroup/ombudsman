@@ -16,10 +16,10 @@ The following questions should be answered by a PROCESS.MD file on a project:
   - Are there any required review steps?
   - Are there standards for code? Are they documented?
 1. How and when is work 'completed'?
-  - How do communicate that work is complete in your job queue?
+  - How to communicate that work is complete in your job queue?
   - How does code-merge relate to 'completion'?
   - Are there required approval steps for completing work?
-1. Are there different teams of classes of work that follow a different process?
+1. Are there different teams or classes of work that follow a different process?
 1. Does deployment have a process?
 
 #### For Non-Radial Devs:
