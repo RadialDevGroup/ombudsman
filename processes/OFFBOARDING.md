@@ -1,6 +1,6 @@
 #Offboarding
 
-When possible, use the Admin privileges in the various services to change the password for a person leaving the company. When possible double-check with the previous employee re: any additionally resources that they are assigned to for Radial use. (e.g. Rollbar, Pingdom, etc..) and take appropriate action regarding those accounts (transfer, disabling, etc..)
+When possible, use the Admin privileges in the various services to change the password for a person leaving the company. When possible double-check with the previous employee re: any additional resources that they are assigned to for Radial use. (e.g. Rollbar, Pingdom, etc..) and take appropriate action regarding those accounts (transfer, disabling, etc..)
 
 ###Payroll
 Set end date for payroll.
