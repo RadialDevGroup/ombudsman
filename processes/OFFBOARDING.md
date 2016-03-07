@@ -1,17 +1,20 @@
 #Offboarding
 
-When possible, use the Admin privileges in the various services to change the password for a person leaving the company. When possible double-check with the previous employee re: any additional resources that they are assigned to for Radial use. (e.g. Rollbar, Pingdom, etc..) and take appropriate action regarding those accounts (transfer, disabling, etc..)
+When possible, use the Admin privileges in the various services to change the password for a person leaving the company. Double-check with the departing employee re: any additional resources assigned for Radial use (e.g. Rollbar, Pingdom, etc..) and take appropriate action regarding those accounts (e.g. transfer, disabling, etc..)
 
 ###Payroll
+
 Set end date for payroll.
 
+##Accounts
+
 ###Freckle
+
 Disable Freckle Account / Change password
 
 ###Teambook
-Disable Teambook Account / Change password
 
-##Accounts
+Disable Teambook Account / Change password
 
 ###Google
 
@@ -22,7 +25,7 @@ Disable Google Account / Change password
 Disable Sprintly Account / Change password
 
 ###Github
-Remove User from Radial Organization on Github (Employees)
+Remove User from Radial Organization on GitHub (Employees)
 
 ###Asana
 Disable Asana Account / Change password 

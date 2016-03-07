@@ -20,8 +20,8 @@
   - Add to Radial Project
   - Add to Initial resourcing
   
-### Github
-  - Add User to Radial Organization on Github (Employees)
+### GitHub
+  - Add User to Radial Organization on GitHub (Employees)
   - Require user to set up two-factor authentication
 
 ### Asana
