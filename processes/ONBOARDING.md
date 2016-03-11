@@ -46,6 +46,10 @@
   - Communication
   - Absences and Lateness
 
+## Marketing
+
+- Schedule picture for website
+
 ## Equipment, desk space, network
   Goal:
     - Check out company equipment to developer
