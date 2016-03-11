@@ -46,11 +46,12 @@
   - Communication
   - Absences and Lateness
 
-## Equipment, desk space, network
+## Equipment, desk space, network, keys
   Goal:
     - Check out company equipment to developer
     - Assign Personal space to developer
     - Provide WiFi credentials
+    - Provide key(s) for entry into workspace
   
   Practice:
     - Explain goal
