@@ -96,7 +96,7 @@ A minimum 1 week vacation is recommended.
 ## Sick Time
 
 Sick and personal time leave is available without bound.  Please take time, with
-notice (see ''communication standards'') as needed to ensure best-available return
+notice (see **communication standards**) as needed to ensure best-available return
 to full productivity.  Please do not expose the rest of the staff to anything which
 would hamper their performance or delivery.  Sick time may be taken at the employee's
 discresion, subject to the intent: that the purpose of leave is to ensure return to
@@ -113,6 +113,10 @@ Other specific requests:
 
 - Sick or personall time may be made up at managment discression, only, and only to
   ensure timely delivery for clients when originally promised
+
+- Sick or personal time should only be mde up if specifically required to meet
+  commitments to clients, and no other resourcing solution will accomplish
+  delivery, and only with the permission of management.
 
 ## Work From Home
 
