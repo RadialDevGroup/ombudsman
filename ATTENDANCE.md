@@ -37,11 +37,13 @@ contact:
 #### Tell them soon.
 
 Failure to meet commitments within one hour *without notice* is not acceptable.
-Please send your notification email within an hour of your scheduled start time
-to let us know if you will be late or absent.
+Please send your notification email no later than an hour from the beginning of
+you scheduled start time to let us know if you will be late or absent.
 
 It is your responsibility to make sure we are aware if you will be unable to
 work, as soon as you know and are able.
+
+Unreported tardies and absences must be made up.
 
 #### Communication is a priority.
 
@@ -51,6 +53,8 @@ time to send an email, before you leave, if you will be late more than 10 minute
 
 Please do not send messages while operating a vehicle. Stop. It is more important
 that you arrive, than that you arrive on time.
+
+All tardies which occur prior to communication must be made up.
 
 #### Keep your team in the loop.
 
@@ -63,10 +67,10 @@ you make them.
   discretion.
 
 * Please plan to work 40 Hours, and no less than 32 doing client-billable,
-  business development or adminstrative work, as available.
+  community, or business development, as available.
 
 * The remaining 8 hours may be distributed as each person sees fit and used for
-  personal projects, professional development, twitter, Hardforum, etc.
+  personal projects, professional development, twitter, Hardforum, etc. (e.g. 20% time)
 
 * Please account for your 20% time, any networking events or meetups where you
   mention the company, etc, along with other reported times.
@@ -74,24 +78,41 @@ you make them.
 ## Overtime and Comptime
 
 You will not be expected to work more than 40 hours on any company-related task
-and will not be compensated in any additional way for working overtime.  If it
-is important to client delivery that additional time be spent, please make sure
-we are aware of any overtime.  Please report any client request for overtime,
-in writing, and in context.
+and will not be compensated in any additional way for working overtime, except
+as required by law.  If it is important to client delivery that additional time
+be spent, please make sure we are aware of any overtime.  Please report any
+client request for overtime, in writing, and in context.
 
-## PTO
+## Vacation time
 
-There are currently no set limits on paid time off or vacation time, but please
-get approval from a supervisor before taking time off for a personal day,
-vacation, or other non-emergency event.  Please add time off to your calendar.
+Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
+Please work with management to schedule them ensuring that resourcing accounts
+for all client commitments.
+
+Additional vacation may be available provided advance written perission of management.
+
+A minimum 1 week vacation is recommended.
 
 ## Sick Time
 
-There is currently no limit to sick time.  It would be preferred that you
-utilize sick days rather than exposing others to illness.
+Sick and personal time leave is available without bound.  Please take time, with
+notice (see ''communication standards'') as needed to ensure best-available return
+to full productivity.  Please do not expose the rest of the staff to anything which
+would hamper their performance or delivery.  Sick time may be taken at the employee's
+discresion, subject to the intent: that the purpose of leave is to ensure return to
+work and an employee may choose to work from home, if able.  Attendance to the office
+during an contagious illness is discouraged, and an employee may choose to work from
+home or take a sick day.
 
-You may work from home.  The company will bear sick or personal time. Do not
-plan to make it up.
+Other specific requests:
+- If you have personal drama that you need to resolve, take time and resolve it, but
+  ensure that it is resolved so that it will not present addditional interruption.
+
+- If working from home will not be productive, effective, or will adversly affect
+  your recovery, don't.
+
+- Sick or personall time may be made up at managment discression, only, and only to
+  ensure timely delivery for clients when originally promised
 
 ## Work From Home
 
