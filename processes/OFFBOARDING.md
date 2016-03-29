@@ -40,6 +40,10 @@ Disable Asana Account / Change Password
 
 Disable AWS Account / Change Password
 
+### Slack
+
+Disable Slack Account
+
 ###Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
