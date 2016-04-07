@@ -36,12 +36,9 @@ contact:
 
 #### Tell them soon.
 
-Failure to meet commitments within one hour *without notice* is not acceptable.
-Please send your notification email no later than an hour from the beginning of
-you scheduled start time to let us know if you will be late or absent.
-
-It is your responsibility to make sure we are aware if you will be unable to
-work, as soon as you know and are able.
+Please send your notification, by email, as soon as possible, to let your team know if you
+will be late or absent. Please also notify Ben or Marshall.  You have a responsibility to
+make sure we are aware if you will be unable to work, as soon as you know and are able.
 
 Unreported tardies and absences must be made up.
 
@@ -54,17 +51,19 @@ time to send an email, before you leave, if you will be late more than 10 minute
 Please do not send messages while operating a vehicle. Stop. It is more important
 that you arrive, than that you arrive on time.
 
-All tardies which occur prior to communication must be made up.
-
 #### Keep your team in the loop.
 
 Please notify your team of any significant changes to your calendar if and when
 you make them.
 
+Note: We are now using teambook to track availability and resourcing.  Please
+report changes to your calendar there.
+
 ## Hours and Hour Requirements
 
 * All time will be "flex" time and scheduled according to an employee's best
-  discretion.
+  discretion. Core hours including 9:30 am standup time, must, however, be
+  observed.
 
 * Please plan to work 40 Hours, and no less than 32 doing client-billable,
   community, or business development, as available.
@@ -83,40 +82,43 @@ as required by law.  If it is important to client delivery that additional time
 be spent, please make sure we are aware of any overtime.  Please report any
 client request for overtime, in writing, and in context.
 
-## Vacation time
-
-Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
-Please work with management to schedule them ensuring that resourcing accounts
-for all client commitments.
-
-Additional vacation may be available provided advance written perission of management.
-
-A minimum 1 week vacation is recommended.
-
 ## Sick Time
 
 Sick and personal time leave is available without bound.  Please take time, with
 notice (see **communication standards**) as needed to ensure best-available return
 to full productivity.  Please do not expose the rest of the staff to anything which
 would hamper their performance or delivery.  Sick time may be taken at the employee's
-discresion, subject to the intent: that the purpose of leave is to ensure return to
-work and an employee may choose to work from home, if able.  Attendance to the office
-during an contagious illness is discouraged, and an employee may choose to work from
-home or take a sick day.
+discretion, subject to the understanding that the purpose of leave is to ensure healthy
+return to work. Office attendance during an contagious illness is discouraged; an
+employee may choose to work from home or take a sick day -- half-days for reasons of
+illness are also discouraged.
 
 Other specific requests:
 - If you have personal drama that you need to resolve, take time and resolve it, but
   ensure that it is resolved so that it will not present addditional interruption.
 
-- If working from home will not be productive, effective, or will adversly affect
+- If working from home will not be productive or will adveresly affect
   your recovery, don't.
 
-- Sick or personall time may be made up at managment discression, only, and only to
-  ensure timely delivery for clients when originally promised
-
-- Sick or personal time should only be mde up if specifically required to meet
+- Sick or personal time may be made up only if specifically required to meet
   commitments to clients, and no other resourcing solution will accomplish
   delivery, and only with the permission of management.
+
+## Vacation time
+
+Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
+Please work with management to schedule them ensuring that resourcing accounts
+for all client commitments.
+
+Additional vacation or extension may be available provided advance written
+permission of management.
+
+Management strongly recommends at least one vacation of at least one contiguous
+week away from the office and work tasks.
+
+Absences not related to a health issue shall be qualified as personal time and
+should be taken as-needed to recuperate from work-related stress and should not
+be made up given prior notice.
 
 ## Work From Home
 
