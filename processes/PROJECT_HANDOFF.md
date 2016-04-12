@@ -15,6 +15,7 @@ Sales, Account Management, Operations, and Management team members who delegate 
 Whoever is currently responsible for the project will introduce the new responsible team member to the client before becoming unavailable.  If the client already knows the new responsible team member, the client should receive notice that for [Busines reason, explicit | Reasons of Personal Emergency | Stanard reasons (Vacation | Sick | etc), explicit ] the current lead will be unavailable, and shall inform the client of the new point-of-contact (POC), CC to the POC's email. With permission, please provide the new POC's phone number for emergencies during the transition.  We may consider using a virtual assistant service for this, at some point.
 
 - Template email requested [Issue 20](https://github.com/RadialDevGroup/Policy/issues/20)
+- How to comminucate with the customer [Issue 39](https://github.com/RadialDevGroup/Policy/issues/39)
 
 ## Work in progress
 All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout, prior to departure.  This meeting should be echoed in an email with CC to management
