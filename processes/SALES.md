@@ -22,6 +22,3 @@ Please thoroughly read that and the additional sales playbook materials.
 # Guides
   - If present, please review guides concering professional communication and delivery process
   - Please any learnings while on the sales team as guides for future salespeople.
-
-
-
