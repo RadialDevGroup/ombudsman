@@ -85,12 +85,12 @@ client request for overtime, in writing, and in context.
 ## Sick Time
 
 Sick and personal time leave is available without bound.  Please take time, with
-notice (see **communication standards**) as needed to ensure best-available return
+notice (see **communication standards**), as needed, to ensure best-available return
 to full productivity.  Please do not expose the rest of the staff to anything which
 would hamper their performance or delivery.  Sick time may be taken at the employee's
 discretion, subject to the understanding that the purpose of leave is to ensure healthy
-return to work. Office attendance during an contagious illness is discouraged; an
-employee may choose to work from home or take a sick day -- half-days for reasons of
+return to work. Office attendance during a contagious illness is discouraged; an
+employee may choose to work from home or take a sick day. Half-days for reasons of
 illness are also discouraged.
 
 Other specific requests:
@@ -117,7 +117,7 @@ Management strongly recommends at least one vacation of at least one contiguous
 week away from the office and work tasks.
 
 Absences not related to a health issue shall be qualified as personal time and
-should be taken as-needed to recuperate from work-related stress and should not
+should be taken as needed to recuperate from work-related stress and should not
 be made up given prior notice.
 
 ## Work From Home
