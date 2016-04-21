@@ -19,6 +19,9 @@ All employees will need to make a calendar and share it with their
 supervisor(s).  Use your published calendar to commit to your work days and
 times.  Keep it up to date.  That is your schedule.
 
+If a regular 4-day work schedule is preferred, it may be possible to arrange that
+with management permission, provided that it does not impact the team or will delay
+meeting client commitments.
 
 ## Communication Standards
 
@@ -82,7 +85,11 @@ as required by law.  If it is important to client delivery that additional time
 be spent, please make sure we are aware of any overtime.  Please report any
 client request for overtime, in writing, and in context.
 
-## Sick Time
+## Sick Time and Personal Time
+
+Provided that long weekends are not a regular occurance, additional weekend time
+should be considered personal time. Please ensure that your delivery team is aware
+that you will be absent.
 
 Sick and personal time leave is available without bound.  Please take time, with
 notice (see **communication standards**), as needed, to ensure best-available return
