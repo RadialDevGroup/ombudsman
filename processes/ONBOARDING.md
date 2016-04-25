@@ -11,13 +11,13 @@
  - Verify and copy ID documents and complete I-9
  - Scan employment packet documents and file paper copies
  - Email W-4, I-9, and Direct Deposit to TLC
- - Email insurance application to My PIA Team
+ - Email insurance application to My PIA Team (matt@mypiateam.com)
 
 ## Accounts
 ### WiFi
 
 ### Google
-  - create account using format `{first_name}@radialdevgroup.com` or `{first_name}.{last_name}@radialdevgroup.com`
+  - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
   - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
 
 ### Sprint.ly
