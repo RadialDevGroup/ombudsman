@@ -12,7 +12,7 @@ When possible, the responsible person will notify the client of the handoff no l
 Depending on how involved working on the project is, it may be appropriate to ease the new developer lead into their new responsibilities over time.  This can be as simple as asking the developer-lead-to-be to intermittently handle communications with the client as appropriate, leading to the new developer lead eventually encompassing all client communiques.  Ideally a given project will have accompanying manifests of what duties belong to a developer lead, so that the graduated handoff of these responsibilities can be scheduled ahead of time.  Note that these responsibilities should be enumerated concretely somewhere, per the 'Duties' section.
 
 ## Concerning throwing the project over the wall
-Sales, Account Management, Operations, and Management team members who delegate a project shall not assume that the  new lead is familiar with the state of the project.  A status-of-project email should be sent to the new Project Lead for any project whenever responsibility for the project or customer relationship changes.
+Sales, Account Management, Operations, and Management team members who delegate a project shall not assume that the new lead is familiar with the state of the project.  A status-of-project email should be sent to the new Project Lead for any project whenever responsibility for the project or customer relationship changes.
 
 - Recommendations requested for status criteria [Issue 19](https://github.com/RadialDevGroup/Policy/issues/19)
 
@@ -27,4 +27,4 @@ Whoever is currently responsible for the project will introduce the new responsi
 ## Work in progress
 All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout, prior to departure.  This meeting should be echoed in an email with CC to management
 
-If at all possible, plan for handoff time to occur at a non-critical juncture of the project development.  Ideally this means before starting a large or difficult feature set, but not before finishing another important, in-progress feature set.  This will minimize loss of context on any work in progress, as it may be the case that
+If at all possible, plan for handoff time to occur at a non-critical juncture of the project development.  Ideally this means before starting a large or difficult feature set, but not before finishing another important, in-progress feature set.  This will minimize loss of context on any work in progress, especially if the original dev lead will be moved to another project or unreachable.
