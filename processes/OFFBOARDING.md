@@ -55,7 +55,7 @@ Retrieve and test company equipment (e.g. system passwords). Allow the person
 leaving the time to pull any personal files off of company equipment (e.g. ssh
 keys) when possible.
 
-> please set the password 'purple' on the account or erase(factory reset).
+please set the password 'purple' on the account or erase(factory reset).
 
 ##Keys
 
