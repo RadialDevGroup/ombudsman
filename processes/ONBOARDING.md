@@ -63,13 +63,15 @@
   - Schedule picture for website
   - Welcome employee from Twitter account
 
-## Equipment, desk space, network
+## Equipment, desk space, network, keys
 
 Goal:
 
   - Check out company equipment to developer
   - Assign Personal space to developer
 
+    - Provide key(s) for entry into workspace
+  
 Practice:
   - Explain goal
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
