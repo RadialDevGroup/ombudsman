@@ -65,4 +65,14 @@ The following questions should be answered by a README.md file
 1. Does the readme on your project allow someone to deploy the project without assistance?
 
 ### Definition of Done / Pull Request Template (PULL_REQUEST_TEMPLATE.md)
-- Indeed
+- What requirements or standards exist for deliverables
+- What questions should a pull request answer
+
+  Examples:
+    - What is the goal of the PR?
+    - What problem does this solve?
+    - Why did we solve this, this way?
+    - What changes to documentation or specification are there? why?
+    - Are there external services that are affected by this change?
+    - Are there any relevant notifications which should be made?
+    - Can you provide proof of work (Screenshots, Output, sample responses)?
