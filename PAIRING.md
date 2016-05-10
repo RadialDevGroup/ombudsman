@@ -18,19 +18,19 @@ When available, developers will be assigned to projects in pairs.  Pairing teams
    > NOTE: sometimes the path forward may not be clear.  In this case it is worthwhile to begin the implementation with one approach and try a different approach if that doesn't work.  It is often helpful to build the work out in an isolated example and then add the tests to the original project and incoporate the funcitonality from the spike.  It is not a reasonable assumption that your first attempt will be effective or that it will be easily tested.  It is sometimes also useful to do this individually and discuss your different approaches before pairing.
    > Don't hesitate to take it offline to a white-board to draw out your ideas.
 
-* For each time period, each programmer will either be a driver or navigator (some models call the roles 'novice' and 'sage' if that's more evocative).  Each programmer should get an equivalent amount of time participating in either activity, regardless of familiarity with the software and hardware platform being used and its effect on progress.  The purpose of handing off responsibilities is to allow each developer to learn and provide insight to problems which is not possible if unable to take control at some point.
+* For each time period, each programmer will either be a driver or navigator (some models call the roles 'novice' and 'sage' if that's more evocative).  Each programmer should get an equivalent amount of time participating in either activity, regardless of familiarity with the software and hardware platform being used and its effect on progress.  The purpose of handing off responsibilities is to allow each developer to both learn and contribute in each role, providing changes in perspective and feeling of ownership that can refresh and draw upon both developers' insight.
 
-    *If the stronger developer is unsure or wishes to guide the development, they should do so by asking leading questions rather than arguing*
+    *When offering guidance in the role of navigator, or offering an opinion that differs from that of the navigator when driving, asking leading questions is generally preferable to arguing a point. Ideally, the process is collaborative rather than contentious or hierarchical.*
 
-* At times, a developer may lose focus, and it should be the responsibility of the other developer to recognize this and discuss the situation to find a solution.  Whether working with a pair or not: try using [Pomodoro technique][pom] to prevent focus from being lost as time progresses.
+* At times, a developer may lose focus, and it should be the responsibility of the other developer to recognize this and discuss the situation to find a solution.  Whether working with a pair or not, try using [Pomodoro technique][pom] to prevent focus from being lost as time progresses.
 
 ## Optimizations
 
-* When the driver has greater knowledge of the task at hand, forging ahead at full speed may actually be counterproductive.  Drivers should slow down and explain the reasons and techniques used to complete the task so that navigators can maintain an understanding of the project throughout.
+* When driving, keep in mind that forging ahead at full speed may actually be counterproductive. Slow down and explain both reasoning and techniques employed to complete the task so the navigator can maintain an understanding of the project and have an opportunity to suggest alternatives when appropriate.
 
-* When the navigator has greater knowledge of the task at hand, simply dictating to the driver as if operating a voice-to-text editor may be detrimental to the value of pair programming.  Navigators should describe the intended implementation rather than specify exact edits, and when it is necessary to specify exact edits the navigator should explain why.
+* When navigating, avoid simply dictating to the driver as if operating a voice-to-text editor, as this may be detrimental to the value of the pair programming process. Describe the intended implementation rather than specifying exact edits to allow the driver to maintain understanding of the process and the purpose of the changes, and to give the driver an opportunity to incorporate improvements on the navigator's initial intention based on insights gleaned while typing. If it becomes necessary to specify exact edits, explain why as well has how and what.
 
-* When either pairing partner has questions about the current approach, that partner should raise those questions both to ensure the pair stays on the same page and to prompt more productive thinking about the software development process.
+* In either role, raise any questions about the current approach to ensure both members of the pair stay on the same page, and to prompt more productive consideration of the approach taken in the software development process.
 
 
 [pom]: http://agileworld.blogspot.com/2009/10/applying-pomodoro-technique-during-pair.html
@@ -39,7 +39,7 @@ When available, developers will be assigned to projects in pairs.  Pairing teams
 
 ### Expediency / Efficiency
 
-**When working independently, focus can be impacted by a number of environmental or personal conditions.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficiency of delivery.**
+**A number of environmental or personal conditions affect developer focus when working independently.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficiency of delivery.**
 
 James has been working on a poorly organized project with a difficult-to-understand code base and data model.
 
@@ -47,17 +47,18 @@ James has been working on a poorly organized project with a difficult-to-underst
 
 Mark has been working on a poorly-written legacy code base that seems to obscure the purpose of each method rather than breaking methods into comprehensible blocks.
 
-> Mark's pair can help him from descending into a refactoring rabbit hole by refocusing the work on the goal, rather than on a refactoring towards impossible perfection.
+> Mark's pair can keep him from descending into a rabbit hole, refactoring endlessly, by refocusing the work on the goal, rather than on a refactoring towards impossible perfection.
 
-**At times, a developer may be working independently on a project which has fewer allocated resources.  In these cases, difficulties can stagnate development as can numerous questions derail development on other client work.**
+**At times, a developer may work independently on a project which has fewer allocated resources.  In these cases, difficulties can stagnate development, as numerous questions can derail development.**
 
 Peter is the only resourced developer on a project and the project is an internal initiative.
-> Peter may not be able to pair on his project full time, but when possible, he should pair with an internal stakeholder, if applicable, or a senior member of the engineering staff in order to keep himself on task.  Since Peter is flying solo, he should ensure that he communicates effectively and regularly to his stakeholders; this regular communication can allow him to stay on task by ensuring that he is frequently reminded that he is responsible to deliver functioning work at regular intervals.
+
+> Peter may not be able to pair on his project full time, but when possible, he should pair with an internal stakeholder (if applicable), or a senior member of the engineering staff. This will help him to stay focused on the task.  Since Peter is flying solo, he should ensure that he communicates effectively to stakeholders. Effective, regular communication will ensure that he is frequently reminded to deliver functioning work at regular intervals.
 
 
 ### Culture / Accountability
 
-**Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.**
+**Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  While continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that appropriate tested and that devlopers employ practices that will produce quality result.**
 
 Kim doesn't really like to write tests because other developers on the project rarely run the tests and frequently commit broken tests to master.
 
