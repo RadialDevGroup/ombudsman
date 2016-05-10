@@ -4,16 +4,19 @@
 
 ## Intents and Values
 
-As a company, meeting our commitment to producing quality software in a timely fashion for our clients depends on well-tested agile development techniques.
+As a company, meeting our commitment to produce quality software in a timely fashion for our clients depends on well-tested agile development techniques.
 
 
 ## Resource assignments
 
-When available, developers will be assigned to projects in pairs.  Pairing teams may be periodically changed in order to incorporate different strengths and points of view to each team.  As the team is not always balanced, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
+When available, developers will be assigned to projects in pairs.  Pairing teams may periodically change in order to incorporate different strengths and points of view.  As the team is not always balanced, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
 
 ## General Process
 
 * Start the process by reviewing the feature that needs to be completed.  The pair should attempt to agree on a strategy and data structure at the outset, if relevant.  Attempt to identify any potential blockers or [break down the feature](guides/story_writing.md) if it appears to be too complex.
+
+   > NOTE: sometimes the path forward may not be clear.  In this case it is worthwhile to begin the implementation with one approach and try a different approach if that doesn't work.  It is often helpful to build the work out in an isolated example and then add the tests to the original project and incoporate the funcitonality from the spike.  It is not a reasonable assumption that your first attempt will be effective or that it will be easily tested.  It is sometimes also useful to do this individually and discuss your different approaches before pairing.
+   > Don't hesitate to take it offline to a white-board to draw out your ideas.
 
 * For each time period, each programmer will either be a driver or navigator (some models call the roles 'novice' and 'sage' if that's more evocative).  Each programmer should get an equivalent amount of time participating in either activity, regardless of familiarity with the software and hardware platform being used and its effect on progress.  The purpose of handing off responsibilities is to allow each developer to learn and provide insight to problems which is not possible if unable to take control at some point.
 
@@ -38,11 +41,11 @@ When available, developers will be assigned to projects in pairs.  Pairing teams
 
 **When working independently, focus can be impacted by a number of environmental or personal conditions.  At Radial, we recognize that people have 'off' days and sometimes struggle to focus. Furthermore, as a company, we tend to take on hard problems, and at times, hard projects or hard customers.  We realize that this can also affect performance as fatigue associated with the difficulty of planning and addressing high-level considerations will sometimes adversely affect delivery performance.  For this reason, we generally plan to ensure that sufficient resources are allocated to less structured projects in order to ensure the best available efficiency of delivery.**
 
-James has been working on a poorly organized project with a difficult-to-understand code-base and data model.
+James has been working on a poorly organized project with a difficult-to-understand code base and data model.
 
 > James can work with another developer to help him to stay focused and navigate much needless indirection.  While James navigates the code, his pair can ask leading questions to help cue his next step.  When James gets tired of navigating, his pair can take over, and James can cue the other developer as they work towards a solution
 
-Mark has been working on a poorly-written legacy code-base that seems obscure the purpose of each method rather than breaking methods into comprehensible blocks.
+Mark has been working on a poorly-written legacy code base that seems to obscure the purpose of each method rather than breaking methods into comprehensible blocks.
 
 > Mark's pair can help him from descending into a refactoring rabbit hole by refocusing the work on the goal, rather than on a refactoring towards impossible perfection.
 
@@ -56,7 +59,7 @@ Peter is the only resourced developer on a project and the project is an interna
 
 **Long stretches of independent work, work in the context of a negative developer culture, or overall deficiencies in developer ergonomics can lead to poor work ethic, apathy, and inattention to quality.  Whereas continuous integration provides a degree of accountability with respect to testing, only a culture of accountability can ensure that code is being appropriately tested and that practices that produce quality results are being followed.**
 
-Kim doesn't really like to write test because other developers on the project rarely run the tests and frequently commit broken tests to master.
+Kim doesn't really like to write tests because other developers on the project rarely run the tests and frequently commit broken tests to master.
 
 > Kim can help to develop a culture of testing by pairing with other members of the team.  As each team member shares Kim's experience -- having to fix broken tests in master, adding tests, and reporting regressions -- they begin to understand the frustration and loneliness of being the only member of the team to write tests.  Care must be taken.  It is not uncommon for this process to initially reduce overall morale within the team, because the burden of sole responsibility produces powerful emotions.  It is critical for Kim to be successful, by committing to run the tests, and to continue writing them.  This commitment can be the basis of hope for other members of the team, and each one that hears this commitment will have hope and be more diligent -- no-one wants to make Kim's day any harder, and knowing she is on their side will help them to keep up the habit, themself.
 
