@@ -21,11 +21,8 @@ The following questions should be answered by a PROCESS.MD file on a project:
   - Are there required approval steps for completing work?
 1. Are there different teams or classes of work that follow a different process?
 1. Does deployment have a process?
-2. 
 
 ### Example PROCESS.MD
-
-## Feature Development
 
 1. Pick a story from Sprintly and start it.
 
