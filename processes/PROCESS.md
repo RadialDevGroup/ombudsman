@@ -21,6 +21,71 @@ The following questions should be answered by a PROCESS.MD file on a project:
   - Are there required approval steps for completing work?
 1. Are there different teams or classes of work that follow a different process?
 1. Does deployment have a process?
+2. 
+
+### Example PROCESS.MD
+
+## Feature Development
+
+1. Pick a story from Sprintly and start it.
+
+    Example:
+
+    > `#32` - As an Owner I want to sign up for turbotenant so I can list my
+    > properties.
+
+2. Create a local branch in your development environment to work on the story.
+
+    Example:
+        $ git fetch
+        $ git branch 32-owner-signup origin/development
+        $ git checkout 32-owner-signup
+
+3. Create a feature spec for your feature.
+
+    Example:
+
+        $ subl /spec/features/owner_signup_spec.rb
+
+4. Implement your feature and satisfy relevant test(s).
+5. Repeat 3 and 4 as needed.
+
+    WIP-commit as needed, too -- preferably after a 4 iteration.
+
+6. Run the entire test suite.
+
+    Make sure your changes don't break anything else.  Fix anything broken.
+
+5. Commit branch to GitHub.
+
+    Example:
+
+        $ git add .     # make sure you only add what should be added
+                        # add things to .gitignore if needed
+        $ git diff      # sanity check changes
+        $ git commit -am '32-owner-signup: implement owner signup'
+        $ git push
+
+6. Create a pull request using the template.
+
+    Use `development` as the root branch`
+
+    See [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md)
+
+    Merge development into branch and resolve conflicts as needed before PR review if
+    it is not automatically mergeable without conflicts.
+
+7. Ask someone to review your code, preferably using Slack. It is also useful to ask verbally.
+
+8. Make any necessary changes.
+
+    Address PR review comments. Any ignored comments should be discussed.
+
+9. Repeat 7 and 8 as needed.
+
+10. Request code merge.
+
+    Ask the Developer Lead/Acting Developer Lead to sign off on the changes (thumbs up, etc) before merging your branch.
 
 #### For Non-Radial Devs:
 - Is there a model for creating a process on a new project?
