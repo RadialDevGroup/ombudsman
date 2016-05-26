@@ -4,6 +4,7 @@
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
  - Email new hire contract and W-4, I-9, and insurance application
  - Obtain a DSLR
+ - Print business cards
 
 ## Employment Contract and Offer
 
