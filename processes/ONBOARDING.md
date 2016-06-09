@@ -15,7 +15,8 @@
 
 ## Accounts
 ### WiFi
-
+ perfect purple password
+ 
 ### Google
   - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
   - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
