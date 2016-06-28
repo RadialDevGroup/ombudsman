@@ -31,4 +31,4 @@ This person will act as the account manager for the project and will review and 
 
 ## More resources
 
- - [http://blog.originate.com/blog/2014/09/29/](Effective Code Review by David Beveridge)
+ - [http://blog.originate.com/blog/2014/09/29/effective-code-reviews/](Effective Code Review by David Beveridge)
