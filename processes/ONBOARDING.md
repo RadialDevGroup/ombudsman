@@ -57,4 +57,4 @@
     - Explain space limitations and work out solutions and acceptable compromises.
     
 ## Goals
-  use [Goal Setting Excercise](https://docs.google.com/document/d/1nTLlzw2MF-bUMg7yfW02HHm4LeQyLNWVf5z1SmHryUo/edit#heading=h.y9ypw79882n4) to create an email to the new hire.  CC "David Beveridge" <davidjbeveridge@gmail.com> and indicate that the response should be sent to David.
+  Use [Goal Setting Excercise](https://docs.google.com/document/d/1nTLlzw2MF-bUMg7yfW02HHm4LeQyLNWVf5z1SmHryUo/edit#heading=h.y9ypw79882n4) to create an email to the new hire.  CC "David Beveridge" <davidjbeveridge@gmail.com> and indicate that the response should be sent to David.
