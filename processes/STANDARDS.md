@@ -19,6 +19,9 @@ This will help us promote a consistent coding style within the team.
 ### Exceptions
 It's important to stress the term, *guide*. In the Wiki, a couple exceptions to the recommendations are already noted, and if you have issue with the existing style guides, please feel free to update the Wiki with your recommendations for review by the team. These guides are intended to be a living document and a general framework that we can all reference in our coding.
 
+### Projects
+
+Please list style guide exceptions in the PROCESS.md on individual projects. 
 
 
 
