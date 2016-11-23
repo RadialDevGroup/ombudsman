@@ -10,3 +10,7 @@ end of the day.
 We all understand forgetting to wash something right away, but if you use a cup 
 or something else that needs to be cleaned, please wash it (there is a sink in 
 the Armory) by the end of the day on Fridays.
+
+Empty the fridge of all your belongings on Friday before you leave.
+
+At the end of each day, please tidy up your space. No one likes to see plastic cups or food left around.
