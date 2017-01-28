@@ -7,7 +7,7 @@
 1. Create a local branch in your development environment to work on the story.
 
   > Example: 1-holiday-clarification
-  
+
 1. Conduct an informal survey of team members and present your finding to management (or a peer manager).
 
 1. Write and Document change.
@@ -20,14 +20,16 @@
 
 1. Create a pull request and describe your findings and the background for the proposed change.
 
+  Note: Please put **WIP/DO NOT MERGE** in the title of the PR, if it is not to be merged.
+
 1. Contact someone to review your spelling, grammar and usage.
 
   >  Hey Chad,
-  >  
+  >
   >  Could you look over this policy PR and check it for proper english.
-  >  
-  >  Thanks, 
-  >  
+  >
+  >  Thanks,
+  >
   >  -- Admiral Ackbar
 
 1. Make any necessary changes.
