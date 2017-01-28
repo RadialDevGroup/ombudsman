@@ -4,7 +4,7 @@
 We understand that everybody has their own styles when it comes to coding - but every now and then, we run into issues. Whether it's a question about consistency or simply questions about best practices, style guides give us a point of reference. As a group we've decided to adopt style guides for the various languages we use at RDG. They are found [here](https://github.com/RadialDevGroup/Policy/wiki/Style-Guide(s)).
 
 ### Usage
-When doing PR reviews and you have a question or comment regarding a style, please reference and provide a link to the appropriate style guide. For each recommendation in the style guide, there is a link to the particular recommendation. 
+When doing PR reviews and you have a question or comment regarding a style, please reference and provide a link to the appropriate style guide. For each recommendation in the style guide, there is a link to the particular recommendation.
 
 For example:
 
@@ -21,7 +21,9 @@ It's important to stress the term, *guide*. In the Wiki, a couple exceptions to 
 
 ### Projects
 
-Please list style guide exceptions in the PROCESS.md on individual projects. 
+Please list style guide exceptions in the PROCESS.md on individual projects.
+
+*Note: Style Guides referenced in specific projects take precedence over the default standard.*
 
 
 
