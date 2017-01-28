@@ -5,6 +5,7 @@ This is the authoritative company policy document.  Putting it in version contro
 ## Current Policies
 - [Attendance](ATTENDANCE.md)
 - [Peer Review](PEER_REVIEW.md)
+- [Escalation](ESCALTION.md)
 - [Time Reporting](TIME_REPORTING.md)
 
 ## Improving Policy
