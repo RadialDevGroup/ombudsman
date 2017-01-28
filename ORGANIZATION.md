@@ -26,7 +26,7 @@
 # Full List
 ## Lindsay Hohn
 - [859 240 3279](tel:8592403279)
-- [lindsay@radialdevgroup.com}(mailto:lindsay@radialdevgroup.com)
+- [lindsay@radialdevgroup.com](mailto:lindsay@radialdevgroup.com)
 
 ## Ben West
   - [970 460 6664](tel:9704606664)
@@ -37,4 +37,4 @@
   - [marshall@radialdevgroup.com](mailto:marshall@radialdevgroup.com)
 
 ## Brian Bensky
-  - [brianbensky@gmail.com ](mailto:brianbensky@gmail.com)
+  - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
