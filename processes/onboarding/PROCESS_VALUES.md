@@ -7,11 +7,10 @@
 - Retrospectives will be done as needed; have someone moderate who does not have a stake in the retrospective
 - Subject your work and decision processes to review by peers
 
-### Wholeness
-
+### Empathy
 - Take your own needs and the personal needs of others into account when making decisions
-- Rest adequately
-- Be honest with yourself
+- Listen to connect when working with clients
+- Consider what other needs a client may have when clarifying specifications
 
 ### Care
 
