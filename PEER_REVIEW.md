@@ -1,9 +1,8 @@
 # Peer Review
 ## Intents and Values
-When we make a commitment to a customer, keeping that commitment, as it concerns quality, process, or philosophy, depeneds on a consistent process and quality.
+The purpose of peer review is to produce consistant quality product by requiring accountability, communication, and training.
 
-## Peer Review
-In order to ensure that we can deliver on that commitment, all deliverables must be reviewed by a member of the team and, if possible, the sales lead/dev lead on the project.
+In order to ensure that we can deliver on our commitments, all deliverables must be reviewed by members of the team and, if possible, the sales lead/dev lead on the project.  As peer review is often blocking it is a high priority and must be done as soon as possible.  The more eyes on a product the more likely problems will be caught early.  Review also provides an opportunity to teach or to learn and a way for all team members to be aware of changes as they happen.  
 
 ### General Process
 The process for all projects should use this project as a template of good process.
@@ -12,7 +11,8 @@ Good process should meet the following criteria:
 
 - An established way of identifying and documenting specifications and defects.  (This project uses GitHub issues; some projects use Pivotal, Sprint.ly, Asana, or Trello.)
 - An established way to seperate proposed changes from accepted changes.  (Most projects can use branches in git.)
-- An established flow of review.  (This and other projects use Email/GitHub PR Comments.)
+- An established flow of review.  (This and other projects use email/GitHub PR Comments.)
+- A way of notifing potential reviewers (such as @ mentions or email).
 - A Post-acceptance response activity: most processes specify that the originator ask a reviewer to complete integrating the change.
 
 ### Process Improvement
@@ -27,8 +27,8 @@ If accepted process is not followed, or is not adequate, every member of the tea
 ## Project Management
 Every project must have either a Technical Sales Lead or a Dedicated Project Developer Lead.
 
-This person will act as the account manager for the project and will review or specifically delegate review of project deverables.  In the event that a designated lead is not available, for whatever reason:
+This person will act as the account manager for the project and will review and approve project deliverables.  In the event that a designated lead is not immediately available the senior-most developer should approve the merge.
 
-1. This situation should be documented as an issue in the policy issues on GitHub.
-2. Every other developer on the project has the first resposibility to process as documented here.
-3. If a developer is solo on a project, any developer asked should review that code ASAP.  The Senior-most developer should do the review if no specific developer has been asked.
+## More resources
+
+ - [http://blog.originate.com/blog/2014/09/29/effective-code-reviews/](Effective Code Review by David Beveridge)
