@@ -40,7 +40,7 @@ contact:
 #### Tell them soon.
 
 Please send your notification, by email, as soon as possible, to let your team know if you
-will be late or absent. Please also notify Ben or Marshall.  You have a responsibility to
+will be late or absent. Please also notify Lindsay.  You have a responsibility to
 make sure we are aware if you will be unable to work, as soon as you know and are able.
 
 Unreported tardies and absences must be made up.
