@@ -74,7 +74,7 @@ report changes to your calendar there.
 * By Thursday morning, if you estimate that you will not be able achieve 32 billable hours
   and/or complete your assigned Sprint goals by Friday afternoon, you must present the
   problem and solution to your developer lead and Lindsay. If you fail to communicate
-  the problem and solution by Thursday morning, this will a strike against you. If you
+  the problem and solution by Thursday morning, this will be a strike against you. If you
   receive three strikes, this can result in grounds for dismissal. Personal emergencies
   and unforeseen circumstances will not be considered as a strike.
 
