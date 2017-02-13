@@ -68,11 +68,22 @@ report changes to your calendar there.
   discretion. Core hours including 9:30 am standup time, must, however, be
   observed.
 
-* Please plan to work 40 Hours, and no less than 32 doing client-billable,
+* Please plan to work 40 Hours, and at a minimum of 32 doing client-billable,
   community, or business development, as available.
 
-* The remaining 8 hours may be distributed as each person sees fit and used for
-  personal projects, professional development, twitter, Hardforum, etc. (e.g. 20% time)
+* By Thursday morning, if you estimate that you will not be able achieve 32 billable hours
+  and/or complete your assigned Sprint goals by Friday afternoon, you must present the
+  problem and solution to your developer lead and Lindsay. If you fail to communicate
+  the problem and solution by Thursday morning, this will a strike against you. If you
+  receive three strikes, this can result in grounds for dismissal. Personal emergencies
+  and unforeseen circumstances will not be considered as a strike.
+
+* If you have reached your 32 billable hours and completed all assigned Sprint goals,
+  you are responsible for connecting with all developer leads to see if you can assist the
+  project.
+
+* Any remaining time may be distributed as each person sees fit and used for
+  personal projects, professional development, twitter, Hardforum, etc. (e.g. 20% time).
 
 * Please account for your 20% time, any networking events or meetups where you
   mention the company, etc, along with other reported times.
