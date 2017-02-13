@@ -79,8 +79,8 @@ report changes to your calendar there.
   and unforeseen circumstances will not be considered as a strike.
 
 * If you have reached your 32 billable hours and completed all assigned Sprint goals,
-  you are responsible for connecting with all developer leads to see if you can assist the
-  project.
+  you are responsible for connecting with each developer lead on staff and determine
+  if you can assist with their project.
 
 * Any remaining time may be distributed as each person sees fit and used for
   personal projects, professional development, twitter, Hardforum, etc. (e.g. 20% time).
