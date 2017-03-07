@@ -68,17 +68,16 @@ report changes to your calendar there.
   discretion. Core hours including 9:30 am standup time, must, however, be
   observed.
 
-* Please plan to work 40 Hours, and at a minimum of 32 doing client-billable,
-  community, or business development, as available.
+* Please plan to work 40 Hours, and at a minimum of 32 doing client-billable hours.
 
-* By Thursday morning, if you estimate that you will not be able achieve 32 billable hours
+* By Thursday morning, if you estimate that you will not be able achieve 32 client-billable hours
   and/or complete your assigned Sprint goals by Friday afternoon, you must present the
   problem and solution to your developer lead and Lindsay. If you fail to communicate
   the problem and solution by Thursday morning, this will be a strike against you. If you
   receive three strikes, this can result in grounds for dismissal. Personal emergencies
   and unforeseen circumstances will not be considered as a strike.
 
-* If you have reached your 32 billable hours and completed all assigned Sprint goals,
+* If you have reached your 32 client-billable hours and completed all assigned Sprint goals,
   you are responsible for connecting with each developer lead on staff and determine
   if you can assist with their project.
 
@@ -98,7 +97,7 @@ client request for overtime, in writing, and in context.
 
 ## Sick Time and Personal Time
 
-Provided that long weekends are not a regular occurance, additional weekend time
+Provided that long weekends are not a regular occurrence, additional weekend time
 should be considered personal time. Please ensure that your delivery team is aware
 that you will be absent.
 
@@ -113,9 +112,9 @@ illness are also discouraged.
 
 Other specific requests:
 - If you have personal drama that you need to resolve, take time and resolve it, but
-  ensure that it is resolved so that it will not present addditional interruption.
+  ensure that it is resolved so that it will not present additional interruption.
 
-- If working from home will not be productive or will adveresly affect
+- If working from home will not be productive or will adversely affect
   your recovery, don't.
 
 - Sick or personal time may be made up only if specifically required to meet

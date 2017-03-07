@@ -45,7 +45,7 @@ When members of the team encounter problems that they are unable to independentl
 - you feel as though the client has put you under some pressure contradictory to company values
 
 ### How to escalate to sales
-- Send an email to [sales](ORGANIZATION.md#sales) [sales@radialdevgroup.com](mailto:sales@radialdevgroup.com).
+- Send an email to Lindsay [lindsay@radialdevgroup.com](mailto:lindsay@radialdevgroup.com).
 - Identify the kind of opportunity.
 - If possible, provide an introduction or forward the email context.
 - If there is a problem with following process, include all of management.
