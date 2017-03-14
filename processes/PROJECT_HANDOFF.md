@@ -22,11 +22,11 @@ If working on the project involves being integrated with external services (e.g.
 Whoever is currently responsible for the project will introduce the new responsible team member to the client before becoming unavailable.  If the client already knows the new responsible team member, the client should receive notice that for [Business reason, explicit | Reasons of Personal Emergency | Standard reasons (Vacation | Sick | etc), explicit ] the current lead will be unavailable, and shall inform the client of the new point-of-contact (POC), CC to the POC's email. With permission, please provide the new POC's phone number for emergencies during the transition.  We may consider using a virtual assistant service for this, at some point.
 
 - Template email for resourcing change
-  ```Hi CLIENT NAME,
+  ```Hi `[CLIENT NAME]`,
 
-  I am currently being resourced to a different project, so NAME will be assuming my developer lead responsibilities.
-  NAME has been on-boarded and extensively introduced to your project. NAME will be continuing work on the current
-  sprint which includes DESCRIBE THE STORIES THAT YOU ARE FOCUSING ON FOR THE SPRINT.
+  I am currently being resourced to a different project, so `[NAME]` will be assuming my developer lead responsibilities.
+  NAME has been on-boarded and extensively introduced to your project. `[NAME]` will be continuing work on the current
+  sprint which includes `[DESCRIBE THE STORIES THAT YOU ARE FOCUSING ON FOR THE SPRINT]`.
 
   If you have any questions or concerns, please reach out.
 
