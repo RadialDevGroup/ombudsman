@@ -31,15 +31,6 @@ Whoever is currently responsible for the project will introduce the new responsi
   If you have any questions or concerns, please reach out.
 
   Thanks,
-  Hi CLIENT NAME,
-
-  I am currently being resourced to a different project, so NAME will be assuming my developer lead responsibilities.
-  NAME has been on-boarded and extensively introduced to your project. NAME will be continuing work on the current
-  sprint which includes DESCRIBE THE STORIES THAT YOU ARE FOCUSING ON FOR THE SPRINT.
-
-  If you have any questions or concerns, please reach out.
-
-  Thanks,
   ```
 
 ## Work in progress
