@@ -8,16 +8,22 @@ the best investment we can make into our employees, before professional
 development and other perks.  We believe that being employed and resourced
 based on personal commitments is superior to using shame or a complex
 disciplinary policy to enforce a set of rules.  As such, we ask all employees
-to proactively communicate their commitment to a shedule and to any change to
+to proactively communicate their commitment to a schedule and to any change to
 that schedule, as soon as possible.  A failure to effectively communicate
 schedule changes or to meet commitments may be grounds for dismissal if not
 corrected.
 
 ## Schedule
 
-All employees will need to make a calendar and share it with their
-supervisor(s).  Use your published calendar to commit to your work days and
-times.  Keep it up to date.  That is your schedule.
+All employees will need to manage their Teambook account and keep it updated
+to reflect vacation days, work from home days, modified work hours, etc.
+
+Lindsay will collaborate with developer leads to determine staff resourcing and
+will update Teambook accordingly. You are responsible for checking Teambook at
+the start of each workday and work on the project you are assigned to. If a
+project that you are not resourced to in Teambook requires your attention for
+more than an estimated 2 hours, you are responsible for contacting your developer
+lead and Lindsay to determine if project resourcing needs to be modified.
 
 If a regular 4-day work schedule is preferred, it may be possible to arrange that
 with management permission, provided that it does not impact the team or will delay
