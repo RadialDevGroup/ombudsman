@@ -12,7 +12,7 @@
   required to contact your developer lead to discuss.
 4. If you are not a developer lead and would like to propose a change,
   you must present your argument to the developer lead with ample documentation
-  for your conclusion. Do not say this doesn't work without ways to fix the problem.
-4. If the developer lead does not agree with your proposal and you feel strongly
+  for your conclusion. Evaluate every alternative before making a decision.
+5. If the developer lead does not agree with your proposal and you feel strongly
   further engineering discussions should occur, bring this up in weekly retrospective
   or contact Lindsay and either Ben or Marshall to continue the discussion.
