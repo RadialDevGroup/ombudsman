@@ -38,3 +38,15 @@
 
 ## Brian Bensky
   - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
+
+
+# Management Delegations
+## Sales
+If a sales inquiry comes into the office while Lindsay is away, inform the
+contact that Lindsay is out of the office and the date when she will be returning.
+Then send Lindsay an email with the necessary contact information and a brief
+description of the sales lead.
+
+## Other issues
+If you are unable to contact the managements persons listed in their respective
+departments, contact the most senior person on staff.
