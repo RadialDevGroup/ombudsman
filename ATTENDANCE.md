@@ -151,3 +151,8 @@ and circumstances.
 
 We will provide facilities, such as we are able, to allow all members of teams
 to work in a common, public space.
+
+## Maternity and Paternity Leave
+
+Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
+information about the FMLA, please use this ![reference](https://www.dol.gov/WHD/fmla/index.htm)
