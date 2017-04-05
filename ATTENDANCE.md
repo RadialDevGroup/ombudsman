@@ -127,6 +127,9 @@ Other specific requests:
   commitments to clients, and no other resourcing solution will accomplish
   delivery, and only with the permission of management.
 
+- Your sick time should be recorded in Freckle under the project "Out-of-office"
+  and tagged with "#sick-time".
+
 ## Vacation time
 
 Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
@@ -142,6 +145,10 @@ week away from the office and work tasks.
 Absences not related to a health issue shall be qualified as personal time and
 should be taken as needed to recuperate from work-related stress and should not
 be made up given prior notice.
+
+Other specific requests:
+- Your vacation time should be recorded in Freckle under the project
+  "Out-of-office" and tagged with "#vacation-time".
 
 ## Work From Home
 
