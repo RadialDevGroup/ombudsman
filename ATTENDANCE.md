@@ -130,6 +130,9 @@ Other specific requests:
 - Your sick time should be recorded in Freckle under the project "Out-of-office"
   and tagged with "#sick-time".
 
+- Your personal time should be recorded in Freckle under the project "Out-of-office"
+  and tagged with "#personal-time".
+
 ## Vacation time
 
 Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
