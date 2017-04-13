@@ -65,7 +65,7 @@ that you arrive, than that you arrive on time.
 Please notify your team of any significant changes to your calendar if and when
 you make them.
 
-Note: We are now using teambook to track availability and resourcing.  Please
+Note: We are now using Teambook to track availability and resourcing.  Please
 report changes to your calendar there.
 
 ## Hours and Hour Requirements
@@ -101,20 +101,31 @@ as required by law.  If it is important to client delivery that additional time
 be spent, please make sure we are aware of any overtime.  Please report any
 client request for overtime, in writing, and in context.
 
+## Paid Time Off
+
+There are two categories of paid time off (PTO).
+
+Category One includes time taken for bereavement, family emergencies, disability
+and jury duty. Category One leave is available without bound.
+
+Category Two includes time taken for sick, personal or vacation. Employees will
+have a 6 week "bank" of Category Two PTO.
+
+
 ## Sick Time and Personal Time
 
 Provided that long weekends are not a regular occurrence, additional weekend time
 should be considered personal time. Please ensure that your delivery team is aware
 that you will be absent.
 
-Sick and personal time leave is available without bound.  Please take time, with
-notice (see **communication standards**), as needed, to ensure best-available return
-to full productivity.  Please do not expose the rest of the staff to anything which
-would hamper their performance or delivery.  Sick time may be taken at the employee's
-discretion, subject to the understanding that the purpose of leave is to ensure healthy
-return to work. Office attendance during a contagious illness is discouraged; an
-employee may choose to work from home or take a sick day. Half-days for reasons of
-illness are also discouraged.
+Sick and personal time leave is available within your available Category Two PTO.
+Please take time, with notice (see **communication standards**), as needed, to
+ensure best-available return to full productivity.  Please do not expose the rest
+of the staff to anything which would hamper their performance or delivery.  Sick
+time may be taken at the employee's discretion, subject to the understanding that
+the purpose of leave is to ensure healthy return to work. Office attendance
+during a contagious illness is discouraged; an employee may choose to work from
+home or take a sick day. Half-days for reasons of illness are also discouraged.
 
 Other specific requests:
 - If you have personal drama that you need to resolve, take time and resolve it, but
@@ -122,6 +133,9 @@ Other specific requests:
 
 - If working from home will not be productive or will adversely affect
   your recovery, don't.
+
+- Absences not related to a health issue shall be qualified as personal time and
+  should be taken as needed to recuperate from work-related stress.
 
 - Sick or personal time may be made up only if specifically required to meet
   commitments to clients, and no other resourcing solution will accomplish
@@ -135,19 +149,15 @@ Other specific requests:
 
 ## Vacation time
 
-Employees will be eligible for 3 vacations annually, for up to 2 weeks each.
-Please work with management to schedule them ensuring that resourcing accounts
-for all client commitments.
+Employees will be eligible for vacation time through their Category Two PTO,
+and may take a vacation for up to 2 weeks at a time. Please work with management
+to schedule them ensuring that resourcing accounts for all client commitments.
 
 Additional vacation or extension may be available provided advance written
 permission of management.
 
 Management strongly recommends at least one vacation of at least one contiguous
 week away from the office and work tasks.
-
-Absences not related to a health issue shall be qualified as personal time and
-should be taken as needed to recuperate from work-related stress and should not
-be made up given prior notice.
 
 Other specific requests:
 - Your vacation time should be recorded in Freckle under the project
@@ -165,4 +175,4 @@ to work in a common, public space.
 ## Maternity and Paternity Leave
 
 Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
-information about the FMLA, please use this ![reference](https://www.dol.gov/WHD/fmla/index.htm)
+information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm)
