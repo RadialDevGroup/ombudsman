@@ -65,8 +65,8 @@ that you arrive, than that you arrive on time.
 Please notify your team of any significant changes to your calendar if and when
 you make them.
 
-Note: We are now using Teambook to track availability and resourcing.  Please
-report changes to your calendar there.
+Note: We are now using [Teambook](https://radial-development-group.teambookapp.com/)
+to track availability and resourcing.  Please report changes to your calendar there.
 
 ## Hours and Hour Requirements
 
@@ -109,8 +109,29 @@ Category One includes time taken for bereavement, family emergencies, disability
 and jury duty. Category One leave is available without bound.
 
 Category Two includes time taken for sick, personal or vacation. Employees will
-have a 6 week "bank" of Category Two PTO.
+have a 240 hours (6 weeks) "bank" of Category Two PTO.
 
+The requirement of 32 client-billable hours and completion of your sprint goals
+are extremely important. When you take PTO, Lindsay and the developer lead on your
+currently resourced project are responsible for managing resourcing to ensure that
+project deliverables are met. The following are client-billable requirements when
+taking PTO:
+- 8 or less hours: 32 client-billable hours required
+- 9 hours to 5 days: Subtract 8 hours for each day taken from the required 32
+  client-billable hours
+
+Policy states that 20% time is only available after you have met your 32
+client-billable hours and sprint goals. Therefore, when taking PTO, please be
+aware that your available 20% will be negatively affected by PTO time.
+
+The 240 hours (6 weeks) of Category Two PTO will reset at the beginning of each year.
+
+For new hires, the following is the available Category Two PTO for the first
+year of employment:
+- Q1: 240 hours
+- Q2: 180 hours
+- Q3: 120 hours
+- Q4: 60 hours
 
 ## Sick Time and Personal Time
 
