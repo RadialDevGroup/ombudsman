@@ -116,13 +116,18 @@ are extremely important. When you take PTO, Lindsay and the developer lead on yo
 currently resourced project are responsible for managing resourcing to ensure that
 project deliverables are met. The following are client-billable requirements when
 taking PTO:
+
 - 8 or less hours: 32 client-billable hours required
-- 9 hours to 5 days: Subtract 8 hours for each day taken from the required 32
-  client-billable hours
+- 9 hours to 32 hours: Difference between 32 client-billable hours from the
+  the total hours taken minus 8
+  - Example: If you have taken 12 hours (1 1/2 days), you are required to bill 28 hours.
+    `32 - (12-8) = 28`
 
 Policy states that 20% time is only available after you have met your 32
 client-billable hours and sprint goals. Therefore, when taking PTO, please be
-aware that your available 20% will be negatively affected by PTO time.
+aware that your available 20% may be negatively affected by PTO time.
+- Example: If you have taken 16 hours (2 days) PTO in a work week, then you are
+  required to work 24 hours (3 days) and are not eligible for 20% time that week.
 
 The 240 hours (6 weeks) of Category Two PTO will reset at the beginning of each year.
 
