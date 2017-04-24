@@ -216,6 +216,7 @@ described above.
 - Memorial Day
 - Independence Day
 - Labor Day
+- Veterans Day
 - Thanksgiving Day & the Friday after Thanksgiving
 - Winter Holidays & New Years - dates will be the same as the Thompson School
   District's calendar
