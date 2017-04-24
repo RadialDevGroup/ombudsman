@@ -26,6 +26,7 @@ Project kickoffs should be scheduled as soon as possible after an account is clo
 1. Access
 
   - Get and configure relevant access
+    - For Mobile, developer lead must be granted access to both Android and iOS. See [this process](https://github.com/RadialDevGroup/Policy/blob/master/processes/MOBILE.md)
   - Generate and exchange relevant key files
   - Review existing assets, tools and code
 
