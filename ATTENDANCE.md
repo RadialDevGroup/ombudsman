@@ -218,5 +218,5 @@ described above.
 - Labor Day
 - Veterans Day
 - Thanksgiving Day & the Friday after Thanksgiving
-- Winter Holidays & New Years - dates will be the same as the Thompson School
-  District's calendar
+- Winter Holidays & New Years - dates will follow the district closed dates on
+  the Thompson School District's calendar
