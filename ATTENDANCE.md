@@ -207,3 +207,15 @@ to work in a common, public space.
 
 Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
 information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm)
+
+## Holiday Time
+
+Radial will be closed on the following days and employees are not expected
+to work. Required client billable hours will be determined based on the PTO policy
+described above.
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving Day & the Friday after Thanksgiving
+- Winter Holidays & New Years - dates will be the same as the Thompson School
+  District's calendar
