@@ -123,6 +123,11 @@ taking PTO:
   - Example: If you have taken 12 hours (1 1/2 days), you are required to bill 28 hours.
     `32 - (12-8) = 28`
 
+**Retrospective Consideration**
+To account for the weekly company-wide retrospective meeting, the retrospective
+meeting time will be subtracted from the required billable hours, as meeting
+time may vary.
+
 Policy states that 20% time is only available after you have met your 32
 client-billable hours and sprint goals. Therefore, when taking PTO, please be
 aware that your available 20% may be negatively affected by PTO time.
