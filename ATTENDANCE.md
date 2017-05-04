@@ -87,11 +87,29 @@ to track availability and resourcing.  Please report changes to your calendar th
   you are responsible for connecting with each developer lead on staff and determine
   if you can assist with their project.
 
-* Any remaining time may be distributed as each person sees fit and used for
-  personal projects, professional development, twitter, Hardforum, etc. (e.g. 20% time).
+## 20% time
+
+* After your 32 client-billable hours are completed, any remaining time may be
+  distributed as each person sees fit and used for personal projects, professional
+  development, company trainings, etc. The activity selected must be purposeful in
+  advancing your professional career and Radial's success.
+
+* All-hands meetings, company trainings, and any other required company meetings
+  will be counted towards your 20% time.
+
+* On the last business day of each month, a report of how you spent the month's
+  20% time should be sent to Lindsay. The report should include brief descriptions
+  of each 20% time activity you participated in. For example, this report could
+  include a synopsis of the meetups you attended, learnings from a book you read
+  and a list of Stack Overflow questions you answered.
+
+  As part of Radial's marketing efforts, information from your report may be used
+  in our marketing materials. Sharing all the amazing things you are doing with
+  clients and the community is vital to Radial's success! But please do not send
+  a novel each month --  no more than 15 minutes should be spent drafting this report.
 
 * Please account for your 20% time, any networking events or meetups where you
-  mention the company, etc, along with other reported times.
+  mention the company, etc., along with other reported times in Freckle.
 
 ## Overtime and Comptime
 
