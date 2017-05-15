@@ -14,6 +14,5 @@ Unbillable time may be in one of several categories and is to be recorded the sa
 
  - **Administrative**: Anything relating to the management of the company (e.g. all hands meetings).
  - **BizDev**: Anything relating to sales or recruiting.
- - **20% time**: Time spent on personal projects or continuing education.
+ - **Hack Time**: Time spent on personal projects or continuing education.
  - **[specific company initiatives]**: from time to time unbillable job codes may be assigned to specific internal projects.
-

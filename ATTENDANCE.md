@@ -87,19 +87,42 @@ to track availability and resourcing.  Please report changes to your calendar th
   you are responsible for connecting with each developer lead on staff and determine
   if you can assist with their project.
 
-## 20% time
 
-* After your 32 client-billable hours are completed, any remaining time may be
-  distributed as each person sees fit and used for personal projects, professional
-  development, company trainings, etc. The activity selected must be purposeful in
-  advancing your professional career and Radial's success.
+## Internal Time
 
-* All-hands meetings, company trainings, and any other required company meetings
-  will be counted towards your 20% time.
+As a Radial team member, you may be asked to attend and participate in internal time.
+This is classified as unbillable meetings and projects like all-hands meetings,
+retrospectives, trainings, business development meetings, development spikes
+and internal projects.
+
+Depending on the meeting and/or project, the most common Freckle tags may be
+"Admin" or "#{internal-project-name}" (see Time_Reporting.md for details).
+Internal time will be counted towards your 40 hour work week.
+
+Examples of internal time meetings
+* Weekly Retrospectives - An all-hands retrospective meeting is held every
+  Friday at 9:30 AM. Attendance is required unless you have taken PTO. In-person
+  participation is preferred, and infrequent remote attendance is acceptable.
+
+* Trainings - Radial tries to help advance each employee's technical and
+  soft skills by providing training opportunities. Effort will be spent on scheduling
+  these meetings during business hours.
+
+* Business Development - Employees may be called upon to showcase their technical
+  chops in business development meetings. These meetings may be offsite or at the
+  Radial offices.
+
+
+## Hack Time
+
+* After completion of your 32 client-billable hours and internal time, any remaining
+  time may be distributed as each person sees fit and used for personal projects,
+  professional development, company trainings, etc. The activity selected must be
+  purposeful in advancing your professional career and Radial's success.
 
 * On the last business day of each month, a report of how you spent the month's
-  20% time should be sent to Lindsay. The report should include brief descriptions
-  of each 20% time activity you participated in. For example, this report could
+  Hack time should be sent to Lindsay. The report should include brief descriptions
+  of each hack time activity you participated in. For example, this report could
   include a synopsis of the meetups you attended, learnings from a book you read
   and a list of Stack Overflow questions you answered.
 
@@ -108,7 +131,7 @@ to track availability and resourcing.  Please report changes to your calendar th
   clients and the community is vital to Radial's success! But please do not send
   a novel each month --  no more than 15 minutes should be spent drafting this report.
 
-* Please account for your 20% time, any networking events or meetups where you
+* Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
 
 ## Overtime and Comptime
@@ -146,11 +169,12 @@ To account for the weekly company-wide retrospective meeting, the retrospective
 meeting time will be subtracted from the required billable hours, as meeting
 time may vary.
 
-Policy states that 20% time is only available after you have met your 32
-client-billable hours and sprint goals. Therefore, when taking PTO, please be
-aware that your available 20% may be negatively affected by PTO time.
+Policy states that hack time is only available after you have met your 32
+client-billable hours, sprint goals and any needed internal time. Therefore, when
+taking PTO, please be aware that your available hack time may be negatively
+affected by PTO time.
 - Example: If you have taken 16 hours (2 days) PTO in a work week, then you are
-  required to work 24 hours (3 days) and are not eligible for 20% time that week.
+  required to work 24 hours (3 days) and are not eligible for hack time that week.
 
 The 240 hours (6 weeks) of Category Two PTO will reset at the beginning of each year.
 
