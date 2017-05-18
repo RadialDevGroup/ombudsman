@@ -96,7 +96,7 @@ retrospectives, trainings, business development meetings, development spikes
 and internal projects.
 
 Depending on the meeting and/or project, the most common Freckle tags may be
-"Admin" or "#{internal-project-name}" (see Time_Reporting.md for details).
+"Admin" or "#{internal-project-name}" (see [Time Reporting](TIME_REPORTING.md) for details).
 Internal time will be counted towards your 40 hour work week.
 
 Examples of internal time meetings
@@ -120,7 +120,7 @@ Examples of internal time meetings
   professional development, company trainings, etc. The activity selected must be
   purposeful in advancing your professional career and Radial's success.
 
-* On the last business day of each month, a report of how you spent the month's
+* On the first business day of each month, a report of how you spent last month's
   Hack time should be sent to Lindsay. The report should include brief descriptions
   of each hack time activity you participated in. For example, this report could
   include a synopsis of the meetups you attended, learnings from a book you read
@@ -174,7 +174,7 @@ client-billable hours, sprint goals and any needed internal time. Therefore, whe
 taking PTO, please be aware that your available hack time may be negatively
 affected by PTO time.
 - Example: If you have taken 16 hours (2 days) PTO in a work week, then you are
-  required to work 24 hours (3 days) and are not eligible for hack time that week.
+  required to work 24 billable hours (3 days) and are not eligible for hack time that week.
 
 The 240 hours (6 weeks) of Category Two PTO will reset at the beginning of each year.
 
