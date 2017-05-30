@@ -20,3 +20,6 @@
 ## Responsibility for Previous Clients
 When a previous Radial client re-engages with us, the individual who was the developer lead
 when the project ended will be responsible for managing the previous client.
+
+If you were not the most recent developer lead and you see a new message from a previous client,
+please be a pal and notify that person.
