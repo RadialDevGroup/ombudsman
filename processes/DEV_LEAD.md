@@ -16,3 +16,7 @@
 5. If the developer lead does not agree with your proposal and you feel strongly
   further engineering discussions should occur, bring this up in weekly retrospective
   or contact Lindsay and either Ben or Marshall to continue the discussion.
+
+## Responsibility for Previous Clients
+When a previous Radial client re-engages with us, the individual who was the developer lead
+when the project ended will be responsible for managing the previous client.
