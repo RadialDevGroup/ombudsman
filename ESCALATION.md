@@ -12,9 +12,9 @@ Within a client engagement, issues arise that may need to be addressed by someon
 It is important that the steps for communicating these details be clear and consistent to ensure that vital client communication occurs.
 
 ### Stakeholder Time Bandits
-Some projects have stakeholders who take up unnecessary time (most of the time becasue they are "technical"). If your project should have one of these time bandits, these steps are a starting point to be able to discuss the issue with the client.
-* track all time dealing with the stakeholder on Freckle
-* some people are easier to talk with on the phone rather than email. Find out which form of communication causes the least amount of confusion and back-and-forth for the stakeholder in question, and try to have ALL communication be in that form.
+Projects may have stakeholders who could require you to spend additional time with them that does not benefit the project's deliverables. If your project should have one of these time bandits, below are suggested action items that will help you begin a discussion with the client.
+* Separately log time in Freckle spent working on non-value-add work directed by a Time Bandit with the tag `#bandit` and make a note in the description about what was done.
+* Find out the best form of communication that causes the least amount of confusion and back-and-forth with the stakeholder in question, and try to have all communication be in the form. This may be email, phone or in-person.
 
 ## Methodology
 Apologize if the client is unhappy and make assurances that we will do whatever we can to resolve the issue. If it is within your power, please accommodate customer requests. It is not productive to argue with a customer as to whether they were wronged. If possible, be completely transparent. If we have erred, please get another person involved, internally. We will correct the error.  We will _not_ refund the client unless that is the only reasonable remedy.  In most cases, we will offer the client credit, work in kind, etc, in order to resolve an issue.  If we cannot immediately remedy the issue, we will tell the client the reason for any delay.
