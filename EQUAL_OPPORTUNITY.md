@@ -28,22 +28,22 @@ committed in all areas to providing an environment that is free from harassment.
 Harassment based upon an individual's sex, race, color, age, national original,
 religion, disability, genetic information, marital status, sexual orientation,
 gender identity, citizenship, pregnancy or veteran status, or any other status
-protected by applicable law will not be tolerated. All employees are expected 
+protected by applicable law will not be tolerated. All employees are expected
 and required to abide by this policy.
 
 
 ## Reporting and Questions
 
-Complaints of unlawful discrimination or harassment should be reported to Lindsay
-Hohn or Brian Bensky. In cases where investigation confirms the allegations,
+Complaints of unlawful discrimination or harassment should be reported to Management
+or Brian Bensky. In cases where investigation confirms the allegations,
 appropriate corrective action will be taken, regardless of whether the
 inappropriate conduct rises to the level of any violation of law. No employee
 will suffer retaliation for reporting, in good faith, any violation of Radial
 policy or unlawful discrimination, harassment, or retaliation.
 
 Principal and direct responsibility for successful implementation of this policy
-in a uniform manner has been assigned to Lindsay Hohn. However, within Radial,
+in a uniform manner has been assigned to Management. However, within Radial,
 employees must share in the responsibility to ensure Radial's compliance with
 the Equal Employment Opportunity Plan and Anti-Harassment Plan. Any employee who
 has a question or concern regarding any type of discrimination or harassment is
-encouraged to contact Lindsay Hohn or Brian Bensky.
+encouraged to contact Management or Brian Bensky.

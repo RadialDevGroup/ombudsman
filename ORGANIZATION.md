@@ -3,10 +3,10 @@
 
   See: [Primary Contact](#primary-contact) and [Operations](#operations)
 # Primary Contact
-[Lindsay Hohn](#lindsay-hohn)
+[Ben West](#ben-west)
 
 # Human Resources
-[Lindsay Hohn](#lindsay-hohn)
+[Ben West](#ben-west)
 [Brian Bensky](#brian-bensky)
 
 # Technology and Engineering
@@ -14,20 +14,16 @@
 [Marshall Smith](#marshall-smith)
 
 # Operations & Finances
-[Lindsay Hohn](#lindsay-hohn)
+[Ben West](#ben-west)
 [Marshall Smith](#marshall-smith)
 
 # Sales
-[Lindsay Hohn](#lindsay-hohn)
+[Ben West](#ben-west)
 
 # All other issues
-[Lindsay Hohn](#lindsay-hohn)
+[Ben West](#ben-west)
 
 # Full List
-## Lindsay Hohn
-- [859 240 3279](tel:8592403279)
-- [lindsay@radialdevgroup.com](mailto:lindsay@radialdevgroup.com)
-
 ## Ben West
   - [970 460 6664](tel:9704606664)
   - [ben@radialdevgroup.com](mailto:ben@radialdevgroup.com)
@@ -42,9 +38,9 @@
 
 # Management Delegations
 ## Sales
-If a sales inquiry comes into the office while Lindsay is away, inform the
-contact that Lindsay is out of the office and the date when she will be returning.
-Then send Lindsay an email with the necessary contact information and a brief
+If a sales inquiry comes into the office while Management is away, inform the
+contact that Mangement is out of the office and the date when the person will be returning.
+Then send Management an email with the necessary contact information and a brief
 description of the sales lead.
 
 ## Other issues

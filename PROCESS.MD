@@ -30,5 +30,5 @@
 
     > GitHub Comment:
     >
-    > @lkhohn I have made all of those changes; please merge this.
+    > @benwest I have made all of those changes; please merge this.
     >
