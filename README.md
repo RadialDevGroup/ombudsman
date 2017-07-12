@@ -16,3 +16,9 @@ This is the authoritative company policy document.  Putting it in version contro
 - [Onboarding](processes/ONBOARDING.md)
 - [Kickoff](processes/KICKOFF.md)
 - [Hardware and Equipment Service](processes/HARDWARE.md)
+
+
+### Definitions
+When "Management" is referenced, this will mean the individual who is currently
+responsible for managing Radial Development Group. At this time, this individual
+is Ben West.

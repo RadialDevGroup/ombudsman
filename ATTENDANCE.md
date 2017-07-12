@@ -18,12 +18,12 @@ corrected.
 All employees will need to manage their Teambook account and keep it updated
 to reflect vacation days, work from home days, modified work hours, etc.
 
-Lindsay will collaborate with developer leads to determine staff resourcing and
+Management will collaborate with developer leads to determine staff resourcing and
 will update Teambook accordingly. You are responsible for checking Teambook at
 the start of each workday and work on the project you are assigned to. If a
 project that you are not resourced to in Teambook requires your attention for
 more than an estimated 2 hours, you are responsible for contacting your developer
-lead and Lindsay to determine if project resourcing needs to be modified.
+lead and Management to determine if project resourcing needs to be modified.
 
 If a regular 4-day work schedule is preferred, it may be possible to arrange that
 with management permission, provided that it does not impact the team or will delay
@@ -46,7 +46,7 @@ contact:
 #### Tell them soon.
 
 Please send your notification, by email, as soon as possible, to let your team know if you
-will be late or absent. Please also notify Lindsay.  You have a responsibility to
+will be late or absent. Please also notify Management.  You have a responsibility to
 make sure we are aware if you will be unable to work, as soon as you know and are able.
 
 Unreported tardies and absences must be made up.
@@ -78,7 +78,7 @@ to track availability and resourcing.  Please report changes to your calendar th
 
 * By Thursday morning, if you estimate that you will not be able achieve 32 client-billable hours
   and/or complete your assigned Sprint goals by Friday afternoon, you must present the
-  problem and solution to your developer lead and Lindsay. If you fail to communicate
+  problem and solution to your developer lead and Management. If you fail to communicate
   the problem and solution by Thursday morning, this will be a strike against you. If you
   receive three strikes, this can result in grounds for dismissal. Personal emergencies
   and unforeseen circumstances will not be considered as a strike.
@@ -121,7 +121,7 @@ Examples of internal time meetings
   purposeful in advancing your professional career and Radial's success.
 
 * On the first business day of each month, a report of how you spent last month's
-  Hack time should be sent to Lindsay. The report should include brief descriptions
+  Hack time should be sent to Management. The report should include brief descriptions
   of each hack time activity you participated in. For example, this report could
   include a synopsis of the meetups you attended, learnings from a book you read
   and a list of Stack Overflow questions you answered.
@@ -153,7 +153,7 @@ Category Two includes time taken for sick, personal or vacation. Employees will
 have a 240 hours (6 weeks) "bank" of Category Two PTO.
 
 The requirement of 32 client-billable hours and completion of your sprint goals
-are extremely important. When you take PTO, Lindsay and the developer lead on your
+are extremely important. When you take PTO, Management and the developer lead on your
 currently resourced project are responsible for managing resourcing to ensure that
 project deliverables are met. The following are client-billable requirements when
 taking PTO:
