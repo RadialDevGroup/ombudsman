@@ -150,7 +150,9 @@ Category One includes time taken for bereavement, family emergencies, disability
 and jury duty. Category One leave is available without bound.
 
 Category Two includes time taken for sick, personal or vacation. Employees will
-have a 240 hours (6 weeks) "bank" of Category Two PTO.
+accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
+Two PTO may be borrowed, up to the full amount.  Accruded PTO is available on
+an annual basis, only, and resets to an accrual of 0 on January 1st.
 
 The requirement of 32 client-billable hours and completion of your sprint goals
 are extremely important. When you take PTO, Management and the developer lead on your
