@@ -2,7 +2,7 @@
 
 It shall be the official position of the organization that information stored or shared in company accounts, is readable, at-will by management; some information is public to the organization by default and is readable by all staff.  If you have specific concerns, please address them to management.
 
-It is not the policy of management to utilize the laxness of this privacy policy to invade the personal lives of staff, but it has been unfair to not clearly communicate about this.
+It is not the policy of management to utilize the laxness of this privacy policy to invade the personal lives of staff.
 
 ## Email
 Please consider that all business communication should occur via company accounts, but apart from that, no restriction of use of personal accounts applies.  Please consider that management does not plan to review company email accounts, but access to your email cannot be restricted within "G suite." One should not consider your work email to be private and should assume that it will be read.
