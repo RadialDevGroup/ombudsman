@@ -13,6 +13,7 @@ Billable time is any time working on a single client project.  This includes any
 Unbillable time may be in one of several categories and is to be recorded the same way as billable.  The categories are:
 
  - **Administrative**: Anything relating to the management of the company (e.g. all hands meetings).
- - **BizDev**: Anything relating to sales or recruiting.
+ - **Sales & Business Networking**: Anything relating to sales or recruiting.
+ - **Marketing**: Campaigns, research, and Outreach (Events, guests, and free code reviews)
  - **Hack Time**: Time spent on personal projects or continuing education.
  - **[specific company initiatives]**: from time to time unbillable job codes may be assigned to specific internal projects.
