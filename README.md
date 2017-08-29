@@ -7,6 +7,7 @@ This is the authoritative company policy document.  Putting it in version contro
 - [Peer Review](PEER_REVIEW.md)
 - [Escalation](ESCALTION.md)
 - [Time Reporting](TIME_REPORTING.md)
+- [Developer Lead Standards](DEVELOPER_LEAD.md)
 
 ## Improving Policy
 - Submit bugs in policy via github issues
