@@ -74,19 +74,9 @@ to track availability and resourcing.  Please report changes to your calendar th
   discretion. Core hours including 9:30 am standup time, must, however, be
   observed.
 
-* Please plan to work 40 Hours, and at a minimum of 32 doing client-billable hours.
+* Please work 40 hours per week or allocate PTO to cover.
 
-* By Thursday morning, if you estimate that you will not be able achieve 32 client-billable hours
-  and/or complete your assigned Sprint goals by Friday afternoon, you must present the
-  problem and solution to your developer lead and Management. If you fail to communicate
-  the problem and solution by Thursday morning, this will be a strike against you. If you
-  receive three strikes, this can result in grounds for dismissal. Personal emergencies
-  and unforeseen circumstances will not be considered as a strike.
-
-* If you have reached your 32 client-billable hours and completed all assigned Sprint goals,
-  you are responsible for connecting with each developer lead on staff and determine
-  if you can assist with their project.
-
+* If your project cannot reach its goals with the number of billable hours worked, please inform the staff on Friday.  The entire staff will need to come in on Saturday if the goal cannot be otherwise met.
 
 ## Internal Time
 
@@ -115,32 +105,18 @@ Examples of internal time meetings
 
 ## Hack Time
 
-* After completion of your 32 client-billable hours and internal time, any remaining
-  time may be distributed as each person sees fit and used for personal projects,
-  professional development, company trainings, etc. The activity selected must be
-  purposeful in advancing your professional career and Radial's success.
-
-* On the first business day of each month, a report of how you spent last month's
-  Hack time should be sent to Management. The report should include brief descriptions
-  of each hack time activity you participated in. For example, this report could
-  include a synopsis of the meetups you attended, learnings from a book you read
-  and a list of Stack Overflow questions you answered.
-
-  As part of Radial's marketing efforts, information from your report may be used
-  in our marketing materials. Sharing all the amazing things you are doing with
-  clients and the community is vital to Radial's success! But please do not send
-  a novel each month --  no more than 15 minutes should be spent drafting this report.
+* Provided all project goals are met, any remaining
+  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospecitves shall take priority over this time.  Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
 
 ## Overtime and Comptime
 
-You will not be expected to work more than 40 hours on any company-related task
-and will not be compensated in any additional way for working overtime, except
+You will not be compensated in any additional way for working overtime, except
 as required by law.  If it is important to client delivery that additional time
-be spent, please make sure we are aware of any overtime.  Please report any
-client request for overtime, in writing, and in context.
+be spent, please ensure that we are aware so that the entire team can participate.  Please report any
+client request for overtime, in writing, and in context, as additional fees may apply and additional steps my need to be taken to accound for this time.
 
 ## Paid Time Off
 
@@ -152,31 +128,10 @@ and jury duty. Category One leave is available without bound.
 Category Two includes time taken for sick, personal or vacation. Employees will
 have a 240 hours (6 weeks) "bank" of Category Two PTO.
 
-The requirement of 32 client-billable hours and completion of your sprint goals
-are extremely important. When you take PTO, Management and the developer lead on your
-currently resourced project are responsible for managing resourcing to ensure that
-project deliverables are met. The following are client-billable requirements when
-taking PTO:
-
-- 8 or less hours: 32 client-billable hours required
-- 9 hours to 32 hours: Difference between 32 client-billable hours from the
-  the total hours taken minus 8
-  - Example: If you have taken 12 hours (1 1/2 days), you are required to bill 28 hours.
-    `32 - (12-8) = 28`
-
 **Retrospective Consideration**
 To account for the weekly company-wide retrospective meeting, the retrospective
 meeting time will be subtracted from the required billable hours, as meeting
 time may vary.
-
-Policy states that hack time is only available after you have met your 32
-client-billable hours, sprint goals and any needed internal time. Therefore, when
-taking PTO, please be aware that your available hack time may be negatively
-affected by PTO time.
-- Example: If you have taken 16 hours (2 days) PTO in a work week, then you are
-  required to work 24 billable hours (3 days) and are not eligible for hack time that week.
-
-The 240 hours (6 weeks) of Category Two PTO will reset at the beginning of each year.
 
 For new hires, the following is the available Category Two PTO for the first
 year of employment:
@@ -236,14 +191,12 @@ Other specific requests:
 - Your vacation time should be recorded in Freckle under the project
   "Out-of-office" and tagged with "#vacation-time".
 
-## Work From Home
+## Work From Home/Remote/Flex Time
 
-Work from home is permitted so long as it serves company and client goals for
-effective and timely delivery, within the context of individual capabilities
-and circumstances.
+Work from home, working remotely, and flex time is permitted so long as it does not interfere with project delivery or company training or retrospective.
 
 We will provide facilities, such as we are able, to allow all members of teams
-to work in a common, public space.
+to work in a clean, safe, common, public space.
 
 ## Maternity and Paternity Leave
 
@@ -252,9 +205,8 @@ information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index
 
 ## Holiday Time
 
-Radial will be closed on the following days and employees are not expected
-to work. Required client billable hours will be determined based on the PTO policy
-described above.
+Radial will be closed on the following days and employees are expected not
+to work. 
 - Memorial Day
 - Independence Day
 - Labor Day
@@ -262,3 +214,5 @@ described above.
 - Thanksgiving Day & the Friday after Thanksgiving
 - Winter Holidays & New Years - dates will follow the district closed dates on
   the Thompson School District's calendar
+- Election days, including municipal, county and state elections
+- Annual Winter closure as announced
