@@ -16,7 +16,7 @@
 4. Blogs should be a mix of technical and non-technical posts. Choose your topic with an eye to what has been recently posted and try to balance technical posts with non-technical.
 5. Blogs with subheadings are better than blogs without subheadings.
 6. Blogs with short sentences are better than blogs with long sentences. Try to follow some of the readability tips from Yost in the CMS.
-7. Blogs with external links are better than blogs without external links. So try to link out if you can.
+7. Blogs with external links are better than blogs without external links. So try to link out if you can. External links should be set to open in new tabs.
 8. Blogs with images are better than blogs without images. Screenshots are also good. You can annotate screenshots using [Skitch](https://evernote.com/products/skitch). If a screenshot doesn't work, you can grab an appropriate image from such free-for-commercial-use sites as:
 - [Pixabay (stock photos)](https://pixabay.com/)
 - [Pexels (stock photos)](https://www.pexels.com/)
