@@ -14,7 +14,7 @@ Unbillable time may be in one of several categories and is to be recorded the sa
 
  - **Administrative**: Anything relating to the management of the company (e.g. all hands meetings).
  - **Sales & Business Networking**: Anything relating to sales or recruiting.
- - **Marketing**: Campaigns, research, and Outreach (Events, guests, and free code reviews)
+ - **Marketing**: Campaigns, research, and outreach (events, guests, and free code reviews)
  - **Hack Time**: Time spent on personal projects or continuing education.
  - **Technical Writing/Blogging**: Time spent writing or editing white papers, case-studies, or blogs
  - **[specific company initiatives]**: from time to time unbillable job codes may be assigned to specific internal projects.
