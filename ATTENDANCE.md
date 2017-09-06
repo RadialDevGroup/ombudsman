@@ -106,7 +106,7 @@ Examples of internal time meetings
 ## Hack Time
 
 * Provided all project goals are met, any remaining
-  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospecitves shall take priority over this time.  Please allow us to promote any successes relevant to building the company's reputation.
+  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time.  Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
@@ -116,7 +116,7 @@ Examples of internal time meetings
 You will not be compensated in any additional way for working overtime, except
 as required by law.  If it is important to client delivery that additional time
 be spent, please ensure that we are aware so that the entire team can participate.  Please report any
-client request for overtime, in writing, and in context, as additional fees may apply and additional steps my need to be taken to accound for this time.
+client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for this time.
 
 ## Paid Time Off
 
@@ -128,23 +128,7 @@ and jury duty. Category One leave is available without bound.
 Category Two includes time taken for sick, personal or vacation. Employees will
 have a 240 hours (6 weeks) "bank" of Category Two PTO.
 
-**Retrospective Consideration**
-To account for the weekly company-wide retrospective meeting, the retrospective
-meeting time will be subtracted from the required billable hours, as meeting
-time may vary.
-
-For new hires, the following is the available Category Two PTO for the first
-year of employment:
-- Q1: 240 hours
-- Q2: 180 hours
-- Q3: 120 hours
-- Q4: 60 hours
-
 ## Sick Time and Personal Time
-
-Provided that long weekends are not a regular occurrence, additional weekend time
-should be considered personal time. Please ensure that your delivery team is aware
-that you will be absent.
 
 Sick and personal time leave is available within your available Category Two PTO.
 Please take time, with notice (see **communication standards**), as needed, to
@@ -163,11 +147,11 @@ Other specific requests:
   your recovery, don't.
 
 - Absences not related to a health issue shall be qualified as personal time and
-  should be taken as needed to recuperate from work-related stress.
+  should be taken as needed to recuperate from work-related stress.  Please account
+  appropriately for this use of PTO
 
-- Sick or personal time may be made up only if specifically required to meet
-  commitments to clients, and no other resourcing solution will accomplish
-  delivery, and only with the permission of management.
+- Sick or personal time shall not be made up; it is the responsiblity of management
+  to ensure adequate redundancy will enable client commitments to be met.
 
 - Your sick time should be recorded in Freckle under the project "Out-of-office"
   and tagged with "#sick-time".
@@ -212,7 +196,5 @@ to work.
 - Labor Day
 - Veterans Day
 - Thanksgiving Day & the Friday after Thanksgiving
-- Winter Holidays & New Years - dates will follow the district closed dates on
-  the Thompson School District's calendar
 - Election days, including municipal, county and state elections
 - Annual Winter closure as announced
