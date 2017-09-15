@@ -15,7 +15,7 @@
 
 ### Posting Strategy
 - Determine your Twitter audience and create a tone that matches their demographics and interests
-  * Focused domains: Test driven development, React, Javascript
+  * Focused domains: Process. Test driven development, React, Javascript, Rails, Python/Django/Flask/CherryPy. Process
 - Provide your own content by tweeting one content post each day. This might include:
   * Blog topics
   * Event updates
