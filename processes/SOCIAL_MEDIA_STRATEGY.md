@@ -24,7 +24,7 @@
   * Guest writer or industry expert opinions/articles
 - Retweet up to two posts from varied account sources along with the daily content post. This might include:
   * Quotes from industry leaders (Contact connections and ask for Q & A)
-  * Relevant articles (ex. Hacker News)
+  * Relevant articles (ex. Hacker News, or Buzzsumo for trending articles)
   * Local news or events
 - Hashtag strategy: Utilize sites like Fanpage Karma, that allow you research a company and view their top hashtags, as well as providing other valuable information on the company. Doing this periodically can help you keep up with trends within the tech industry, and can be an asset to increasing reach of your posts through utilizing these hashtags.
   * Review competitor audit for current hashtags
@@ -35,6 +35,7 @@
 Post material that promote your viewers to be interactive, or give them an incentive to share your company insight.
 - Use analytic tools that can identify users that are being interactive, in order to figure out how to cater to that audience.
   * Platforms: Followerwonk; Twitonomy
+- Take part in industry specific Live Twitter Chats: View Twitter spreadsheet on Google Docs to view topics, times, and dates
 - Propose questions about corresponding topics, or offer help to viewers that have specific technology related questions. This will help you gain insight to what viewers are interested in learning which will assist in future content creation, and will boosts Radial’s reputation by being associated as a helpful company.
 - Tweet about industry events to engage with local companies, which will inform readers while boosting our brand image in the eye of other companies.
 - Consider running a contest in order to gain more interaction from followers, and our followers followers. Contests could include:
