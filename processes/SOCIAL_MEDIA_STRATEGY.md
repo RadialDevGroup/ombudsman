@@ -1,11 +1,11 @@
 # Social Media Strategy
 
 ## Overview
-Radial is looking to increase social media presence to become a local industry leader and to promote our company values to potential clients. 
+Radial is looking to increase social media presence to become a local industry leader and to promote our company values to potential clients.
 
 Social Media goals that support our business objectives:
 1. Increase brand awareness within the technology industry
-2. Increase brand involvement on a local level 
+2. Increase brand involvement on a local level
 3. Increase post involvement
 4. Increase diversity of posts on all platforms
 
@@ -37,30 +37,31 @@ Platforms that are currently in focus: Twitter, Blog
   * Guest writer or industry expert opinions/articles
 - Retweet up to two posts from varied account sources along with the daily content post. This might include:
   * Quotes from industry leaders (Contact connections and ask for Q & A)
-  * Relevant articles (ex. Hacker News)
+  * Relevant articles (ex. Hacker News, or Buzzsumo for trending articles)
   * Local news or events
 - Hashtag strategy: Utilize sites like Fanpage Karma, that allow you research a company and view their top hashtags, as well as providing other valuable information on the company. Doing this periodically can help you keep up with trends within the tech industry, and can be an asset to increasing reach of your posts through utilizing these hashtags.
   * Review competitor audit for current hashtags
-- Photo usage: Studies show tweets with images can get 60-200% more shares than those without. That being said, only add an image to a post if it helps back up your content, not distract from it. 
+- Photo usage: Studies show tweets with images can get 60-200% more shares than those without. That being said, only add an image to a post if it helps back up your content, not distract from it.
 
 
 ### Audience Engagement Strategy
 Post material that promote your viewers to be interactive, or give them an incentive to share your company insight.
 - Use analytic tools that can identify users that are being interactive, in order to figure out how to cater to that audience.
   * Current Platforms: Twitonomy (Radial follower analytics) and Followerwonk (source for competitor anaylsis)
+- Take part in industry specific Live Twitter Chats: View Twitter spreadsheet on Google Docs to view topics, times, and dates
 - Propose questions about corresponding topics, or offer help to viewers that have specific technology related questions. This will help you gain insight to what viewers are interested in learning which will assist in future content creation, and will boosts Radial’s reputation by being associated as a helpful company.
 - Tweet about industry events to engage with local companies, which will inform readers while boosting our brand image in the eye of other companies.
 - Consider running a contest in order to gain more interaction from followers, and our followers followers. Contests could include:
-  * Asking a question or problem and providing an award for the best response 
-  * Awarding those for sharing your post in a sweepstakes 
+  * Asking a question or problem and providing an award for the best response
+  * Awarding those for sharing your post in a sweepstakes
 - Following/Follower Strategy
   * Create competitor lists: Keep track of in order to gain information from their posts to help write content, and to be up to date with popular industry topics and discussions.
   * Create local company lists: Makes it easier to interact with local companies by retweeting content posts, and promoting events.
   * Consider promoting followers in order to increase reach (one of the ads, around $1.50 per follower)
-  
-  
+
+
  ## Blogs
- 
+
 
 ### Posting Strategy
 - The Radial blog should be posted to once a week. Developers/employees will be assigned responsibility for a blog on a rotating schedule.
@@ -92,15 +93,15 @@ Post material that promote your viewers to be interactive, or give them an incen
 - TWITTER: Once a blog has a permalink, an employee with access to the Radial Twitter account on Tweetdeck should schedule the blog to be tweeted out, once on the day it runs, and once on the following day. (In practice this means Slack the permalink to Ben or Stephanie and they will schedule the Tweets)
   * If you have a Twitter account, we encourage retweeting your own blog posts or those of other Radial employees.
   * Update Twitter 3 times a week on topics related to blog posts
-- QUORA: 
+- QUORA:
   * Question and answer site. Actively find questions that relate to blog post topics, and provide an answer with the specific blog link referenced. (If there aren't relevant questions relating to your blog, consider asking an anonymous question)
 - HACKER NEWS
   * Post blog content directly onto website
   * Post old blogs that have not yet been featured on the site once a week
 - MEDIUM
   * Change title of blog post, then post directly onto website
-  
-  
+
+
   ## Strategy Review Period
 - Analyze the overall social media highs and lows at the end of each period
 - Ask yourself: Is the social media content continuing to uphold company values? Are posts reaching the companies intended audience?
