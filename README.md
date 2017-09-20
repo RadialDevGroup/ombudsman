@@ -17,6 +17,10 @@ This is the authoritative company policy document.  Putting it in version contro
 - [Onboarding](processes/ONBOARDING.md)
 - [Kickoff](processes/KICKOFF.md)
 - [Hardware and Equipment Service](processes/HARDWARE.md)
+- [Content Development](processes/BLOGGING.md)
+
+## Strategies
+- [Social Media Strategy](processes/SOCIAL_MEDIA_STRATEGY.md)
 
 
 ### Definitions
