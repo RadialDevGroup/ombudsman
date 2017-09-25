@@ -5,12 +5,11 @@ Radial is looking to increase social media presence to become a local industry l
 
 Social Media goals that support our business objectives:
 1. Increase brand awareness within the technology industry
-2. Increase brand involvement on a local level
-3. Increase post involvement
-4. Increase diversity of posts on all platforms
+1. Increase brand involvement on a local level
+1. Increase post involvement
+1. Increase diversity of posts on all platforms
 
 Platforms that are currently in focus: Twitter, Blogs
-
 
 ## Twitter
 
