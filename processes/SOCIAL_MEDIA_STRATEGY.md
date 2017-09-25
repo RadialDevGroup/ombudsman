@@ -60,7 +60,7 @@ Post material that promote your viewers to be interactive, or give them an incen
 
 
  ## Blogs
-- Please see Policy/processes/BLOGGING.md for blogging policy
+- Please see [content publishing process](BLOGGING.md)
 
 ### Promotion: Cross posting on Blogs
 - TWITTER: Once a blog has a permalink, an employee with access to the Radial Twitter account on Tweetdeck should schedule the blog to be tweeted out, once on the day it runs, and once on the following day. (In practice this means Slack the permalink to Ben or Stephanie and they will schedule the Tweets)
