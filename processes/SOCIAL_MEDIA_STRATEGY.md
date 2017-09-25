@@ -48,7 +48,7 @@ Platforms that are currently in focus: Twitter, Blogs
 Post material that promote your viewers to be interactive, or give them an incentive to share your company insight.
 - Use analytic tools that can identify users that are being interactive, in order to figure out how to cater to that audience.
   * Current Platforms: Twitonomy (Radial follower analytics) and Followerwonk (source for competitor anaylsis; Login to each platform through Radial Twitter Account.
-- Take part in industry specific Live Twitter Chats: View Twitter spreadsheet on Google Docs to view topics, times, and dates.  To participate in scheduled chats, use Radial Twitter login credentials to tweetchat.com 
+- Take part in industry specific Live Twitter Chats: View Twitter spreadsheet on Google Docs to view topics, times, and dates.  To participate in scheduled chats, use Radial Twitter login credentials to http://tweetchat.com/
 - Propose questions about corresponding topics, or offer help to viewers that have specific technology related questions. This will help you gain insight to what viewers are interested in learning which will assist in future content creation, and will boosts Radial’s reputation by being associated as a helpful company.
 - Tweet about industry events to engage with local companies, which will inform readers while boosting our brand image in the eye of other companies.
 - Consider running a contest in order to gain more interaction from followers, and our followers followers. Contests could include:
