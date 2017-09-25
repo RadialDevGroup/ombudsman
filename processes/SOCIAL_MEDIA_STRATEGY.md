@@ -67,7 +67,7 @@ Post material that promote your viewers to be interactive, or give them an incen
 - TWITTER: Once a blog has a permalink, an employee with access to the Radial Twitter account on Tweetdeck should schedule the blog to be tweeted out, once on the day it runs, and once on the following day. (In practice this means Slack the permalink to Ben or Stephanie and they will schedule the Tweets)
   * If you have a Twitter account, we encourage retweeting your own blog posts or those of other Radial employees.
   * Update Twitter 3 times a week on topics related to blog posts
-- QUORA:
+- QUORA (Login: accounts@radialdevgroup.com, see Ben for password)
   * Question and answer site. Actively find questions that relate to blog post topics, and provide an answer with the specific blog link referenced. (If there aren't relevant questions relating to your blog, consider asking an anonymous question)
 - HACKER NEWS (Login: accounts@radialdevgroup.com, see Ben for password)
   * Post blog content directly onto website
