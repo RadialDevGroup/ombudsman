@@ -73,10 +73,11 @@ Post material that promote your viewers to be interactive, or give them an incen
   * Post old blogs that have not yet been featured on the site once a week
 - MEDIUM (Login: accounts@radialdevgroup.com, see Ben for password)
   * Change title of blog post, then post directly onto website. Utilize https://coschedule.com/headline-analyzer to analyze headline alternatives
+  * Repost blogs from the previous week every Friday, and repost old blogs each Monday until all caught up on posting.  
 
 
   ## Strategy Review Period
-- Analyze the overall social media highs and lows at the end of each period
+- Analyze the overall social media highs and lows at the end of each quarter.
 - Ask yourself: Is the social media content continuing to uphold company values? Are posts reaching the companies intended audience?
 - Analyze results and measure progress: Use current data analytics tools attached to each account to gain a better understanding of social media growth and engagement.
   * Example questions to ask: What posts and topics were attractive to your target market? What are the demographics of subscribers/viewers? What percentage of views are organic? What type of social media posts drove the most engagement?
