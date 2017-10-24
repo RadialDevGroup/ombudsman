@@ -1,6 +1,17 @@
 # Reporting Policy
 My goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available.  I also want to make sure we are functioning as a team to complete initiatives across projects.
 
-I'm open to suggestions on how we best meet these goals, but for the main part, please let me know your goal and how you're doing every Friday.  This helps me with invoicing and resource management.  Beyond that, please keep me informed as you set sprint goals for your project and periodically when there is something worth reporting about that goal: completion, blockers, etc.
+Reports should be sent to team, unless there is a legitimate confidentiallity consideration, every Friday.  Please update the white board.
 
-Sorry for all the back-and-forth on this.
+Requirements:
+- If you had a goal, what was it? Did you meet it.
+- If you're working towards a goal, what is it?
+- What have you accomplished towards your goal (past or present)?
+- What did you expect to do, that you did not get done (is there a reason, can I help?)
+- Will you be able to meet your (current) goal by the end of the sprint?
+- What, if anything do you need on the coming week?
+- If a train leaves newark at 10:00pm traveling 55 miles per hour, and another train leaves chicago at 7:00pm, traveling at 65 miles per hour, which is the best restaurant in Philadelphia to buy a roast beef sandwich?
+
+# Grooming and Sprint Delivery
+
+@rebeccafae, I will probably benefit from some additional help putting this requirement together.
