@@ -5,7 +5,7 @@
 2. We aim to work one week ahead, so a blog running on Thursday of the week of 8/21/2017 should be completed at the latest by Friday 8/18/2017.
 3. In practice this means you should write your blog on Monday or Tuesday of the week before it posts.
 4. Clarify the blog topic with the blog editor sometime before you sit down to write it. After writing it, share it with the blog editor so s/he can edit it. (Share link in #content-development Slack channel).
-5. After you get edits, either you or the blog editor should place the blog into the
+5. After you get edits, either you or the blog editor should place the blog into the CMS.
 6. Blogs should be set to post Thursday morning at 1 a.m.
 7. If you know you will be out of town the week you are responsible for a blog, it's your responsibility to write it in advance or find someone else who will take care of it for you.
 
