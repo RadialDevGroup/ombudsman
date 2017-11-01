@@ -24,7 +24,7 @@
 - [Government images](https://search.usa.gov/search/images)
 
 ## Before you post
-- [ ] Did you add a featured image?
+- [ ] Did you add a featured image? Is this image horizontal?
 - [ ] Did you add tags?
 - [ ] Do your links open in a new tab?
 - [ ] Does your post have a picture?
