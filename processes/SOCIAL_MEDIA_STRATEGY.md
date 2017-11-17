@@ -39,9 +39,13 @@ Platforms that are currently in focus: Twitter, Blogs
   * Relevant articles (ex. Hacker News, or Buzzsumo for trending articles)
   * Local news or events
 - Hashtag strategy: Utilize sites like Fanpage Karma, that allow you research a company and view their top hashtags, as well as providing other valuable information on the company. Doing this periodically can help you keep up with trends within the tech industry, and can be an asset to increasing reach of your posts through utilizing these hashtags.
-  * Review competitor audit on Google Docs for current hashtags
 - Photo usage: Studies show tweets with images can get 60-200% more shares than those without. That being said, only add an image to a post if it helps back up your content, not distract from it.
 
+#### Supporting Documents for posting strategy
+- This document http://bit.ly/2AWlfKN has strategic information regarding: 
+  * Popular Tweet Chats
+  * Hashtags popular within the tech industry, and local competitors
+  * Instagram lists for local and national competitors, and industry thought leaders
 
 ### Audience Engagement Strategy
 Post material that promote your viewers to be interactive, or give them an incentive to share your company insight.
