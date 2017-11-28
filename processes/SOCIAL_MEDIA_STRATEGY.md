@@ -70,7 +70,7 @@ Post material that promote your viewers to be interactive, or give them an incen
   * Question and answer site. Actively find questions that relate to blog post topics, and provide an answer with the specific blog link referenced. (If there aren't relevant questions relating to your blog, consider asking an anonymous question)
 - HACKER NEWS (Login: accounts@radialdevgroup.com, see Ben for password)
   * Post blog content directly onto website
-  * Post old blogs that have not yet been featured on the site once a week
+  * Blog content should link to Medium post, not to Radial blog - we want to drive Hacker News readers to Medium rather than Radial's website.
 - MEDIUM (Login: accounts@radialdevgroup.com, see Ben for password)
   * Change title of blog post, then post directly onto website. Utilize https://coschedule.com/headline-analyzer to analyze headline alternatives
   * Repost blogs from the previous week every Friday, and repost old blogs each Monday until all caught up on posting.  
