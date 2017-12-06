@@ -35,7 +35,7 @@
   - Add User to Operations Team (if Applicable)
 
 ### Other
-- Slack
+- Slack [User self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290)
 
 ### Project-specific
 - Heroku
