@@ -69,8 +69,9 @@ Post material that promote your viewers to be interactive, or give them an incen
 - QUORA (Login: accounts@radialdevgroup.com, see Ben for password)
   * Question and answer site. Actively find questions that relate to blog post topics, and provide an answer with the specific blog link referenced. (If there aren't relevant questions relating to your blog, consider asking an anonymous question)
 - HACKER NEWS (Login: accounts@radialdevgroup.com, see Ben for password)
-  * Post blog content directly onto website
-  * Post old blogs that have not yet been featured on the site once a week
+  * Post content directly from Medium blog posts onto Hacker News
+  * Each time you add new content onto Medium, post onto Hacker News
+  * Do not post anything onto Hacker News that is linked directly to a post on the Radial Website 
 - MEDIUM (Login: accounts@radialdevgroup.com, see Ben for password)
   * Change title of blog post, then post directly onto website. Utilize https://coschedule.com/headline-analyzer to analyze headline alternatives
   * Repost blogs from the previous week every Friday, and repost old blogs each Monday until all caught up on posting.  
