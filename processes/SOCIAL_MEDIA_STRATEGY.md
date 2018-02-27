@@ -71,7 +71,7 @@ Post material that promote your viewers to be interactive, or give them an incen
 - HACKER NEWS (Login: accounts@radialdevgroup.com, see Ben for password)
   * Post content directly from Medium blog posts onto Hacker News
   * Each time you add new content onto Medium, post onto Hacker News
-  * Do not post anything onto Hacker News that is linked directly to a post on the Radial Website 
+  * Do not post anything onto Hacker News that is linked directly to a post on the Radial Website - we want to drive Hacker News readers to Medium rather than Radial's website
 - MEDIUM (Login: accounts@radialdevgroup.com, see Ben for password)
   * Change title of blog post, then post directly onto website. Utilize https://coschedule.com/headline-analyzer to analyze headline alternatives
   * Repost blogs from the previous week every Friday, and repost old blogs each Monday until all caught up on posting.  
