@@ -1,16 +1,14 @@
 # Reporting Policy
 My goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available.  I also want to make sure we are functioning as a team to complete initiatives across projects.
 
-Reports should be sent to team, unless there is a legitimate confidentiallity consideration, every Friday.  Please update the white board.
+Reports should be sent to team, unless there is a legitimate confidentiality consideration, every Friday.  Please update the white board.
 
 Requirements:
-- If you had a goal, what was it? Did you meet it.
-- If you're working towards a goal, what is it?
-- What have you accomplished towards your goal (past or present)?
-- What did you expect to do, that you did not get done (is there a reason, can I help?)
-- Will you be able to meet your (current) goal by the end of the sprint?
-- What, if anything do you need on the coming week?
-- If a train leaves newark at 10:00pm traveling 55 miles per hour, and another train leaves chicago at 7:00pm, traveling at 65 miles per hour, which is the best restaurant in Philadelphia to buy a roast beef sandwich?
+- What is the goal this sprint?
+- What did you accomplish towards your goal?
+- What did you not get done?
+- Will you be able to meet your goal?
+- What do you need this week?
 
 # Kickoff, Grooming, and Sprint Delivery
 **Kickoff**. You are reposnible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](/processes/KICKOFF.md) document for more info.
