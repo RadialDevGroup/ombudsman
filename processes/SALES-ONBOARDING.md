@@ -1,7 +1,7 @@
 ## Onboarding
 1. Ensure that the new salesperson has access to the Google Drive:
   - [README and PROCESS](https://docs.google.com/document/d/1nRr5w7cY2L-s722W5rXW3Z5K6NPdM0a6t4OOQ_K0vWQ/edit)
-  - [Sales Tools Folder](https://drive.google.com/drive/u/0/folders/0B9pdJ07s-cP6fnBIU1gxclVITUxkWGdUVUVWd2djcFRoRkxrcUFiMjVkOHhWM3ExakZOUlU)
+  - [Sales Tools Folder](https://drive.google.com/drive/folders/0B_PUO9FjBNb2V1hYcGJvUF81WWM)
 2. Ensure that the new salesperson has access to the Dropbox for Keynotes, Decks, etc:
   - [Sales Tools](https://www.dropbox.com/sh/k9ugudufjdgs9l1/AADUk-79HGWjlXOYR95W6UkFa?dl=0)
 3. Indoctrination
