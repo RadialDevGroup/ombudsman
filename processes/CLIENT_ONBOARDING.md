@@ -22,13 +22,13 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     - #projectname-internal for developer discussions 
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
 - Email Client with information (see template below)
-- Schedule [Kickoff](processes/KICKOFF.md)
+- Schedule [Kickoff](KICKOFF.md)
 
 ## Client Onboarding Email Template
 
-**PROOF AND EDIT AS NESSISARY**
+**PROOF AND EDIT AS NECESSARY**
 
-**Remember to attach the [Customer Onboarding Guide](processes/CustomerOnboardingGuide.pdf)!**
+**Remember to attach the [Customer Onboarding Guide](CustomerOnboardingGuide.pdf)!**
 
 CC Radial President.
 
