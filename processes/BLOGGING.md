@@ -33,6 +33,14 @@
 - [Government images](https://search.usa.gov/search/images)
 9. All blogs need a featured image. This is the image that displays on the main blog page as the image representing the blog. Make sure that is added to the blog before it is posted.
 
+## Before you post
+- [ ] Did you add a featured image? Is this image horizontal?
+- [ ] Did you add tags?
+- [ ] Do your links open in a new tab?
+- [ ] Does your post have a picture?
+- [ ] Are there subheadings?
+- [ ] Did you set the author to the correct author?
+- [ ] Did you double check your posting date?
 
 ## Promotion
 1. Once a blog has a permalink, an employee with access to the Radial Twitter account on Tweetdeck should schedule the blog to be tweeted out, once on the day it runs, and once on the following day.
