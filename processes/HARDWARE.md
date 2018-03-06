@@ -3,12 +3,11 @@
 As a matter of general service offerings, Radial Development does not do
 hardware repair but we may make an exception, strictly at our own discretion.
 On the rare occasion that we make such an exception, we should have a process
-for how it will be done; If possible, please refer end-use to PCs & Parts on
-29th, Rob Protzman, Jamie Leben, Millenium Group, or another (insured and
+for how it will be done; If possible, please refer to Rob Protzman, Michael Vogt, Millenium Group, or another (insured and
 qualified) IT or computer support technician.
 
 We recommend that everyone maintain a support contract on their equipment to
-prevent loss, via Dell Onsite, Applecare, HP 24-hour, etc.
+prevent loss, via Dell Onsite, Applecare, HP 24-hour, GeekSquad, etc.
 
 Given that any hardware work will follow these guidelines:
 
