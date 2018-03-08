@@ -28,7 +28,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
 
 **PROOF AND EDIT AS NESSISARY**
 
-**Remember to attach the [Customer Onboarding Guide](processes/CustomerOnboardingGuide.pdf)!**
+**Remember to attach the [Customer Onboarding Guide](CustomerOnboardingGuide.pdf)!**
 
 CC Radial President.
 
