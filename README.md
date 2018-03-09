@@ -50,7 +50,7 @@ is Ben West.
 - [Website & Analytics](processes/marketing/WEBSITE_STRATEGY.md)
 
 ### Sales
-- [Onboarding](process/SALES-ONBOARDING.md)
+- [Onboarding](processes/SALES-ONBOARDING.md)
 
 ## Guides
 - [How to Write Specifications](guides/story_writing.md)
