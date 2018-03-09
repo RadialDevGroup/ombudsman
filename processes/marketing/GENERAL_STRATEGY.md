@@ -17,7 +17,7 @@ We designate developer leads who will carry you through the life of your project
 - The app that best solves your problem is the one you create yourself -- we this we can make that possible for your organization, regardless of your existing technical skills or staff know-how..
 - There is no way to modernize an organization without buy-in from its constituents.  Our discovery process is designed to unite diverse constituencies within a business around and effective solution.  We have done that for our existing clients.
 
-## What we offer/Competencies
+## What We Offer/Competencies
 - Consistent Quality (accountability)
 - Delivery Focused (courage)
 - Meaningful Products (care)
@@ -49,12 +49,12 @@ Competencies: Amazing User Experiences, API's, Platforms, and Apps for web and M
 # Process Documents
 One of our core values at Radial is implementing processes in all areas of our work. These processes are helpful resources to look back on, and are utilized in the on-boarding process of incoming team members.
 
-## Current marketing related processes:
+## Processes:
 
 - [Social Media Strategy](SOCIAL_MEDIA_STRATEGY.md)
 - [Blog Strategy](BLOGGING.md)
 - [Case Study Strategy](CASE_STUDY_STRATEGY.md)
-- [Event Strategy](EVENT_STRATEGY)
+- [Event Strategy](EVENT_STRATEGY.md)
 - [Newsletter Strategy](NEWSLETTER_STRATEGY.md)
 - [Website/Analytics Strategy](WEBSITE_STRATEGY.md)
 - [Marketing Hiring Process](https://docs.google.com/document/d/1atl49e3fxg6E3PKf4OR6gKjdXC_13Cd0u77kd5_aPXo/edit),

@@ -6,12 +6,10 @@ This is the authoritative company policy document.  Putting it in version contro
 - [Attendance](ATTENDANCE.md)
 - [Code Standards](CODE_STANDARDS.md)
 - [Equal Opportunity](EQUAL_OPPORTUNITY.md)
-- [Escalation - when/how to ](ESCALTION.md)
 - [Pairing](PAIRING.md)
 - [Peer Review](PEER_REVIEW.md)
 - [Performance](PERFORMANCE.md)
 - [Time Reporting](TIME_REPORTING.md)
-- [Developer Lead Standards](DEVELOPER_LEAD.md)
 - [Technology Usage and Privacy Policy](PRIVACY.md)
 
 ## Definitions
@@ -39,6 +37,8 @@ is Ben West.
 - [Client Onboarding](processes/CLIENT_ONBOARDING.md)
 - [Kickoff](processes/KICKOFF.md)
 - [Handoff](processes/PROJECT_HANDOFF.md)
+- [Standards](DEVELOPER_LEAD.md)
+- [Escalation - when/how to ](ESCALTION.md)
 
 ### Marketing
 - [General](processes/marketing/GENERAL_STRATEGY.md)
@@ -53,7 +53,7 @@ is Ben West.
 - [Onboarding](process/SALES-ONBOARDING.md)
 
 ## Guides
-- [How to write specifications](guides/story_writing.md)
+- [How to Write Specifications](guides/story_writing.md)
 
 ## Misc Documents
-- [Annual and at-hire goals worksheet](documents/goals.md)
+- [Annual and At-hire Goals Worksheet](documents/goals.md)
