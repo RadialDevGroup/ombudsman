@@ -15,19 +15,9 @@ corrected.
 
 ## Schedule
 
-All employees will need to manage their Teambook account and keep it updated
-to reflect vacation days, work from home days, modified work hours, etc.
-
-Management will collaborate with developer leads to determine staff resourcing and
-will update Teambook accordingly. You are responsible for checking Teambook at
-the start of each workday and work on the project you are assigned to. If a
-project that you are not resourced to in Teambook requires your attention for
-more than an estimated 2 hours, you are responsible for contacting your developer
-lead and Management to determine if project resourcing needs to be modified.
-
-If a regular 4-day work schedule is preferred, it may be possible to arrange that
-with management permission, provided that it does not impact the team or will delay
-meeting client commitments.
+Core hours are from 9:30am to 3pm M-F Please be sure to notify the team, via email,
+if you are unable to be available during core hours.  Client communication should
+occur between 9am and 6pm M-F only, except by absolute neccessity.
 
 ## Communication Standards
 
@@ -42,6 +32,8 @@ contact:
   where you will instead be absent
 
 * especially, your teammates or pair
+
+Please communicate via email.
 
 #### Tell them soon.
 
@@ -71,12 +63,15 @@ to track availability and resourcing.  Please report changes to your calendar th
 ## Hours and Hour Requirements
 
 * All time will be "flex" time and scheduled according to an employee's best
-  discretion. Core hours including 9:30 am standup time, must, however, be
-  observed.
+  discretion. Core hours are from 9:30am to 3pm M-F Please be sure to notify the team, via email,
+if you are unable to be available during core hours.
 
 * Please work 40 hours per week or allocate PTO to cover.
 
-* If your project cannot reach its goals with the number of billable hours worked, please inform the staff on Friday.  The entire staff will need to come in on Saturday if the goal cannot be otherwise met.
+* In the event of a deadline, weekend work will only be required if you were aware of
+the deadline at the begingging of the week. In practice this means that teams may
+need to work outside of business hours to meet their goals.  Please avoid scenarios
+where weekend work will be required, as much as possible.
 
 ## Internal Time
 
@@ -113,17 +108,20 @@ Examples of internal time meetings
 
 ## Overtime and Comptime
 
-You will not be compensated in any additional way for working overtime, except
-as required by law.  If it is important to client delivery that additional time
-be spent, please ensure that we are aware so that the entire team can participate.  Please report any
-client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for this time.
+40 hours of work will be required.  If any time over 40 hours is work, PTO will be
+accrued for that time.  If it is important to client delivery that additional time
+be spent, please ensure that we are aware so that the entire team can participate.
+Please report any client request for overtime, in writing, and in context, as
+additional fees may apply and additional steps may need to be taken to account for
+this time.
 
 ## Paid Time Off
 
 There are two categories of paid time off (PTO).
 
 Category One includes time taken for bereavement, family emergencies, disability
-and jury duty. Category One leave is available without bound.
+and jury duty. Category One leave is available without bound and does not count
+against PTO.
 
 Category Two includes time taken for sick, personal or vacation. Employees will
 accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
