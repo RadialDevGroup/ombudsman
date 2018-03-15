@@ -15,9 +15,4 @@
 - [ ] commenting on pull requests
 - [ ] completing work (how to choose/complete a story, what to do when stuck)
 - [ ] story tools (tracker etc)
-- [ ] Retrospective
-  - [ ] Examples of positive outcomes
-- [ ] Slack
-- [ ] Schwag
-  - Radial T-shirt
-  - Pencils
+- [ ] Slack for standups, blockers, communication, etc

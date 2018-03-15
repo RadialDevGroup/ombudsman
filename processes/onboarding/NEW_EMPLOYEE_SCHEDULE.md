@@ -6,8 +6,13 @@
 - Take photo and add to website
 - Meet and greet/team lunch
 - Go over [Company Values](./PROCESS_VALUES.md)
+- Retrospective
+  -Examples of positive outcomes
 - Slack Channels
   - e.g. todo-item for snacks
+- [ ] Schwag
+  - Radial T-shirt
+  - Pencils
 
 ### Shadowing developers
 [Shadowing Checklist](./SHADOWING_CHECKLIST.md)
