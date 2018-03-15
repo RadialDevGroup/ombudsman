@@ -11,18 +11,15 @@
 
 - [ ] [Communication Tools](https://docs.google.com/document/d/1jjlUXsVssPEoVgEOp6yfIxurOLf0AtNGGMbM2pxNfjA/edit)
 - [ ] [Pairing](../../PAIRING.md)
-- [ ] git flow (pull requests etc)
+- [ ] git flow (pull requests, why protected branches are important etc)
 - [ ] commenting on pull requests
 - [ ] Creating a new project
   - must-haves such as PULL_REQUEST_TEMPLATE
-  - permissions
-    - protected branches
 - [ ] completing work (how to choose/complete a story, what to do when stuck)
 - [ ] story tools (tracker etc)
 - [ ] Retrospective
   - [ ] Examples of positive outcomes
-- [ ] Slack Channels
-  - e.g. todo-item for snacks
+- [ ] Slack
 - [ ] Schwag
   - Radial T-shirt
   - Pencils

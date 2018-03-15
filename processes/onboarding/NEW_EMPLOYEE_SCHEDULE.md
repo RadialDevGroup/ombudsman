@@ -6,6 +6,8 @@
 - Take photo and add to website
 - Meet and greet/team lunch
 - Go over [Company Values](./PROCESS_VALUES.md)
+- Slack Channels
+  - e.g. todo-item for snacks
 
 ### Shadowing developers
 [Shadowing Checklist](./SHADOWING_CHECKLIST.md)
