@@ -20,7 +20,6 @@
     - protected branches
 - [ ] completing work (how to choose/complete a story, what to do when stuck)
 - [ ] story tools (tracker etc)
-- [ ] [Project Management/Developer Lead](https://docs.google.com/document/d/1ZKUM7DBM4cg3cM3o9S9NgZKmM0I6hWllo84jpUKvWJM/edit#heading=h.xy2t2asyf1f5)
 - [ ] Retrospective
   - [ ] Examples of positive outcomes
 - [ ] Slack Channels
