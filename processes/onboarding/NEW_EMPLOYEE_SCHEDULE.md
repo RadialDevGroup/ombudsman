@@ -7,7 +7,7 @@
 - Meet and greet/team lunch
 
 ### Shadowing developers
-[Shadowing Checklist](./CULTURAL_DISCOVERY_PROCESS.md)
+[Shadowing Checklist](./SHADOWING_CHECKLIST.md)
 - The purpose of shadowing is to learn how and why we do things
 - The new employee should shadow two developers for two days each, and complete the checklist during this period
 

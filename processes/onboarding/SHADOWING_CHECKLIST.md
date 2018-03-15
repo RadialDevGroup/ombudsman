@@ -26,4 +26,4 @@
   - e.g. todo-item for snacks
 - [ ] Schwag
   - Radial T-shirt
-  - Pencil
+  - Pencils
