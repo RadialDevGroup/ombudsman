@@ -1,4 +1,4 @@
-# Cultural Discovery Process
+# Shadowing Checklist
 
 ## Remember to explain the Whys
   - We have a reason for the way we do things, and we should communicate this to our new employees.
@@ -9,7 +9,6 @@
 
 ## Checklist
 
-- [ ] [Company Values](./PROCESS_VALUES.md)
 - [ ] [Communication Tools](https://docs.google.com/document/d/1jjlUXsVssPEoVgEOp6yfIxurOLf0AtNGGMbM2pxNfjA/edit)
 - [ ] [Pairing](../../PAIRING.md)
 - [ ] git flow (pull requests etc)
