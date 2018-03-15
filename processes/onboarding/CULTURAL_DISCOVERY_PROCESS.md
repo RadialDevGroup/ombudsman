@@ -9,11 +9,18 @@
 
 ## Checklist
 
-- [ ] [Company Values](https://github.com/RadialDevGroup/Policy/blob/master/processes/onboarding/PROCESS_VALUES.md)
-- [ ] [Communication Tools](https://github.com/RadialDevGroup/Policy/blob/3422347efaff2da0d18432db27121f5744fd20d4/processes/ONBOARDING.md)
-- [ ] [Pairing](https://github.com/RadialDevGroup/Policy/blob/master/PAIRING.md)
+- [ ] [Company Values](./PROCESS_VALUES.md)
+- [ ] [Communication Tools](https://docs.google.com/document/d/1jjlUXsVssPEoVgEOp6yfIxurOLf0AtNGGMbM2pxNfjA/edit)
+- [ ] [Pairing](../../PAIRING.md)
+- [ ] git flow (pull requests etc)
+- [ ] commenting on pull requests
 - [ ] Creating a new project
-- [ ] Project Management/Developer Lead
+  - must-haves such as PULL_REQUEST_TEMPLATE
+  - permissions
+    - protected branches
+- [ ] completing work (how to choose/complete a story, what to do when stuck)
+- [ ] story tools (tracker etc)
+- [ ] [Project Management/Developer Lead](https://docs.google.com/document/d/1ZKUM7DBM4cg3cM3o9S9NgZKmM0I6hWllo84jpUKvWJM/edit#heading=h.xy2t2asyf1f5)
 - [ ] Retrospective
   - [ ] Examples of positive outcomes
 - [ ] Slack Channels
