@@ -13,8 +13,6 @@
 - [ ] [Pairing](../../PAIRING.md)
 - [ ] git flow (pull requests, why protected branches are important etc)
 - [ ] commenting on pull requests
-- [ ] Creating a new project
-  - must-haves such as PULL_REQUEST_TEMPLATE
 - [ ] completing work (how to choose/complete a story, what to do when stuck)
 - [ ] story tools (tracker etc)
 - [ ] Retrospective
