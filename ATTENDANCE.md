@@ -119,11 +119,11 @@ this time.
 
 There are two categories of paid time off (PTO).
 
-Category One includes time taken for bereavement, family emergencies, disability
-and jury duty. Category One leave is available without bound and does not count
-against PTO.
+Category One includes time taken for bereavement, family emergencies, disability, jury duty,
+or time taken for your health (including mental health). Category One leave is available
+without bound and does not count against PTO.
 
-Category Two includes time taken for sick, personal or vacation. Employees will
+Category Two includes time taken for vacation. Employees will
 accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
 Two PTO may be borrowed, up to the full amount.  Accruded PTO is available on
 an annual basis, only, and resets to an accrual of 0 on January 1st.
