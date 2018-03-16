@@ -69,7 +69,7 @@ if you are unable to be available during core hours.
 * Please work 40 hours per week or allocate PTO to cover.
 
 * In the event of a deadline, weekend work will only be required if you were aware of
-the deadline at the begingging of the week. In practice this means that teams may
+the deadline at the beginning of the week. In practice this means that teams may
 need to work outside of business hours to meet their goals.  Please avoid scenarios
 where weekend work will be required, as much as possible.
 
