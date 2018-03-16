@@ -15,8 +15,9 @@ corrected.
 
 ## Schedule
 
-Core hours are from 9:30am to 3pm M-F Please be sure to notify the team, via email,
-if you are unable to be available during core hours.  Client communication should
+Core hours are from 9:30am to 3pm M-F. Please be sure to notify the team, via
+email, if you are unable to be available during core hours.  Adding absences to
+your work calendar is an appropriate courtesy. Client communication should
 occur between 9am and 6pm M-F only, except by absolute neccessity.
 
 ## Communication Standards
