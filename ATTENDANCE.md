@@ -149,7 +149,7 @@ Other specific requests:
   your recovery, don't.
 
 - Absences not related to a health issue should be avoided. Where possible, please
-  take care of other needs and errands as flexbile time. Time that is not made up will be counted as PTO.
+  take care of other needs and errands as flexible time. Time that is not made up will be counted as PTO.
 
 - Sick or personal time shall not be made up; it is the responsiblity of management
   to ensure adequate redundancy will enable client commitments to be met.
