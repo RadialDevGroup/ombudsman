@@ -9,6 +9,7 @@ Requirements:
 - What did you not get done?
 - Will you be able to meet your goal?
 - What do you need this week?
+- What is the current status of your budget?
 
 # Kickoff, Grooming, and Sprint Delivery
 **Kickoff**. You are reposnible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](/processes/KICKOFF.md) document for more info.
