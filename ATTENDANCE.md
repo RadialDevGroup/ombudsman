@@ -149,7 +149,7 @@ Other specific requests:
   your recovery, don't.
 
 - Absences not related to a health issue should be avoided. Where possible, please
-  take care of other needs and errands as flexbile time. Time that is not made up will be counted as flex PTO.
+  take care of other needs and errands as flexbile time. Time that is not made up will be counted as PTO.
 
 - Sick or personal time shall not be made up; it is the responsiblity of management
   to ensure adequate redundancy will enable client commitments to be met.
@@ -170,7 +170,7 @@ week away from the office and work tasks.
 
 Other specific requests:
 - Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
-- Other (flex) PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant.
+- Other PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant.
 
 ## Work From Home/Remote/Flex Time
 
