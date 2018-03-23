@@ -116,21 +116,31 @@ IMPORTANT
 
 ## <a name="marketing"></a>Select Marketing Materials
 
-Apps in beta testing or production need marketing materials that consist of screenshots and description.
+Apps in beta testing or production need a variety of marketing materials. These consist of the following (not all are required)
 
-We can provide screenshots.
+- Title
+- Subtitle
+- Description
+- Icon
+- Screenshots
+- Keywords
 
-You need to provide descriptions for the App Store and Play Stores.
+We can usually provide the icon and screenshots, unless you want to do so.
+
+You need to provide the following
+ - App title
+ - App Subtitle
+ - App Description
 
 Apple is picky about descriptions. Please read the following to aid you in coming up with an app description for the Apple App Store.
 
 - [Product page](https://developer.apple.com/app-store/product-page/)
-- [App Store Review](https://developer.apple.com/app-store/review/guidelines/#accurate-metadata)
 - [Marketing guidelines](https://developer.apple.com/app-store/marketing/guidelines/#)
+- [App Store Review](https://developer.apple.com/app-store/review/guidelines/#accurate-metadata)
 
 Google is less picky. Here are their guidelines.
 
 - [Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
 
-You can send your descriptions to the team working on your project.
+You can send your title, subtitle and descriptions to the team working on your project.
 
