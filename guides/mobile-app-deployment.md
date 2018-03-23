@@ -1,3 +1,11 @@
+
+# Intro
+Getting your app in app stores is a bit of a process. Fortunately, here at Radial we excel at process and we are excited to help you in this journey!
+
+This guide aims to walk you through everything you will need to do from your end to get your app out there in the wild.
+
+While you work through it, if you encounter any roadblocks or need help, clarification, or support, please reach out! We are happy to help.
+
 # Customer Guide - Get Your App in the Apple App and Google Play Stores
 
 Any client in need of a mobile application will need two separate developer accounts
