@@ -103,7 +103,7 @@ In the meantime, see [While You Wait](#while_you_wait).
 ### Add Radial Developers To your Google Developer Account.
 After your Google Play Developer account is activated, add Radial Developers to your Play Account. In this case their ids will be [name]@radialdevgroup.com.
 
-# <a name="while_you_wait></a>Tasks For While You Wait
+# <a name="while_you_wait"></a>Tasks For While You Wait
 
 ## <a name="beta_testers"></a>Develop your list of Beta Testers
 
