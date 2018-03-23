@@ -111,7 +111,7 @@ While you wait for your Apple Developer Account to be approved, we recommend dev
 
 You'll need a set of emails for anyone willing to be a beta tester for your app.
 
-IMPORTANT
+__IMPORTANT__
 
 - Your Android beta testers must have Android phones.
 - Your iOS beta testers must have iPhones.
