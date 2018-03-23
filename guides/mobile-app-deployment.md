@@ -25,6 +25,8 @@ For both iOS and Android, you should designate someone in a position of authorit
 
 - This person should be able to select and/or create a Google account on behalf of the organization, and fill in details specific to the organization for creating a Google Developer Account.
 
+- This person should be able to accept all terms and conditions required by the Apple App and Google Play stores.
+
 # iOS
 
 ## Developer Account Setup
@@ -75,7 +77,7 @@ You will then add members of the Radial Developer team to the iTunes Connect acc
 
 __IMPORTANT__
 
-- The Apple ID of each Radial Developer may NOT be their Radial email.
+- The Apple ID of each Radial Developer might NOT be their Radial email.
 
 #### Test Flight - External Testers
 
@@ -131,11 +133,6 @@ Apps in beta testing or production need a variety of marketing materials. These 
 - Keywords
 
 We can usually provide the icon and screenshots, unless you want to do so.
-
-You need to provide the following
- - App title
- - App Subtitle
- - App Description
 
 Apple is picky about descriptions. Please read the following to aid you in coming up with an app description for the Apple App Store.
 
