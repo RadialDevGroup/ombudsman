@@ -19,11 +19,11 @@ This guide outlines steps to get started doing this. There are separate steps fo
 
 For both iOS and Android, you should designate someone in a position of authority in the organization to go through the steps to set up developer accounts.
 
-This person should be able to authorizing spending on behalf of the organization (inputting credit card information, etc)
+- This person should be able to authorizing spending on behalf of the organization (inputting credit card information, etc)
 
-This person should be able to select and/or create an Apple ID on behalf of the organization, and fill in details specific to the organization for creating an Apple Developer Account.
+- This person should be able to select and/or create an Apple ID on behalf of the organization, and fill in details specific to the organization for creating an Apple Developer Account.
 
-This person should be able to select and/or create a Google account on behalf of the organization, and fill in details specific to the organization for creating a Google Developer Account.
+- This person should be able to select and/or create a Google account on behalf of the organization, and fill in details specific to the organization for creating a Google Developer Account.
 
 # iOS
 
@@ -110,6 +110,8 @@ After your Google Play Developer account is activated, add Radial Developers to 
 While you wait for your Apple Developer Account to be approved, we recommend developing two lists of beta testers. One list will be for Android, the other for iOS.
 
 You'll need a set of emails for anyone willing to be a beta tester for your app.
+
+For Android, the users you plan to invite must have Google or G Suite Accounts.
 
 __IMPORTANT__
 
