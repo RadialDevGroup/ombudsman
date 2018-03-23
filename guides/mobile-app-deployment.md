@@ -1,8 +1,8 @@
 
 # Intro
-Getting your app in app stores is a bit of a process. Fortunately, here at Radial we excel at process and we are excited to help you in this journey!
+Getting your app into the app stores is a bit of a process. Fortunately, here at Radial we excel at process and we are excited to help you in this journey!
 
-This guide aims to walk you through everything you will need to do from your end to get your app out there in the wild.
+This guide aims to walk you through everything you will need to do from your end to get your app out there into the wild.
 
 While you work through it, if you encounter any roadblocks or need help, clarification, or support, please reach out! We are happy to help.
 
@@ -31,13 +31,13 @@ This person should be able to select and/or create a Google account on behalf of
 
 You will needs an iOS Developer Account to publish an app on the Apple App Store.
 
-First, you will need to go create an [Apple developer account](https://developer.apple.com/programs/enroll/).
+First, you will need to create an [Apple developer account](https://developer.apple.com/programs/enroll/).
 
 Unless there is a strong reason for you to enroll as an individual, you will need to enroll as an organization.
 
 *You should only enroll as an individual if you are a sole proprietor or single person business.
 
-IMPORTANT
+__IMPORTANT__
 
 The Apple ID you create or use for the developer account will be used throughout the app development process. The app will be linked to this Apple ID. The Apple ID you select to use can be created specifically for this account, or you can use an existing Apple ID.
 
@@ -56,7 +56,7 @@ This [step-by-step tutorial](https://mobileroadie.zendesk.com/hc/en-us/articles/
 You then need to wait for the Apple Developer Account to be approved. (24+ hours)
 
 
-### <a name="while_you_wait"></a>While You Wait
+### In the Meantime...
 
 - [Develop your list of beta testers](#beta_testers)
 - [Prepare or decide on marketing materials for your app](#marketing)
@@ -69,18 +69,19 @@ You will use the Apple ID you associated with the developer account to do this.
 
 ### Add Radial Developers As Administrators
 
-After you have set up ITunes Connect, you should ask the members of your development team for their Apple IDs.
+After you have set up iTunes Connect, you should ask the members of your development team for their Apple IDs.
 
 You will then add members of the Radial Developer team to the iTunes Connect account as administrators. You will use their Apple ID to do this.
 
-IMPORTANT
+__IMPORTANT__
 
 - The Apple ID of each Radial Developer may NOT be their Radial email.
 
-#### Test Flight - external testers
+#### Test Flight - External Testers
 
-You should then add up to 30 external beta testers in (Test Flight)[https://developer.apple.com/testflight/]
-Test Flight can be found in iTunes Connect. Add external testers using their email addresses.
+You can then add up to 30 external beta testers in (Test Flight)[https://developer.apple.com/testflight/]
+
+Test Flight can be found under iTunes Connect. You will add external testers using their email addresses.
 
 # Android
 
@@ -95,12 +96,14 @@ Follow the instructions to set up a developer account.
 
 This costs $25 at this time.
 
-After going through this process you will await an email notification from Google that will notify you that your account is ready to be activated. In the meantime, see [While You Wait](#while_you_wait).
+After going through this process you will await an email notification from Google that will tell you  your account is ready to be activated.
+
+In the meantime, see [While You Wait](#while_you_wait).
 
 ### Add Radial Developers To your Google Developer Account.
-Use the [name]@radialdevgroup.com account to add Radial Developers to your Play Account.
+After your Google Play Developer account is activated, add Radial Developers to your Play Account. In this case their ids will be [name]@radialdevgroup.com.
 
-# Other Activities
+# <a name="while_you_wait></a>Tasks For While You Wait
 
 ## <a name="beta_testers"></a>Develop your list of Beta Testers
 
