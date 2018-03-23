@@ -6,6 +6,8 @@ This guide aims to walk you through everything you will need to do from your end
 
 While you work through it, if you encounter any roadblocks or need help, clarification, or support, please reach out! We are happy to help.
 
+Unless these steps are followed your app will not be able to be distributed in an effective manner. It's a bit of an effort but we are here to help you through it at every step of the way!
+
 # Customer Guide - Get Your App in the Apple App and Google Play Stores
 
 Any client in need of a mobile application will need two separate developer accounts
@@ -144,5 +146,6 @@ Google is less picky. Here are their guidelines.
 
 - [Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
 
-You can send your title, subtitle and descriptions to the team working on your project.
+You can add these marketing materials yourself, or send them to the team working on your project and we will add them for you.
+
 
