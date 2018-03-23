@@ -123,7 +123,7 @@ __IMPORTANT__
 
 ## <a name="marketing"></a>Select Marketing Materials
 
-Apps in beta testing or production need a variety of marketing materials. These consist of the following (not all are required)
+Apps in beta testing or production need a variety of marketing materials. These consist of the following:
 
 - Title
 - Subtitle
