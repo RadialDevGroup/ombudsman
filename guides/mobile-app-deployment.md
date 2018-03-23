@@ -1,4 +1,4 @@
-# Customer Guide - Get Your App in the Play and App Stores
+# Customer Guide - Get Your App in the Apple App and Google Play Stores
 
 Any client in need of a mobile application will need two separate developer accounts
 
@@ -15,7 +15,7 @@ This person should be able to authorizing spending on behalf of the organization
 
 This person should be able to select and/or create an Apple ID on behalf of the organization, and fill in details specific to the organization for creating an Apple Developer Account.
 
-This person should be able to select and/or create Google accounts on behalf of the organization, and fill in details specific to the organization for creating a Google Developer Account.
+This person should be able to select and/or create a Google account on behalf of the organization, and fill in details specific to the organization for creating a Google Developer Account.
 
 # iOS
 
@@ -33,7 +33,7 @@ IMPORTANT
 
 The Apple ID you create or use for the developer account will be used throughout the app development process. The app will be linked to this Apple ID. The Apple ID you select to use can be created specifically for this account, or you can use an existing Apple ID.
 
-You may not want to use your personal Apple ID, but rather one that is affiliated with your organization. You cannot use an Apple ID that is already used to distribute other media types besides apps (movies, TV, books, music).
+*You may not want to use your personal Apple ID, but rather one that is affiliated with your organization. You cannot use an Apple ID that is already used to distribute other media types besides apps (movies, TV, books, music).
 
 ### iOS Developer Account Enrollment requirements (for an organization)
 
@@ -48,7 +48,7 @@ This [step-by-step tutorial](https://mobileroadie.zendesk.com/hc/en-us/articles/
 You then need to wait for the Apple Developer Account to be approved. (24+ hours)
 
 
-### While You Wait
+### <a name="while_you_wait"></a>While You Wait
 
 - [Develop your list of beta testers](#beta_testers)
 - [Prepare or decide on marketing materials for your app](#marketing)
@@ -85,6 +85,10 @@ Sign in to the Google Play console with this account.
 
 Follow the instructions to set up a developer account.
 
+This costs $25 at this time.
+
+After going through this process you will await an email notification from Google that will notify you that your account is ready to be activated. In the meantime, see [While You Wait](#while_you_wait).
+
 ### Add Radial Developers To your Google Developer Account.
 Use the [name]@radialdevgroup.com account to add Radial Developers to your Play Account.
 
@@ -118,7 +122,7 @@ Apple is picky about descriptions. Please read the following to aid you in comin
 
 Google is less picky. Here are their guidelines.
 
--[Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
+- [Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
 
 You can send your descriptions to the team working on your project.
 
