@@ -15,8 +15,9 @@ corrected.
 
 ## Schedule
 
-Core hours are from 9:30am to 3pm M-F Please be sure to notify the team, via email,
-if you are unable to be available during core hours.  Client communication should
+Core hours are from 9:30am to 3pm M-F. Please be sure to notify the team, via
+email, if you are unable to be available during core hours.  Adding absences to
+your work calendar is an appropriate courtesy. Client communication should
 occur between 9am and 6pm M-F only, except by absolute neccessity.
 
 ## Communication Standards
@@ -69,7 +70,7 @@ if you are unable to be available during core hours.
 * Please work 40 hours per week or allocate PTO to cover.
 
 * In the event of a deadline, weekend work will only be required if you were aware of
-the deadline at the begingging of the week. In practice this means that teams may
+the deadline at the beginning of the week. In practice this means that teams may
 need to work outside of business hours to meet their goals.  Please avoid scenarios
 where weekend work will be required, as much as possible.
 
@@ -119,18 +120,20 @@ this time.
 
 There are two categories of paid time off (PTO).
 
-Category One includes time taken for bereavement, family emergencies, disability
-and jury duty. Category One leave is available without bound and does not count
-against PTO.
+Category One includes time taken for bereavement, family emergencies, disability, jury duty,
+or time taken for your health (including mental health). Category One leave is available
+without bound and does not count against PTO.
 
-Category Two includes time taken for sick, personal or vacation. Employees will
-accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
+Category Two includes time taken for vacation or planned events (i.e. scheduled appointments, etc).
+Employees will accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
 Two PTO may be borrowed, up to the full amount.  Accruded PTO is available on
 an annual basis, only, and resets to an accrual of 0 on January 1st.
 
+Abuse of this policy will be grounds for formal reprimand.
+
 ## Sick Time and Personal Time
 
-Sick and personal time leave is available within your available Category Two PTO.
+Sick and personal time leave is available within your available Category One PTO.
 Please take time, with notice (see **communication standards**), as needed, to
 ensure best-available return to full productivity.  Please do not expose the rest
 of the staff to anything which would hamper their performance or delivery.  Sick
@@ -146,20 +149,15 @@ Other specific requests:
 - If working from home will not be productive or will adversely affect
   your recovery, don't.
 
-- Absences not related to a health issue shall be qualified as personal time and
-  should be taken as needed to recuperate from work-related stress.  Please account
-  appropriately for this use of PTO
+- Absences not related to a health issue should be avoided. Where possible, please
+  take care of other needs and errands as flexible time. Time that is not made up will be counted as PTO.
 
 - Sick or personal time shall not be made up; it is the responsiblity of management
   to ensure adequate redundancy will enable client commitments to be met.
 
-- Your sick time should be recorded in Freckle under the project "Out-of-office"
-  and tagged with "#sick-time".
+- Your sick time should be recorded in Freckle under the project "Personal/Sick Time".
 
-- Your personal time should be recorded in Freckle under the project "Out-of-office"
-  and tagged with "#personal-time".
-
-## Vacation time
+## PTO time
 
 Employees will be eligible for vacation time through their Category Two PTO,
 and may take a vacation for up to 2 weeks at a time. Please work with management
@@ -172,8 +170,8 @@ Management strongly recommends at least one vacation of at least one contiguous
 week away from the office and work tasks.
 
 Other specific requests:
-- Your vacation time should be recorded in Freckle under the project
-  "Out-of-office" and tagged with "#vacation-time".
+- Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
+- Other PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant.
 
 ## Work From Home/Remote/Flex Time
 
