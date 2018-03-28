@@ -2,7 +2,11 @@
 
 This is an example that has a master list of things we've done on a project.  Please ensure that it only includes items and areas necessary to your project
 
-# What does this PR do
+# What does this PR do?
+
+# What Work Item does this Complete?
+
+Tracker [#143516809](https://www.pivotaltracker.com/story/show/143516809)
 
 # Background information
 
@@ -17,6 +21,7 @@ This is an example that has a master list of things we've done on a project.  Pl
 - [ ] This has been tested for responsiveness on (landscape/portrait, mobile, iphone X, tablet, desktop, retina, ie11, edge, firefox, chrome).
 - [ ] This has been manually-tested by another developer.  [Link to QA Guide](#this-should-exist)
 - [ ] `A` tags do not have hrefs (cordova/any)
+- [ ] Environment variables have been updated in example file (application.yml.example)
 - [ ] Environment variables have been updated on all deployments:
   - [ ] Netlify
   - [ ] CircleCI
@@ -26,23 +31,13 @@ This is an example that has a master list of things we've done on a project.  Pl
   - [ ] Configuration is confirmed?
 - [ ] New image sizes must be generated (on S3).
 - [ ] This will work in a desirable and clear way when offline.
-- [ ] Environment variables have been updated in example file (application.yml.example)
 - [ ] Active Admin has been updated with new models.
 - [ ] If this will require changes to the Salesforce schema, has the appropriate party been notified?
 - [ ] Does this PR require a Selenium test? (e.g. Browser-specific bugs or complicated UI bugs)
 - [ ] Does this PR have any migrations?
-- [ ] Approval Requested from developer lead
-- [ ] Screenshots have been added to the marketing folder
+- [ ] Screenshots have been (added to/updated in) the marketing folder (if applicable)
 - [ ] All version numbers are up-to-date
 - [ ] Technology list is updated
-
-# Definition of Done (Deployment)
-- [ ] Configuration is updated
-- [ ] Database is migrated
-- [ ] Assets have been re-generated
-- [ ] submodules are up-to-date
-- [ ] Servers have been rebooted, if applicable
-- [ ] Releases have been properly identified (tagged, etc).
 
 # Notice of secondary effects:
 - [ ] The project documentation has been updated (explain:)(README/PULL_REQUEST_TEMPLATE/PROCESS.md)
