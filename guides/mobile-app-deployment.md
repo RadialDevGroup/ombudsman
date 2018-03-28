@@ -21,7 +21,7 @@ This guide outlines steps to get started doing this. There are separate steps fo
 
 For both iOS and Android, you should designate someone in a position of authority in the organization to go through the steps to set up developer accounts.
 
-- This person should be able to authorizing spending on behalf of the organization (inputting credit card information, etc)
+- This person should be able to authorizing discretionary spending on behalf of the organization (inputting credit card information, etc)
 
 - This person should be able to select and/or create an Apple ID on behalf of the organization, and fill in details specific to the organization for creating an Apple Developer Account.
 
@@ -136,13 +136,13 @@ Apps in beta testing or production need a variety of marketing materials. These 
 
 We can usually provide the icon and screenshots, unless you want to do so.
 
-Apple is picky about descriptions. Please read the following to aid you in coming up with an app description for the Apple App Store.
+Apple has strict standards about the descriptions you use for the app. Please read the following to aid you in coming up with an app description for the Apple App Store.
 
 - [Product page](https://developer.apple.com/app-store/product-page/)
 - [Marketing guidelines](https://developer.apple.com/app-store/marketing/guidelines/#)
 - [App Store Review](https://developer.apple.com/app-store/review/guidelines/#accurate-metadata)
 
-Google is less picky. Here are their guidelines.
+Google is not as stringent with regards to metadata. Here are their guidelines.
 
 - [Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
 
