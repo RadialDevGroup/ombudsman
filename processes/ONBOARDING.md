@@ -17,7 +17,7 @@
 ## Accounts
 ### WiFi
  perfect purple password
- 
+
 ### Google
   - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
   - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
@@ -39,7 +39,7 @@
 
 ### Project-specific
 - Heroku
-- AWS Credentials
+- AWS Credentials (See [AWS Credential policy](guides/AWS-CREDENTIAL-POLICY.md))
 
 ## Training
 ### Freckle
@@ -73,11 +73,10 @@ Goal:
   - Assign Personal space to developer
 
     - Provide key(s) for entry into workspace
-  
+
   Practice:
   - Explain goal
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
-    
+
 ## Goals
   Use [Goal Setting Excercise](https://docs.google.com/document/d/1nTLlzw2MF-bUMg7yfW02HHm4LeQyLNWVf5z1SmHryUo/edit#heading=h.y9ypw79882n4) to create an email to the new hire.  CC "Brian Bensky" <brianbensky@gmail.com> and indicate that the response should be sent to Brian.
-
