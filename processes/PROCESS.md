@@ -67,7 +67,7 @@ The following questions should be answered by a PROCESS.MD file on a project:
 
     Use `development` as the root branch`
 
-    See [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md)
+    See [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md)
 
     Merge development into branch and resolve conflicts as needed before PR review if
     it is not automatically mergeable without conflicts.
