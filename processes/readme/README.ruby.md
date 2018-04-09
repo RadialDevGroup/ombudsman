@@ -21,6 +21,8 @@ Short description of your project
 1. `bundle exec ./bin/setup` - Run the setup script (or `bundle exec rake db:setup`).
 1. `bundle exec rake db:migrate` - Run database migrations.
 
+Run the development server and test suite to verify successful deployment. See wiki for QA walkthrough.
+
 ## Development server
 - `bundle exec rails server`
 - View site at `http://localhost:3000/`

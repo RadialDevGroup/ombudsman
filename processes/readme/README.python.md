@@ -20,7 +20,7 @@ Short description of your project
 1. `python manage.py loaddata seeds` - Load seeds file. 
 1. `python manage.py createsuperuser` - Create an admin account for yourself.
 
-Run the development server and test suite to verify successful deployment.
+Run the development server and test suite to verify successful deployment. See wiki for QA walkthrough.
 
 ## Development server
 - You must be in the correct [virtual environment](https://realpython.com/python-virtual-environments-a-primer/) (`source env/bin/activate`)

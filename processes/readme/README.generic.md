@@ -14,7 +14,7 @@ Short description of your project
 
 1. Use numbered lists.
 1. Explain how to get any secret environment variables if nessisary.
-1. Indicate how you will know when you have successfuly installed.
+1. Indicate how you will know when you have successfuly installed such as tests passing and successful completion of happy path QA instructions in the wiki.
 
 ## Development server
 

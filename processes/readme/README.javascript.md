@@ -29,7 +29,7 @@ See `package.json` for version numbers unless otherwise indicated.
 1. `yarn` - Install dependencies (see [Yarn](#yarn)).
 1. `cp .env.example .env` - Modify local settings in `.env` as nessisary.
 
-Run the development server and test suite to verify successful deployment.
+Run the development server and test suite to verify successful deployment. See wiki for QA walkthrough.
 
 ## Development server
   - `yarn start`

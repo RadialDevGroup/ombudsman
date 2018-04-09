@@ -32,7 +32,8 @@ Link to the developer journey for the language and framework. Guide the reader t
 Instructions for setting up the project for development.
 
 If any secret environment variables are needed, include instructions for where to obtain them.
-Conclude with instructions for how to verify the install was successful.
+
+Conclude with instructions for how to verify the install was successful such as walking through the happy path instructions in the wiki. If this is a mobile app, this may require completing the app deploy process.
 
 ## Development server
 
@@ -44,7 +45,7 @@ The command for running the tests.
 
 ## Deployment
 
-Link to wiki for deployment instructions (especially for mobile apps). Include instructions for obtaining any necessary secret environment variables. In general, 
+Link to wiki for deployment instructions (especially for mobile apps). Include instructions for obtaining any necessary secret environment variables. Often, environment variables can be obtained directly from the server (e.g. Heroku or Netlify) if the developer has access.
 
 ## Troubleshooting/OS variances
 
@@ -52,7 +53,7 @@ Provide instructions for overcoming any commonly encountered issues with setup a
 
 ## Development Process
 
-Link to `PROCESS.md` If you don't have one you can copy a template from https://github.com/RadialDevGroup/Policy/blob/master/processes/PROCESS.md (click on *raw*).
+Link to `PROCESS.md` If you don't have one you can copy a template from https://github.com/RadialDevGroup/Policy/blob/master/processes/PROCESS.md (click on *raw* to copy).
 
 Link to style guide. This might an external style guide or a project `STYLEGUIDE.md` that may be based on another style guide.
 
