@@ -33,7 +33,8 @@ Run the development server and test suite to verify successful deployment. [See 
 
 ## Development server
   - `yarn start`
-  - link to wiki/seeds file for test users, etc.
+  - Link to wiki/seeds file for test users, etc.
+  - If a backend is needed, include instructions for what remote API host to use or a link to the backend repo.
 
 ## Testing
   - `yarn test`
@@ -47,7 +48,7 @@ Note about environment variables for deployment (document in `.env.example` file
 ## Troubleshooting/OS variances
 
 ### Yarn
-  - If you don't have `yarn`, install it with `npm install -g yarn`
+  - If you don't have `yarn`, install it with `brew install yarn --without-node` or `npm install -g yarn`
   - For Linux, please reference these [instructions](https://yarnpkg.com/lang/en/docs/install/)
 
 ## Development Process
