@@ -60,3 +60,5 @@ Link to style guide. This might an external style guide or a project `STYLEGUIDE
 ## Deployment History
 
 Every time the project is successfully deployed a commit should be made to the README with the date, OS Version, and XCode version as well as any corrections or missing information.
+
+For your convenience, use this [bash script](readme/log_deploy.sh) to append the current version to the README in the working directory (add it to someplace in your `$PATH` like `/usr/local/bin`).
