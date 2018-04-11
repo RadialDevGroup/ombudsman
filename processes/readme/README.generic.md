@@ -13,8 +13,8 @@ Short description of your project
 ## Setup
 
 1. Use numbered lists.
-1. Explain how to get any secret environment variables if nessisary.
-1. Indicate how you will know when you have successfuly installed such as tests passing and successful completion of happy path QA instructions in the wiki.
+1. Explain how to get any secret environment variables if necessary.
+1. Indicate how you will know when you have successfuly installed the project such as tests passing and successful completion of happy path QA instructions in the wiki.
 
 ## Development server
 
@@ -30,7 +30,7 @@ link to wiki/seeds file for test users, etc.
 
 link to wiki for deployment instructions.
 
-Note about environment variables for deployment (may refer to keys in an `application.yml` or `.env` file)
+Note about environment variables for deployment (may refer to keys in an `application.yml.example` or `.env.example` file)
 
 ## Troubleshooting/OS variances
 

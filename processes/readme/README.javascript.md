@@ -27,9 +27,9 @@ See `package.json` for version numbers unless otherwise indicated.
 ## Setup
 1. `nvm use` - Verify you are using the correct version of Node.
 1. `yarn` - Install dependencies (see [Yarn](#yarn)).
-1. `cp .env.example .env` - Modify local settings in `.env` as nessisary.
+1. `cp .env.example .env` - Modify local settings in `.env` as necessary.
 
-Run the development server and test suite to verify successful deployment. See wiki for QA walkthrough.
+Run the development server and test suite to verify successful deployment. [See wiki](./wiki/{WIKI-PAGE}) for QA walkthrough.
 
 ## Development server
   - `yarn start`
