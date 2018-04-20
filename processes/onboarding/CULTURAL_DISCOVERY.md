@@ -8,7 +8,6 @@
 - We had to define our values... which is difficult; so we started with goals
     - what did we want our values to do?
 
-
 ### Example value - COURAGE:
 - Our main goal was to grow or die
 - Secondary goal: prioritize communication and accountability
@@ -16,8 +15,7 @@
 
   **Anecdote**: When you're at a consultancy, you can always find work. The easiest kind is work with no clear goals (poorly defined definition of success). You can always create a good feeling during the sales process, with no regard for delivery or the end product. What you will end up with is an unsatisfied client.
 
-  Without articulated goals, then there are no shared goals, and therefore no path to customer recovery. You have to find a balance between work that allows the company to survive, and work that let's the company thrive. Some companies, in an effort to survive, only seek out the former type of work. But without work that results in growth, eventually the company will die to attrition.
-
+  Without articulated goals, then there are no shared goals, and therefore no path to customer recovery. You have to find a balance between work that allows the company to survive, and work that lets the company thrive. Some companies, in an effort to survive, only seek out the former type of work. But without work that results in growth, eventually the company will die to attrition.
 
 ## Exercise:
 
