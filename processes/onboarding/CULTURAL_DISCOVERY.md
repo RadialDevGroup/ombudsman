@@ -1,4 +1,5 @@
 ## Cultural Discovery Process
+
 ### The Beginning of Radial
 
 - Our goal was to create a company that was authentic
@@ -22,9 +23,10 @@
 - Journal about:
     - Negative and positive work experiences
     - Document goals based on those work experiences
+    - Express the goals in 3-7 values
 - *Prompts for journaling*
     - what are your goals at the company?
     - what goals would you like Radial to meet?
     - Why are you here?
-- Express the goals in 3-7 values
-- [Explain Radial's values](https://docs.google.com/document/d/1hKsVmu2wRSdnbVm6xqWsm3zc3fERbJXVH7N4ANy8jI0/edit)
+- [Print and Explain Radial's values](https://docs.google.com/document/d/1hKsVmu2wRSdnbVm6xqWsm3zc3fERbJXVH7N4ANy8jI0/edit)
+- Email Ben the exercise outcomes
