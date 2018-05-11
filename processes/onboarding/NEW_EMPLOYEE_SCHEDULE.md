@@ -8,7 +8,7 @@
 - Go over [Company Values](./PROCESS_VALUES.md)
 - Retrospective
   -Examples of positive outcomes
-- Cultural Discovery Exercise
+- [Cultural Discovery Exercise](./CULTURAL_DISCOVERY.md)
 - Slack Channels
   - e.g. todo-item for snacks
 - [ ] Schwag
