@@ -1,5 +1,11 @@
 # Developer Lead Policy
 
+## Responsibility for Process and Documentation
+The developer lead is responsible for ensuring process is followed and documented. Standard project documentation is described in:
+- [PROCESS](PROCESS.md)
+- [README](README.md)
+- [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md)
+
 ## Technical Decisions
 1. The developer lead is responsible for making all engineering decisions on their
   designated project.
@@ -15,7 +21,7 @@
   for your conclusion. Evaluate every alternative before making a decision.
 5. If the developer lead does not agree with your proposal and you feel strongly
   further engineering discussions should occur, bring this up in weekly retrospective
-  or contact Management and either Ben or Marshall to continue the discussion.
+  or contact Management to continue the discussion.
 
 ## Responsibility for Previous Clients
 When a previous Radial client re-engages with us, the individual who was the developer lead
