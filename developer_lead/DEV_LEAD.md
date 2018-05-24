@@ -2,7 +2,7 @@
 
 ## Responsibility for Process and Documentation
 The developer lead is responsible for ensuring process is followed and documented. Standard project documentation is described in:
-- [PROCESS](PROCESS.md)
+- [PROCESS](PROCESS_TEMPLATE.md)
 - [README](README.md)
 - [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md)
 

@@ -21,7 +21,7 @@ If accepted process is not followed, or is not adequate, every member of the tea
 1. Identify what activity seems to violate process.
 2. Identify the accepted process or describe a process that addresses the process problem.
 3. Add a description of the activity and the proposed change to process as an issue on GitHub.
-4. Add a process change as a PR following [PROCESS.md](PROCESS.md).
+4. Add a process change as a PR following [PROCESS.md](developer_lead/PROCESS.md).
 
 
 ## Project Management

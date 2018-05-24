@@ -39,7 +39,7 @@
 
 ### Project-specific
 - Heroku
-- AWS Credentials (See [AWS Credential policy](guides/AWS-CREDENTIAL-POLICY.md))
+- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
 
 ## Training
 ### Freckle
