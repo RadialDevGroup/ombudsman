@@ -27,7 +27,7 @@ is Ben West.
 ## Process Policies
 - [Policy Improvement](PROCESS.md)
 - [Hardware and Equipment Service](processes/HARDWARE.md)
-- [Process Process](processes/PROCESS.md)
+- [Process on Projects](processes/PROCESS_TEMPLATE.md)
 
 ### Management/HR
 - [Onboarding](processes/ONBOARDING.md)
@@ -54,6 +54,3 @@ is Ben West.
 
 ## Guides
 - [How to Write Specifications](guides/story_writing.md)
-
-## Misc Documents
-- [Annual and At-hire Goals Worksheet](documents/goals.md)

@@ -52,7 +52,7 @@
 ## Policy Repo
 
   - Go over the policy repo, including the Process documentation for it.
-  - Review [Values](onboarding/PROCESS_VALUES.md) as documented in the intents of existing policies
+  - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
 
 ### Attendance
 

@@ -5,7 +5,7 @@
 - This is when Ben should communicate to developers about the new hire’s schedule and who they will be shadowing
 - Take photo and add to website
 - Meet and greet/team lunch
-- Go over [Company Values](./PROCESS_VALUES.md)
+- Go over [Company Values](./VALUES.md)
 - Retrospective
   -Examples of positive outcomes
 - Slack Channels
