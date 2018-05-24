@@ -2,15 +2,15 @@
 
 ### The Beginning of Radial
 
-- Our goal was to create a company that was authentic
+- Our initial goal was to create a company that was authentic
     - We had to have continuity and vulnerability
-    - Continuity required us to be articulate
+    - Cultural continuity required us to be culturally articulate
     - Vulnerability required us to be confident
-- We had to define our values... which is difficult; so we started with goals
-    - what did we want our values to do?
+- We wanted a culture that allowed us to achieve our goals
+    - A culture is comprised of values. For culture to be a tool, its structure had to be defined
 
 ### Example value - COURAGE:
-- Our main goal was to grow or die
+- We realized that if we didn't grow we would eventually die a slow death
 - Secondary goal: prioritize communication and accountability
 - Tertiary goal: we're gonna do hard stuff -- work w/ ppl no one wants to work with, make things work, helping people who have made mistakes
 
@@ -20,9 +20,14 @@
 
 ## Exercise:
 
+- Types of goals to be documented:
+  - personal career goals
+  - personal goals at Radial
+  - goals about how Radial will be
+
 - Journal about:
     - Negative and positive work experiences
-    - Document goals based on those work experiences
+    - Document the above goals based on those work experiences
     - Express the goals in 3-7 values
 - *Prompts for journaling*
     - What are your goals at the company?
