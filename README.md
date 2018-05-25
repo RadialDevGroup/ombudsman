@@ -9,8 +9,8 @@ is Ben West.
 
 ## Employee Expectations
 ### Organizational Items
-- [ORGANIZATIONAL_STRUCTURE](ORGANIZATIONAL_STRUCTURE.md)
-- [FACILITIES](employee_expectations/FACILITIES.md)
+- [Organizational Structure](ORGANIZATIONAL_STRUCTURE.md)
+- [Facilities](employee_expectations/FACILITIES.md)
 - [Escalation - when/how to ](employee_expectations/ESCALTION.md)
 
 ### HR Policies
@@ -28,6 +28,7 @@ is Ben West.
 
 ## Management/HR
 - [Onboarding](management/ONBOARDING.md)
+- [Cultural Discovery](management/CULTURAL_DISCOVERY)
 - [Offboarding](management/OFFBOARDING.md)
 
 ## Developer Leads
@@ -47,7 +48,7 @@ is Ben West.
 - [Website & Analytics](marketing_and_sales/WEBSITE_STRATEGY.md)
 
 ## Sales
-- [Onboarding](marketing_and_sales/SALES-ONBOARDING.md)
+- [On-boarding](marketing_and_sales/SALES-ONBOARDING.md)
 - [Kickoff](marketing_and_sales/KICKOFF.md)
 
 #### Services not offered
