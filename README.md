@@ -2,55 +2,58 @@
 
 This is the authoritative company policy document.  Putting it in version control allows everyone to see and understand changes, as well as to contribute to improvements in the quality and scope of policy over time.
 
-## Current Policies
-- [Attendance](ATTENDANCE.md)
-- [Code Standards](CODE_STANDARDS.md)
-- [Equal Opportunity](EQUAL_OPPORTUNITY.md)
-- [Pairing](PAIRING.md)
-- [Peer Review](PEER_REVIEW.md)
-- [Performance](PERFORMANCE.md)
-- [Time Reporting](TIME_REPORTING.md)
-- [Technology Usage and Privacy Policy](PRIVACY.md)
-
 ## Definitions
 When "Management" is referenced, this will mean the individual who is currently
 responsible for managing Radial Development Group. At this time, this individual
 is Ben West.
 
-## Organizational Responsibilities
-- [ORGANIZATION](ORGANIZATION.md)
+## Organizational Items
+- [ORGANIZATIONAL_STRUCTURE](ORGANIZATIONAL_STRUCTURE.md)
+- [FACILITIES](employee_expectations/FACILITIES.md)
+
+## HR Policies
+- [Attendance](employee_expectations/ATTENDANCE.md)
+- [Equal Opportunity](employee_expectations/EQUAL_OPPORTUNITY.md)
+- [Performance](employee_expectations/PERFORMANCE.md)
+- [Time Reporting](employee_expectations/TIME_REPORTING.md)
+- [Technology Usage and Privacy Policy](employee_expectations/PRIVACY.md)
+
+## Development Policies
+- [Code Standards](development/CODE_STANDARDS.md)
+- [Pairing](development/PAIRING.md)
+- [Peer Review](development/PEER_REVIEW.md)
+
+## Process Policies
+- [Policy Improvement](PROCESS.md)
+- [Hardware and Equipment Service](development/HARDWARE.md)
+- [Process on Projects](developer_lead/PROCESS_TEMPLATE.md)
+
+### Management/HR
+- [Onboarding](management/ONBOARDING.md)
+- [Offboarding](management/OFFBOARDING.md)
+
+### Developer Leads
+- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
+- [Kickoff](marketing_and_sales/KICKOFF.md)
+- [Handoff](developer_lead/PROJECT_HANDOFF.md)
+- [Standards](developer_lead/DEVELOPER_LEAD.md)
+- [Escalation - when/how to ](employee_expectations/ESCALTION.md)
+
+### Marketing
+- [General](marketing_and_sales/GENERAL_STRATEGY.md)
+- [Case Studies](marketing_and_sales/CASE_STUDY_STRATEGY.md)
+- [Social Media](marketing_and_sales/SOCIAL_MEDIA_STRATEGY.md)
+- [Events](marketing_and_sales/EVENT_STRATEGY.md)
+- [Newsletter](marketing_and_sales/NEWSLETTER_STRATEGY.md)
+- [Content Development](marketing_and_sales/BLOGGING.md)
+- [Website & Analytics](marketing_and_sales/WEBSITE_STRATEGY.md)
+
+### Sales
+- [Onboarding](marketing_and_sales/SALES-ONBOARDING.md)
+
+## Guides
+- [How to Write Feature Stories](development/story_writing.md)
 
 ## Contributing
 - Submit bugs in policy via github issues
 - Follow the [process](PROCESS.MD) to resolve issues
-
-## Process Policies
-- [Policy Improvement](PROCESS.md)
-- [Hardware and Equipment Service](processes/HARDWARE.md)
-- [Process on Projects](processes/PROCESS_TEMPLATE.md)
-
-### Management/HR
-- [Onboarding](processes/ONBOARDING.md)
-- [Offboarding](processes/OFFBOARDING.md)
-
-### Developer Leads
-- [Client Onboarding](processes/CLIENT_ONBOARDING.md)
-- [Kickoff](processes/KICKOFF.md)
-- [Handoff](processes/PROJECT_HANDOFF.md)
-- [Standards](DEVELOPER_LEAD.md)
-- [Escalation - when/how to ](ESCALTION.md)
-
-### Marketing
-- [General](processes/marketing/GENERAL_STRATEGY.md)
-- [Case Studies](processes/marketing/CASE_STUDY_STRATEGY.md)
-- [Social Media](processes/marketing/SOCIAL_MEDIA_STRATEGY.md)
-- [Events](processes/marketing/EVENT_STRATEGY.md)
-- [Newsletter](processes/marketing/NEWSLETTER_STRATEGY.md)
-- [Content Development](processes/marketing/BLOGGING.md)
-- [Website & Analytics](processes/marketing/WEBSITE_STRATEGY.md)
-
-### Sales
-- [Onboarding](processes/SALES-ONBOARDING.md)
-
-## Guides
-- [How to Write Specifications](guides/story_writing.md)
