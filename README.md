@@ -7,11 +7,13 @@ When "Management" is referenced, this will mean the individual who is currently
 responsible for managing Radial Development Group. At this time, this individual
 is Ben West.
 
-## Organizational Items
+## Employee Expectations
+### Organizational Items
 - [ORGANIZATIONAL_STRUCTURE](ORGANIZATIONAL_STRUCTURE.md)
 - [FACILITIES](employee_expectations/FACILITIES.md)
+- [Escalation - when/how to ](employee_expectations/ESCALTION.md)
 
-## HR Policies
+### HR Policies
 - [Attendance](employee_expectations/ATTENDANCE.md)
 - [Equal Opportunity](employee_expectations/EQUAL_OPPORTUNITY.md)
 - [Performance](employee_expectations/PERFORMANCE.md)
@@ -22,24 +24,20 @@ is Ben West.
 - [Code Standards](development/CODE_STANDARDS.md)
 - [Pairing](development/PAIRING.md)
 - [Peer Review](development/PEER_REVIEW.md)
+- [How to Write Feature Stories](development/story_writing.md)
 
-## Process Policies
-- [Policy Improvement](PROCESS.md)
-- [Hardware and Equipment Service](development/HARDWARE.md)
-- [Process on Projects](developer_lead/PROCESS_TEMPLATE.md)
-
-### Management/HR
+## Management/HR
 - [Onboarding](management/ONBOARDING.md)
 - [Offboarding](management/OFFBOARDING.md)
 
-### Developer Leads
+## Developer Leads
 - [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
 - [Kickoff](marketing_and_sales/KICKOFF.md)
 - [Handoff](developer_lead/PROJECT_HANDOFF.md)
 - [Standards](developer_lead/DEVELOPER_LEAD.md)
-- [Escalation - when/how to ](employee_expectations/ESCALTION.md)
+- [Process on Projects](developer_lead/PROCESS_TEMPLATE.md)
 
-### Marketing
+## Marketing
 - [General](marketing_and_sales/GENERAL_STRATEGY.md)
 - [Case Studies](marketing_and_sales/CASE_STUDY_STRATEGY.md)
 - [Social Media](marketing_and_sales/SOCIAL_MEDIA_STRATEGY.md)
@@ -48,11 +46,14 @@ is Ben West.
 - [Content Development](marketing_and_sales/BLOGGING.md)
 - [Website & Analytics](marketing_and_sales/WEBSITE_STRATEGY.md)
 
-### Sales
+## Sales
 - [Onboarding](marketing_and_sales/SALES-ONBOARDING.md)
+- [Kickoff](marketing_and_sales/KICKOFF.md)
 
-## Guides
-- [How to Write Feature Stories](development/story_writing.md)
+#### Services not offered
+- [Hardware and Equipment Service](marketing_and_sales/HARDWARE.md)
+- IT Services
+- Marketing
 
 ## Contributing
 - Submit bugs in policy via github issues

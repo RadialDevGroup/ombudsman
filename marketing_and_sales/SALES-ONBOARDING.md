@@ -12,5 +12,5 @@
 Please have team member thoroughly read sales playbook materials, sales README and PROCESS and review materials in Sales Tools folder and Dropbox
 
 # Guides
-  - If present, please have new team-member review guides concering professional communication and delivery process
+  - If present, please have new team-member review guides concerning professional communication and delivery process
   - Please have new member share/add/PR any learnings while on the sales team as guides for future salespeople.
