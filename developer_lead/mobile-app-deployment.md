@@ -1,4 +1,3 @@
-
 # Intro
 Getting your app into the app stores is a bit of a process. Fortunately, here at Radial we excel at process and we are excited to help you in this journey!
 
@@ -147,5 +146,3 @@ Google is not as stringent with regards to metadata. Here are their guidelines.
 - [Description guidelines](https://support.google.com/googleplay/android-developer/answer/4448378?hl=en)
 
 You can add these marketing materials yourself, or send them to the team working on your project and we will add them for you.
-
-
