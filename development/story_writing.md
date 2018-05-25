@@ -40,6 +40,8 @@ Much better than the previous example, this 'why' is vague because it does not i
 This is a great example.  It describes exactly why access to objects must be restricted, why user accounts must exist, etc.  It is a perfectly reasonably explanation of the value of a feature.
 
 ## Efficient use of a story-tracking tool.
+### Include the As a ... I want .., so that ...
+Make sure to identify the persona, need, and reason in the story, Sprint.ly automatically shortens this to the 'I want' portion for you, but in Pivotal Tracker, you should use the *description* to record this information and put only the 'I want' or a short description in the title field to ease reference to the story.
 
 ### Break up stories
 
