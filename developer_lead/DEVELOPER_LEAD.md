@@ -1,5 +1,5 @@
 # Getting Started
-Read the [Quick Start Guide](developerLead/Short_Dev_Lead_Guide.pdf)
+Read the [Quick Start Guide](Short_Dev_Lead_Guide.pdf)
 
 # Reporting Policy
 My goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available.  I also want to make sure we are functioning as a team to complete initiatives across projects.
@@ -15,8 +15,8 @@ Requirements:
 - What is the current status of your budget?
 
 # Kickoff, Grooming, and Sprint Delivery
-**Kickoff**. You are reposnible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](/processes/KICKOFF.md) document for more info.
+**Kickoff**. You are reponsible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](marketing_and_sales/KICKOFF.md) document for more info.
 
 **A sprint delivery/sprint planning meeting** should occur on either the last or first day of every sprint. This meeting should be with the client and dev lead (other developers may or may not be present). The purpose is to go over what was completed, and what will be completed during the next sprint, this is also the time to discuss any changes in priority.
 
-**Grooming** should occur every week (or at a minimum, every 2 weeks for month-long sprints). Everyone planning to work on the project before the next grooming meeting should attend. The purpose of this meeting is to go through each story clarifying any details and assigning points if not already assigned. Grooming should, at a minimum ensure that nothing on the project has changed: meet and discuss upcomming features, even if you don't think anything has changed for all active projects.
+**Grooming** should occur every week (or at a minimum, every 2 weeks for month-long sprints). Everyone planning to work on the project before the next grooming meeting should attend. The purpose of this meeting is to go through each story clarifying any details and assigning points if not already assigned. Grooming should, at a minimum ensure that nothing on the project has changed: meet and discuss upcoming features, even if you don't think anything has changed for all active projects.

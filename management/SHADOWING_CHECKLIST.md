@@ -10,7 +10,7 @@
 ## Checklist
 
 - [ ] [Communication Tools](https://docs.google.com/document/d/1jjlUXsVssPEoVgEOp6yfIxurOLf0AtNGGMbM2pxNfjA/edit)
-- [ ] [Pairing](../../PAIRING.md)
+- [ ] [Pairing](development/PAIRING.md)
 - [ ] git flow (pull requests, why protected branches are important etc)
 - [ ] explain that when setting up a project locally, update the ReadMe with any improvements or issues that you find
 - [ ] commenting on pull requests

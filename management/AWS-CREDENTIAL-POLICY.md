@@ -1,6 +1,6 @@
 # Intent
 
-This policy is intended to clarify the credential issueanace and access policy for AWS.  Access will be given on a per-developer or per-project basis.  Credentials will be issued for production, staging, and test environments, and to individual developers with access to development buckets.
+This policy is intended to clarify the credential issuance and access policy for AWS.  Access will be given on a per-developer or per-project basis.  Credentials will be issued for production, staging, and test environments, and to individual developers with access to development buckets.
 
 # Process
 

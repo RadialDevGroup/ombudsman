@@ -19,10 +19,10 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
   - [ ] Slack Channels
-    - #projectname-internal for developer discussions 
+    - #projectname-internal for developer discussions
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
 - Email Client with information (see template below)
-- Schedule [Kickoff](KICKOFF.md)
+- Schedule [Kickoff](marketing_and_sales/KICKOFF.md)
 
 ## Client Onboarding Email Template
 
@@ -47,5 +47,3 @@ CC Radial President.
 > If you would like access to the source code I simply need your Github username.  If you don't have one you can sign up for free here: https://github.com/
 >
 > I'm looking forward to going over the details of the project at the kickoff meeting.  In the meantime, the attached Guide has some useful background information and an explanation of some terminology that you may not be familiar with.  Please reach out if you have any questions.
-
-

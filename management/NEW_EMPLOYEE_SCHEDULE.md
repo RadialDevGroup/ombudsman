@@ -5,7 +5,7 @@
 - This is when Ben should communicate to developers about the new hire’s schedule and who they will be shadowing
 - Take photo and add to website
 - Meet and greet/team lunch
-- Go over [Company Values](./PROCESS_VALUES.md)
+- Go over [Company Values](employee_expectations/VALUES.md)
 - Retrospective
   -Examples of positive outcomes
 - [Cultural Discovery Exercise](./CULTURAL_DISCOVERY.md)
@@ -16,7 +16,7 @@
   - Pencils
 
 ### Shadowing developers
-[Shadowing Checklist](./SHADOWING_CHECKLIST.md)
+[Shadowing Checklist](SHADOWING_CHECKLIST.md)
 - The purpose of shadowing is to learn how and why we do things
 - The new employee should shadow two developers for two days each, and complete the checklist during this period
 

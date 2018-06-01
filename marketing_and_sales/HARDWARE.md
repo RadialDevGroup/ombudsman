@@ -1,12 +1,11 @@
 # Hardware Process
 
-As a matter of general service offerings, Radial Development does not do
-hardware repair but we may make an exception, strictly at our own discretion.
-On the rare occasion that we make such an exception, we should have a process
-for how it will be done; If possible, please refer to [Rob Protzman <rob@charteredtech.com >](mailto:rob@charteredtech.com), [Michael Vogt <michaelvogt52@gmail.com >](mailto:michaelvogt52@gmail.com), [Millenium Group](Screen Shot 2017-11-15 at 1.28.37 PM alias), or another (insured and
-qualified) IT or computer support technician.
+As a matter of general service offerings, Radial Development does not offer
+hardware repair to customers.
+If possible, please refer to [Rob Protzman <rob@charteredtech.com >](mailto:rob@charteredtech.com), [Michael Vogt <michaelvogt52@gmail.com >](mailto:michaelvogt52@gmail.com), [Millennium Group](Screen Shot 2017-11-15 at 1.28.37 PM alias), or another (insured and qualified) IT or computer support technician.
+On the rare occasion that we make an exception, we should have a process for how it will be done.
 
-We recommend that everyone maintain a support contract on their equipment to
+We recommend that customers maintain a support contract on their equipment to
 prevent loss, via Dell Onsite, Applecare, HP 24-hour, GeekSquad, etc.
 
 Given that any hardware work will follow these guidelines:
@@ -26,9 +25,9 @@ Given that any hardware work will follow these guidelines:
 
 1. Perform service.
 
-1. Verify that the system works with parity to orginal state of machine.
+1. Verify that the system works with parity to original state of machine.
 
-1. Verify repairs are completed succefully.
+1. Verify repairs are completed successfully.
 
 1. Document at every step.
 
