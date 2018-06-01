@@ -124,7 +124,7 @@ without bound and does not count against PTO.
 
 Category Two includes time taken for vacation or planned events (i.e. scheduled appointments, etc).
 Employees will accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
-Two PTO may be borrowed, up to the full amount.  Accruded PTO is available on
+Two PTO may be borrowed, up to the full amount.  Accrued PTO is available on
 an annual basis, only, and resets to an accrual of 0 on January 1st.
 
 Abuse of this policy will be grounds for formal reprimand.
