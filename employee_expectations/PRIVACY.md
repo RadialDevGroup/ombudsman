@@ -9,7 +9,7 @@ Please consider that all business communication should occur via company account
 
 Whenever one should leave the company, email accounts are removed and all further correspondence goes to the wildcard address, readable by management.  Management will receive any correspondence received to your account thereafter.
 
-#Calendar
+## Calendar
 Defaults for calendars allow anyone in the organization to see one's calendar, including descriptions, etc. Personal information should not be included in calendar item Descriptions.
 
 **If you would like help setting up a way to view this information along-side your work calendar without exposing your information, a time can be scheduled with management for training on this, if needed.**
