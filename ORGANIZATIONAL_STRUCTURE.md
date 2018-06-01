@@ -13,11 +13,9 @@ Brian is a resource to bring up interpersonal issues or other confidential items
 
 # Technology and Engineering
 [Ben West](#ben-west)
-[Marshall Smith](#marshall-smith)
 
 # Operations & Finances
 [Ben West](#ben-west)
-[Marshall Smith](#marshall-smith)
 
 # Sales
 [Ben West](#ben-west)
@@ -27,12 +25,9 @@ Brian is a resource to bring up interpersonal issues or other confidential items
 
 # Full List
 ## Ben West
+  - [970 599 1764](tel:9705991764) (Radial office phone)
   - [970 460 6664](tel:9704606664) (Ben's personal phone)
   - [ben@radialdevgroup.com](mailto:ben@radialdevgroup.com)
-
-## Marshall Smith
-  - [970 599 1764](tel:9705991764) (Radial office phone)
-  - [marshall@radialdevgroup.com](mailto:marshall@radialdevgroup.com)
 
 ## Brian Bensky
   - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
