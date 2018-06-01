@@ -24,11 +24,11 @@
 
 # Full List
 ## Ben West
-  - [970 460 6664](tel:9704606664)
+  - [970 460 6664](tel:9704606664) (Ben's personal phone)
   - [ben@radialdevgroup.com](mailto:ben@radialdevgroup.com)
 
 ## Marshall Smith
-  - [970 599 1764](tel:9705991764)
+  - [970 599 1764](tel:9705991764) (Radial office phone)
   - [marshall@radialdevgroup.com](mailto:marshall@radialdevgroup.com)
 
 ## Brian Bensky
@@ -38,10 +38,10 @@
 # Management Delegations
 ## Sales
 If a sales inquiry comes into the office while Management is away, inform the
-contact that Mangement is out of the office and the date when the person will be returning.
+contact that Management is out of the office and the date when the person will be returning.
 Then send Management an email with the necessary contact information and a brief
 description of the sales lead.
 
 ## Other issues
-If you are unable to contact the managements persons listed in their respective
+If you are unable to contact the management persons listed in their respective
 departments, contact the most senior person on staff.
