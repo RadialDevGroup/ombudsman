@@ -55,16 +55,14 @@ that you arrive, than that you arrive on time.
 
 #### Keep your team in the loop.
 
-Please notify your team of any significant changes to your calendar if and when
-you make them.
-
-Note: We are now using [Teambook](https://radial-development-group.teambookapp.com/)
-to track availability and resourcing.  Please report changes to your calendar there.
+Please put your days off and major appointments on your google calendar as OOO. 
+Email [team](mailto:team@radialdevgroup.com) to notify them of the days you will be out.
+Please update your team if there are any significant changes to your calendar.
 
 ## Hours and Hour Requirements
 
 * All time will be "flex" time and scheduled according to an employee's best
-  discretion. Core hours are from 9:30am to 3pm M-F Please be sure to notify the team, via email,
+  discretion. Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
 if you are unable to be available during core hours.
 
 * Please work 40 hours per week or allocate PTO to cover.
