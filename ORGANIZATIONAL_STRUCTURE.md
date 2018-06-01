@@ -5,6 +5,9 @@
 [Ben West](#ben-west)
 
 # Human Resources
+Ben is in charge of hiring / personnel management (benefits, insurance, payroll, et cetera).
+Brian is a resource to bring up interpersonal issues or other confidential items that you may not be comfortable bringing up with Ben.
+
 [Ben West](#ben-west)
 [Brian Bensky](#brian-bensky)
 
