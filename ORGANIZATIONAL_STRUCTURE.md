@@ -39,7 +39,3 @@ If a sales inquiry comes into the office while Management is away, inform the
 contact that Management is out of the office and the date when the person will be returning.
 Then send Management an email with the necessary contact information and a brief
 description of the sales lead.
-
-## Other issues
-If you are unable to contact the management persons listed in their respective
-departments, contact the most senior person on staff.
