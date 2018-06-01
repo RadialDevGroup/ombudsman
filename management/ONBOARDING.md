@@ -52,6 +52,7 @@
 ## Policy Repo
 
   - Go over the policy repo, including the Process documentation for it.
+  - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
   - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
 
 ### Attendance
@@ -79,4 +80,4 @@ Goal:
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
 
 ## Goals
-- Complete the [cultural discovery](CULTURAL_DISCOVERY) exercise
+- Complete the [cultural discovery](CULTURAL_DISCOVERY.md) exercise
