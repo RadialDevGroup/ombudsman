@@ -1,7 +1,6 @@
 # Management
   Management of Radial Development Group is done by the membership or Radial Development Group and by its operations staff.
 
-  See: [Primary Contact](#primary-contact) and [Operations](#operations)
 # Primary Contact
 [Ben West](#ben-west)
 
