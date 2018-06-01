@@ -11,7 +11,7 @@ is Ben West.
 ### Organizational Items
 - [Organizational Structure](ORGANIZATIONAL_STRUCTURE.md)
 - [Facilities](employee_expectations/FACILITIES.md)
-- [Escalation - when/how to ](employee_expectations/ESCALTION.md)
+- [Escalation - when/how to ](employee_expectations/ESCALATION.md)
 
 ### HR Policies
 - [Attendance](employee_expectations/ATTENDANCE.md)
