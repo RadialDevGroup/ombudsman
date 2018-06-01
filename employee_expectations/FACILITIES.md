@@ -12,3 +12,16 @@ Anything you use that needs to be washed should be put on the counter by the end
 Empty the fridge of all your belongings on Friday before you leave.
 
 At the end of each day, please tidy up your space. No one likes to see plastic cups or food left around.
+
+## Bathroom
+
+If you use the last of the toilet paper or paper towels, bring in new toilet paper from the storage closet. 
+
+If the storage closet is running low (fewer than 8 rolls of paper towels, or 10 rolls of TP) on any of these items, notify Management or the Armory. 
+
+If the trash can in the bathroom is full, either take it out or notify Management or the Armory that it needs to be taken out. 
+
+## Trashcan
+
+The trashcan bags are in the cabinet adjacent to the trash can. When the trash in the can is level with the top of the can, replace the bag. The old bag goes in the dumpster on the north side of the building. Trashcan Jenga is disallowed.
+
