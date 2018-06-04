@@ -1,5 +1,5 @@
 # Getting Started
-Read the [Quick Start Guide](Short_Dev_Lead_Guide.pdf)
+Read the [Quick Start Guide](SHORT_DEV_LEAD_GUIDE.md)
 
 # Reporting Policy
 My goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available.  I also want to make sure we are functioning as a team to complete initiatives across projects.
