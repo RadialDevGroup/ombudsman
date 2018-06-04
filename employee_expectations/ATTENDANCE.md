@@ -15,7 +15,7 @@ corrected.
 
 ## Schedule
 
-Core hours are from 9:30am to 3pm M-F. Please be sure to notify the team, via
+Core hours are from 10am to 3pm M-F. Please be sure to notify the team, via
 email, if you are unable to be available during core hours.  Adding absences to
 your work calendar is an appropriate courtesy. Client communication should
 occur between 9am and 6pm M-F only, except by absolute neccessity.
@@ -61,16 +61,14 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Hours and Hour Requirements
 
-* All time will be "flex" time and scheduled according to an employee's best
-  discretion. Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
+Any time not accounted for which does not add up to weekly hours requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total. 
+
+In practice this means you are able to "flex" your hour requirements from week to week. 
+
+* Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
 if you are unable to be available during core hours.
 
 * Please work 40 hours per week or allocate PTO to cover.
-
-* In the event of a deadline, weekend work will only be required if you were aware of
-the deadline at the beginning of the week. In practice this means that teams may
-need to work outside of business hours to meet their goals.  Please avoid scenarios
-where weekend work will be required, as much as possible.
 
 ## Internal Time
 
@@ -96,7 +94,6 @@ Examples of internal time meetings
   chops in business development meetings. These meetings may be offsite or at the
   Radial offices.
 
-
 ## Hack Time
 
 * Provided all project goals are met, any remaining
@@ -114,62 +111,51 @@ Please report any client request for overtime, in writing, and in context, as
 additional fees may apply and additional steps may need to be taken to account for
 this time.
 
+## Sick Time and Self Care 
+
+Life is bumpy. We are ultimately happy to accomodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appt, renewing your driver's license, participating in a citizenship activity, et cetera.
+
+You may take up to a day for any sort of selfcare reason. If you need to take more than a day, it should be considered PTO.
+
+These accommodations will generally be referred to as sick time or personal time. You are not required to take PTO for this time.
+
+The funding for this comes out of company profit, and is not accounted for as compensation. 
+
+However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better. 
+
+If this is for more than one day, this is probably not sick/personal time, and should be taken as vacation or unpaid leave.
+
+You must identify in your timesheet how much leave, vacation, sick time, or personal time you are taking, and the reason.
+
 ## Paid Time Off
 
-There are two categories of paid time off (PTO).
+Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance. (e.g. on Jan 1 you can borrow up to 3 weeks of PTO)
 
-Category One includes time taken for bereavement, family emergencies, disability, jury duty,
-or time taken for your health (including mental health). Category One leave is available
-without bound and does not count against PTO.
+PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email two weeks in advance of PTO days to the extent possible. If management plans to deny PTO, they must give you two weeks notice.
 
-Category Two includes time taken for vacation or planned events (i.e. scheduled appointments, etc).
-Employees will accrue up to 240 hours (6 weeks) "bank" of Category Two PTO per year.  Category
-Two PTO may be borrowed, up to the full amount.  Accrued PTO is available on
-an annual basis, only, and resets to an accrual of 0 on January 1st.
+PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice. 
 
-Abuse of this policy will be grounds for formal reprimand.
+Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
 
-## Sick Time and Personal Time
+ Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
+- Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
 
-Sick and personal time leave is available within your available Category One PTO.
-Please take time, with notice (see **communication standards**), as needed, to
-ensure best-available return to full productivity.  Please do not expose the rest
-of the staff to anything which would hamper their performance or delivery.  Sick
-time may be taken at the employee's discretion, subject to the understanding that
-the purpose of leave is to ensure healthy return to work. Office attendance
-during a contagious illness is discouraged; an employee may choose to work from
-home or take a sick day. Half-days for reasons of illness are also discouraged.
+Coming in when sick is discouraged. Don't give us your germs.
 
-Other specific requests:
-- If you have personal drama that you need to resolve, take time and resolve it, but
-  ensure that it is resolved so that it will not present additional interruption.
+## Leave 
 
-- If working from home will not be productive or will adversely affect
-  your recovery, don't.
+Two week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well. 
 
-- Absences not related to a health issue should be avoided. Where possible, please
-  take care of other needs and errands as flexible time. Time that is not made up will be counted as PTO.
+Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
-- Sick or personal time shall not be made up; it is the responsiblity of management
-  to ensure adequate redundancy will enable client commitments to be met.
+All unpaid leave must be taken for a reason. The reason can be any reason, but there needs to be one and the employee will submit it to management.
 
-- Your sick time should be recorded in Freckle under the project "Personal/Sick Time".
+At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment. 
 
-## PTO time
+### Maternity and Paternity Leave
 
-Employees will be eligible for vacation time through their Category Two PTO,
-and may take a vacation for up to 2 weeks at a time. Please work with management
-to schedule them ensuring that resourcing accounts for all client commitments.
-
-Additional vacation or extension may be available provided advance written
-permission of management.
-
-Management strongly recommends at least one vacation of at least one contiguous
-week away from the office and work tasks.
-
-Other specific requests:
-- Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
-- Other PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant.
+Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
+information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm)
 
 ## Work From Home/Remote/Flex Time
 
@@ -177,11 +163,6 @@ Work from home, working remotely, and flex time is permitted so long as it does 
 
 We will provide facilities, such as we are able, to allow all members of teams
 to work in a clean, safe, common, public space.
-
-## Maternity and Paternity Leave
-
-Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
-information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm)
 
 ## Holiday Time
 
