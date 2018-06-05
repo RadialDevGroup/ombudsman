@@ -17,10 +17,14 @@ Tracker [#143516809](https://www.pivotaltracker.com/story/show/143516809)
 # Definition of Done (Development)
 
 - [ ] This PR has appropriate test coverage.
-- [ ] The wiki has been updated to reflect any changes to data structures or specifications.
-- [ ] This has been tested for responsive design (on landscape/portrait, mobile, iPhone X, tablet, desktop, retina, IE11, Edge, Firefox, Chrome).
-- [ ] This code has been manually-tested by another developer.  [Link to QA Guide](#this-should-exist)
-- [ ] `a` tags do not have hrefs (cordova/any).
+- [ ] This PR has been tested for responsive design (on landscape/portrait, mobile, iPhone X, tablet, desktop, retina, IE11, Edge, Firefox, Chrome).
+- [ ] This PR has been manually tested by another developer. [Link to QA Guide](#this-should-exist)
+- [ ] This PR has been manually tested against the project for visual consistency.
+- [ ] This PR requires a Selenium test (e.g. browser-specific bugs or complicated UI bugs).
+- [ ] `a` tags do not have hrefs (Cordova/any).
+- [ ] New image sizes must be generated (on S3).
+- [ ] Screenshots have been (added to/updated in) the marketing folder (if applicable).
+- [ ] This PR will work in a desirable and clear way when offline.
 - [ ] Environment variables have been updated in the example file (application.yml.example).
 - [ ] Environment variables have been updated on all deployments:
   - [ ] Netlify
@@ -28,17 +32,13 @@ Tracker [#143516809](https://www.pivotaltracker.com/story/show/143516809)
   - [ ] Staging (Heroku)
   - [ ] Production (Heroku)
   - [ ] Etc.
-- [ ] Configuration is confirmed.
-- [ ] New image sizes must be generated (on S3).
-- [ ] This will work in a desirable and clear way when offline.
 - [ ] Active Admin has been updated with new models.
-- [ ] This PR will require changes to the Salesforce schema.
-- [ ] This PR requires a Selenium test (e.g. browser-specific bugs or complicated UI bugs).
 - [ ] This PR requires a migration.
-- [ ] Screenshots have been (added to/updated in) the marketing folder (if applicable).
-- [ ] All version numbers are up-to-date.
-- [ ] Technology list is updated.
-- [ ] The changes in this PR have been manually tested against the project for visual consistency.
+- [ ] This PR will require changes to the Salesforce schema.
+- [ ] The wiki has been updated to reflect any changes to data structures or specifications.
+- [ ] This configuration is confirmed.
+- [ ] The version numbers are up-to-date.
+- [ ] The technology list is up-to-date.
 
 # Notice of secondary effects:
 - [ ] The project documentation has been updated (explain:)(README/PULL_REQUEST_TEMPLATE/PROCESS.md).
