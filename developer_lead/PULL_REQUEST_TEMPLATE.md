@@ -20,7 +20,7 @@ Tracker [#143516809](https://www.pivotaltracker.com/story/show/143516809)
 - [ ] The wiki has been updated to reflect any changes to data structures or specifications.
 - [ ] This has been tested for responsive design (on landscape/portrait, mobile, iPhone X, tablet, desktop, retina, IE11, Edge, Firefox, Chrome).
 - [ ] This code has been manually-tested by another developer.  [Link to QA Guide](#this-should-exist)
-- [ ] `A` tags do not have hrefs (cordova/any)
+- [ ] `A` tags do not have hrefs (cordova/any).
 - [ ] Environment variables have been updated in the example file (application.yml.example).
 - [ ] Environment variables have been updated on all deployments:
   - [ ] Netlify
