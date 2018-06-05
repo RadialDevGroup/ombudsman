@@ -38,7 +38,7 @@ Tracker [#143516809](https://www.pivotaltracker.com/story/show/143516809)
 - [ ] Screenshots have been (added to/updated in) the marketing folder (if applicable).
 - [ ] All version numbers are up-to-date.
 - [ ] Technology list is updated.
-- [ ] The changes in this PR have been manually tested for project-wide visual consistency.
+- [ ] The changes in this PR have been manually tested against the project for visual consistency.
 
 # Notice of secondary effects:
 - [ ] The project documentation has been updated (explain:)(README/PULL_REQUEST_TEMPLATE/PROCESS.md).
