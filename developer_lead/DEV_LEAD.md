@@ -1,7 +1,7 @@
 # Developer Lead Policy
 
 # Getting Started
-Read the [Quick Start Guide](Short_Dev_Lead_Guide.pdf)
+Read the [Quick Start Guide](SHORT_DEV_LEAD_GUIDE.md)
 
 ## Responsibility for Process and Documentation
 The developer lead is responsible for ensuring process is followed and documented. Standard project documentation is described in:
@@ -56,4 +56,4 @@ Requirements:
 
 **Grooming** should occur every week (or at a minimum, every 2 weeks for month-long sprints). Everyone planning to work on the project before the next grooming meeting should attend. The purpose of this meeting is to go through each story, clarifying any details and assigning points if not already assigned. Grooming should, at a minimum, ensure that nothing on the project has changed. Meet and discuss upcoming features, even if you don't think anything has changed for all active projects.
 
-**Read the [Quick Start Guide](Short_Dev_Lead_Guide.pdf) and Full Developer Lead Guide (*coming soon*) for more info**
+**Read the [Quick Start Guide](SHORT_DEV_LEAD_GUIDE.md) and Full Developer Lead Guide (*coming soon*) for more info**
