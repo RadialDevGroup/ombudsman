@@ -36,7 +36,6 @@ steps for the client before any additional work is performed.
 If you were not the most recent developer lead and you see a new message from a previous client,
 please be a pal and notify that person.
 
-
 # Reporting Policy
 Management's goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available. They also want to make sure we are functioning as a team to complete initiatives across projects.
 
