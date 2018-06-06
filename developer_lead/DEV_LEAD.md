@@ -39,7 +39,7 @@ please be a pal and notify that person.
 # Reporting Policy
 Management's goal is to be able to keep track of high-level goals for projects and ensure that adequate and correct resourcing is available. They also want to make sure we are functioning as a team to complete initiatives across projects.
 
-Reports should be sent every Friday to team, unless there is a legitimate confidentiality consideration.
+Reports should be sent **every Friday** to team, unless there is a legitimate confidentiality consideration.
 
 Requirements:
 - What is the goal this sprint?
