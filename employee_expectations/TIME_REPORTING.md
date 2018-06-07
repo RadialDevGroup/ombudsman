@@ -25,17 +25,21 @@ The emojis are extremely important, as that allows others to quickly see whether
 
 Please use the following statuses and update them throughout the day (the wording here may not be exact, but the gist is the same)
 
+When interruptible:
+
 :office: I'm working at the office
 
 :house_with_garden: I'm working remotely
 
 :no_entry_sign: I'm blocked
 
+:dancing_pickachu: I can help others (I'm available to answer questions because I'm taking a short break at the keyboard.)
+
+When unavailable:
+
 :zzz: I'm AFK. I'll be back around __ (I'm Away From the Keyboard)
 
-:headphones: I'm heads-down in some code./I'm in a meeting. (I am unavailable for some reason)
-
-:dancing_pickachu: I can help others (I'm available to answer questions because I'm taking a short break at the keyboard.)
+:headphones: I'm heads-down in some code./I'm in a meeting.
 
 
 **Clear** your status at the end of the day. No status means you are gone for the day or have not come in yet.
