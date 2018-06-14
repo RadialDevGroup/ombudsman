@@ -14,8 +14,8 @@ is Ben West.
 - [Escalation - when/how to ](employee_expectations/ESCALATION.md)
 
 ### HR Policies
-- [Attendance](employee_expectations/ATTENDANCE.md)
 - [Equal Opportunity](employee_expectations/EQUAL_OPPORTUNITY.md)
+- [Attendance](employee_expectations/ATTENDANCE.md)
 - [Performance](employee_expectations/PERFORMANCE.md)
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
 - [Technology Usage and Privacy Policy](employee_expectations/PRIVACY.md)

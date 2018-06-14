@@ -19,14 +19,14 @@ Before a 1-on-1, you should self-evaluate yourself based on these expectations. 
 - Not all developers can solve all of the problems
   - Know your limits. Own them
   - Know the difference between wasting time and being diligent.
-- When you fail, project that you will fail, or don't succeed quickly, get help
+- When you fail, don't succeed quickly, or project that you will fail, get help
 
 ### Wholeness
 
 - Spend some time every week/month to write code for you.
   - If you don't feel like writing code for yourself, please plan a vacation
   - Work on a side-project
-  - Do something frivolous,
+  - Do something frivolous
   - Plan a company hack day
   - Plan or attend a hack-a-thon
   - Find a creative outlet for your skills

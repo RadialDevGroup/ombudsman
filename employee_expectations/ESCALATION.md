@@ -8,7 +8,7 @@ When members of the team encounter problems that they are unable to independentl
 - Make sure you try to resolve the issue with the person first, unless you feel your safety or well-being is at risk.
 - Issues with equipment or supplies should be emailed to [operations@radialdevgroup](mailto:operations@radialdevgroup).
 - Human Resources inquiries should be made to [human-resources](../ORGANIZATIONAL_STRUCTURE.md#human-resources).
-- Consistent issues concerning operations, human-resources, and policy should be reported via bug for the policy document [http://github.com/RadialDevGroup/Policy/issues].
+- Consistent issues concerning operations, human-resources, and policy should be reported via (issues)[http://github.com/RadialDevGroup/Policy/issues] for the policy document.
 - [Management](../ORGANIZATIONAL_STRUCTURE.md#management) will divide responsibilities in resolving these issues, delegating them as necessary.
 
 ## Customer Issues
@@ -23,13 +23,13 @@ When working with clients, you may encounter issues that you cannot solve indepe
 ### Stakeholder Time Bandits
 Projects may have stakeholders who could require you to spend additional time with them that does not benefit the project's deliverables. If your project should have one of these time bandits, below are suggested action items that will help you begin a discussion with the client.
 * Separately log time in Freckle spent working on non-value-add work directed by a Time Bandit with the tag `#bandit` and make a note in the description about what was done.
-* Find out the best form of communication that causes the least amount of confusion and back-and-forth with the stakeholder in question, and try to have all communication be in the form. This may be email, phone or in-person.
+* Find out the best form of communication that causes the least amount of confusion and back-and-forth with the stakeholder in question, and try to have all communication be in that form. This may be email, phone, or in-person.
 
 ### Methodology
 Apologize if the client is unhappy and make assurances that we will do whatever we can to resolve the issue. If it is within your power, please accommodate customer requests. It is not productive to argue with a customer as to whether they were wronged. If possible, be completely transparent. If we have erred, please get another person involved, internally. We will correct the error.  We will _not_ refund the client unless that is the only reasonable remedy.  In most cases, we will offer the client credit, work in kind, etc, in order to resolve an issue.  If we cannot immediately remedy the issue, we will tell the client the reason for any delay.
 
 ### Customer Recovery
-- If clients are not satisfied process, or with products or other deliverable works, please notify  [Management](../ORGANIZATIONAL_STRUCTURE.md#management) immediately, via email and in-person, if possible.
+- If clients are not satisfied with process, products or other deliverable works, please notify  [Management](../ORGANIZATIONAL_STRUCTURE.md#management) immediately, via email and in-person, if possible.
 - All relevant information should be forwarded to management.
 - If possible, a resolution to the client's issue should be recommended.  If that is not possible, a reason should be given.
 - If a client contacts Radial concerning a team member, we will try to include the team member in the resolution process.  If possible, we will allow team members to do the client recovery themselves, and coach them through the process.
@@ -45,7 +45,7 @@ Apologize if the client is unhappy and make assurances that we will do whatever 
 - you feel as though the client has put you under some pressure contradictory to company values
 
 ### How to escalate to sales
-- Send an email to Management [ben@radialdevgroup.com](mailto:ben@radialdevgroup.com).
+- Send an email to [Management](../ORGANIZATIONAL_STRUCTURE.md#management).
 - Identify the kind of opportunity.
 - If possible, provide an introduction or forward the email context.
 - If there is a problem with following process, include all of management.
