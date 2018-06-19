@@ -55,13 +55,13 @@ that you arrive, than that you arrive on time.
 
 ### Keep your team in the loop.
 
-Please put your days off and major appointments on your google calendar as OOO. 
+Please put your days off and major appointments on your google calendar as OOO.
 Email [team](mailto:team@radialdevgroup.com) to notify them of the days you will be out.
 Please update your team if there are any significant changes to your calendar.
 
 ## Hourly Employees
 ### Compensation
-Clousres disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a directy payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
+Closres disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
 
 ### Availability
 Hourly employees may set their availability as needed. Changes to availability should made with 2 weeks notice, where possible, but can be modified at any time with management.
@@ -72,9 +72,9 @@ Hourly employees requested to take a reduction in hours will be assisted in appl
 ## Salaried Employees
 ### Hours and Hour Requirements
 
-Any time not accounted for which does not add up to weekly hours requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total. 
+Any time not accounted for which does not add up to weekly hours requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total.
 
-In practice this means you are able to "flex" your hour requirements from week to week. 
+In practice this means you are able to "flex" your hour requirements from week to week.
 
 * Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
 if you are unable to be available during core hours.
@@ -122,21 +122,21 @@ Please report any client request for overtime, in writing, and in context, as
 additional fees may apply and additional steps may need to be taken to account for
 this time.
 
-### Sick Time and Self Care 
+### Sick Time and Self Care
 
-Life is bumpy. We are ultimately happy to accomodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appt, renewing your driver's license, participating in a citizenship activity, et cetera.
+Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.
 
-You may take up to a day for any sort of selfcare reason. If you need to take more than a day, it should be considered PTO.
+You may take up to a day for any sort of self care reason. If you need to take more than a day, it should be considered PTO.
 
-These accommodations will generally be referred to as sick time or personal time. You are not required to take PTO for this time.
+These accommodations will generally be referred to as sick time or self care time. You are not required to take PTO for this time.
 
-The funding for this comes out of company profit, and is not accounted for as compensation. 
+The funding for this comes out of company profit, and is not accounted for as compensation.
 
-However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better. 
+However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.
 
-If this is for more than one day, this is probably not sick/personal time, and should be taken as vacation or unpaid leave.
+If this is for more than one day, this is probably not sick/self care time, and should be taken as vacation or unpaid leave.
 
-You must identify in your timesheet how much leave, vacation, sick time, or personal time you are taking, and the reason.
+You must identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.
 
 ### Paid Time Off
 
@@ -144,7 +144,7 @@ Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It
 
 PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email two weeks in advance of PTO days to the extent possible. If management plans to deny PTO, they must give you two weeks notice.
 
-PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice. 
+PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
 
 Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
 
@@ -153,15 +153,15 @@ Upon separation, the employee will receive compensation in the amount of unused 
 
 Coming in when sick is discouraged. Don't give us your germs.
 
-### Leave 
+### Leave
 
-Two week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well. 
+Two week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
 
 Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
 All unpaid leave must be taken for a reason. The reason can be any reason, but there needs to be one and the employee will submit it to management.
 
-At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment. 
+At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment.
 
 #### Maternity and Paternity Leave
 
@@ -178,7 +178,7 @@ to work in a clean, safe, common, public space.
 ## Holiday Time
 
 Radial will be closed on the following days and employees are expected to not
-work. 
+work.
 - Memorial Day
 - Independence Day
 - Labor Day
