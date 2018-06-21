@@ -12,6 +12,7 @@
   - [Getting Started Testing With Mocha](http://radialdevgroup.com/blog/getting-started-testing-mocha/) (Technical)
 2. Clarify the blog topic with the blog editor sometime before you sit down to write it. 
 1. Please write your blog in Google Docs or place it into Google Docs after writing it for editing purposes. Exception: if your blog is mostly code, you can write it in an editor or Markdown or a Gist, whichever you prefer. Go to Radial>Blog Posts and create a new Google Doc.
+1. Aim for a length of between 400 and 800 words. Exceptions can be made if there are significant code blocks or the like. But from a pure reading perspective, more than 800 words is most likely too long.
 1. Please turn off smart quotes in Google Docs in order to avoid odd formatting issues when pasting from Docs into Wordpress. [https://www.laptopmag.com/articles/smart-quotes-google-docs] for how to turn off smart quotes.
 1. Please use headings in your blog. Divide the content into sections based on the headings. Typically three sections is good.
 1. After your post is completed, link to it in #content-development in Slack and @mention the blog editor to ask for edits.
