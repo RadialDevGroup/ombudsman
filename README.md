@@ -19,6 +19,7 @@ is Ben West.
 - [Performance](employee_expectations/PERFORMANCE.md)
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
 - [Technology Usage and Privacy Policy](employee_expectations/PRIVACY.md)
+- [Values](employee_expectations/VALUES.md)
 
 ## Development Policies
 - [Code Standards](development/CODE_STANDARDS.md)
