@@ -55,7 +55,7 @@ Provide instructions for overcoming any commonly encountered issues with setup a
 
 Link to `PROCESS.md` If you don't have one you can copy a template from https://github.com/RadialDevGroup/Policy/blob/master/processes/PROCESS.md (click on *raw* to copy).
 
-Link to style guide. This might an external style guide or a project `STYLEGUIDE.md` that may be based on another style guide.
+Link to style guide. This might be an external style guide or a project `STYLEGUIDE.md` that may be based on another style guide.
 
 ## Deployment History
 
