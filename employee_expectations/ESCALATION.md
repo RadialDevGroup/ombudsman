@@ -29,7 +29,7 @@ Projects may have stakeholders who could require you to spend additional time wi
 Apologize if the client is unhappy and make assurances that we will do whatever we can to resolve the issue. If it is within your power, please accommodate customer requests. It is not productive to argue with a customer as to whether they were wronged. If possible, be completely transparent. If we have erred, please get another person involved, internally. We will correct the error.  We will _not_ refund the client unless that is the only reasonable remedy.  In most cases, we will offer the client credit, work in kind, etc, in order to resolve an issue.  If we cannot immediately remedy the issue, we will tell the client the reason for any delay.
 
 ### Customer Recovery
-- If clients are not satisfied with process, products or other deliverable works, please notify  [Management](../ORGANIZATIONAL_STRUCTURE.md#management) immediately, via email and in-person, if possible.
+- If clients are not satisfied either with process, products or other deliverable works, please notify  [Management](../ORGANIZATIONAL_STRUCTURE.md#management) immediately, via email and in-person, if possible.
 - All relevant information should be forwarded to management.
 - If possible, a resolution to the client's issue should be recommended.  If that is not possible, a reason should be given.
 - If a client contacts Radial concerning a team member, we will try to include the team member in the resolution process.  If possible, we will allow team members to do the client recovery themselves, and coach them through the process.

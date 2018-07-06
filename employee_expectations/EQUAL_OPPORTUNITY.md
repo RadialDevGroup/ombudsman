@@ -5,8 +5,8 @@
 The purpose of this policy is to ensure that all employment decisions are made
 on a non-discriminatory basis, and without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/reassignment, citizenship, pregnancy or maternity, veteran status, or any other status protected by applicable national, federal, state or local law.
 
-1. Radial will recruit, hire and promote without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/reassignment, citizenship, pregnancy or maternity, veteran status, or any other status protected by applicable law. 2. Radial will make all decisions of employment with consideration to
-appropriate principles of Equal Employment.
+1. Radial will recruit, hire and promote without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/reassignment, citizenship, pregnancy or maternity, veteran status, or any other status protected by applicable law.
+2. Radial will make all decisions of employment with consideration to appropriate principles of Equal Employment.
 3. Promotional opportunities will be filled based on merit, experience and other
 job-related criteria.
 4. Personnel actions, such as compensation, benefits, transfers, layoffs,
