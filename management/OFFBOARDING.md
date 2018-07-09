@@ -28,6 +28,10 @@ Disable Google Account / Change Password
 
 Disable Sprintly Account / Change Password
 
+##Pivotal
+
+Disable account ([Manage Accounts](https://www.pivotaltracker.com/accounts/954909/memberships))
+
 ###Github
 
 Remove User from Radial Organization on GitHub (Employees)
