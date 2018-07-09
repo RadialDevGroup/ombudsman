@@ -15,13 +15,12 @@ At the end of each day, please tidy up your space. No one likes to see plastic c
 
 ## Bathroom
 
-If you use the last of the toilet paper or paper towels, bring in new toilet paper from the storage closet. 
+If you use the last of the toilet paper or paper towels, bring in new toilet paper from the storage closet.
 
-If the storage closet is running low (fewer than 8 rolls of paper towels, or 10 rolls of TP) on any of these items, notify Management or the Armory. 
+If the storage closet is running low (fewer than 8 rolls of paper towels, or 10 rolls of TP) on any of these items, notify Management or the Armory.
 
-If the trash can in the bathroom is full, either take it out or notify Management or the Armory that it needs to be taken out. 
+If the trash can in the bathroom is full, either take it out or notify [Management](../ORGANIZATIONAL_STRUCTURE.md#management) or the Armory that it needs to be taken out.
 
 ## Trashcan
 
-The trashcan bags are in the cabinet adjacent to the trash can. When the trash in the can is level with the top of the can, replace the bag. The old bag goes in the dumpster on the north side of the building. Trashcan Jenga is disallowed.
-
+The trash bags are in the cabinet adjacent to the trash can. When the trash in the can is level with the top of the can, replace the bag. The old bag goes in the dumpster on the north side of the building. Trashcan Jenga is disallowed.

@@ -12,7 +12,8 @@ Billable time is any time working on a single client project.  This includes any
 
 Unbillable time may be in one of several categories and is to be recorded the same way as billable.  The categories are:
 
- - **Administrative**: Anything relating to the management of the company (e.g. all hands meetings).
+ - **Admin**: Anything relating to the management of the company (Unless you are management, you will probably not use this).
+ - **Management Feedback**: Anything relating to feedback for the company (e.g. retrospective, action items, resourcing).
  - **Sales & Business Networking**: Anything relating to sales or recruiting.
  - **Marketing**: Campaigns, research, and outreach (events, guests, and free code reviews)
  - **Hack Time**: Time spent on personal projects or continuing education.

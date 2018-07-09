@@ -13,7 +13,7 @@ Additional notes, including developer notes should add relevant details for the 
 
 When writing a story, the 'who' or 'persona' of the story anchor's the 'why' of the story.  By identifying a 'syndicate-or', an 'administrator', a 'realtor', a 'renter' -- by identifying the persona to whom the feature will be presented, we establish scopes of menuing and access, and can evaluate to whom the value of the feature will be evident.
 
-If the answer is 'Developer', please consider if the requested feature is necessary, if it is actually a story, and not a task, and whether the story would be applicable to 'and integrator', or some other persona within the project.  Stories related to interfaces are written for technical personnel and should be technical in nature and description.
+If the answer is 'Developer', please consider if the requested feature is necessary, if it is actually a story, and not a task, and whether the story would be applicable to 'an integrator', or some other persona within the project.  Stories related to interfaces are written for technical personnel and should be technical in nature and description.
 
 ### What is the use-case of the story
 
@@ -41,7 +41,7 @@ This is a great example.  It describes exactly why access to objects must be res
 
 ## Efficient use of a story-tracking tool.
 ### Include the As a ... I want .., so that ...
-Make sure to identify the persona, need, and reason in the story, Sprint.ly automatically shortens this to the 'I want' portion for you, but in Pivotal Tracker, you should use the *description* to record this information and put only the 'I want' or a short description in the title field to ease reference to the story.
+Make sure to identify the persona, need, and reason in the story, In Pivotal Tracker, you should use the *description* to record this information and put only the 'I want' or a short description in the title field to ease reference to the story.
 
 ### Break up stories
 
@@ -62,7 +62,7 @@ There are many components to a story about file uploads.  Potential sub-stories 
 All of the above may have been a single story initially; certainly, taken to its logical conclusion, this story probably contains at-least 7 more potential stories that could be added (and by-extension, removed).
 
 
-**A Story about integrating with and API**
+**A Story about integrating with an API**
 1. Authenticating to the API
 2. Querying the top-level object(s) (1 story each, perhaps)
 3. Querying related object(s) (1 story each, perhaps)
