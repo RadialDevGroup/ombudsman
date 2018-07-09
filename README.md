@@ -25,7 +25,7 @@ is Ben West.
 - [Code Standards](development/CODE_STANDARDS.md)
 - [Pairing](development/PAIRING.md)
 - [Peer Review](development/PEER_REVIEW.md)
-- [How to Write Feature Stories](development/story_writing.md)
+- [How to Write Feature Stories](development/STORY_WRITING.md)
 
 ## Management/HR
 - [Onboarding](management/ONBOARDING.md)
