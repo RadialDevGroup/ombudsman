@@ -6,52 +6,37 @@ employee re: any additional resources assigned for Radial use (e.g. Rollbar,
 Pingdom, etc.). and take appropriate action regarding those accounts (e.g.
 transfer, disabling, etc.).
 
-###Payroll
+##Payroll
 
 Set end date for payroll.
 
 ##Accounts
 
-###Freckle
+### Development
+1. Freckle
+2. GSuite/Email
+3. [Pivotal](https://www.pivotaltracker.com/accounts/954909/memberships)
+4. Github - Remove User from Radial Organization on GitHub (Employees)
+5. Asana
+6. AWS
+7. Slack
 
-Disable Freckle Account / Change Password
-
-###Teambook
-
-Disable Teambook Account / Change Password
-
-###Google
-
-Disable Google Account / Change Password
-
-###Sprint.ly
-
-Disable Sprintly Account / Change Password
-
-##Pivotal
-
-Disable account ([Manage Accounts](https://www.pivotaltracker.com/accounts/954909/memberships))
-
-###Github
-
-Remove User from Radial Organization on GitHub (Employees)
-
-###Asana
-
-Disable Asana Account / Change Password
-
-###AWS
-
-Disable AWS Account / Change Password
-
-### Slack
-
-Disable Slack Account
-
-###Project-Specific
+### Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
 * CircleCI: Transfer ownership and revoke privileges as required.
+
+### Marketing
+1. Mailchimp
+2. Twitter
+3. Buffer
+4. Facebook
+5. Moz
+6. NOTE: Ask Carlin
+
+### Sales
+1. Dropbox
+2. Hubspot
 
 ##Equipment
 
