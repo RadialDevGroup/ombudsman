@@ -13,7 +13,7 @@ When available, developers will be assigned to projects in pairs.  Pairing teams
 
 ## General Process
 
-* Start the process by reviewing the feature that needs to be completed.  The pair should attempt to agree on a strategy and data structure at the outset, if relevant.  Attempt to identify any potential blockers or [break down the feature](story_writing.md) if it appears to be too complex.
+* Start the process by reviewing the feature that needs to be completed.  The pair should attempt to agree on a strategy and data structure at the outset, if relevant.  Attempt to identify any potential blockers or [break down the feature](STORY_WRITING.md) if it appears to be too complex.
 
    > NOTE: sometimes the path forward may not be clear.  In this case it is worthwhile to begin the implementation with one approach and try a different approach if that doesn't work.  It is often helpful to build the work out in an isolated example and then add the tests to the original project and incorporate the functionality from the spike.  It is not a reasonable assumption that your first attempt will be effective or that it will be easily tested.  It is sometimes also useful to do this individually and discuss your different approaches before pairing.
    > Don't hesitate to take it offline to a white-board to draw out your ideas.
