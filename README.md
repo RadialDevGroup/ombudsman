@@ -60,3 +60,18 @@ is Ben West.
 ## Contributing
 - Submit bugs in policy via github issues
 - Follow the [process](PROCESS.MD) to resolve issues
+
+# Where do I find:
+## Plan to Eat
+- Dev Lead: rebecca@radialdevgroup.com
+- Front end: https://github.com/RadialDevGroup/plan-to-eat-spa
+  - Documentation:
+    - Storage: https://github.com/RadialDevGroup/plan-to-eat-spa/wiki/Offline-Storage-Strategy
+    - Architecture: https://github.com/RadialDevGroup/plan-to-eat-spa/blob/master/ARCHITECTURE.md
+  - required credentials: benjawest/drop-cook
+- Back End/API: https://github.com/plan-to-eat/plantoeat
+  - For Access contact clint@plantoeat.com, CC: ben@radialdevgroup.com, rebecca@radialdevgroup.com
+
+## Concerto
+  - https://github.com/RadialDevGroup/concerto
+  
