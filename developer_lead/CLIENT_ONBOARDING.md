@@ -30,7 +30,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
 
 **Remember to attach the [Customer Onboarding Guide](CustomerOnboardingGuide.pdf)!**
 
-CC Radial President.
+CC Radial Management.
 
 > Hi {CLIENT NAME},
 >
