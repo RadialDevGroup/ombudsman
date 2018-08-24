@@ -4,7 +4,7 @@
 When writing a user story there are three important components that must be captured.
 
 1. To whom is this feature valuable, what use case is it applicable to
-2. What is the specific requirements of the story
+2. What are the specific requirements of the story
 3. What value does this feature deliver for the stakeholder
 
 Additional notes (including developer notes) should add relevant details for the implementor, but should not redefine, who, what, or why.
