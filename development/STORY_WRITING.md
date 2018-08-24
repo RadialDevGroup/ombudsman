@@ -19,7 +19,7 @@ If the answer is 'Developer', please consider if the requested feature is necess
 
 With complex software-as-a-service software, often the same actual user may use the service in different ways, depending on the intent of the moment.  It is often important to define the overall task of that user when defining the story in order to properly associate features related to the same overall task.
 
-### The specific Requirements of the story
+### The specific requirements of the story
 
 As a project manager, product owner, or developer acting in that role, it is important to nail down the specifics of the story.  What should the software do when the story is complete? What additional requirements will the story add to an existing feature? What enhancements will be added to the software.  Be certain that the requirements are concrete and relatable.  Abstract 'associate the user with foo' stories leave too much to the developer's imagination and will often not meet the expectations of the stakeholder.  'create a foo on the "user foo's page"' will identify that *foo* will be created from a specific place and be added to a list in that place.
 
