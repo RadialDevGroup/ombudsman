@@ -4,24 +4,24 @@
 When writing a user story there are three important components that must be captured.
 
 1. To whom is this feature valuable, what use case is it applicable to
-2. What is the specific implementation of the story
+2. What is the specific requirements of the story
 3. What value does this feature deliver for the stakeholder
 
-Additional notes, including developer notes should add relevant details for the implementor, but should not redefine, who, what, or why
+Additional notes (including developer notes) should add relevant details for the implementor, but should not redefine, who, what, or why.
 
-### To whom is the feature valueable
+### To whom is the feature valuable
 
-When writing a story, the 'who' or 'persona' of the story anchor's the 'why' of the story.  By identifying a 'syndicate-or', an 'administrator', a 'realtor', a 'renter' -- by identifying the persona to whom the feature will be presented, we establish scopes of menuing and access, and can evaluate to whom the value of the feature will be evident.
+When writing a story, the 'who' or 'persona' of the story anchors the 'why' of the story.  By identifying a 'syndicate-or', an 'administrator', a 'realtor', a 'renter' -- by identifying the persona to whom the feature will be presented, we establish scopes of menuing and access, and can evaluate to whom the value of the feature will be evident.
 
 If the answer is 'Developer', please consider if the requested feature is necessary, if it is actually a story, and not a task, and whether the story would be applicable to 'an integrator', or some other persona within the project.  Stories related to interfaces are written for technical personnel and should be technical in nature and description.
 
 ### What is the use-case of the story
 
-With complex software-as-a-service software, often the same actual user may use the service in diffenent ways, depending on the intent of the moment.  It is often important to define the overall task of that user when defining the story in order to properly associate features related to the same overall task.
+With complex software-as-a-service software, often the same actual user may use the service in different ways, depending on the intent of the moment.  It is often important to define the overall task of that user when defining the story in order to properly associate features related to the same overall task.
 
-### The specific implementation of the story
+### The specific Requirements of the story
 
-As a project manager, product owner, or developer acting in that role, it is important to nail down the specifics of the story.  What should the software do when the story is complete? What additional requirements will the story add to an existing feature? What enhancements will be added to the software.  Be certain that the requirements are concrete and relateable.  Abstract 'associate the user with foo' stories leave too much to the developer's imagination and will often not meet the expectations of the stakeholder.  'create a foo on the "user foo's page"' will identify that *foo* will be created from a specific place and be added to a list in that place.
+As a project manager, product owner, or developer acting in that role, it is important to nail down the specifics of the story.  What should the software do when the story is complete? What additional requirements will the story add to an existing feature? What enhancements will be added to the software.  Be certain that the requirements are concrete and relatable.  Abstract 'associate the user with foo' stories leave too much to the developer's imagination and will often not meet the expectations of the stakeholder.  'create a foo on the "user foo's page"' will identify that *foo* will be created from a specific place and be added to a list in that place.
 
 ### What value does this feature deliver
 
@@ -45,7 +45,7 @@ Make sure to identify the persona, need, and reason in the story, In Pivotal Tra
 
 ### Break up stories
 
-Stories are expected to take approximately 1/2 day each.  This is an average.  If, however, you find you are working on the same story for several days, consider breaking the story into smaller pieces.  Take for example:
+Stories are expected to take approximately a day each.  This is an average.  If, however, you find you are working on the same story for several days, consider breaking the story into smaller pieces.  Take for example:
 
 **A Story about file uploads**
 
@@ -69,3 +69,7 @@ All of the above may have been a single story initially; certainly, taken to its
 4. Accepting webhook posts and requests
 5. Constructing a mock interface for testing (Possibly a node-based api to serve fixtures)
 6. Buidling additional services around API interfaces (This is a good story to imply refactoring into)
+
+**Note**
+
+Sometimes stories that can be broken up do not make sense as discrete deliverables. In these instances, it may make more sense to combine stories.
