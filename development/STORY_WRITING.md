@@ -33,7 +33,7 @@ The why of the story must explain the feature.  Carefully considering the 'why' 
 
 **"So that I can ensure that all necessary data is entered"**
 
-Much better than the previous example, this 'why' is vague because it does not identify neccesary information.  It could be written "So that I can ensure that a full name is entered" is much more valuable -- It describes the intent and hints at the underlying necessity of the feature.
+Much better than the previous example, this 'why' is vague because it does not identify necessary information.  It could be written "So that I can ensure that a full name is entered" is much more valuable -- It describes the intent and hints at the underlying necessity of the feature.
 
 **"So that I can restrict access to an object to it's owner-user"**
 
@@ -68,7 +68,7 @@ All of the above may have been a single story initially; certainly, taken to its
 3. Querying related object(s) (1 story each, perhaps)
 4. Accepting webhook posts and requests
 5. Constructing a mock interface for testing (Possibly a node-based api to serve fixtures)
-6. Buidling additional services around API interfaces (This is a good story to imply refactoring into)
+6. Building additional services around API interfaces (This is a good story to apply refactoring to)
 
 **Note**
 
