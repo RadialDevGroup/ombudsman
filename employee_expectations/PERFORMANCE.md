@@ -13,9 +13,9 @@ Before a 1-on-1, you should self-evaluate yourself based on these expectations. 
 
 ### Accountability
 
-- Stories should take roughly a day to complete.
-  - Any story projected to take a week should be broken up
-  - Any story that takes a week or more and cannot be broken up warrants a significant discussion
+- If you are working on a story that is taking longer than the story is pointed at, the developer lead should
+be notified.
+  - If you are the developer lead, you should communicate to the client. 
 - Not all developers can solve all of the problems
   - Know your limits. Own them
   - Know the difference between wasting time and being diligent.
