@@ -9,7 +9,7 @@ As a company, meeting our commitment to produce quality software in a timely fas
 
 ## Resource assignments
 
-When available, developers will be assigned to projects in pairs.  Pairing teams may periodically change in order to incorporate different strengths and points of view.  As the team is not always balanced, we will work independently at times; we consider this just as important as pairing, in terms of professional skillset.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
+When available, developers will be assigned to projects in pairs.  Pairing teams may periodically change in order to incorporate different strengths and points of view.  As the team is not always balanced, we will work independently at times; we consider this just as important as pairing, in terms of professional skill set.  When working independently, developers are encouraged to "stop the assembly line" and seek help from someone else if blocked.
 
 ## General Process
 
@@ -45,7 +45,7 @@ James has been working on a poorly organized project with a difficult-to-underst
 
 > James can work with another developer to help him to stay focused and navigate much needless indirection.  While James navigates the code, his pair can ask leading questions to help cue his next step.  When James gets tired of navigating, his pair can take over, and James can cue the other developer as they work towards a solution
 
-Mark has been working on a poorly-written legacy code base that seems to obscure the purpose of each method rather than breaking methods into comprehensible blocks.
+Mark has been working on a poorly written legacy code base that seems to obscure the purpose of each method rather than breaking methods into comprehensible blocks.
 
 > Mark's pair can keep him from descending into a rabbit hole, refactoring endlessly, by refocusing the work on the goal, rather than on a refactoring towards impossible perfection.
 
@@ -75,7 +75,7 @@ Levi has worked on his project for several months and is becoming an expert in t
 
 Efrain has been with the team for 5 years, a long time for any consultant, and is familiar with most company practices and techniques.  In addition, he has gained a great deal of experience from working on so many kinds of projects.  As a result, many of the team rely on him to help them, when they are stuck; especially after the great legacy code purge of 2012.
 
-> Pair programming is critical to using Efrain's skills well.  Since he is liable to be interrupted, it is important that another member of the team hold much of the brain share on the project theirself, as he could be called away without notice.  Whereas Efrain is able to share the knowledge of the project, himself, from experience, his pair needs to be able to carry on if he is interrupted or needs to help another team member.
+> Pair programming is critical to using Efrain's skills well.  Since he is liable to be interrupted, it is important that another member of the team hold much of the brain share on the project themselves, as he could be called away without notice.  Whereas Efrain is able to share the knowledge of the project, himself, from experience, his pair needs to be able to carry on if he is interrupted or needs to help another team member.
 
 Liz is relatively new to software and comes from a product-management background.  She is able to quickly find the most important features in the client's specifications, but is weaker on the implementation details themselves, sometimes requiring guidance on the best plugins and libraries to use.
 
