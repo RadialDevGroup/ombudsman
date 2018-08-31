@@ -72,4 +72,4 @@ All of the above may have been a single story initially; certainly, taken to its
 
 **Note**
 
-Sometimes stories that can be broken up do not make sense as discrete deliverables. In these instances, it may make more sense to combine stories.
+Sometimes stories that can be broken up do not make sense as discrete deliverables. In these instances, it may make more sense to combine stories. In this case, discuss options with a senior developer/manager.

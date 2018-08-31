@@ -15,7 +15,8 @@ Before a 1-on-1, you should self-evaluate yourself based on these expectations. 
 
 - If you are working on a story that is taking longer than the story is pointed at, the developer lead should
 be notified.
-  - If you are the developer lead, you should communicate to the client. 
+  - If you are the developer lead, you should communicate to the client.
+  - There should also be a discussion with a senior developer about implementation/architecture.
 - Not all developers can solve all of the problems
   - Know your limits. Own them
   - Know the difference between wasting time and being diligent.
