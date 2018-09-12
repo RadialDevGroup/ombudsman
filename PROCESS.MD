@@ -26,7 +26,7 @@
 
 1. Make any necessary changes.
 
-1. When all reviewers have approved, request president merge code.
+1. When all reviewers have approved, request management merge code.
 
     > GitHub Comment:
     >

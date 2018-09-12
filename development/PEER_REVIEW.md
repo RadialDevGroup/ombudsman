@@ -27,8 +27,8 @@ If accepted process is not followed, or is not adequate, every member of the tea
 ## Project Management
 Every project must have either a Technical Sales Lead or a Dedicated Project Developer Lead.
 
-This person will act as the account manager for the project and will review and approve project deliverables.  In the event that a designated lead is not immediately available the senior-most developer should approve the merge.
+This person will act as the account manager for the project and will review and approve project deliverables.  If the developer lead will be unavailable then an acting lead should be appointed.  In the event that a designated/acting lead is not immediately available the senior-most developer should approve the merge.
 
 ## More resources
 
- - [http://blog.originate.com/blog/2014/09/29/effective-code-reviews/](Effective Code Review by David Beveridge)
+ - [Effective Code Review by David Beveridge](http://blog.originate.com/blog/2014/09/29/effective-code-reviews/)

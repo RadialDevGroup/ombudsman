@@ -7,15 +7,16 @@ Whereas many organizations, especially prospective clients, may judge performanc
 
 Before a 1-on-1, you should self-evaluate yourself based on these expectations.  You will be evaluated by the supervisor as well and any trouble areas will be discussed.  All criteria should be evaluated on a strict yes/no basis.  You should attempt to make an action plan to address trouble areas prior to the 1-on-1.  If you are unable to, you should make a plan with the assistance of the supervisor.  You will also need to, with the assistance of the supervisor if necessary, make a plan to address relevant trouble areas.  A plan should define a threshold for success.
 
-## Deliniation of Expectations
+## Delineation of Expectations
 
 *All expectations have been written in terms of the relevant value*
 
 ### Accountability
 
-- All stories should take a day or less
-  - Any story projected to take more that the rest of the day should be broken up
-  - Any story that takes more than a day and cannot be broken up warrants a significant discussion
+- If you are working on a story that is taking longer than the story is pointed at, the developer lead should
+be notified.
+  - If you are the developer lead, you should communicate to the client.
+  - There should also be a discussion with a senior developer about implementation/architecture.
 - Not all developers can solve all of the problems
   - Know your limits. Own them
   - Know the difference between wasting time and being diligent.
