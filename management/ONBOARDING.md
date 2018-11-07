@@ -12,7 +12,7 @@
  - Verify and copy ID documents and complete I-9
  - Scan employment packet documents and file paper copies
  - Email W-4, I-9, and Direct Deposit to TLC
- - Email insurance application to My PIA Team (matt@mypiateam.com)
+ - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>
 
 ## Accounts
 ### WiFi
