@@ -2,7 +2,7 @@
 
 ## Before first day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
- - Email new hire contract and W-4, I-9, and insurance application ([packet](Complete%20Employee%20Packet%202017.pdf)
+ - Email new hire contract and W-4, I-9, and insurance application (< href="https://github.com/RadialDevGroup/Policy/raw/master/management/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>
  - Obtain a DSLR
  - Print business cards
 
