@@ -22,10 +22,6 @@
   - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
   - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
 
-### Sprint.ly
-  - Add to Radial Project
-  - Add to Initial resourcing
-
 ### Github
   - Add User to Radial Organization on Github (Employees)
   - Require user to set up two-factor authentication
@@ -46,8 +42,9 @@
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
 
-### Teambook
- - How to indicate vacations/absences
+### Schedule
+ - How to communicate vacations/absences
+ - Explain calendar (part time employees should post their time they will be in office)
 
 ## Policy Repo
 
@@ -55,7 +52,7 @@
   - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
   - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
 
-### Attendance
+## Attendance
 
   - Commitments
   - Communication
@@ -74,9 +71,9 @@ Goal:
   - Assign Personal space to developer
 
     - Provide key(s) for entry into workspace
+    - Provide a notebook
 
   Practice:
-  - Explain goal
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
 
 ## Goals
