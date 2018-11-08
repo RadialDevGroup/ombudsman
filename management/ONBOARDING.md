@@ -5,6 +5,7 @@
  - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/management/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
  - Obtain a DSLR
  - Print business cards
+ - Schedule a team lunch and let everyone know (especially the new person)
 
 ## Employment Contract and Offer
 
