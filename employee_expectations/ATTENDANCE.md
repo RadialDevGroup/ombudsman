@@ -61,7 +61,7 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Hourly Employees
 ### Compensation
-Closres disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
+Closures disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
 
 ### Availability
 Hourly employees may set their availability as needed. Changes to availability should made with 2 weeks notice, where possible, but can be modified at any time with management.
