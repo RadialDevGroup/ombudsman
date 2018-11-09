@@ -3,7 +3,7 @@
 ## Before first day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
  - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/management/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
- - Obtain a DSLR
+ - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
  - Schedule a team lunch and let everyone know (especially the new person)
 
@@ -47,12 +47,6 @@
  - How to communicate vacations/absences
  - Explain calendar (part time employees should post their time they will be in office)
 
-## Policy Repo
-
-  - Go over the policy repo, including the Process documentation for it.
-  - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
-  - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
-
 ## Attendance
 
   - Commitments
@@ -79,3 +73,9 @@ Goal:
 
 ## Goals
 - Complete the [cultural discovery](CULTURAL_DISCOVERY.md) exercise
+
+## Policy Repo
+
+  - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
+  - Go over the policy repo, including the Process documentation for it.
+  - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
