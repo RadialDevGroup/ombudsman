@@ -48,18 +48,15 @@
  - Explain calendar (part time employees should post their time they will be in office)
 
 ## Attendance
-
   - Commitments
   - Communication
   - Absences and Lateness
 
 ## Marketing
-
   - Schedule picture for website
   - Welcome employee from Twitter account
 
 ## Equipment, desk space, network, keys
-
 Goal:
 
   - Check out company equipment to developer
@@ -75,7 +72,6 @@ Goal:
 - Complete the [cultural discovery](CULTURAL_DISCOVERY.md) exercise
 
 ## Policy Repo
-
   - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
   - Go over the policy repo, including the Process documentation for it.
   - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
