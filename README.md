@@ -29,7 +29,7 @@ is Ben West.
 
 ## Management/HR
 - [Onboarding](management/ONBOARDING.md)
-- [Cultural Discovery](management/CULTURAL_DISCOVERY)
+- [Cultural Discovery](management/CULTURAL_DISCOVERY.md)
 - [Offboarding](management/OFFBOARDING.md)
 
 ## Developer Leads
