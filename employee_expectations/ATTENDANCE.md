@@ -177,12 +177,11 @@ to work in a clean, safe, common, public space.
 
 ## Holiday Time
 
-Radial will be closed on the following days and employees are expected to not
-work.
+Radial will be closed on the following days and employees are expected to not work.
+- Employee Appreciation Day (first Friday in March)
 - Memorial Day
 - Independence Day
 - Labor Day
-- Veterans Day
 - Thanksgiving Day & the Friday after Thanksgiving
-- Election days, including municipal, county and state elections
+- "Voting days" held about a week before election days, including municipal, county and state elections
 - Annual Winter closure as announced
