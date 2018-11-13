@@ -183,5 +183,5 @@ Radial will be closed on the following days and employees are expected to not wo
 - Independence Day
 - Labor Day
 - Thanksgiving Day & the Friday after Thanksgiving
-- "Voting days" held about a week before election days, including municipal, county and state elections
+- "Voting Day" (the Monday 8 days before the November Election Day for municipal, county and state elections). **Because Colorado generally votes early by mail, we take the time to research and fill out our ballots on a less-disruptive day.**
 - Annual Winter closure as announced
