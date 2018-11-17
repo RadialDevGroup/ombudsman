@@ -5,7 +5,7 @@
  - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/management/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
  - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
- - Schedule a team lunch and let everyone know (especially the new person)
+ - Schedule a team lunch and let everyone know (especially the new hire)
 
 ## Employment Contract and Offer
 
@@ -47,7 +47,7 @@
  - How to communicate vacations/absences
  - Explain calendar (part time employees should post their time they will be in office)
 
-## Attendance
+### Attendance
   - Commitments
   - Communication
   - Absences and Lateness
