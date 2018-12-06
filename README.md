@@ -23,6 +23,15 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
 - [Values](employee_expectations/VALUES.md)
 
+## Developer Expectations
+- [Code Standards](developer/CODE_STANDARDS.md)
+- [Peer Review](developer/PEER_REVIEW.md)
+
+## Developer Lead Expectations
+- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
+- [Project Handoff](developer_lead/PROJECT_HANDOFF.md)
+- [Responsibilities](developer_lead/RESPONSIBILITIES.md)
+
 ## Management/HR
 - [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
 - [New Employee Schedule](management/NEW_EMPLOYEE_SCHEDULE.md)
