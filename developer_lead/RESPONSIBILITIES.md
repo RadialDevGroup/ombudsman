@@ -7,6 +7,8 @@ The developer lead is responsible for ensuring process is followed and documente
 - [README](README.md)
 - [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md)
 
+There are some helpful examples of how to write a [PROCESS](https://github.com/RadialDevGroup/Policy/wiki/Project-PROCESS-Development), [PULL_REQUEST](https://github.com/RadialDevGroup/Policy/wiki/Project-PULL_REQUEST_TEMPLATE-Development). and [README](https://github.com/RadialDevGroup/Policy/wiki/Project-README-Development) in the [wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-lead-support).
+
 ## Technical Decisions
 1. The developer lead is responsible for making all engineering decisions on their
   designated project.
