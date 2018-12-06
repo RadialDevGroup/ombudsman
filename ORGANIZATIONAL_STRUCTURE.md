@@ -30,8 +30,6 @@ Management of Radial Development Group is done by the members of Radial Developm
 ## Brian Bensky
   - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
 
-
 # Management Delegations
 ## Sales
-If a sales inquiry comes into the office while Management is away, inform the contact that Management is out of the office and of the date when the person will be returning. Then send Management an email with the necessary contact information and a brief
-description of the sales lead.
+If a sales inquiry comes into the office while Management is away, inform the contact that Management is out of the office and of the date when the person will be returning. Then send Management an email with the necessary contact information and a brief description of the sales lead.
