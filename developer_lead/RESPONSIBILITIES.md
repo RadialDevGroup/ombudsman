@@ -50,7 +50,7 @@ Requirements:
 - What is the current status of your budget?
 
 # Kickoff, Grooming, and Sprint Delivery
-**Kickoff**. You are responsible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](marketing_and_sales/KICKOFF.md) document for more info.
+**Kickoff**. You are responsible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff) document for more info.
 
 **A sprint delivery/sprint planning meeting** should occur on either the last or first day of every sprint. This meeting should be with the client and dev lead. It is recommended that at least one other developer be present for advice and guidance. The purpose is to go over what was completed and what will be completed during the next sprint. This is also the time to discuss any changes in priority.
 

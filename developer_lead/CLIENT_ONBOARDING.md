@@ -22,7 +22,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     - #projectname-internal for developer discussions
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
 - Email Client with information (see template below)
-- Schedule [Kickoff](marketing_and_sales/KICKOFF.md)
+- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff)
 
 ## Client Onboarding Email Template
 
