@@ -24,8 +24,7 @@ Platforms that are currently in focus: Twitter, Blogs
 - Build follower relationships
 - Become a trusted source in our domain
 
-
-### Posting Strategy
+### General Posting Strategy
 - Determine your Twitter audience and create a tone that matches their demographics and interests
   * Focused domains: Process. Test driven development, React, Javascript, Rails, Python/Django/Flask/CherryPy. Process
 - Provide your own content by tweeting one content post each day. This might include:
@@ -41,7 +40,11 @@ Platforms that are currently in focus: Twitter, Blogs
 - Hashtag strategy: Utilize sites like Fanpage Karma, that allow you research a company and view their top hashtags, as well as providing other valuable information on the company. Doing this periodically can help you keep up with trends within the tech industry, and can be an asset to increasing reach of your posts through utilizing these hashtags.
 - Photo usage: Studies show tweets with images can get 60-200% more shares than those without. That being said, only add an image to a post if it helps back up your content, not distract from it.
 
-#### Supporting Documents for posting strategy
+#### UTM Marketing Campaign for Original Content
+- When Tweeting original content from the Radial site (blogs or case studies), refer to the UTM campaign guidelines found here: https://docs.google.com/document/d/1u2F3Q3TrhrMwz4aZdMgHPSKnIdhemAkdujTX9g9nCVc/edit?ts=5b7b39d5
+- Before referring to guidelines, please read the following if you need more information on utilizing UTM parameters for our marketing efforts: https://bit.ly/2PbPTqx
+
+#### Supporting Documents for Posting Strategy
 - This document http://bit.ly/2AWlfKN has strategic information regarding: 
   * Popular Tweet Chats
   * Hashtags popular within the tech industry, and local competitors
@@ -66,7 +69,7 @@ Post material that promote your viewers to be interactive, or give them an incen
  ## Blogs
 - Please see [content publishing process](BLOGGING.md)
 
-### Promotion: Cross posting on Blogs
+### Promotion: Cross Posting on Blogs
 - TWITTER: Once a blog has a permalink, an employee with access to the Radial Twitter account on Tweetdeck should schedule the blog to be tweeted out, once on the day it runs, and once on the following day. (In practice this means Slack the permalink to Ben or Stephanie and they will schedule the Tweets)
   * If you have a Twitter account, we encourage retweeting your own blog posts or those of other Radial employees.
   * Update Twitter 3 times a week on topics related to blog posts

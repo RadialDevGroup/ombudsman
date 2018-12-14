@@ -177,12 +177,11 @@ to work in a clean, safe, common, public space.
 
 ## Holiday Time
 
-Radial will be closed on the following days and employees are expected to not
-work.
+Radial will be closed on the following days and employees are expected to not work.
+- Employee Appreciation Day (first Friday in March)
 - Memorial Day
 - Independence Day
 - Labor Day
-- Veterans Day
 - Thanksgiving Day & the Friday after Thanksgiving
-- Election days, including municipal, county and state elections
+- "Voting Day" (the Monday 8 days before the November Election Day for municipal, county and state elections). **Because Colorado generally votes early by mail, we take the time to research and fill out our ballots on a less-disruptive day.**
 - Annual Winter closure as announced

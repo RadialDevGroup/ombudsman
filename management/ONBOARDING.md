@@ -2,9 +2,10 @@
 
 ## Before first day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
- - Email new hire contract and W-4, I-9, and insurance application
- - Obtain a DSLR
+ - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/management/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
+ - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
+ - Schedule a team lunch and let everyone know (especially the new hire)
 
 ## Employment Contract and Offer
 
@@ -12,7 +13,7 @@
  - Verify and copy ID documents and complete I-9
  - Scan employment packet documents and file paper copies
  - Email W-4, I-9, and Direct Deposit to TLC
- - Email insurance application to My PIA Team (matt@mypiateam.com)
+ - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>
 
 ## Accounts
 ### WiFi
@@ -21,10 +22,6 @@
 ### Google
   - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
   - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
-
-### Sprint.ly
-  - Add to Radial Project
-  - Add to Initial resourcing
 
 ### Github
   - Add User to Radial Organization on Github (Employees)
@@ -46,38 +43,35 @@
  - Create Freckle Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
 
-### Teambook
- - How to indicate vacations/absences
-
-## Policy Repo
-
-  - Go over the policy repo, including the Process documentation for it.
-  - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
-  - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
+### Schedule
+ - How to communicate vacations/absences
+ - Explain calendar (part time employees should post their time they will be in office)
 
 ### Attendance
-
   - Commitments
   - Communication
   - Absences and Lateness
 
 ## Marketing
-
   - Schedule picture for website
   - Welcome employee from Twitter account
 
 ## Equipment, desk space, network, keys
-
 Goal:
 
   - Check out company equipment to developer
   - Assign Personal space to developer
 
     - Provide key(s) for entry into workspace
+    - Provide a notebook
 
   Practice:
-  - Explain goal
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
 
 ## Goals
 - Complete the [cultural discovery](CULTURAL_DISCOVERY.md) exercise
+
+## Policy Repo
+  - Review [Values](onboarding/VALUES.md) as documented in the intents of existing policies
+  - Go over the policy repo, including the Process documentation for it.
+  - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
