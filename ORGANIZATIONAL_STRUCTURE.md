@@ -1,16 +1,13 @@
 # Management
-  Management of Radial Development Group is done by the membership or Radial Development Group and by its operations staff.
+Management of Radial Development Group is done by the members of Radial Development Group and by its operations staff.
 
 # Primary Contact
 [Ben West](#ben-west)
 
 # Human Resources
-Ben is in charge of hiring / personnel management (benefits, insurance, payroll, et cetera).
-Brian is a resource to bring up interpersonal issues or other confidential items that you may not be comfortable bringing up with Ben.
+[Ben West](#ben-west) is in charge of hiring / personnel management (benefits, insurance, payroll, et cetera).
 
-[Ben West](#ben-west)
-
-[Brian Bensky](#brian-bensky)
+[Brian Bensky](#brian-bensky) is a resource for bringing up interpersonal issues or other confidential items that you may not be comfortable bringing up with Ben.
 
 # Technology and Engineering
 [Ben West](#ben-west)
@@ -33,10 +30,6 @@ Brian is a resource to bring up interpersonal issues or other confidential items
 ## Brian Bensky
   - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
 
-
 # Management Delegations
 ## Sales
-If a sales inquiry comes into the office while Management is away, inform the
-contact that Management is out of the office and the date when the person will be returning.
-Then send Management an email with the necessary contact information and a brief
-description of the sales lead.
+If a sales inquiry comes into the office while Management is away, inform the contact that Management is out of the office and of the date when the person will be returning. Then send Management an email with the necessary contact information and a brief description of the sales lead.
