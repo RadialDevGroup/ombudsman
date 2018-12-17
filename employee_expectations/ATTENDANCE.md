@@ -15,10 +15,9 @@ corrected.
 
 ## Schedule
 
-Core hours are from 10am to 3pm M-F. Please be sure to notify the team, via
-email, if you are unable to be available during core hours.  Adding absences to
-your work calendar is an appropriate courtesy. Client communication should
-occur between 9am and 6pm M-F only, except by absolute neccessity.
+Core hours are from 10am to 3pm M-F. Please be sure to notify the team, via email, if you are unable to be available during core hours.
+Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
+Client communication should occur between 9am and 6pm M-F only, except by absolute neccessity.
 
 ## Communication Standards
 
@@ -142,7 +141,7 @@ You must identify in your timesheet how much leave, vacation, sick time, or self
 
 Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance. (e.g. on Jan 1 you can borrow up to 3 weeks of PTO)
 
-PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email two weeks in advance of PTO days to the extent possible. If management plans to deny PTO, they must give you two weeks notice.
+PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email two weeks in advance of PTO days to the extent possible. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource-planning. If management plans to deny PTO, they must give you two weeks notice.
 
 PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
 
