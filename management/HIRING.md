@@ -5,19 +5,21 @@
  - Is there a contract for the position?
  - Do you have an interview written?
  - If someone is doing this job already, can you have them write an interview for their position?
- - Does there need to be  demonstration portion?
+ - Does there need to be a demonstration portion?
  
 ## When We Interview
  - Don't waste anyone's time on a phone screen.
  - If possible, just do the whole thing over the phone, or go right into scheduling an in-person interview.
- - Use your place. Stay on task. Listen to answers.
+ - Use your plan.
+ - Stay on task.
+ - Listen to answers.
  
 ## When We Hire
  - Send an offer. Make it nice.
  - Send a welcome gift.
  - Send over the contract and hire packet.
- - Set up the email account and other relevant accounts, (i.e. Freckle, Slack, and Github. 
- - Welcome new hires on twitter.
+ - Set up the email account and other relevant accounts, (i.e. Freckle, Slack, and Github.)
+ - Welcome new hires on Twitter.
  - Send a welcome email to the team, cc them, and link the tweet in the email.
  - Schedule onboarding.
 
