@@ -1,8 +1,29 @@
-# Onboarding
+# Hiring
 
-## Before first day
+## Before We Begin
+ - Do you have a job description?
+ - Is there a contract for the position?
+ - Do you have an interview written?
+ - If someone is doing this job already, can you have them write an interview for their position?
+ - Does there need to be  demonstration portion?
+ 
+## When We Interview
+ - Don't waste anyone's time on a phone screen.
+ - If possible, just do the whole thing over the phone, or go right into scheduling an in-person interview.
+ - Use your place. Stay on task. Listen to answers.
+ 
+## When We Hire
+ - Send an offer. Make it nice.
+ - Send a welcome gift.
+ - Send over the contract and hire packet.
+ - Set up the email account and other relevant accounts, (i.e. Freckle, Slack, and Github. 
+ - Welcome new hires on twitter.
+ - Send a welcome email to the team, cc them, and link the tweet in the email.
+ - Schedule onboarding.
+
+## Before First Day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
- - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
+ - Email new hire personalized login and instructions for their accounts, W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
  - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
  - Schedule a team lunch and let everyone know (especially the new hire)
