@@ -16,8 +16,8 @@
  
 ## When We Hire
  - Send an offer. Make it nice.
+ - Send the contract and hire packet.
  - Send a welcome gift.
- - Send over the contract and hire packet.
  - Set up the email account and other relevant accounts, (i.e. Freckle, Slack, and Github.)
  - Welcome new hires on Twitter.
  - Send a welcome email to the team, cc them, and link the tweet in the email.
