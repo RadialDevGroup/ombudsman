@@ -25,7 +25,7 @@
 
 ## Before First Day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
- - Email the new hire personalized login and instructions for their accounts, W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
+ - Email the new hire personalized login instructions, W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
  - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
  - Schedule a team lunch and let everyone know (especially the new hire)
