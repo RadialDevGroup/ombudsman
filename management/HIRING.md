@@ -2,7 +2,7 @@
 ## Before we begin
 - Write a job description
 - Audit the contract for the position
-- Write or Review an/the interview
+- Write or review the interview
   - Is someone doing this job who can write the interview?
   - Does there need to be a demonstration or portfolio portion?
   
