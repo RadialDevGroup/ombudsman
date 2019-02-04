@@ -8,7 +8,7 @@
   
 ## When we interview
 - Don't waste time on a phone screen
-- If possible, just either do the whole thing over the phone or go right into scheduling an in-person interview.
+- If possible, either do the whole thing over the phone or go right into scheduling an in-person interview.
 - Use your plan.  Stay on task/script. Listen to answers.
 
 ## When we hire
