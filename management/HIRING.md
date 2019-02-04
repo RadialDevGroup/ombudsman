@@ -1,4 +1,39 @@
 # Onboarding
+## Before we begin
+- Write a job description
+- Audit the contract for the position
+- Write or Review an/the interview
+  - I someone doing this job who can write the interview?
+  - Does there need to be a demonstration or portfolio portion?
+  
+## When we interview
+- Don't waste time on a phone screen
+- If possible, just either do the whole thing over the phone or go right into scheduling an in-person interview.
+- Use your plan.  Stay on task/script. Listen to answers.
+
+## When we hire
+- Send an offer.  Make it nice.
+- Send a welcome gift.  It was one of the coolest things about working at Quick Left.
+- Don't forget to send out contract/hire packet.
+- Set Up accounts (see below)
+- Send a Welcome email to team@radialdevgroup.com and BCC their personal email
+- Welcome new hires on twitter and link the tweet in the welcome email.
+- Schedule on-boarding
+
+### Set Up Accounts
+#### Google
+  - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
+  - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
+  - Manually send personalized login and instruction email, including wifi password at Radial, etc.
+
+#### Github
+  - Before the hire date, obtain the user's github account or ask them to set one up.
+  - Add User to Radial Organization on Github (Employees)
+  - Require user to set up two-factor authentication
+
+#### Other
+- I usually just add people to slack, it's simpler (--Ben), Slack [User self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290)
+- Freckle Account
 
 ## Before first day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
@@ -7,43 +42,31 @@
  - Print business cards
  - Schedule a team lunch and let everyone know (especially the new hire)
 
-## Employment Contract and Offer
+## New Hire Orientation
 
-## Payroll
+### Payroll
+*Skip this for Larimer County Department of Workforce and Economic Development hires/interns*
  - Verify and copy ID documents and complete I-9
  - Scan employment packet documents and file paper copies
  - Email W-4, I-9, and Direct Deposit to TLC
  - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>
-
-## Accounts
+ 
 ### WiFi
  perfect purple password
 
-### Google
-  - create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias
-  - add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable
-
-### Github
-  - Add User to Radial Organization on Github (Employees)
-  - Require user to set up two-factor authentication
-
-### Asana
+### Additional Accounts
+- Asana - When Relevant
   - Add User to Content Team
   - Add User to Operations Team (if Applicable)
-
-### Other
-- Slack [User self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290)
 
 ### Project-specific
 - Heroku
 - AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
 
-## Training
-### Freckle
- - Create Freckle Account
+### Training
+- Time Clock
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
-
-### Schedule
+- Schedule
  - How to communicate vacations/absences
  - Explain calendar (part time employees should post their time they will be in office)
  - Add the new employee's birthday and hire date (anniversary) to the Radial Events calendar.
