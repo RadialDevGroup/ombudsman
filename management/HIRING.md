@@ -15,7 +15,7 @@
 - Send an offer.  Make it nice.
 - Send a welcome gift.  It was one of the coolest things about working at Quick Left.
 - Don't forget to send out contract/hire packet.
-- Set Up accounts (see below)
+- Set up accounts (see below)
 - Send a Welcome email to team@radialdevgroup.com and BCC their personal email
 - Welcome new hires on twitter and link the tweet in the welcome email.
 - Schedule on-boarding
