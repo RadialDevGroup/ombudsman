@@ -1,11 +1,11 @@
 # Hiring
 
 ## Before We Begin
- - Do you have a job description?
- - Is there a contract for the position?
- - Do you have an interview written?
- - If someone is doing this job already, can you have them write an interview for their position?
- - Does there need to be a demonstration portion?
+ - Write a job description.
+ - Audit the contract for the position.
+ - Write or review the interview.
+   - Is there someone doing this jb who can write the interview?
+   - Does there need to be a demonstration or portfolio portion?
 
 ## When We Interview
  - Don't waste anyone's time on a phone screen.
@@ -42,7 +42,7 @@
   - Manually send personalized login and instruction email, including wifi password at Radial, etc, See [Before First Day](#before-first-day).
  - Github
   - Before the hire date, obtain the user's github account or ask them to set one up.
- - Slack: I usually just add people to slack, it's simpler (--Ben), [User self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290) could also be added to Welcome Email.
+ - Slack. Set up or use the welcome email to provide the link to  [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - Freckle.  Training to occur at orientation.
 
 ## Payroll
@@ -51,30 +51,19 @@
  - Email W-4, I-9, and Direct Deposit to Journey.
  - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>.
 
-## Accounts
-### WiFi
+# New Hire Orientation/Onboarding
+## WiFi
  perfect purple password
 
-### Github
+## Setup
+- Github
   - Require user to set up two-factor authentication.
-  - (then) Add User to Radial Organization on Github (Employees).
-
-### Asana (If applicable)
+  - (then) Add user to Radial Organization on Github (Employees).
+- Asana
   - Add User to Operations Team.
 
-## Developer On-boarding
-*Hand-off to Director of Eng., as neccesary.*
-- Heroku
-- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
-- Pivotal Tracker, relevant projects
-
-## Sales Onboarding
-- Dropbox Account
-- Sales Playbook
-- Add to Sales team on Asana
-
 ## Training
-- [Freckle](https://radialdevgroup.letsfreckle.com)
+- Time Reporting ([Freckle](https://radialdevgroup.letsfreckle.com))
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
 - Schedule
  - How to communicate vacations/absences.
@@ -106,6 +95,17 @@ Goal:
 
 ## Goals
 - Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
+
+## Developer On-boarding
+*Hand-off to Director of Eng., as neccesary.*
+- Heroku
+- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
+- Pivotal Tracker, relevant projects
+
+## Sales Onboarding
+- Dropbox Account
+- Sales Playbook
+- Add to Sales team on Asana
 
 
 # Footnotes
