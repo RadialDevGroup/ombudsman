@@ -26,7 +26,7 @@
  - Set up accounts (see below)
  - Send a Welcome email to their personal email address.
    - Google email login and initial password, and personalized login instructions.
-   - Hire Papework (W-4, I-9, and insurance application)[[1]](#f1).
+   - Hire Papework (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
    - Request new hire bring ID documents (typically drivers license + social security card or passport).
  - Welcome new hires on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
@@ -110,3 +110,4 @@ Goal:
 
 # Footnotes
 1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">New Hire Packet</a></span>
+2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/hiringupdates/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
