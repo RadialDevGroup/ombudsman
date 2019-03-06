@@ -28,7 +28,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
 
 **PROOF AND EDIT AS NECESSARY**
 
-**Remember to attach the [Client Onboarding Guide](ClientOnboardingGuide.pdf)!**
+**Remember to attach the [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf)!**
 
 CC Radial Management.
 
