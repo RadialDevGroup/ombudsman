@@ -142,7 +142,7 @@ You must identify in your timesheet how much leave, vacation, sick time, or self
 
 Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance. (e.g. on Jan 1 you can borrow up to 3 weeks of PTO)
 
-PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email two weeks in advance of PTO days to the extent possible. If management plans to deny PTO, they must give you two weeks notice.
+PTO requests with a length of two weeks or less will generally be approved by default, but you need to notify management by email three weeks in advance of PTO days to the extent possible (Note: If you will need a day off, but don't know the exact date, requesting that you will need a day off the week of (dates) is better than nothing so it can still be planned for). If management plans to deny PTO, they must give you two weeks notice.
 
 PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
 
@@ -155,7 +155,7 @@ Coming in when sick is discouraged. Don't give us your germs.
 
 ### Leave
 
-Two week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
+The three week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
 
 Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
