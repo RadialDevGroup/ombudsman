@@ -10,6 +10,8 @@ Management of Radial Development Group is done by the members of Radial Developm
 [Brian Bensky](#brian-bensky) is a resource for bringing up interpersonal issues or other confidential items that you may not be comfortable bringing up with Ben.
 
 # Technology and Engineering
+[Rebecca Klein](#rebecca-klein)
+
 [Ben West](#ben-west)
 
 # Operations & Finances
@@ -26,6 +28,10 @@ Management of Radial Development Group is done by the members of Radial Developm
   - [970 599 1764](tel:9705991764) (Radial office phone)
   - [970 460 6664](tel:9704606664) (Ben's personal phone)
   - [ben@radialdevgroup.com](mailto:ben@radialdevgroup.com)
+  
+## Rebecca Klein
+  - [rebecca@radialdevgroup.com](mailto:rebecca@radialdevgroup.com)
+  - [970 599 1764](tel:9705991764) (Radial office phone)
 
 ## Brian Bensky
   - [brianbensky@gmail.com](mailto:brianbensky@gmail.com)
