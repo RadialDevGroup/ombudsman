@@ -13,26 +13,27 @@
  - Use your plan. Stay on task. Listen to answers.
 
 ## When We Hire
- - Send a nice offer cover email
- - Request attached the Employment Contract be returned signed and use Docusign to get it back ASAP.
- - Request responses to a new-hire questionaire:
-   - T-shirt Size (M/W,S/M/L/XL/+).
-   - Github account name. Twitter, Instagram account name
-   - Dietary Restrictions and Preferences (Coffee, Caffiene, Allegies, Veg*, Paleo, Lifestyle, etc).
-   - Smartphone model.
-   - Any other relevant characteristics for welcome gift, email, etc.
+ - Send hire offer via email. Spend time on making the tone "Nice".
+  - Attach the emloyment contract.
+  - Request that the Employment Contract be returned signed and use Docusign to get it back ASAP.
+  - Request responses to a new-hire questionaire:
+    - T-shirt Size (M/W,S/M/L/XL/+).  Women's sizes tend to run about a size, to a size and a half small.
+    - Github account name. Twitter, Instagram account name.
+    - Dietary Restrictions and Preferences (Coffee, Caffiene, Allegies, Veg*, Paleo, Lifestyle, etc).
+    - Smartphone model/preferences.
+    - Any other relevant characteristics for welcome gift, email, etc.
 
 ## Before First Day
  - Set up accounts (see below)
- - Send a Welcome email to their personal email address.
+ - Send a Welcome email to their personal email address.  Include the following:
    - Google email login and initial password, and personalized login instructions.
    - Hire Papework (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
    - Request new hire bring ID documents (typically drivers license + social security card or passport).
  - Welcome new hires on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
  - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
- - Order Business Cards from Moo.
- - Schedule a team lunch and let everyone know (especially the new hire.
+ - Order Business Cards from Moo. 
+ - Schedule a team lunch and let everyone know (especially the new hire).
  - Schedule onboarding.
 
 ### Set Up Accounts
@@ -42,7 +43,7 @@
   - Manually send personalized login and instruction email, including wifi password at Radial, etc, See [Before First Day](#before-first-day).
  - Github
   - Before the hire date, obtain the user's github account or ask them to set one up.
- - Slack. Set up or use the welcome email to provide the link to  [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
+ - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - Freckle.  Training to occur at orientation.
 
 ## Payroll
@@ -65,6 +66,7 @@
 ## Training
 - Time Reporting ([Freckle](https://radialdevgroup.letsfreckle.com))
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
+ - Discuss billing for breaks, how to clock standup, cover "Personal Time".
 - Schedule
  - How to communicate vacations/absences.
  - Explain calendar (part time employees should post their time they will be in office).
