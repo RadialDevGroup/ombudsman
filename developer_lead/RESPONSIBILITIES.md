@@ -1,5 +1,3 @@
-# Developer Lead Policy
-
 # Getting Started
 Read the [Quick Start Guide](SHORT_DEV_LEAD_GUIDE.md)
 
@@ -8,6 +6,8 @@ The developer lead is responsible for ensuring process is followed and documente
 - [PROCESS](PROCESS_TEMPLATE.md)
 - [README](README.md)
 - [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md)
+
+There are some helpful examples of how to write a [PROCESS](https://github.com/RadialDevGroup/Policy/wiki/Project-PROCESS-Development/_edit), [PULL_REQUEST](https://github.com/RadialDevGroup/Policy/wiki/Project-PULL_REQUEST_TEMPLATE-Development/_edit). and [README](https://github.com/RadialDevGroup/Policy/wiki/Project-README-Development/_edit) in the [wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-lead-support).
 
 ## Technical Decisions
 1. The developer lead is responsible for making all engineering decisions on their
@@ -50,7 +50,7 @@ Requirements:
 - What is the current status of your budget?
 
 # Kickoff, Grooming, and Sprint Delivery
-**Kickoff**. You are responsible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](marketing_and_sales/KICKOFF.md) document for more info.
+**Kickoff**. You are responsible for scheduling and making preparations for a project's kickoff.  See the [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff) document for more info.
 
 **A sprint delivery/sprint planning meeting** should occur on either the last or first day of every sprint. This meeting should be with the client and dev lead. It is recommended that at least one other developer be present for advice and guidance. The purpose is to go over what was completed and what will be completed during the next sprint. This is also the time to discuss any changes in priority.
 

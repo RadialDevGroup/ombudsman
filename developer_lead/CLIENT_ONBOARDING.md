@@ -1,4 +1,4 @@
-# Client Onboarding Checklist
+## Client Onboarding Checklist
 
 When a contract is finalized and a dev lead is assigned, the dev lead should set up the appropriate tools and resources.
 
@@ -10,7 +10,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
       - Project Start Date
       - Project Time Zone
       - Iteration Length: Typically 2 weeks
-      - Point Scale: (I like Fibonacci)
+      - Point Scale: (Fibonacci is recommended)
       - Initial velocity: number of developers * 2 points per day * 8 days (leave some time for project management)
     - Invite Product Owner to project
   - [ ] Google group for team email
@@ -18,17 +18,18 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     2. Click "Create Group"
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
+    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
   - [ ] Slack Channels
     - #projectname-internal for developer discussions
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
 - Email Client with information (see template below)
-- Schedule [Kickoff](marketing_and_sales/KICKOFF.md)
+- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff)
 
 ## Client Onboarding Email Template
 
 **PROOF AND EDIT AS NECESSARY**
 
-**Remember to attach the [Client Onboarding Guide](ClientOnboardingGuide.pdf)!**
+**Remember to attach the [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf)!**
 
 CC Radial Management.
 

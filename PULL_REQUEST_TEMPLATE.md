@@ -8,7 +8,7 @@
 
 # Definition of Done
 
-- [ ] are all changes to the intent of existing items made in the onboarding process summary?
-- [ ] do any new policy items have an intents section?
-- [ ] have new intents been added to the onboarding process summary?
-- [ ] has this been vetted by at least one other person?
+- [ ] Are all changes to the intent of existing items made in the onboarding process summary?
+- [ ] Do any new policy items have an intents section?
+- [ ] Have new intents been added to the onboarding process summary?
+- [ ] Has this been vetted by at least one other person?

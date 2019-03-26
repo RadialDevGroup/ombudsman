@@ -1,7 +1,7 @@
-## STANDARDS
+## CODE STANDARDS
 
 ### Style Guides
-We understand that everybody has their own style when it comes to coding - but every now and then, we run into issues. Whether it's a question about consistency or simply questions about best practices, style guides give us a point of reference. As a group we've decided to adopt style guides for the various languages we use at RDG. They are found [here](https://github.com/RadialDevGroup/Policy/wiki/Style-Guide(s)).
+We understand that everybody has their own style when it comes to coding - but every now and then, we run into issues. Whether it's a question about consistency or simply questions about best practices, style guides give us a point of reference. As a group we've decided to adopt style guides for the various languages we use at RDG. They are found [here](https://github.com/RadialDevGroup/Policy/wiki/Style-Guides).
 
 ### Usage
 When doing PR reviews and you have a question or comment regarding a style, please reference and provide a link to the appropriate style guide. For each recommendation in the style guide, there is a link to the particular recommendation.
