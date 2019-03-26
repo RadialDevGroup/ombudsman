@@ -18,7 +18,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     2. Click "Create Group"
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
-    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and ben as admins for the group.
+    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
   - [ ] Slack Channels
     - #projectname-internal for developer discussions
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
