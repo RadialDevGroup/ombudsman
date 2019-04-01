@@ -44,7 +44,7 @@
  - Github
   - Before the hire date, obtain the user's github account or ask them to set one up.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
- - Freckle.  Training to occur at orientation.
+ - Noko.  Training to occur at orientation.
 
 ## Payroll
  - Verify and copy ID documents and complete I-9.
