@@ -4,7 +4,7 @@
  - Write a job description.
  - Audit the contract for the position.
  - Write or review the interview.
-   - Is there someone doing this jb who can write the interview?
+   - Is there someone doing this job who can write the interview?
    - Does there need to be a demonstration or portfolio portion?
 
 ## When We Interview
