@@ -1,6 +1,6 @@
 ## Client Onboarding Checklist
 
-When a contract is finalized and a dev lead is assigned, the dev lead should set up the appropriate tools and resources.
+When a contract is finalized and a dev lead is assigned, the dev lead should set up the appropriate tools and resources, and should make sure they have admin proviledges on each.
 
 - **Create accounts as applicable:**
   - [ ] Github Repository
