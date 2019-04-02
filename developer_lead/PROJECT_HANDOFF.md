@@ -18,11 +18,14 @@ Sales, Account Management, Operations, and Management team members who delegate 
 
 If working on the project involves being integrated with external services (e.g. a credit check provider), make sure that the new developer lead is made familiar with their points of contact for these services and that the integration partners are aware that the new developer lead will be communicating with them.
 
+When you hand off the project, make sure you make the new Project Lead an admin on all appropriate services (Github, Heroku, Pivotal, etc.)
+
 ## Concerning the customer
 Whoever is currently responsible for the project will introduce the new responsible team member to the client before becoming unavailable.  If the client already knows the new responsible team member, the client should receive notice that for [Business reason, explicit | Reasons of Personal Emergency | Standard reasons (Vacation | Sick | etc), explicit ] the current lead will be unavailable, and shall inform the client of the new point-of-contact (POC), CC to the POC's email. With permission, please provide the new POC's phone number for emergencies during the transition.  We may consider using a virtual assistant service for this, at some point.
 
 - Template email for resourcing change
-  ```Hi `[CLIENT NAME]`,
+  ```
+  Hi `[CLIENT NAME]`,
 
   I am currently being resourced to a different project, so `[NAME]` will be assuming my developer lead responsibilities.
   NAME has been on-boarded and extensively introduced to your project. `[NAME]` will be continuing work on the current
