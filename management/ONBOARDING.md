@@ -1,8 +1,8 @@
-# Onboarding
+# General Onboarding
 
 ## Before first day
  - Request new hire bring ID documents (typically drivers license + social security card or passport)
- - Email new hire contract and W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
+ - Send welcome email to new hire, along with their contract, W-4, I-9, and insurance application (<a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">packet</a>)
  - Obtain a DSLR (if you will be taking a picture on the first day, let the new hire know in advance)
  - Print business cards
  - Schedule a team lunch and let everyone know (especially the new hire)
@@ -12,7 +12,7 @@
 ## Payroll
  - Verify and copy ID documents and complete I-9
  - Scan employment packet documents and file paper copies
- - Email W-4, I-9, and Direct Deposit to TLC
+ - Email W-4, I-9, and direct deposit paperwork to TLC
  - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>
 
 ## Accounts
@@ -34,13 +34,9 @@
 ### Other
 - Slack [User self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290)
 
-### Project-specific
-- Heroku
-- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
-
 ## Training
-### Freckle
- - Create Freckle Account
+### Noko
+ - Create Noko Account
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities
 
 ### Schedule
@@ -57,16 +53,11 @@
   - Schedule picture for website
   - Welcome employee from Twitter account
 
-## Equipment, desk space, network, keys
+## Desk space, keys
 Goal:
 
-  - Check out company equipment to developer
-  - Assign Personal space to developer
-
-    - Provide key(s) for entry into workspace
-    - Provide a notebook
-
-  Practice:
+  - Provide key(s) for entry into workspace
+  - Provide a notebook
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
 
 ## Goals
@@ -75,5 +66,25 @@ Goal:
 ## Policy Repo
   - Review [Values](employee_expectations/VALUES.md) as documented in the intents of existing policies
   - Go over the policy repo, including the Process documentation for it.
-  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any Developer Journeys relevant to them.
+  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it.
   - Please ask the new employee to review the folders named employee_expectations and whatever else is relevant for the particular role.
+
+# Developer Onboarding
+
+## Policy
+  - Review [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) and draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any Developer Journeys relevant to them.
+  
+## Project-specific
+  - Heroku
+  - AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
+
+## Equipment, desk space, network, keys
+Goal:
+
+  - Check out company equipment as needed
+  - Assign Personal space to developer
+  
+## Developer Workflow
+  - Review [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow) 
+  - Remind to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
+  
