@@ -72,7 +72,7 @@ Goal:
 # Developer Onboarding
 
 ## Policy
-  - Review [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) and draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any Developer Journeys relevant to them.
+  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) and draw their attention to the [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and Developer Journey wikis relevant to them.
   
 ## Project-specific
   - Heroku
