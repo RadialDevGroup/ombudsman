@@ -60,10 +60,10 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Hourly Employees
 ### Compensation
-Closres disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
+Closures disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
 
 ### Availability
-Hourly employees may set their availability as needed. Changes to availability should made with 2 weeks notice, where possible, but can be modified at any time with management.
+Hourly employees may set their availability as needed. Changes to availability should be made with 2 weeks notice, where possible, but can be modified at any time with management.
 
 ### Hours reduction
 Hourly employees requested to take a reduction in hours will be assisted in applying for temporary unemployment benefits, if requested.
@@ -71,7 +71,7 @@ Hourly employees requested to take a reduction in hours will be assisted in appl
 ## Salaried Employees
 ### Hours and Hour Requirements
 
-Any time not accounted for which does not add up to weekly hours requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total.
+Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total.
 
 In practice this means you are able to "flex" your hour requirements from week to week.
 
@@ -93,7 +93,7 @@ Internal time will be counted towards your 40 hour work week.
 
 Examples of internal time meetings
 * Weekly Retrospectives - An all-hands retrospective meeting is held every
-  Friday at 9:30 AM. Attendance is required unless you have taken PTO. In-person
+  Friday at 9:00 AM. Attendance is required unless you have taken PTO. In-person
   participation is preferred, and infrequent remote attendance is acceptable.
 
 * Trainings - Radial tries to help advance each employee's technical and
@@ -114,12 +114,15 @@ Examples of internal time meetings
 
 ### Overtime and Comptime
 
-40 hours of work will be required.  If any time over 40 hours is work, PTO will be
-accrued for that time.  If it is important to client delivery that additional time
+40 hours of work will be required, and any additional time will be
+accrued as PTO.  If it is important to client delivery that additional time
 be spent, please ensure that we are aware so that the entire team can participate.
 Please report any client request for overtime, in writing, and in context, as
 additional fees may apply and additional steps may need to be taken to account for
-this time.
+this time. In the event that an employee is given business mandated weekend work,
+the employee will be given a bonus compensation of $45. This inlcudes working any
+Saturday or Sunday, working during a scheduled company closure, or any necessary 
+work done after 6 pm.
 
 ### Sick Time and Self Care
 
@@ -141,7 +144,7 @@ You must identify in your timesheet how much leave, vacation, sick time, or self
 
 Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance. (e.g. on Jan 1 you can borrow up to 3 weeks of PTO)
 
-PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice.  Do not forget to add the time to Freckle at the start (or end??) of your absence.
+PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice.  Do not forget to add the time to Freckle at the start of your absence.
 
 PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
 
