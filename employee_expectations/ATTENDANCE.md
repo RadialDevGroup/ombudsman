@@ -119,7 +119,7 @@ accrued as PTO.  If it is important to client delivery that additional time
 be spent, please ensure that we are aware so that the entire team can participate.
 Please report any client request for overtime, in writing, and in context, as
 additional fees may apply and additional steps may need to be taken to account for
-this time. In the event that an employee is given business mandated weekend work,
+this time. In the event that an employee is given business-mandated weekend work,
 the employee will be given a bonus compensation of $45. This inlcudes working any
 Saturday or Sunday, working during a scheduled company closure, or any necessary 
 work done after 6 pm.
