@@ -71,7 +71,7 @@ Hourly employees requested to take a reduction in hours will be assisted in appl
 ## Salaried Employees
 ### Hours and Hour Requirements
 
-Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total.
+Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation time and added to your PTO total.
 
 In practice this means you are able to "flex" your hour requirements from week to week.
 
