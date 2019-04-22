@@ -3,13 +3,13 @@
 ## Intents and Values
 
 Every opportunity must be afforded an employee to live wholeheartedly at work
-and at home.  We believe that allowing employees to bring themselves to work is
+and at home. We believe that allowing employees to bring themselves to work is
 the best investment we can make into our employees, before professional
-development and other perks.  We believe that being employed and resourced
+development and other perks. We believe that being employed and resourced
 based on personal commitments is superior to using shame or a complex
-disciplinary policy to enforce a set of rules.  As such, we ask all employees
+disciplinary policy to enforce a set of rules. As such, we ask all employees
 to proactively communicate their commitment to a schedule and to any change to
-that schedule, as soon as possible.  A failure to effectively communicate
+that schedule, as soon as possible. A failure to effectively communicate
 schedule changes or to meet commitments may be grounds for dismissal if not
 corrected.
 
@@ -38,7 +38,7 @@ Please communicate via email.
 ### Tell them soon.
 
 Please send your notification, by email, as soon as possible, to let your team know if you
-will be late or absent. Please also notify Management.  You have a responsibility to
+will be late or absent. Please also notify Management. You have a responsibility to
 make sure we are aware if you will be unable to work, as soon as you know and are able.
 
 Unreported tardies and absences must be made up.
@@ -46,7 +46,7 @@ Unreported tardies and absences must be made up.
 ### Communication is a priority.
 
 Furthermore, it is preferred that you arrive 2 hours and 10 minutes late,
-rather than to arrive merely 2 hours late without an email.  Please take the
+rather than to arrive merely 2 hours late without an email. Please take the
 time to send an email, before you leave, if you will be late more than 10 minutes.
 
 Please do not send messages while operating a vehicle. Stop. It is more important
@@ -107,7 +107,7 @@ Examples of internal time meetings
 ### Hack Time
 
 * Provided all project goals are met, any remaining
-  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time.  Please allow us to promote any successes relevant to building the company's reputation.
+  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
@@ -150,7 +150,7 @@ PTO requests with a length of greater than two weeks (10 business days) will not
 
 Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
 
- Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
+ Your vacation time should be recorded in Noko under the project "PTO" and tagged as #vacation.
 - Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
 
 Coming in when sick is discouraged. Don't give us your germs.
