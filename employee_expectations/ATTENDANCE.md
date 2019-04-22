@@ -114,7 +114,7 @@ Examples of internal time meetings
 
 ### Overtime and Comptime
 
-40 hours of work will be required, and any additional time will be
+40 hours of work will be required, and any additional time worked will be
 accrued as PTO.  If it is important to client delivery that additional time
 be spent, please ensure that we are aware so that the entire team can participate.
 Please report any client request for overtime, in writing, and in context, as
