@@ -1,42 +1,38 @@
-#Offboarding
+# Offboarding
 
 When possible, use the Admin privileges in the various services to change the
 password for a person leaving the company. Double-check with the departing
-employee re: any additional resources assigned for Radial use (e.g. Rollbar,
-Pingdom, etc.). and take appropriate action regarding those accounts (e.g.
+employee re: any additional resources assigned for Radial use (e.g. Rollbar, 
+etc.) and take appropriate action regarding those accounts (e.g.
 transfer, disabling, etc.).
 
-###Payroll
+### Payroll
 
 Set end date for payroll.
 
-##Accounts
+## Accounts
 
-###Freckle
+### Noko
 
-Disable Freckle Account / Change Password
+Disable Noko Account / Change Password
 
-###Teambook
-
-Disable Teambook Account / Change Password
-
-###Google
+### Google
 
 Disable Google Account / Change Password
 
-###Sprint.ly
+### Pivotal Tracker
 
-Disable Sprintly Account / Change Password
+Disable Pivotal Tracker Account / Change Password
 
-###Github
+### Github
 
 Remove User from Radial Organization on GitHub (Employees)
 
-###Asana
+### Asana
 
 Disable Asana Account / Change Password
 
-###AWS
+### AWS
 
 Disable AWS Account / Change Password
 
@@ -44,20 +40,20 @@ Disable AWS Account / Change Password
 
 Disable Slack Account
 
-###Project-Specific
+### Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
 * CircleCI: Transfer ownership and revoke privileges as required.
 
-##Equipment
+## Equipment
 
 Retrieve and test company equipment (e.g. system passwords). Allow the person
 leaving the time to pull any personal files off of company equipment (e.g. ssh
 keys) when possible.
 
-please set the password 'purple' on the account or erase(factory reset).
+please set the password 'purple' on the account or erase (factory reset).
 
-##Keys
+## Keys
 
 Retrieve office keys from person leaving. Label and return to respective
 owner(s) as appropriate.
