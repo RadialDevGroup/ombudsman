@@ -14,7 +14,7 @@
 
 ## When We Hire
  - Send hire offer via email. Spend time on making the tone "Nice".
-  - Attach the emloyment contract.
+  - Attach the employment contract.
   - Request that the Employment Contract be returned signed and use Docusign to get it back ASAP.
   - Request responses to a new-hire questionaire:
     - T-shirt Size (M/W,S/M/L/XL/+).  Women's sizes tend to run about a size, to a size and a half small.
@@ -32,7 +32,7 @@
  - Welcome new hires on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
  - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
- - Order Business Cards from Moo.
+ - Order Business Cards from [Moo](https://www.moo.com/us/).
  - Schedule a team lunch and let everyone know (especially the new hire).
  - Schedule onboarding.
 
@@ -52,18 +52,19 @@
  - Email W-4, I-9, and Direct Deposit to Journey.
  - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>.
 
-# New Hire Orientation/Onboarding
-## WiFi
- perfect purple password
+## New Hire Orientation/Onboarding
+### WiFi
+ - Radial Development Group: perfect purple password
+ - TheArmory: Coworking411
 
-## Setup
+### Setup
 - Github
   - Require user to set up two-factor authentication.
   - (then) Add user to Radial Organization on Github (Employees).
 - Asana
   - Add User to Operations Team.
 
-## Training
+### Training
 - Time Reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
  - Discuss billing for breaks, how to clock standup, cover "Personal Time".
@@ -76,10 +77,10 @@
   - Communication (Slack, Email, team@ google group, team.<project> communication).
   - Absences and Lateness.
 
-## Marketing
+### Marketing
   - Schedule picture for website.
 
-## Equipment, desk space, network, keys
+### Equipment, desk space, network, keys
 Goal:
   - Check out company equipment.
   - Assign Personal space to developer.
@@ -89,27 +90,27 @@ Goal:
   Practice:
   - Explain space limitations and work out solutions and acceptable compromises (such as the Armory).
 
-## Policy Repo
+### Policy Repo
   - Review [Values](employee_expectations/VALUES.md) as documented in the intents of existing policies.
   - Go over the policy repo, including the Process documentation for it.
   - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any Developer Journeys relevant to them.
   - Please ask the new employee to review the folders named employee_expectations and anything else that is relevant for the particular role.
 
-## Goals
+### Goals
 - Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
 
-## Developer On-boarding
+### Developer On-boarding
 *Hand-off to Director of Eng., as neccesary.*
 - Heroku
 - AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
 - Pivotal Tracker, relevant projects
 
-## Sales Onboarding
+### Sales Onboarding
 - Dropbox Account
 - Sales Playbook
 - Add to Sales team on Asana
 
 
-# Footnotes
+## Footnotes
 1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">New Hire Packet</a></span>
 2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/hiringupdates/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
