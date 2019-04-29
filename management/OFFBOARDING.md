@@ -54,4 +54,3 @@ please set the password 'purple' on the account or erase (factory reset).
 ## Keys
 
 Retrieve the departing employee's office keys and store them safely for reuse.
-owner(s) as appropriate.
