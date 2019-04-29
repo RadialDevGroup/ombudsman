@@ -3,7 +3,6 @@
 When possible, use the admin privileges in each of the services referred to below to change the
 departing employee's passwords. Double-check with the departing
 employee to make sure they are removed from any resources not listed here (e.g. Rollbar).
-etc.) and take appropriate action regarding those accounts (e.g.
 
 ### Payroll
 
