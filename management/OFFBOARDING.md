@@ -46,7 +46,7 @@ Disable Slack Account
 ## Equipment
 
 Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). Give the departing employee
-leaving the time to pull any personal files off of company equipment (e.g. ssh
+time to pull any personal files off of the equipment (e.g. SSH
 keys) when possible.
 
 please set the password 'purple' on the account or erase (factory reset).
