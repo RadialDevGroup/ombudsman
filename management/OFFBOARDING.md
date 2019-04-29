@@ -45,7 +45,7 @@ Disable Slack Account
 
 ## Equipment
 
-Retrieve and test company equipment (e.g. system passwords). Allow the person
+Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). Give the departing employee
 leaving the time to pull any personal files off of company equipment (e.g. ssh
 keys) when possible.
 
