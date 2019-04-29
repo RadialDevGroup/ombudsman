@@ -1,7 +1,7 @@
 # Offboarding
 
 When possible, use the Admin privileges in the various services to change the
-password for a person leaving the company. Double-check with the departing
+departing employee's passwords. Double-check with the departing
 employee re: any additional resources assigned for Radial use (e.g. Rollbar, 
 etc.) and take appropriate action regarding those accounts (e.g.
 transfer, disabling, etc.).
