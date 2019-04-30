@@ -22,7 +22,7 @@ Disable Google Account / Change Password
 
 Disable Pivotal Tracker Account / Change Password
 
-### Github
+### GitHub
 
 Remove User from Radial Organization on GitHub (Employees)
 
