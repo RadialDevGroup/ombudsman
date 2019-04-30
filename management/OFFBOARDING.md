@@ -6,7 +6,7 @@ employee to make sure they are removed from any resources not listed here (e.g. 
 
 ### Payroll
 
-Set end date for payroll.
+Set an end date for payroll.
 
 ## Accounts
 
