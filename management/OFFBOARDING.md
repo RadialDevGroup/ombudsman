@@ -49,7 +49,7 @@ Retrieve and test company equipment and the credentials set on that equipment (e
 time to pull any personal files off of the equipment (e.g. SSH
 keys) when possible.
 
-please set the password 'purple' on the account or erase (factory reset).
+Please set the password 'purple' on the account or erase (factory reset).
 
 ## Keys
 
