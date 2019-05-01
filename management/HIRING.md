@@ -17,7 +17,7 @@
   - Attach the employment contract.
   - Request that the new hire sign the employment contract using DocuSign and return it promptly.
   - Request responses to a new-hire questionnaire:
-    - T-shirt Size (M/W,S/M/L/XL/+).  Women's sizes tend to run about a size, to a size and a half small.
+    - T-shirt size (M/W,S/M/L/XL/+).  Women's shirts tend to run about 1-1/2 sizes too small.
     - Github account name. Twitter, Instagram account name.
     - Dietary Restrictions and Preferences (Coffee, Caffiene, Allegies, Veg*, Paleo, Lifestyle, etc).
     - Smartphone model/preferences.
