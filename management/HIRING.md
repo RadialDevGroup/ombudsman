@@ -25,7 +25,7 @@
 
 ## Before First Day
  - Set up accounts (see below)
- - Send a Welcome email to their personal email address.  Include the following:
+ - Send a welcome email to their personal email address. Include the following:
    - Google email login and initial password, and personalized login instructions.
    - Hire Papework (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
    - Request new hire bring ID documents (typically drivers license + social security card or passport).
