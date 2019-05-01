@@ -92,8 +92,11 @@ Goal:
 ### Policy Repo
   - Review [Values](employee_expectations/VALUES.md) as documented in the intents of existing policies.
   - Go over the policy repo, including the Process documentation for it.
-  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any developer journeys relevant to them.
+  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
   - Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
+  - Discuss Dev Lead resources:
+    - [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
+    - Remind to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
 
 ### Goals
 - Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
@@ -103,6 +106,7 @@ Goal:
 - Heroku
 - AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
 - Pivotal Tracker, relevant projects
+- Any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
 ### Sales Onboarding
 - Dropbox Account
