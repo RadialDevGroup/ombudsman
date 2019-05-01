@@ -99,7 +99,7 @@ Goal:
 ### Goals
 - Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
 
-### Developer On-boarding
+### Developer Onboarding
 * Handoff to Director of Engineering, as necessary.*
 - Heroku
 - AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
