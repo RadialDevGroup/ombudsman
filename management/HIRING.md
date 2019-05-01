@@ -60,7 +60,7 @@
 ### Setup
 - Github
   - Require user to set up two-factor authentication.
-  - (then) Add user to Radial Organization on Github (Employees).
+  - (then) Add user to Radial Organization on GitHub (Employees).
 - Asana
   - Add User to Operations Team.
 
