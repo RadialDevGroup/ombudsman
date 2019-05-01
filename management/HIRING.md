@@ -94,7 +94,7 @@ Goal:
   - Review [Values](employee_expectations/VALUES.md) as documented in the intents of existing policies.
   - Go over the policy repo, including the Process documentation for it.
   - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide), and any developer journeys relevant to them.
-  - Please ask the new employee to review the folders named employee_expectations and anything else that is relevant for the particular role.
+  - Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
 
 ### Goals
 - Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
