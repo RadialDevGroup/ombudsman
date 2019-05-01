@@ -3,13 +3,13 @@
 ## Intents and Values
 
 Every opportunity must be afforded an employee to live wholeheartedly at work
-and at home.  We believe that allowing employees to bring themselves to work is
+and at home. We believe that allowing employees to bring themselves to work is
 the best investment we can make into our employees, before professional
-development and other perks.  We believe that being employed and resourced
+development and other perks. We believe that being employed and resourced
 based on personal commitments is superior to using shame or a complex
-disciplinary policy to enforce a set of rules.  As such, we ask all employees
+disciplinary policy to enforce a set of rules. As such, we ask all employees
 to proactively communicate their commitment to a schedule and to any change to
-that schedule, as soon as possible.  A failure to effectively communicate
+that schedule, as soon as possible. A failure to effectively communicate
 schedule changes or to meet commitments may be grounds for dismissal if not
 corrected.
 
@@ -38,7 +38,7 @@ Please communicate via email.
 ### Tell them soon.
 
 Please send your notification, by email, as soon as possible, to let your team know if you
-will be late or absent. Please also notify Management.  You have a responsibility to
+will be late or absent. Please also notify Management. You have a responsibility to
 make sure we are aware if you will be unable to work, as soon as you know and are able.
 
 Unreported tardies and absences must be made up.
@@ -46,7 +46,7 @@ Unreported tardies and absences must be made up.
 ### Communication is a priority.
 
 Furthermore, it is preferred that you arrive 2 hours and 10 minutes late,
-rather than to arrive merely 2 hours late without an email.  Please take the
+rather than to arrive merely 2 hours late without an email. Please take the
 time to send an email, before you leave, if you will be late more than 10 minutes.
 
 Please do not send messages while operating a vehicle. Stop. It is more important
@@ -60,10 +60,10 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Hourly Employees
 ### Compensation
-Closres disproportionally harm hourly employees, due to lost hours.  Hourly employees do not accrue vacation but receive 20% more compensation per hour as a direct payment of that accrual.  This reflects all company closure dates and vacation time awarded as salary to salaried employees.
+Hourly employees receive 20% more compensation per hour than salaried employees since they do not accrue vacation time and are disproportionately harmed by closures.
 
 ### Availability
-Hourly employees may set their availability as needed. Changes to availability should made with 2 weeks notice, where possible, but can be modified at any time with management.
+Hourly employees may set their availability as needed. Changes to availability should be made with 2 weeks notice, where possible, but can be modified at any time with management.
 
 ### Hours reduction
 Hourly employees requested to take a reduction in hours will be assisted in applying for temporary unemployment benefits, if requested.
@@ -71,7 +71,7 @@ Hourly employees requested to take a reduction in hours will be assisted in appl
 ## Salaried Employees
 ### Hours and Hour Requirements
 
-Any time not accounted for which does not add up to weekly hours requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation (comp) time and added to your PTO total.
+Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation time and added to your PTO total.
 
 In practice this means you are able to "flex" your hour requirements from week to week.
 
@@ -93,7 +93,7 @@ Internal time will be counted towards your 40 hour work week.
 
 Examples of internal time meetings
 * Weekly Retrospectives - An all-hands retrospective meeting is held every
-  Friday at 9:30 AM. Attendance is required unless you have taken PTO. In-person
+  Friday at 9:00 AM. Attendance is required unless you have taken PTO. In-person
   participation is preferred, and infrequent remote attendance is acceptable.
 
 * Trainings - Radial tries to help advance each employee's technical and
@@ -107,19 +107,22 @@ Examples of internal time meetings
 ### Hack Time
 
 * Provided all project goals are met, any remaining
-  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time.  Please allow us to promote any successes relevant to building the company's reputation.
+  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
 
 ### Overtime and Comptime
 
-40 hours of work will be required.  If any time over 40 hours is work, PTO will be
-accrued for that time.  If it is important to client delivery that additional time
+40 hours of work will be required, and any additional time worked will be
+accrued as PTO. If it is important to client delivery that additional time
 be spent, please ensure that we are aware so that the entire team can participate.
 Please report any client request for overtime, in writing, and in context, as
 additional fees may apply and additional steps may need to be taken to account for
-this time.
+this time. In the event that an employee is given business-mandated weekend work,
+the employee will be given a $45 bonus per instance. This includes working any
+Saturday or Sunday, working during a scheduled company closure, or any necessary 
+work done after 6 pm.
 
 ### Sick Time and Self Care
 
@@ -139,15 +142,15 @@ You must identify in your timesheet how much leave, vacation, sick time, or self
 
 ### Paid Time Off
 
-Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance. (e.g. on Jan 1 you can borrow up to 3 weeks of PTO)
+Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance (e.g. on Jan 1 you can borrow up to 3 weeks of PTO).
 
-PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice.  Do not forget to add the time to Freckle at the start (or end??) of your absence.
+PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice. Do not forget to add the time to Noko at the start of your absence.
 
 PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
 
 Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
 
- Your vacation time should be recorded in Freckle under the project "PTO" and tagged as #vacation.
+ Your vacation time should be recorded in Noko under the project "PTO" and tagged as #vacation.
 - Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
 
 Coming in when sick is discouraged. Don't give us your germs.
