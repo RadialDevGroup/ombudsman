@@ -27,7 +27,7 @@
  - Set up accounts (see below)
  - Send a welcome email to their personal email address. Include the following:
    - Set up a Google email login, initial password, and personalized login instructions.
-   - Hire Papework (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
+   - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
    - Request new hire bring ID documents (typically drivers license + social security card or passport).
  - Welcome new hires on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
