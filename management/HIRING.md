@@ -83,7 +83,7 @@
 ### Equipment, desk space, network, keys
 Goal:
   - Check out company equipment.
-  - Assign Personal space to developer.
+  - Assign personal space to developer.
   - Provide key(s) for entry into workspace.
   - Provide a notebook, writing supplies.
 
