@@ -57,7 +57,7 @@
  - TheArmory: Coworking411
 
 ### Setup
-- Github
+- GitHub
   - Require user to set up two-factor authentication.
   - (then) Add user to Radial Organization on GitHub (Employees).
 - Asana
