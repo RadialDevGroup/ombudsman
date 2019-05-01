@@ -16,7 +16,7 @@
  - Send hire offer via email. Use a polite tone.
   - Attach the employment contract.
   - Request that the new hire sign the employment contract using DocuSign and return it promptly.
-  - Request responses to a new-hire questionaire:
+  - Request responses to a new-hire questionnaire:
     - T-shirt Size (M/W,S/M/L/XL/+).  Women's sizes tend to run about a size, to a size and a half small.
     - Github account name. Twitter, Instagram account name.
     - Dietary Restrictions and Preferences (Coffee, Caffiene, Allegies, Veg*, Paleo, Lifestyle, etc).
