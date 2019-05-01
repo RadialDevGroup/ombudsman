@@ -32,7 +32,7 @@
  - Welcome the new hire on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
  - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
- - Order Business Cards from [Moo](https://www.moo.com/us/).
+ - Order business cards from [Moo](https://www.moo.com/us/).
  - Schedule a team lunch and let everyone know (especially the new hire).
  - Schedule onboarding.
 
