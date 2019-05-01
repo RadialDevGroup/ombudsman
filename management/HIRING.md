@@ -19,7 +19,7 @@
   - Request responses to a new-hire questionnaire:
     - T-shirt size (M/W,S/M/L/XL/+).  Women's shirts tend to run about 1-1/2 sizes too small.
     - GitHub, Twitter, and Instagram account names.
-    - Dietary Restrictions and Preferences (Coffee, Caffiene, Allegies, Veg*, Paleo, Lifestyle, etc).
+    - Dietary restrictions and preferences (coffee, caffeine, allergies, vegetarian, paleo, lifestyle, etc).
     - Smartphone model/preferences.
     - Any other relevant characteristics for welcome gift, email, etc.
 
