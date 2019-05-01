@@ -28,7 +28,7 @@
  - Send a welcome email to their personal email address. Include the following:
    - Set up a Google email login, initial password, and personalized login instructions.
    - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
-   - Request new hire bring ID documents (typically drivers license + social security card or passport).
+   - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
  - Welcome the new hire on Twitter.
  - Send a welcome email to the team, and link the tweet in the email.
  - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
