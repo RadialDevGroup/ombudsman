@@ -41,7 +41,6 @@
   - Create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias.
   - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
   - Manually send personalized login and instruction email, including wifi password at Radial, etc, See [Before First Day](#before-first-day).
- - Github
   - Before the hire date, obtain the user's Github account or ask them to set one up.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - Noko.  Training to occur at orientation.
