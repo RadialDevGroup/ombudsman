@@ -15,7 +15,7 @@
 ## When We Hire
  - Send hire offer via email. Use a polite tone.
   - Attach the employment contract.
-  - Request that the Employment Contract be returned signed and use Docusign to get it back ASAP.
+  - Request that the new hire sign the employment contract using DocuSign and return it promptly.
   - Request responses to a new-hire questionaire:
     - T-shirt Size (M/W,S/M/L/XL/+).  Women's sizes tend to run about a size, to a size and a half small.
     - Github account name. Twitter, Instagram account name.
