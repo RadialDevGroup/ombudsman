@@ -13,7 +13,7 @@
  - Use your plan. Stay on task. Listen to answers.
 
 ## When We Hire
- - Send hire offer via email. Spend time on making the tone "Nice".
+ - Send hire offer via email. Use a polite tone.
   - Attach the employment contract.
   - Request that the Employment Contract be returned signed and use Docusign to get it back ASAP.
   - Request responses to a new-hire questionaire:
