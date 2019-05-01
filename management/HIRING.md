@@ -65,7 +65,7 @@
   - Add User to Operations Team.
 
 ### Training
-- Time Reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
+- Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
  - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
  - Discuss billing for breaks, how to clock standup, cover "Personal Time".
 - Schedule
