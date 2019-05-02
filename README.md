@@ -36,7 +36,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
 - [New Employee Schedule](management/NEW_EMPLOYEE_SCHEDULE.md)
 - [Offboarding](management/OFFBOARDING.md)
-- [Onboarding](management/ONBOARDING.md)
+- [Onboarding](management/HIRING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
 - [Shadowing Checklist](management/SHADOWING_CHECKLIST.md)
 
