@@ -24,7 +24,7 @@ Disable Pivotal Tracker Account / Change Password
 
 ### GitHub
 
-Remove User from Radial Organization on GitHub (Employees)
+Remove user from Radial organization on GitHub (Employees)
 
 ### Asana
 
