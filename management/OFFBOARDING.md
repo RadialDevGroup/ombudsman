@@ -1,6 +1,6 @@
 # Offboarding
 
-When possible, use the admin privileges in each of the services referred to below to change the
+When removing an account is not possible, use the admin privileges in each of the services below to change the
 departing employee's passwords. Double-check with the departing
 employee to make sure they are removed from any resources not listed here (e.g. Rollbar).
 
@@ -36,7 +36,9 @@ Disable AWS Account / Change Password
 
 ### Slack
 
-Disable Slack Account
+Convert the account to a multi-channel guest account. They will
+remain a member of the #help, #random, #events, and #lunch
+channels.
 
 ### Project-Specific
 
@@ -45,11 +47,11 @@ Disable Slack Account
 
 ## Equipment
 
-Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). Give the departing employee
-time to pull any personal files off of the equipment (e.g. SSH
+Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). 
+Give the departing employee time to pull any personal files off of the equipment (e.g. SSH
 keys) when possible.
 
-Please set the password 'purple' on the account or erase (factory reset).
+Create a 'Radial' account with the password 'purple' and remove the employee's account, files, etc.
 
 ## Keys
 
