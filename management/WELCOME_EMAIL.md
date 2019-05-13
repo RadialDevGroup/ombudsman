@@ -16,7 +16,7 @@ GitHub account, making one with your personal email address before your first da
 You will need to set up
 two-factor authentication on all of the accounts you make.
 
-We are sending you your contract, W-4, I-9, and a direct deposit form to be filled
+We have attached your contract, W-4, I-9, and a direct deposit form to be filled
 out. You can complete this step while at Radial.
 
 Your Radial email address is (insert Radial email here) and your initial password
