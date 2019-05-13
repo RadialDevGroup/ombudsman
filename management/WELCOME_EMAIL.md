@@ -12,7 +12,7 @@ To get you started, we have a few things to go over.
 On your first day, remember to bring your ID documents and a laptop if possible. 
 
 We will need to set you up with a handful of accounts. If you do not have a
-GitHub account, making one before your first day will speed up the process
+GitHub account, making one with your personal email address before your first day will speed up the process.
 You will need to set up
 2 factor authentication on all of the accounts you make.
 
