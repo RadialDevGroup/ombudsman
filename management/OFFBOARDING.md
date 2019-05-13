@@ -1,63 +1,58 @@
-#Offboarding
+# Offboarding
 
-When possible, use the Admin privileges in the various services to change the
-password for a person leaving the company. Double-check with the departing
-employee re: any additional resources assigned for Radial use (e.g. Rollbar,
-Pingdom, etc.). and take appropriate action regarding those accounts (e.g.
-transfer, disabling, etc.).
+When removing an account is not possible, use the admin privileges in each of the services below to change the
+departing employee's passwords. Double-check with the departing
+employee to make sure they are removed from any resources not listed here (e.g. Rollbar).
 
-###Payroll
+### Payroll
 
-Set end date for payroll.
+Set an end date for payroll.
 
-##Accounts
+## Accounts
 
-###Freckle
+### Noko
 
-Disable Freckle Account / Change Password
+Disable Noko Account / Change Password
 
-###Teambook
-
-Disable Teambook Account / Change Password
-
-###Google
+### Google
 
 Disable Google Account / Change Password
 
-###Sprint.ly
+### Pivotal Tracker
 
-Disable Sprintly Account / Change Password
+Disable Pivotal Tracker Account / Change Password
 
-###Github
+### GitHub
 
-Remove User from Radial Organization on GitHub (Employees)
+Remove user from Radial organization on GitHub (Employees)
 
-###Asana
+### Asana
 
 Disable Asana Account / Change Password
 
-###AWS
+### AWS
 
 Disable AWS Account / Change Password
 
 ### Slack
 
-Disable Slack Account
+Convert the account to a multi-channel guest account. They will
+remain a member of the #help, #random, #events, and #lunch
+channels.
 
-###Project-Specific
+### Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
 * CircleCI: Transfer ownership and revoke privileges as required.
 
-##Equipment
+## Equipment
 
-Retrieve and test company equipment (e.g. system passwords). Allow the person
-leaving the time to pull any personal files off of company equipment (e.g. ssh
+Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). 
+Give the departing employee time to pull any personal files off of the equipment (e.g. SSH
 keys) when possible.
 
-please set the password 'purple' on the account or erase(factory reset).
+Create a 'Radial' account with the password 'purple' and remove the employee's account, files, etc.
 
-##Keys
+## Keys
 
-Retrieve office keys from person leaving. Label and return to respective
-owner(s) as appropriate.
+Retrieve the departing employee's office keys and store them safely for reuse.
