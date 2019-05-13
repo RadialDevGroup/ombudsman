@@ -23,7 +23,7 @@ Your Radial email address is (insert Radial email here) and your initial passwor
 is (insert initial password). When you log in, you will also notice we have sent
 you invites to use Noko and Asana. Please set up these accounts when you get the chance.
 
-You will also be added to our Slack workspace, so downloading Slack onto your
+You will also be added to our Slack workspace, so downloading Slack to your
 computer is definitely recommended before you arrive. https://slack.com/downloads/mac
 
 Please let us know if you have any questions. We are excited to work with you!
