@@ -14,7 +14,7 @@ On your first day, remember to bring your ID documents and a laptop if possible.
 We will need to set you up with a handful of accounts. If you do not have a
 GitHub account, making one with your personal email address before your first day will speed up the process.
 You will need to set up
-2 factor authentication on all of the accounts you make.
+two-factor authentication on all of the accounts you make.
 
 We are sending you your contract, W-4, I-9, and a direct deposit form to be filled
 out. You can complete this step while at Radial.
