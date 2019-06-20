@@ -41,7 +41,7 @@ CC Radial Management.
 >
 > I will be sending you a Slack invitation shortly.
 >
-> Our phone number is 970-599-1764.
+> Our phone number is 970-305-6305.
 >
 > One other essential communication tool is Pivotal Tracker.  You should be receiving an invitation shortly as well.  If you're not familiar with Tracker I would be happy to go over it at the kickoff meeting.  There is also some helpful information in the attached guide.
 >
