@@ -21,7 +21,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
     5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
   - [ ] Slack Channels
     - #projectname-internal for developer discussions
-      - Pin links to relevant documentation such as the Project Briefing (located in Google Drive>Customers/<customer name>)
+      - Pin links to relevant documentation such as the Project Briefing (located in [Google Drive>Customers](https://drive.google.com/drive/folders/1Zg5SIxUgW2cbQ_ZJGmIncIZOEJt4a34i)/<customer name>)
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
 - Email Client with information (see template below)
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff)
