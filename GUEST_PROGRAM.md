@@ -30,5 +30,6 @@ Everyone at Radial should be given a heads up about the guest coming in, whether
 over Slack at least a few hours before the guest arrives. The senior developer should notify the 
 team and ensure that the guest is introduced well when they come in.
 
-In the short term, guests will be added to the Guest Help and Guest General channels on Slack.
-Every employee should turn on notifications to both of these channels.
+In the short term, guests will be added to the Guest Help, Guest General, and Stand-Up channels 
+on Slack. Guest should be instructed to post their stand-up each time they're in the office, and 
+every employee should turn on notifications to both of these channels.
