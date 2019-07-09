@@ -19,7 +19,7 @@ the Director of Product Success.
 
 At some point, the Senior Developer may tell the Director of Engineering to consider this person 
 for hire. The Director of Engineering should then go through the interview process and screening
-the candididate. Overall, the President of the company gets to make the final decision.
+the candidate. The President of the company will make the final hiring decision.
 
 There will also be a nondisclosure agreement, and this will include a mandated disclosure of 
 conflicts of interest for all guests that work with us.
