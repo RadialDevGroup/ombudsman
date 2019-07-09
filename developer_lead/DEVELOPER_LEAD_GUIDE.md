@@ -50,7 +50,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Dealing With Toxic Email Culture
 
-## [6. Reporting (about status and deadlines)](#Reporting)
+## [6. Reporting (about status and deadlines)](#reporting-about-status-and-deadlines)
 
 ### Reporting schedule
 
@@ -332,7 +332,7 @@ Another problem with email comes from being used outside normal business hours, 
 
 Lastly, we should not send emails to people who do not need to receive them. If you are asking several people to do different things, and not everyone needs all the information in the email, then it is best to send separate emails. If you send regular reports you should check with the client to make sure that those reports are useful and being read.
 
-## Reporting (about status and deadlines)
+## Reporting about status and deadlines
 
 Don’t wait for a report to be due. Any time you realize you are ahead of or behind schedule, inform management and the team immediately.
 
