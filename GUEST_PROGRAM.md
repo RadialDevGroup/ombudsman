@@ -28,7 +28,8 @@ conflicts of interest for all guests that work with us.
 
 Everyone at Radial should be given a heads up about the guest coming in, whether in person or 
 over Slack at least a few hours before the guest arrives. The senior developer should notify the 
-team and ensure that the guest is introduced well when they come in.
+team and ensure that the guest is introduced well when they come in. This introduction to our team
+and the space should happen between 9 and 9:30 am, ignoring quiet rules.
 
 In the short term, guests will be added to the Guest Help, Guest General, and Stand-Up channels 
 on Slack. Guest should be instructed to post their stand-up each time they're in the office, and 
