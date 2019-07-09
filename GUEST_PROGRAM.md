@@ -1,7 +1,7 @@
 # Guest Program
 
 The goal of having a guest program here at Radial is to welcome new people into our space
-and get a chance to work with them. It makes hiring a simpler process when we get the chance
+and get a chance to work with them. It makes hiring a simpler process when we take the opportunity
 to talk with people and get to know them before making any final decisions. It's how we have
 hired several of our current developers, and how we plan to hire more in the future.
 
