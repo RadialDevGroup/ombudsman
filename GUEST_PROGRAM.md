@@ -8,7 +8,7 @@ hired several of our current developers, and how we plan to hire more in the fut
 ## Management
 
 The management of the guest program will be the responsibility of the Senior Developer of 
-any given team, and we will also have a separate guest program for Director of Engineering.
+any given team.
 
 It is the responsibility of the President of the company and the Director of Product Success 
 to identify candidates that would have the best possible outcome and greatest possible impact
