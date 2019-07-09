@@ -6,7 +6,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 # Table of Contents
 
-## [What is a Developer Lead?](#what-is-a-developer-lead)
+## [1. What is a Developer Lead?](#what-is-a-developer-lead)
 
 ### Responsibility for Process and Documentation
 
@@ -14,9 +14,9 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Responsibility for Previous Clients
 
-## [Communication With Your Team](#communication-with-your-team)
+## [2. Communication With Your Team](#communication-with-your-team)
 
-## [Keeping Your Project on Track](#keeping-your-project-on-track)
+## [3. Keeping Your Project on Track](#keeping-your-project-on-track)
 
 ### Daily To-Do's
 
@@ -24,7 +24,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Planning Sprints for Long-Term Success
 
-## [Onboarding a New Client](#onboarding-a-new-client)
+## [4. Onboarding a New Client](#onboarding-a-new-client)
 
 ### Using Our Discovery Process (Scopulating)
 
@@ -32,7 +32,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Set a standard for communication
 
-## [Interacting With Clients](#interacting-with-clients)
+## [5. Interacting With Clients](#interacting-with-clients)
 
 ### Communication
 
@@ -50,7 +50,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Dealing With Toxic Email Culture
 
-## [Reporting (about status and deadlines)](#Reporting-about-status-and-deadlines)
+## [6. Reporting (about status and deadlines)](#Reporting)
 
 ### Reporting schedule
 
@@ -58,7 +58,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### How to avoid missing deadlines
 
-## [Meeting Client Expectations](#meeting-client-expectations)
+## [7. Meeting Client Expectations](#meeting-client-expectations)
 
 ### How to Listen And Ensure You and the Client are on the Same Page
 
@@ -76,19 +76,19 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Apologizing to Clients
 
-## [Encourage Your Team](#encourage-your-team)
+## [8. Encourage Your Team](#encourage-your-team)
 
 ### Mention Desirable Traits and Behaviors (You are doing a GOOD JOB)
 
 ### Treat your Team
 
-## [Types of Projects](#types-of-projects)
+## [9. Types of Projects](#types-of-projects)
 
 ### Greenfield
 
 ### Legacy
 
-## [Types of Workflows](#types-of-workflows)
+## [10. Types of Workflows](#types-of-workflows)
 
 ### Agile
 
@@ -98,7 +98,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Consulting
 
-## [Misc](#misc)
+## [11. Misc](#misc)
 
 ### Refactoring, Technical Debt, and Developer Ergonomics
 
@@ -108,7 +108,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Care for Customer Branding
 
-## [Lessons I’ve Learned (mistakes or advice)](#lessons-ive-learned-mistakes-or-advice)
+## [12. Lessons I’ve Learned (mistakes or advice)](#lessons-ive-learned-mistakes-or-advice)
 
 * * *
 
