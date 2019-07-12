@@ -29,6 +29,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 
 ## Developer Lead Expectations
 - [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
+- [Dev Lead Guide](developer_lead/DEVELOPER_LEAD_GUIDE.md)
 - [Project Handoff](developer_lead/PROJECT_HANDOFF.md)
 - [Responsibilities](developer_lead/RESPONSIBILITIES.md)
 
