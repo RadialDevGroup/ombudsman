@@ -40,6 +40,10 @@ Convert the account to a multi-channel guest account. They will
 remain a member of the #help, #random, #events, and #lunch
 channels.
 
+### Calendar
+
+Remove Birthday and Anniversary events from the Radial Events calendar
+
 ### Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
