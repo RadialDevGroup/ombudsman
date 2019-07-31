@@ -27,11 +27,22 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Code Standards](developer/CODE_STANDARDS.md)
 - [Peer Review](developer/PEER_REVIEW.md)
 
+#### Helpful Links:
+- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki/Welcome-from-the-Director-of-Engineering)
+- [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup)
+- [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow)
+- [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
+
+Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-support).
+
 ## Developer Lead Expectations
-- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
+- [Quick Start Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
 - [Dev Lead Guide](developer_lead/DEVELOPER_LEAD_GUIDE.md)
+- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
 - [Project Handoff](developer_lead/PROJECT_HANDOFF.md)
 - [Responsibilities](developer_lead/RESPONSIBILITIES.md)
+
+Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-lead-support).
 
 ## Management/HR
 - [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
