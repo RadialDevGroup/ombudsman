@@ -1,30 +1,21 @@
-## Subcontractor Onboarding
+## Subcontractor Onboarding Checklist
 
-- Send an introductory email (see example below) that sets a date for kickoff
-- Setup up a 1-one-1 w/ Rebecca
-- Daily Slack standup (Maybe invite to standup channel)
-    - # of hours to date
-    - What you worked on yesterday (or the last day you worked)
-    - What you are working on today
-    - What you are currently blocked by/ impeded by
-- Outline process for writing stories/grooming
-    - Discuss separating stories as much as is reasonable
-- Client interactions
-  - Radial's values:
-    - Courage
-    - Accountability
-    - Care
-    - People/Empathy
-    - Collaboration
-- Ensure access to all the things needed
-- Asking for help when you need it
-- https://docs.google.com/document/d/1hKsVmu2wRSdnbVm6xqWsm3zc3fERbJXVH7N4ANy8jI0/edit
+- Send an introductory email (see example below)
+  - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Subcontractor-Kickoff)
+- Setup up the initial 1-one-1 w/ Rebecca
+- [ ] Add the subcontractor the Google group team email
+  - If not the team email has not been created:
+    1. Go to https://groups.google.com
+    2. Click "Create Group"
+    3. Use `team.{projectname}` for the "Group Email Address"
+    4. Under "Basic Permissions" set the "Post" permission to "Public"
+    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
+- Determine if the subcontractor will be remote or onsite.
 
+## Subcontractor Onboarding Email Template
 
-### Kickoff Agenda
+**PROOF AND EDIT AS NECESSARY**
 
-
-### Example Email
 > Hi {DEVELOPER NAME},
 >
 > We're excited to collaborate with you on {PROJECT NAME(S)}!  I've been assigned as the developer lead for your project(s) and will be your primary point of contact.  For your convenience, there are several ways to get in touch with your Radial Team:
