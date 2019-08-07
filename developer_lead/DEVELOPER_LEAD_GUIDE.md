@@ -276,9 +276,11 @@ Be intentional and consistent about how you communicate to set the example for h
 
 ### Communication
 
-Communicate often and consistently. Communication is more than giving reports to a client, it needs to be a conversation. For some clients this means meeting in person, for others conversing over slack or email, and for some it means phone conversations.
+Having a strong relationship with clients is really critical to our success. Communicate often and consistently. Communication is more than giving reports to a client, it needs to be a conversation. For some clients this means meeting in person, for others conversing over slack or email, and for some it means phone conversations.
 
 Encourage clients to focus on the long-term goal of the project and not on little features. This will help prevent them from constantly adding new stories that we are hit with by surprise.
+
+Questioning a client’s strategy and goals can help gain insight and establish a stronger relationship.
 
 ### Commitments
 
