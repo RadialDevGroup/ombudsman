@@ -128,17 +128,15 @@ work done after 6 pm.
 
 Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.
 
-You may take up to a day for any sort of self care reason. If you need to take more than a day, it should be considered PTO.
-
-These accommodations will generally be referred to as sick time or self care time. You are not required to take PTO for this time.
-
-The funding for this comes out of company profit, and is not accounted for as compensation.
+You may take 4 to 8 hours for any sort of self care reason. If you need to take more than a day, it should be considered PTO. Anything less than 4 hours may be scheduled as flex time but must be made up. These accommodations will generally be referred to as sick time, personal time, or self care time. You are not required to take PTO for this time.  The funding for this comes out of company profit, and is not accounted for as compensation.
 
 However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.
 
 If this is for more than one day, this is probably not sick/self care time, and should be taken as vacation or unpaid leave.
 
-You must identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.
+You MUST identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.  Please either use a broad category Sick, Healthcare Appt., Mental Health, Family or provide a more detailed explanation.
+
+Exceptions to this policy may be made by management approval.
 
 ### Paid Time Off
 
@@ -153,7 +151,7 @@ Upon separation, the employee will receive compensation in the amount of unused 
  Your vacation time should be recorded in Noko under the project "PTO" and tagged as #vacation.
 - Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
 
-Coming in when sick is discouraged. Don't give us your germs.
+Coming in when sick is discouraged. Please, don't give us your germs.
 
 ### Leave
 
