@@ -74,7 +74,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Communicate Failures to the Client—Proactively, Before the Client Notices
 
-### Apologizing to Clients
+### Customer Recovery
 
 ## [8. Encourage Your Team](#encourage-your-team)
 
@@ -454,11 +454,11 @@ Say no by saying yes. Sometimes clients will want things that can’t be done or
 
 It is also important not to wait to tell a client that we aren't going to meet a goal, a problem arose, we messed up, or circumstances beyond our control required a change in plans. Tell the client before they could ever notice if it's possible to do so. It implies that you are on top of the problem and that we are the right group to fix it, and that will help establish that they can trust you to handle issues as they arise.
 
-### Apologizing to Clients
+### Customer Recovery
+
+Customer recovery is possible only when we take the time to listen to our client and take steps that _really_ address the clients practical and _emotional needs_. The most important thing is to listen completely until the client has over-expressed everything that are frustrated with. Make a mental note of anything you can apologize for and wait for the client to finish. Apologize. Don't "explain". In this context, an explantation is too close to an excuse. Demonstrate that you are listening by validating the client's frustrations: "I understand that you are frustrated. I can see that you would be." Emphasize anything we have actually done wrong. From here, begin setting reasonable expectations. In any case where a client's expectations are inaccurate or unreasonable do not tie those back to the apology to the clients frustrations. When you tie back to the clients frustration, apologize again, then begin setting expectations. Don't draw contrast but explain expectations affirmatively: "We do X," "X is hard," "The way we manage X is with Y." Last, explain what future steps we will take to resolve the circumstances and causes of the clients frustrations. Again, do not refer directly to the client's frustration. Refer to the circumstances and causes and explain how the changes will impact them going forward. It may be necessary to explain several time or from several different angles.
 
 Carefully crafting a sincere apology is something that takes experience, but here are a few guidelines to help:
-
-* An apology doesn't require the client's complaint to be reasonable! You can apologize to a client for the way that they feel, especially if you or the company are responsible for the thing that the client is unsatisfied with.
 
 * An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
 
