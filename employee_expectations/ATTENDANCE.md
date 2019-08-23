@@ -136,7 +136,7 @@ If this is for more than one day, this is probably not sick/self care time, and 
 
 You MUST identify in your timesheet how much leave, vacation, sick time, or self-care time you are taking, and the reason. Please either use a broad category such as Sick, Healthcare Appt., Mental Health, or Family, or provide a more detailed explanation.
 
-Exceptions to this policy may be made by management approval.
+Exceptions to this policy may be made with management approval.
 
 ### Paid Time Off
 
