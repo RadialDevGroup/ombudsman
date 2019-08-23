@@ -7,53 +7,53 @@ When "Management" is referenced, this will mean the individual who is currently
 responsible for managing Radial Development Group. At this time, this individual
 is Ben West.
 
-## Employee Expectations
-### Organizational Items
-- [Organizational Structure](ORGANIZATIONAL_STRUCTURE.md)
-- [Facilities](employee_expectations/FACILITIES.md)
-- [Escalation - when/how to ](employee_expectations/ESCALATION.md)
+## Structure
+As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialDevGroup/Policy/wiki) are intended to contain "guidelines" (and therefore do not require a PR review), while the Policy [repository](https://github.com/RadialDevGroup/Policy) is intended to contain "actual rules" (which should therefore be more seriously considered before they are changed).  Therefore, if you are looking for advice on how to accomplish a task related to your role at Radial, you most likely want to look at the wiki. On the other hand, if you are looking for documentation about HR concerns, company values, or the official company stance on which services we offer, you most likely want the repo. Employees are encouraged to PR a change to this structure if they feel a file is in the wrong place.
 
-### HR Policies
-- [Equal Opportunity](employee_expectations/EQUAL_OPPORTUNITY.md)
+## Organizational Items
+- [Organizational Structure](ORGANIZATIONAL_STRUCTURE.md)
+
+## Employee Expectations and HR Policies
 - [Attendance](employee_expectations/ATTENDANCE.md)
+- [Equal Opportunity](employee_expectations/EQUAL_OPPORTUNITY.md)
+- [Escalation - when/how to](employee_expectations/ESCALATION.md)
+- [Facilities](employee_expectations/FACILITIES.md)
 - [Performance](employee_expectations/PERFORMANCE.md)
+- [Privacy Policy and Technology Usage](employee_expectations/PRIVACY.md)
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
-- [Technology Usage and Privacy Policy](employee_expectations/PRIVACY.md)
 - [Values](employee_expectations/VALUES.md)
 
-## Development Policies
-- [Code Standards](development/CODE_STANDARDS.md)
-- [Pairing](development/PAIRING.md)
-- [Peer Review](development/PEER_REVIEW.md)
-- [How to Write Feature Stories](development/STORY_WRITING.md)
+## Developer Expectations
+- [Code Standards](developer/CODE_STANDARDS.md)
+- [Peer Review](developer/PEER_REVIEW.md)
+
+#### Helpful Links:
+- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki/Welcome-from-the-Director-of-Engineering)
+- [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup)
+- [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow)
+- [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
+
+Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-support).
+
+## Developer Lead Expectations
+- [Quick Start Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
+- [Dev Lead Guide](developer_lead/DEVELOPER_LEAD_GUIDE.md)
+- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
+- [Project Handoff](developer_lead/PROJECT_HANDOFF.md)
+- [Responsibilities](developer_lead/RESPONSIBILITIES.md)
+
+Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-lead-support).
 
 ## Management/HR
-- [Onboarding](management/ONBOARDING.md)
-- [Cultural Discovery](management/CULTURAL_DISCOVERY.md)
+- [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
+- [New Employee Schedule](management/NEW_EMPLOYEE_SCHEDULE.md)
 - [Offboarding](management/OFFBOARDING.md)
+- [Onboarding](management/HIRING.md)
+- [Sales Onboarding](management/SALES_ONBOARDING.md)
+- [Shadowing Checklist](management/SHADOWING_CHECKLIST.md)
 
-## Developer Leads
-- [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
-- [Kickoff](marketing_and_sales/KICKOFF.md)
-- [Handoff](developer_lead/PROJECT_HANDOFF.md)
-- [Standards](developer_lead/DEVELOPER_LEAD.md)
-- [Process on Projects](developer_lead/PROCESS_TEMPLATE.md)
-
-## Marketing
-- [General](marketing_and_sales/GENERAL_STRATEGY.md)
-- [Case Studies](marketing_and_sales/CASE_STUDY_STRATEGY.md)
-- [Social Media](marketing_and_sales/SOCIAL_MEDIA_STRATEGY.md)
-- [Events](marketing_and_sales/EVENT_STRATEGY.md)
-- [Newsletter](marketing_and_sales/NEWSLETTER_STRATEGY.md)
-- [Content Development](marketing_and_sales/BLOGGING.md)
-- [Website & Analytics](marketing_and_sales/WEBSITE_STRATEGY.md)
-
-## Sales
-- [On-boarding](marketing_and_sales/SALES-ONBOARDING.md)
-- [Kickoff](marketing_and_sales/KICKOFF.md)
-
-#### Services not offered
-- [Hardware and Equipment Service](marketing_and_sales/HARDWARE.md)
+## Services not offered
+- [Hardware and Equipment Service](employee_expectations/HARDWARE.md)
 - IT Services
 - Marketing
 
