@@ -134,7 +134,7 @@ However, if you are sick or struggling in some other way, you may, having given 
 
 If this is for more than one day, this is probably not sick/self care time, and should be taken as vacation or unpaid leave.
 
-You MUST identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.  Please either use a broad category Sick, Healthcare Appt., Mental Health, Family or provide a more detailed explanation.
+You MUST identify in your timesheet how much leave, vacation, sick time, or self-care time you are taking, and the reason. Please either use a broad category such as Sick, Healthcare Appt., Mental Health, or Family, or provide a more detailed explanation.
 
 Exceptions to this policy may be made by management approval.
 
