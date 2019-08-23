@@ -56,4 +56,4 @@ Requirements:
 
 **Grooming** should occur every week (or at a minimum, every 2 weeks for month-long sprints). Everyone planning to work on the project before the next grooming meeting should attend. The purpose of this meeting is to go through each story, clarifying any details and assigning points if not already assigned. Grooming should, at a minimum, ensure that nothing on the project has changed. Meet and discuss upcoming features, even if you don't think anything has changed for all active projects.
 
-**Read the [Quick Start Guide](../../../wiki/Quick-Start-Developer-Lead-Guide) and Full [Developer Lead Guide](https://docs.google.com/document/d/1TAGA8qN-vdQ6rPbVGvzPgmbhd3XCOhgnAbQI8MbGRMY/edit#heading=h.b4l3ti3cxwui) for more info**
+**Read the [Quick Start Guide](../../../wiki/Quick-Start-Developer-Lead-Guide) and Full [Developer Lead Guide](../../../wiki/Complete-Developer-Lead-Guide) for more info**
