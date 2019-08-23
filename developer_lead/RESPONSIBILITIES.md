@@ -25,6 +25,14 @@ There are some helpful examples of how to write a [PROCESS](https://github.com/R
 5. If the developer lead does not agree with your proposal and you feel strongly
   further engineering discussions should occur, bring this up in weekly retrospective
   or contact Management to continue the discussion.
+  
+## Budget Issues
+1. Any budget issues shall be negotiated by someone with contract signing authority.  If you do not have the authority to write and sign a new contract, please notify a superior if there is any kind of dispute or issue about budget.
+2. A developer lead should discuss budget with client in terms of hours and not dollars to avoid misunderstandings, and to avoid a situation where they might over-promise to a customer inadvertently.
+3. A developer may and should recommend a budget increase to a client, but ultimately hand off final negotiation to someone with contract signing authority to make the arrangement official.
+4. If it is clear that a budget needs to be decreased, or if a client requests a reduced budget, please notify someone with contract signing authority to renegotiate the terms of the change.
+5. If a client requests anything that could qualify as a new project (e.g. new codebase, something exterior to the current project) while they still have a significant backlog of items, this is an upsell opportunity and we should attempt to either sell an increase in budget (even temporarily) and potentially a distinct delivery team for it.  Handle this by notifying someone with contract signing authority of the opportunity and allowing them to negotiate the opportunity.  We will make an effort to increase our engagement with the customer as a priority over taking new clients.
+
 
 ## Responsibility for Previous Clients
 When a previous Radial client re-engages with us, the individual who was the developer lead
