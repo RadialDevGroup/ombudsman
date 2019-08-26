@@ -456,6 +456,8 @@ It is also important not to wait to tell a client that we aren't going to meet a
 
 ### Customer Recovery
 
+In a nutshell, the three steps are: Listen completely. Apologize sincerely. Set expectations.
+
 Customer recovery is possible only when we take the time to listen to our client and take steps that _really_ address the clients practical and _emotional needs_. The most important thing is to listen completely until the client has over-expressed everything that are frustrated with. Make a mental note of anything you can apologize for and wait for the client to finish. Apologize. Don't "explain". In this context, an explantation is too close to an excuse. Demonstrate that you are listening by validating the client's frustrations: "I understand that you are frustrated. I can see that you would be." Emphasize anything we have actually done wrong. From here, begin setting reasonable expectations. In any case where a client's expectations are inaccurate or unreasonable do not tie those back to the apology to the clients frustrations. When you tie back to the clients frustration, apologize again, then begin setting expectations. Don't draw contrast but explain expectations affirmatively: "We do X," "X is hard," "The way we manage X is with Y." Last, explain what future steps we will take to resolve the circumstances and causes of the clients frustrations. Again, do not refer directly to the client's frustration. Refer to the circumstances and causes and explain how the changes will impact them going forward. It may be necessary to explain several time or from several different angles.
 
 Carefully crafting a sincere apology is something that takes experience, but here are a few guidelines to help:
