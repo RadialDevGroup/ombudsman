@@ -438,7 +438,7 @@ Giving clients good news is mostly easy. Get excited and they'll get excited too
 
 This seems like a straightforward concept, but a launch or release party (officially beginning a new project, releasing a major new update for the project, etc.) can really drive successes home for clients. Remember to celebrate!
 
-### Giving Clients Bad News/Reality Checks
+### Giving Clients Bad News
 
 While it's never fun to deliver bad news to a client, there are several things you can do to make it easier. First, don't beat around the bush. Be clear that a bad thing happened, and you agree that it's bad.
 
@@ -446,9 +446,23 @@ Apologize when we screwed up and that's what caused the problem. Don't apologize
 
 Whether it is our problem or not, once everyone is on the same page that there is a problem, explain how we are going to fix it if it is something we can fix. If it is something the client needs to fix, try and lay out as clearly as possible what steps they can take to do so successfully. The fewer blockers in their way, the easier they will feel the problem is to overcome. Taking hard decisions out of the picture by making the decision for the client, as pushy as that may sound, can often alleviate a lot of stress in a situation. Just make sure that it is truly a good decision to make for them, even if that means figuring it out alongside a team member, before offering the suggestion.
 
+### Reality Checks
+
 Reality checks often require patience. Try and work through the misunderstanding together with the client to see where their misunderstanding is (or yours, as the case may be). You or the client is probably making a leap in logic that is causing the misunderstanding.
 
-Say no by saying yes. Sometimes clients will want things that can’t be done or have serious caveats. Seek to understand what the client’s goals are and offer alternative options instead of shutting them down.
+Radial has best practices.  Often a client will ask that we perform work in a way opposes our best practices.  When this occurs, your experience and expertise is valuable.  After thoroughly understanding the client’s preference, and their motivation for that preference, you should bring our best practice, or your experience, up with the client.  Often this will lead to a better solution.  Occasionally, you will be able to bring light to aspects of the project that have not been considered, either by you, or by the client.  However, these conversations should always be conducted with humility, and the assurance that meeting a client’s needs is the essential priority.
+
+Say no by saying yes. Sometimes clients will want things that can’t be done or have serious caveats. Seek to understand what the client’s goals are and offer alternative options instead of shutting them down.  Rather than argue about specific implementation details, focus on what business value the work will deliver for the client.
+
+Giving the customer what they say they want is one of the biggest risks we take, from a customer satisfaction perspective. our customers are no-more software developers than they are nutritionists (unless they actually are, but let's say...): They may know a salad is good for them, more than cake, but it doesn't mean that's what they'll order. We have the unenviable position of being the nutritionist and the waiter. Don't assume that because you're the waiter, that the customer will be satisfied with your work if he/she gets fat even if he/she was the one that ordered all the cake. Don't refuse. Advise. Convince the client to make a strategic decision.
+
+It is fairly common to make mistakes in this area, even with substantial experience. Failing to consult a client, however, doesn't tend to directly, result in a customer satisfaction problem. It does, however, indirectly endanger customer satisfaction because it can hamper the pace or quality of future work.
+
+Some times when a reality check is necessary:
+- When the client is violating a social contract (or other agreement, including terms of use, etc) with their clients, given a change that they are making.  Actively defrauding clients is completely out of the question.  Please escalate the request, in that case.  Example: If my client charges $20 for an annual service agreement and wants to change the service agreement for customers to 3 months, for existing users, I don't really want to do that without a conversation about it.
+- If the client is doing something that will make their product insecure I should clarify and suggest they consult their business insurance agent and investors about it.
+- If my client gives me UX comps that are inconsistent or incomplete, I should clarify requirements and makes specific requests for specific improvements and clarifications.
+- If a client who has no product and can't clarify what their product does insists that it must be written in "scalable react", we should focus on what the product does, building it, and then scaling it, rather than promising "scalable react" before we know what we're scaling, or what scaling means in context.
 
 ### Communicate Failures to the Client—Proactively, Before the Client Notices
 
