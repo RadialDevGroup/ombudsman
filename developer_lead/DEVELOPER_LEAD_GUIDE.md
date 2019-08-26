@@ -280,7 +280,7 @@ Having a strong relationship with clients is really critical to our success. Com
 
 Encourage clients to focus on the long-term goal of the project and not on little features. This will help prevent them from constantly adding new stories that we are hit with by surprise.
 
-Questioning a client’s strategy and goals can help gain insight and establish a stronger relationship.
+Asking clarifying questions about a client's goals or strategy can help gain insight and establish a stronger relationship.
 
 ### Commitments
 
@@ -460,11 +460,15 @@ Customer recovery is possible only when we take the time to listen to our client
 
 Carefully crafting a sincere apology is something that takes experience, but here are a few guidelines to help:
 
-* An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
+1. An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
 
-* An apology should NOT be made BEFORE the client describes an injury.
+2. An apology should NOT be made BEFORE the client describes an injury.
 
-* Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+3. Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+
+Example:
+- "I understand where you're coming from. I think I'd feel that way too if I were in your shoes."
+
 
 ## Encourage Your Team
 
