@@ -454,7 +454,7 @@ Say no by saying yes. Sometimes clients will want things that can’t be done or
 
 It is also important not to wait to tell a client that we aren't going to meet a goal, a problem arose, we messed up, or circumstances beyond our control required a change in plans. Tell the client before they could ever notice if it's possible to do so. It implies that you are on top of the problem and that we are the right group to fix it, and that will help establish that they can trust you to handle issues as they arise.
 
-### Customer Recovery
+### Client Recovery
 
 In a nutshell, the three steps are: Listen completely. Apologize sincerely. Set expectations.
 
