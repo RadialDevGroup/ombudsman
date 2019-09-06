@@ -4,7 +4,7 @@
   - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Subcontractor-Kickoff)
 - [ ] Setup up the initial 1-one-1 w/ Rebecca
 - [ ] Add the subcontractor the Google group team email
-  - If not the team email has not been created:
+  - If the team email has not been created:
     1. Go to https://groups.google.com
     2. Click "Create Group"
     3. Use `team.{projectname}` for the "Group Email Address"
