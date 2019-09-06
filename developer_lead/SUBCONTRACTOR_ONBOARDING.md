@@ -9,7 +9,7 @@
     2. Click "Create Group"
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
-    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
+    5. Add ben@radialdevgroup.com, rebecca@radialdevgroup.com, and other members to the team.  Set yourself, Ben, and Rebecca as admins for the group.
 - Determine if the subcontractor will be remote or onsite.
 
 ## Subcontractor Onboarding Email Template
