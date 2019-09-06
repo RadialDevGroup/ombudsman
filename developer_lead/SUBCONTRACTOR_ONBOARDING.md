@@ -1,8 +1,8 @@
 ## Subcontractor Onboarding Checklist
 
-- Send an introductory email (see example below)
+- [ ] Send an introductory email (see example below)
   - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Subcontractor-Kickoff)
-- Setup up the initial 1-one-1 w/ Rebecca
+- [ ] Setup up the initial 1-one-1 w/ Rebecca
 - [ ] Add the subcontractor the Google group team email
   - If not the team email has not been created:
     1. Go to https://groups.google.com
