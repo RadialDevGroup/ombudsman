@@ -104,7 +104,7 @@ Goal:
 ### Developer Onboarding
 * Handoff to Director of Engineering, as necessary.*
 - Heroku
-- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
+- AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\))
 - Pivotal Tracker, relevant projects
 - Any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
