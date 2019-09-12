@@ -20,7 +20,7 @@
 >
 > We're excited to collaborate with you on {PROJECT NAME(S)}!  I'm the Developer Lead for your project(s) and will be your primary point of contact.  For your convenience, there are several ways to get in touch with your Radial Team:
 >
-> You will receive an invite to team.{PROJECTNAME}@radialdevgroup.com. This will be the primary point of contact for the client which will keep everyone in the loop about project status and communication. Please cc team.{PROJECTNAME}@radialdevgroup.com in your interactions with the client as well.
+> You will receive an invite to team.{PROJECTNAME}@radialdevgroup.com. This is the client-facing primary point of contact to keep everyone in the loop about project status and communication. Please cc team.{PROJECTNAME}@radialdevgroup.com in your email interactions with the client as well.
 >
 > I will be sending you a Slack invitation to join the Radial workspace shortly.
 >
