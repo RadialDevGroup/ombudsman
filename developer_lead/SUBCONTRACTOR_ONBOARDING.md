@@ -22,7 +22,7 @@
 >
 > You will receive an invite to team.{PROJECTNAME}@radialdevgroup.com. This will be the primary point of contact for the client which will keep everyone in the loop about project status and communication. Please cc team.{PROJECTNAME}@radialdevgroup.com in your interactions with the client as well.
 >
-> I will be sending you a Slack invitation shortly.
+> I will be sending you a Slack invitation to join the Radial workspace shortly.
 >
 > Our phone number is 970-305-6305.
 >
