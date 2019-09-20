@@ -1,10 +1,11 @@
 ## Client Onboarding Checklist
 
-When a contract is finalized and a dev lead is assigned, the dev lead should set up the appropriate tools and resources, making sure they have admin privileges on each.
+When a contract is finalized and a dev lead is assigned, the dev lead should insure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the dev lead, but by someone on the management or sales team.
 
 - **Create accounts as applicable:**
   - [ ] Github Repository
     - Add Client to permissions if requested
+    - This will be set up by sales in the event the repository is being imported, otherwise the dev lead can set it up
   - [ ] Pivotal Tracker project
     - Set project settings:
       - Project Start Date
@@ -13,18 +14,21 @@ When a contract is finalized and a dev lead is assigned, the dev lead should set
       - Point Scale: (Fibonacci is recommended)
       - Initial velocity: number of developers * 2 points per day * 8 days (leave some time for project management)
     - Invite Product Owner to project
+    - This should be set up by management
   - [ ] Google group for team email
     1. Go to https://groups.google.com
     2. Click "Create Group"
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
-    5. Add ben@radialdevgroup.com and other members to the team.  Set yourself and Ben as admins for the group.
+    5. Add ben@radialdevgroup.com, rebecca@radialdevgroup.com, and other members to the team.  Set Ben, Rebecca, and yourself as admins for the group.
+    -This should be set up by the dev lead
   - [ ] Slack Channels
     - #projectname-internal for developer discussions
       - Pin links to relevant documentation such as the Project Briefing (located in [Google Drive>Customers](https://drive.google.com/drive/folders/1Zg5SIxUgW2cbQ_ZJGmIncIZOEJt4a34i)/<customer name>)
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
-- Email Client with information (see template below)
-- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff)
+  -This should be set up by management
+- Email Client with information (see template below). This should not be done until after being contacted by the sales team and recieving confirmation that all NDAs and contracts have been finalized.
+- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after being contacted by sales and after sending the onboarding email.
 
 ## Client Onboarding Email Template
 
