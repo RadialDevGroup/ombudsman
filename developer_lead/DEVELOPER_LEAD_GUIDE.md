@@ -264,9 +264,9 @@ You may be be pulled in pre-onboarding to the scopulating meeting. [http://radia
 
 ### Client Onboarding
 
-[https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/CLIENT_ONBOARDING.md](https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/CLIENT_ONBOARDING.md)
+[Client Onboarding](https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/CLIENT_ONBOARDING.md)
 
-[https://github.com/RadialDevGroup/Policy/blob/master/marketing_and_sales/KICKOFF.md](https://github.com/RadialDevGroup/Policy/blob/master/marketing_and_sales/KICKOFF.md)
+[Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff)
 
 ### Set a standard for communication
 
