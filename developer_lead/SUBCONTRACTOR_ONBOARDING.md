@@ -3,6 +3,7 @@
 - [ ] Send an introductory email (see example below)
   - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Subcontractor-Kickoff)
 - [ ] Setup up the initial 1-one-1 w/ Rebecca
+- [ ] Contact Rebecca or Ben to add the contractor to [Noko](https://radialdevelopmentgroup.nokotime.com)
 - [ ] Add the subcontractor the Google group team email
   - If not the team email has not been created:
     1. Go to https://groups.google.com
