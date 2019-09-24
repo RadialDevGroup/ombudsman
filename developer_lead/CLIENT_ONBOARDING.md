@@ -27,7 +27,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
       - Pin links to relevant documentation such as the Project Briefing (located in [Google Drive>Customers](https://drive.google.com/drive/folders/1Zg5SIxUgW2cbQ_ZJGmIncIZOEJt4a34i)/<customer name>)
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
   -This should be set up by management
-- Email Client with information (see template below). This should not be done until after being contacted by the sales team and recieving confirmation that all NDAs and contracts have been finalized.
+- Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after being contacted by sales and after sending the onboarding email.
 
 ## Client Onboarding Email Template
