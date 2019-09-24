@@ -28,7 +28,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
   -This should be set up by management
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
-- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after being contacted by sales and after sending the onboarding email.
+- Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
 
 ## Client Onboarding Email Template
 
