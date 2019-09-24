@@ -1,6 +1,6 @@
 ## Client Onboarding Checklist
 
-When a contract is finalized and a dev lead is assigned, the dev lead should insure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the dev lead, but by someone on the management or sales team.
+When a contract is finalized and a dev lead is assigned, the dev lead should ensure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the dev lead, but by someone on the management or sales team.
 
 - **Create accounts as applicable:**
   - [ ] Github Repository
