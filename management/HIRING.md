@@ -25,7 +25,7 @@
 
 ## Before First Day
  - Set up accounts (see below)
- - Send a welcome email to their personal email address. Include the following:
+ - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
    - Set up a Google email login, initial password, and personalized login instructions.
    - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
    - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
@@ -104,7 +104,7 @@ Goal:
 ### Developer Onboarding
 * Handoff to Director of Engineering, as necessary.*
 - Heroku
-- AWS Credentials (See [AWS Credential policy](AWS-CREDENTIAL-POLICY.md))
+- AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\))
 - Pivotal Tracker, relevant projects
 - Any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
@@ -116,4 +116,4 @@ Goal:
 
 ## Footnotes
 1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202017.pdf" target="_blank">New Hire Packet</a></span>
-2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/hiringupdates/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
+2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
