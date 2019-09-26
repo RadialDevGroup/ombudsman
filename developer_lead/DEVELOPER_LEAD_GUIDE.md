@@ -456,20 +456,34 @@ It is also important not to wait to tell a client that we aren't going to meet a
 
 ### Client Recovery
 
-In a nutshell, the three steps are: Listen completely. Apologize sincerely. Set expectations.
+In a nutshell, the three steps are: 1) Listen completely. 2) Apologize sincerely. 3) Set expectations.
 
 Customer recovery is possible only when we take the time to listen to our client and take steps that _really_ address the client's practical and _emotional needs_. The most important thing is to listen completely until the client has over-expressed everything that are frustrated with. Make a mental note of anything you can apologize for and wait for the client to finish. Apologize. Don't "explain." In this context, an explantation is too close to an excuse. Demonstrate that you are listening by validating the client's frustrations: "I understand that you are frustrated. I can see that you would be." Emphasize anything we have actually done wrong. From here, begin setting reasonable expectations. In any case where a client's expectations are inaccurate or unreasonable do not tie those back to the apology to the client's frustrations. When you tie back to the client's frustration, apologize again, then begin setting expectations. Don't draw contrast but explain expectations affirmatively: "We do X," "X is hard," "The way we manage X is with Y." Last, explain what future steps we will take to resolve the circumstances and causes of the client's frustrations. Again, do not refer directly to the client's frustration. Refer to the circumstances and causes and explain how the changes will impact them going forward. It may be necessary to explain several time or from several different angles.
 
+Client recovery is only possible when we take the time to listen to their concerns, apologize, validate their concerns, and then take steps that address both their practical and emotional needs.
+
+###### Listen completely
+First, listen to the client completely. Let them vent until they have expressed everything that they are frustrated with. Make a mental note of every reasonable, legitimate complaint that you can apologize for, and then wait for the client to finish. Do not interrupt to ensure that you get the complete picture of the issue from their perspective.
+
+###### Apologize sincerely
+Second, apologize to the client for any legitimate problems that they brought up. Don't "explain". In this context, an explanation is too close to an excuse.
+
 Carefully crafting a sincere apology is something that takes experience, but here are a few guidelines to help:
 
-1. An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
+- Apologize by validating the client's frustrations by expressing empathy for their problem: "I can see why you are frustrated by X. I would be frustrated by that, too." You should use this opportunity to repeat the client's problems back to them. This ensures that you completely understood what they were trying to say, while also proving to the client that you care about their problems and were listening closely. Continue to steer the conversation toward legitimate, solvable issues throughout this step.
 
-2. An apology should NOT be made BEFORE the client describes an injury.
+- An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
 
-3. Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+- An apology should NOT be made BEFORE the client describes an injury.
 
-Example:
-- "I understand where you're coming from. I think I'd feel that way too if I were in your shoes."
+- Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+
+###### Set expectations
+Once you understand all of the client's problems and have helped them focus on the important, legitimate ones, the third and last step is to use proactive vocabulary to set expectations for how we plan to solve them. "We will do X," "We have been doing X, but it sounds like it would work better if we do Y," and "X is hard, but we can manage X with Y" are good examples. This step is where you go from being the client's commiserator to their hero. That transition is why it is so important to focus on solvable problems throughout the process of client recovery: if the client is still focusing on problems that are only perceived in their eyes or are outside of our control, we continue to appear powerless to help them.
+
+There are a couple of caveats that may come up during this process. If the client refuses to focus on legitimate problems and wants to make the conversation about things we can't help them with, it is okay to say so as long as you follow up with something we _can_ do for them. "Unfortunately, I can't help you with X. What I _can_ do is resolve Y, which will likely make X much less problematic."
+
+Additionally, it's often difficult to explain a solution to a client in a way they can understand the first time. We are, after all, heads-down in code most of the day. Make sure they understood what we plan to do with phrases like "Does that make sense?" and "Does that seem like a good solution?" An uncertain or negative reply may mean you need to either come up with a better solution or explain the problem and solution more simply. With most clients, this means that you should try to talk about features in terms of user interactions and things the client can relate to, not terms related to the actual programming of their project.
 
 
 ## Encourage Your Team
