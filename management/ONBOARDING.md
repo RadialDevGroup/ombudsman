@@ -3,17 +3,20 @@
 Review [Hiring](HIRING.md) and ensure all steps are completed.
 
 ## Before First Day
- - Set up accounts (see below)
- - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
-   - Set up a Google email login, initial password, and personalized login instructions.
-   - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
-   - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
- - Welcome the new hire on Twitter.
- - Send a welcome email to the team, and link the tweet in the email.
- - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
- - Order business cards from [Moo](https://www.moo.com/us/).
- - Schedule a team lunch and let everyone know (especially the new hire).
- - Schedule onboarding.
+- Make keys if necessary.
+- Prepare equipment (laptops, desks).
+- Put together welcome basket.
+- Set up accounts ([see below](#set-up-accounts)).
+- Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
+  - Set up a Google email login, initial password, and personalized login instructions.
+  - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
+  - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
+- Welcome the new hire on Twitter.
+- Send a welcome email to the team, and link the tweet in the email.
+- Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
+- Order business cards from [Moo](https://www.moo.com/us/).
+- Schedule a team lunch and let everyone know (especially the new hire).
+- Schedule onboarding.
 
 ### Set Up Accounts
  - Google
@@ -63,6 +66,7 @@ Goal:
 
 ### Training
 - Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
+  - Suggest downloading the mac and mobile apps.
   - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
   - Discuss billing for breaks, how to clock standup, cover "Personal Time".
 - Schedule
@@ -87,8 +91,8 @@ Goal:
 
 #### Policy
 - Go over the policy repo, including the Process documentation for it.
-- Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
-- Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
+- Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup), and any developer journeys relevant to them.
+- Please ask the new employee to review the [employee_expectations](../employee_expectations) folder and anything else that is relevant for the particular role.
 - Do department onboarding (see below)
 
 ### Goals and Values
@@ -97,6 +101,14 @@ Goal:
 
 ### Website
   - Schedule picture for website.
+  - Send them questionnaire for website bio, and cc Dave.
+  > How did you get started coding, and how long have you been doing it?
+  >
+  > What is your favorite tool to work with, and what specific skills would you like to have highlighted on the website?
+  >
+  > What do you do with your spare time?
+  >
+  > Anything else you would like mentioned?
 
 ### Mentoring
 - Assign a mentor
