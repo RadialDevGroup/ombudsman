@@ -47,7 +47,8 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
 - [New Employee Schedule](management/NEW_EMPLOYEE_SCHEDULE.md)
 - [Offboarding](management/OFFBOARDING.md)
-- [Onboarding](management/HIRING.md)
+- [Hiring](management/HIRING.md)
+- [Onboarding](management/ONBOARDING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
 - [Shadowing Checklist](management/SHADOWING_CHECKLIST.md)
 
