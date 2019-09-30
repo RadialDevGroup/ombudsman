@@ -125,6 +125,7 @@ Goal:
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
 - If you have questions or concerns about a project, talk to your dev lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
+- Schedule one-on-ones and 90 day review.
 
 ### Developer Lead Onboarding
   - Discuss Dev Lead resources:
