@@ -73,8 +73,6 @@ Goal:
   - Commitments (Google Calendar).
   - Communication (Slack, Email, team@ google group, team.<project> communication).
   - Absences and Lateness.
-- Standup
-  - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
 - Slack
   - How to find and add yourself to channels
   - Use public channels when possible. If there’s a back-and-forth that you don’t want everyone to get notified for every single thing then use threads
@@ -82,21 +80,19 @@ Goal:
   - How and when to use the help channel
   - Quick notes on positivity and "2-minutes-" channels (remember to mute the hate channel)
 
-### Developer Onboarding
-- Instruction/training on how to onboard to a project:
-  - Refer to the appropriate language journey
-  - Subscribe to the slack channels
-  - Where to find project briefings
-  - How to get added to the Heroku and Pivotal
-- If you have questions or concerns about a project, talk to your dev lead. If that’s not working, then escalate it to the Director or Engineering or Ben.
-
-### Policy Repo
-  - Go over the policy repo, including the Process documentation for it.
-  - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
-  - Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
+### Additional Training
+*Handoff to department head*
+- Standup
+  - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
+#### Policy
+- Go over the policy repo, including the Process documentation for it.
+- Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
+- Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
+- Do department onboarding (see below)
 
 ### Goals and Values
-- Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.\
+*Handoff to Ben*
+- Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
 
 ### Website
   - Schedule picture for website.
@@ -107,12 +103,21 @@ Goal:
   - Mentor and mentee should plan daily follow ups for questions/learnings
   - Mentor should set expectations for asking questions/recording learnings in a journal
 
+## Departmental Onboarding
+
+### Developer Onboarding
+- Instruction/training on how to onboard to a project:
+  - Refer to the appropriate language journey
+  - Subscribe to the slack channels
+  - Where to find project briefings
+  - How to get added to the Heroku and Pivotal
+- If you have questions or concerns about a project, talk to your dev lead. If that’s not working, then escalate it to the Director or Engineering or Ben.
+
 ### Developer Lead Onboarding
   - Discuss Dev Lead resources:
     - [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
     - Remind to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
   - Provide any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
-
 
 ### Sales Onboarding
 - Dropbox Account
