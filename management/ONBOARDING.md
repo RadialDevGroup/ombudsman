@@ -1,5 +1,7 @@
 # Onboarding
 
+Review [Hiring](HIRING.md) and ensure all steps are completed.
+
 ## Before First Day
  - Set up accounts (see below)
  - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
