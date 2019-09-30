@@ -84,6 +84,7 @@ Goal:
 *Handoff to department head*
 - Standup
   - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
+
 #### Policy
 - Go over the policy repo, including the Process documentation for it.
 - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
