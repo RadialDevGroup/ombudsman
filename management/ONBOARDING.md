@@ -81,7 +81,7 @@ Goal:
   - Quick notes on positivity and "2-minutes-" channels (remember to mute the hate channel)
 
 ### Additional Training
-*Handoff to department head*
+*Handoff to relevant director*
 - Standup
   - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
 
