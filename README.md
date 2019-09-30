@@ -21,7 +21,6 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Performance](employee_expectations/PERFORMANCE.md)
 - [Privacy Policy and Technology Usage](employee_expectations/PRIVACY.md)
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
-- [Values](employee_expectations/VALUES.md)
 
 ## Developer Expectations
 - [Code Standards](developer/CODE_STANDARDS.md)

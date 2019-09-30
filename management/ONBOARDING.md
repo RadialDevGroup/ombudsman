@@ -21,24 +21,43 @@
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - Noko.  Training to occur at orientation.
  - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
-
-## Payroll
- - Verify and copy ID documents and complete I-9.
- - Scan employment packet documents and file paper copies.
- - Email W-4, I-9, and Direct Deposit to Journey.
- - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>.
- - Let the new employee know that they will receive an email to access the Journey Hub, where they will be able to see their paystubs.
- - If they do not recieve an email for Journey within a month, or an insurance card for Kaiser within 2 motnths, they should let Ben know.
+ - Heroku
+ - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
+ - Pivotal Tracker, relevant projects
 
 ## New Hire Orientation/Onboarding
+
+### Payroll
+- Verify and copy ID documents and complete I-9.
+- Scan employment packet documents and file paper copies.
+- Email W-4, I-9, and Direct Deposit to Journey.
+- Submit all payroll information to Journey, and confirm Hub subscription.
+  - Assist employee with entering their ACH information.
+  - Let the new employee know that this is where they will be able to see their paystubs.
+
+### Benefits
+*Salaried employees only*
+- Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>.
+- If they do not receive an insurance card for Kaiser within 2 months, they should let Ben know.
+
+### Equipment, desk space, network, keys
+Goal:
+  - Check out company equipment.
+  - Assign personal space to developer.
+  - Provide key(s) for entry into workspace.
+  - Provide welcome "basket" (Radial shirt, notebook, etc)
+
 ### WiFi
  - Radial Development Group: perfect purple password
  - TheArmory: Coworking411
 
 ### Setup
 - GitHub
-  - Require user to set up two-factor authentication.
-  - (then) Add user to Radial Organization on GitHub (Employees).
+  - Confirm user has set up two-factor authentication.
+  - Add user to Radial teams on GitHub (Employees).
+- Heroku
+  - Confirm user has set up two-factor authentication.
+  - Add user to Heroku team.
 
 ### Training
 - Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
@@ -58,45 +77,35 @@
   - How to find and add yourself to channels
   - Use public channels when possible. If there’s a back-and-forth that you don’t want everyone to get notified for every single thing then use threads
   - Statuses can be helpful for when you're in meetings or working remotely
-- Assign a mentor
-  - Introduce them
-  - Mentor and mentee should plan daily follow ups for questions/learnings
-- Set expectations for asking questions/recording learnings in a journal
+  - How and when to use the help channel
+  - Quick notes on positivity and "2-minutes-" channels (remember to mute the hate channel)
+
+### Developer Onboarding
 - Instruction/training on how to onboard to a project:
   - Refer to the appropriate language journey
   - Subscribe to the slack channels
   - Where to find project briefings
+  - How to get added to the Heroku and Pivotal
 - If you have questions or concerns about a project, talk to your dev lead. If that’s not working, then escalate it to the Director or Engineering or Ben.
 
-### Marketing
-  - Schedule picture for website.
-
-### Equipment, desk space, network, keys
-Goal:
-  - Check out company equipment.
-  - Assign personal space to developer.
-  - Provide key(s) for entry into workspace.
-  - Provide welcome "basket" (Radial shirt, notebook, etc)
-
-  Practice:
-  - Explain space limitations and work out solutions and acceptable compromises. Try to sit in the same room as expected workgroup.
-
 ### Policy Repo
-  - Review [Values](employee_expectations/VALUES.md) as documented in the intents of existing policies.
   - Go over the policy repo, including the Process documentation for it.
   - Review the [Policy wiki](https://github.com/RadialDevGroup/Policy/wiki) for relevant documentation about the new hire's responsibilities at Radial. They don't need to read every single section, but make sure that they are aware of what advice is there so they can turn to it when they need it. Some sections to draw their attention to are [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing), the [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow), and any developer journeys relevant to them.
   - Please ask the new employee to review the employee_expectations folder and anything else that is relevant for the particular role.
 
 ### Goals and Values
-- Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.
+- Complete the [cultural discovery](https://github.com/RadialDevGroup/Policy/wiki/Cultural-Discovery) exercise.\
 
-### Developer Onboarding
-*Handoff to Director of Engineering, as necessary.*
-- Heroku
-- AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\))
-- Pivotal Tracker, relevant projects
+### Website
+  - Schedule picture for website.
 
-### Developer Leads
+### Mentoring
+- Assign a mentor
+  - Introduce them
+  - Mentor and mentee should plan daily follow ups for questions/learnings
+  - Mentor should set expectations for asking questions/recording learnings in a journal
+
+### Developer Lead Onboarding
   - Discuss Dev Lead resources:
     - [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
     - Remind to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
