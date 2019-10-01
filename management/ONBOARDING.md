@@ -112,7 +112,7 @@ Goal:
   >
   > Anything else you would like mentioned?
 
-#### Mentoring
+### Mentoring
 - Assign a mentor
   - Introduce them
   - See the [mentoring wiki](https://github.com/RadialDevGroup/Policy/wiki/Mentoring) for more info.
