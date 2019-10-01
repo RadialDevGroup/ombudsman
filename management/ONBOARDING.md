@@ -60,9 +60,11 @@ Goal:
 - GitHub
   - Confirm user has set up two-factor authentication.
   - Add user to Radial teams on GitHub (Employees).
-- Heroku
+- Heroku *(developers only)*
   - Confirm user has set up two-factor authentication.
   - Add user to Heroku team.
+- Google Drive
+  - To access the Radial Drive, type "radial" in the search bar, and it will show in the dropdown.
 
 ### Training
 - Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
@@ -131,7 +133,8 @@ Goal:
   - Discuss Developer Lead resources:
     - [Developer Lead Guide for Developer Leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
     - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
-  - Provide any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
+  - Give the employee "project creator" permission in Pivotal Tracker.
+  - Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
 ### Sales Onboarding
 - Dropbox Account
