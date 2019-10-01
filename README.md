@@ -21,7 +21,6 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Performance](employee_expectations/PERFORMANCE.md)
 - [Privacy Policy and Technology Usage](employee_expectations/PRIVACY.md)
 - [Time Reporting](employee_expectations/TIME_REPORTING.md)
-- [Values](employee_expectations/VALUES.md)
 
 ## Developer Expectations
 - [Code Standards](developer/CODE_STANDARDS.md)
@@ -48,7 +47,8 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [AWS Credential Policy](management/AWS_CREDENTIAL_POLICY.md)
 - [New Employee Schedule](management/NEW_EMPLOYEE_SCHEDULE.md)
 - [Offboarding](management/OFFBOARDING.md)
-- [Onboarding](management/HIRING.md)
+- [Hiring](management/HIRING.md)
+- [Onboarding](management/ONBOARDING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
 - [Shadowing Checklist](management/SHADOWING_CHECKLIST.md)
 
