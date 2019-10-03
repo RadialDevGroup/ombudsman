@@ -13,7 +13,8 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
       - Iteration Length: Typically 2 weeks
       - Point Scale: (Fibonacci is recommended)
       - Initial velocity: number of developers * 2 points per day * 8 days (leave some time for project management)
-    - Invite Product Owner to project
+     - Invite Product Owner to project
+     - Make the Developer Lead an administrator on the project.
     - This should be set up by management
   - [ ] Google group for team email
     1. Go to https://groups.google.com
