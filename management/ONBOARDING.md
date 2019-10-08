@@ -60,9 +60,11 @@ Goal:
 - GitHub
   - Confirm user has set up two-factor authentication.
   - Add user to Radial teams on GitHub (Employees).
-- Heroku
+- Heroku *(developers only)*
   - Confirm user has set up two-factor authentication.
   - Add user to Heroku team.
+- Google Drive
+  - To access the Radial Drive, type "radial" in the search bar, and it will show in the dropdown.
 
 ### Training
 - Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
@@ -113,25 +115,26 @@ Goal:
 ### Mentoring
 - Assign a mentor
   - Introduce them
-  - Mentor and mentee should plan daily follow ups for questions/learnings
-  - Mentor should set expectations for asking questions/recording learnings in a journal
+  - See the [mentoring wiki](https://github.com/RadialDevGroup/Policy/wiki/Mentoring) for more info.
 
 ## Departmental Onboarding
 
 ### Developer Onboarding
+- Review [Schedule](NEW_EMPLOYEE_SCHEDULE.md), including the resourcing plan for the sprint.
 - Instruction/training on how to onboard to a project:
   - Refer to the appropriate language journey
   - Subscribe to the slack channels
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
-- If you have questions or concerns about a project, talk to your dev lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
+- If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
 - Schedule one-on-ones and 90 day review.
 
 ### Developer Lead Onboarding
-  - Discuss Dev Lead resources:
-    - [Developer Lead Guide for dev leads](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
-    - Remind to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
-  - Provide any credentials the new hire will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
+  - Discuss Developer Lead resources:
+    - [Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
+    - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
+  - Give the employee "project creator" permission in Pivotal Tracker.
+  - Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
 ### Sales Onboarding
 - Dropbox Account
