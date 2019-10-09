@@ -31,6 +31,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup)
 - [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow)
 - [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
+- [Learning](https://github.com/RadialDevGroup/Policy/wiki/Learning)
 
 Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-support).
 
