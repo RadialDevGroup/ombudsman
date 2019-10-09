@@ -74,7 +74,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Communicate Failures to the Client—Proactively, Before the Client Notices
 
-### Customer Recovery
+### Client Recovery
 
 ## [8. Encourage Your Team](#encourage-your-team)
 
