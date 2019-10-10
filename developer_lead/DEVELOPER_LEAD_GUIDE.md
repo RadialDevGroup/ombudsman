@@ -74,7 +74,7 @@ The ideas in this guide are just that, a guide. Every project and client is diff
 
 ### Communicate Failures to the Client—Proactively, Before the Client Notices
 
-### Apologizing to Clients
+### Client Recovery
 
 ## [8. Encourage Your Team](#encourage-your-team)
 
@@ -276,9 +276,11 @@ Be intentional and consistent about how you communicate to set the example for h
 
 ### Communication
 
-Communicate often and consistently. Communication is more than giving reports to a client, it needs to be a conversation. For some clients this means meeting in person, for others conversing over slack or email, and for some it means phone conversations.
+Having a strong relationship with clients is critical to our success. Communicate often and consistently, but not just through reports. Most communication should be conversational. Depending on the client, this could mean conversations held in person, over the phone, through Slack, or through email.
 
 Encourage clients to focus on the long-term goal of the project and not on little features. This will help prevent them from constantly adding new stories that we are hit with by surprise.
+
+Asking clarifying questions about a client's goals or strategy can help gain insight and establish a stronger relationship.
 
 ### Commitments
 
@@ -452,17 +454,38 @@ Say no by saying yes. Sometimes clients will want things that can’t be done or
 
 It is also important not to wait to tell a client that we aren't going to meet a goal, a problem arose, we messed up, or circumstances beyond our control required a change in plans. Tell the client before they could ever notice if it's possible to do so. It implies that you are on top of the problem and that we are the right group to fix it, and that will help establish that they can trust you to handle issues as they arise.
 
-### Apologizing to Clients
+### Client Recovery
+
+In a nutshell, the three steps are:
+1. *Listen completely.*
+2. *Apologize sincerely.*
+3. *Set expectations.*
+
+Client recovery is only possible when we take the time to listen to their concerns, apologize, validate their concerns, and then take steps that address both their practical and emotional needs.
+
+###### Listen completely
+First, listen to the client completely. Let them vent until they have expressed everything that they are frustrated with. Make a mental note of every reasonable, legitimate complaint that you can apologize for, and then wait for the client to finish. Do not interrupt to ensure that you get the complete picture of the issue from their perspective.
+
+###### Apologize sincerely
+Second, apologize to the client for any legitimate problems that they brought up. Don't "explain". In this context, an explanation is too close to an excuse.
 
 Carefully crafting a sincere apology is something that takes experience, but here are a few guidelines to help:
 
-* An apology doesn't require the client's complaint to be reasonable! You can apologize to a client for the way that they feel, especially if you or the company are responsible for the thing that the client is unsatisfied with.
+- Apologize by validating the client's frustrations by expressing empathy for their problem: "I can see why you are frustrated by X. I would be frustrated by that, too." You should use this opportunity to repeat the client's problems back to them. This ensures that you completely understood what they were trying to say, while also proving to the client that you care about their problems and were listening closely. Continue to steer the conversation toward legitimate, solvable issues throughout this step.
 
-* An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
+- An apology doesn't explain or give reasons. That is not to say that you should not give the client an explanation if they ask for one, but it is a delicate subject.
 
-* An apology should NOT be made BEFORE the client describes an injury.
+- An apology should NOT be made BEFORE the client describes an injury.
 
-* Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+- Apologize any time that you or the company's actions worsened a situation, or actions we failed to take could have improved a situation. Being apathetic to a client's problem is just as bad as contributing to it.
+
+###### Set expectations
+Once you understand all of the client's problems and have helped them focus on the important, legitimate ones, the third and last step is to use proactive vocabulary to set expectations for how we plan to solve them. "We will do X," "We have been doing X, but it sounds like it would work better if we do Y," and "X is hard, but we can manage X with Y" are good examples. This step is where you go from being the client's commiserator to their hero. That transition is why it is so important to focus on solvable problems throughout the process of client recovery: if the client is still focusing on problems that are only perceived in their eyes or are outside of our control, we continue to appear powerless to help them.
+
+If the client refuses to focus on legitimate problems and wants to make the conversation about things we can't help them with, it is okay to say so as long as you follow up with something we _can_ do for them. "Unfortunately, I can't help you with X. What I _can_ do is resolve Y, which will likely make X much less problematic."
+
+Additionally, it's often difficult to explain a solution to a client in a way they can understand the first time. We are, after all, heads-down in code most of the day. Make sure they understood what we plan to do with phrases like "Does that make sense?" and "Does that seem like a good solution?" An uncertain or negative reply may mean you need to either come up with a better solution or explain the problem and solution more simply. With most clients, this means that you should try to talk about features in terms of user interactions and things the client can relate to, not terms related to the actual programming of their project.
+
 
 ## Encourage Your Team
 
