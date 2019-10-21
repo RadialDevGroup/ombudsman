@@ -8,7 +8,7 @@ Clock in as soon as you reach the office and immediately before leaving for the 
 
 ### Billable vs. unbillable time
 
-Billable time is any time working on a single client project.  This includes any meetings or preparation work. Record all time on the project regardless of your perceived productivity.  In your descriptions include the Pivotal Tracker story number when possible (but does not not need to be included for PR reviews), these numbers are used in reports sent to clients.  If you have any doubts about whether a block of time should be billable, discuss it with the project lead.
+Billable time is any time working on a single client project.  This includes any meetings or preparation work. Record all time on the project regardless of your perceived productivity.  In your descriptions include the Pivotal Tracker story number when possible (except for PR reviews).  These numbers are used in reports sent to clients.  If you have any doubts about whether a block of time should be billable, discuss it with the project lead.
 
 Unbillable time may be in one of several categories and is to be recorded the same way as billable.  The categories are:
 
