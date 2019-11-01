@@ -20,7 +20,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 
 ### Set Up Accounts
  - Google
-   - Create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias.
+   - [Create account](https://admin.google.com/ac/users) using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias.
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
  - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them to the Radial GitHub, but do not add them to any teams until 2FA has been verified.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
