@@ -31,7 +31,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
  - [Heroku](https://dashboard.heroku.com/teams/radial-developers/access)
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
- - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), relevant projects
+ - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
 
 ## New Hire Orientation/Onboarding
 
