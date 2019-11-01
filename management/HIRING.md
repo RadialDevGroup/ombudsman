@@ -14,7 +14,7 @@
 
 ## When We Hire
  - Send hire offer via email. Use a polite tone.
-  - Attach the employment contract.
+  - Attach the employment contract. (Found in Google Drive under Human Resouces > Employee Agreements)
   - Request that the new hire sign the employment contract using DocuSign and return it promptly.
   - Request responses to a new-hire questionnaire:
     - T-shirt size (M/W,S/M/L/XL/+).  Women's shirts tend to run about 1-1/2 sizes too small.
