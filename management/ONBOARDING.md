@@ -21,7 +21,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 ### Set Up Accounts
  - Google
    - [Create account](https://admin.google.com/ac/users) using format `{first_name}@radialdevgroup.com` (if available).
-     - Select "Automatically generate a password" and "Ask for a password chnage at the next sign-in"
+     - Select "Automatically generate a password" and "Ask for a password change at the next sign-in"
      - Copy the generated password, you will need this for the welcome email
      - When viewing the user, select "User Information". Add `{first_name}.{last_name}@radialdevgroup.com` as an email alias
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
