@@ -39,7 +39,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 ### Introduce the New Employee
 - It is best to do this at stand-up on the employee's first or second day. Have the rest of the team introduce themselves at this time.
 
-
 ### Payroll
 - Verify and copy ID documents and complete I-9.
 - Scan employment packet documents and file paper copies.
