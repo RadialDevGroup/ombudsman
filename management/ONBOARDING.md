@@ -36,6 +36,9 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 
 ## New Hire Orientation/Onboarding
 
+### Introduce the New Employee
+- This would be best done at standup, on the employees first or second day. You should also have other employees introduce themselves during this time.
+
 ### Payroll
 - Verify and copy ID documents and complete I-9.
 - Scan employment packet documents and file paper copies.
