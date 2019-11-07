@@ -6,9 +6,9 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Make keys if necessary.
 - Prepare equipment (laptops, desks).
 - Put together welcome basket.
-- Set up accounts ([see below](#set-up-accounts)).
 - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
-  - Set up a Google email login, initial password, and personalized login instructions.
+  - [Set up accounts](#set-up-accounts)
+  - Include the Google email login, initial password, and personalized login instructions.
   - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
   - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
 - Welcome the new hire on Twitter.
@@ -20,15 +20,18 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 
 ### Set Up Accounts
  - Google
-   - Create account using format `{first_name}@radialdevgroup.com` (if available) and `{first_name}.{last_name}@radialdevgroup.com` as an alias.
+   - [Create account](https://admin.google.com/ac/users) using format `{first_name}@radialdevgroup.com` (if available).
+     - Select "Automatically generate a password" and "Ask for a password change at the next sign-in"
+     - Copy the generated password, you will need this for the welcome email
+     - When viewing the user, select "User Information". Add `{first_name}.{last_name}@radialdevgroup.com` as an email alias
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
- - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them to the Radial GitHub, but do not add them to any teams until 2FA has been verified.
+ - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
- - Noko.  Training to occur at orientation.
+ - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
  - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
- - Heroku
+ - [Heroku](https://dashboard.heroku.com/teams/radial-developers/access)
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
- - Pivotal Tracker, relevant projects
+ - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
 
 ## New Hire Orientation/Onboarding
 
