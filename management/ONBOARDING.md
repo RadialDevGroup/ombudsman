@@ -25,6 +25,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
      - Copy the generated password, you will need this for the welcome email
      - When viewing the user, select "User Information". Add `{first_name}.{last_name}@radialdevgroup.com` as an email alias
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
+   - Share the Radial Events and Conference Room calendars with them
  - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
@@ -32,8 +33,12 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Heroku](https://dashboard.heroku.com/teams/radial-developers/access)
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
+ - [Fellow App](https://app.fellow.co/account/users/)
 
 ## New Hire Orientation/Onboarding
+
+### Introduce the New Employee
+- It is best to do this at stand-up on the employee's first or second day. Have the rest of the team introduce themselves at this time.
 
 ### Payroll
 - Verify and copy ID documents and complete I-9.

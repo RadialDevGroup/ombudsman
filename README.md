@@ -51,7 +51,7 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [Hiring](management/HIRING.md)
 - [Onboarding](management/ONBOARDING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
-- [Shadowing Checklist](management/SHADOWING_CHECKLIST.md)
+- [Shadowing Checklist](management/FIRST_SPRINT_CHECKLIST.md)
 
 ## Services not offered
 - [Hardware and Equipment Service](employee_expectations/HARDWARE.md)
