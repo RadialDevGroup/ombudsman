@@ -33,6 +33,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Heroku](https://dashboard.heroku.com/teams/radial-developers/access)
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
+ - [Fellow App](https://app.fellow.co/account/users/)
 
 ## New Hire Orientation/Onboarding
 
