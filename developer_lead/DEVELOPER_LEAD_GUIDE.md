@@ -127,11 +127,11 @@ While you are the primary point of contact for your client, you should help them
 
 The developer lead is responsible for ensuring process is followed and documented. Standard project documentation is described in policy:
 
-* [PROCESS](https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/PROCESS_TEMPLATE.md)
+* [PROCESS](https://github.com/RadialDevGroup/Policy/wiki/Project-PROCESS-Development)
 
-* [README](https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/README.md)
+* [README](https://github.com/RadialDevGroup/Policy/wiki/Generic-README-Template)
 
-* [PULL_REQUEST_TEMPLATE](https://github.com/RadialDevGroup/Policy/blob/master/developer_lead/PULL_REQUEST_TEMPLATE.md)
+* [PULL_REQUEST_TEMPLATE](https://github.com/RadialDevGroup/Policy/wiki/Project-PULL_REQUEST_TEMPLATE-Development)
 
 ### Technical Decisions
 
