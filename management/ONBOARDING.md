@@ -55,7 +55,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 
 ### Equipment, desk space, network, keys
 Goal:
-  - Check out company equipment.
+  - Check out company equipment. [Release](https://../documents/Equipment Release.pdf)
   - Assign personal space to developer.
   - Provide key(s) for entry into workspace.
   - Provide welcome "basket" (Radial shirt, notebook, etc)
