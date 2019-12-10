@@ -24,10 +24,22 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
     5. Add ben@radialdevgroup.com, rebecca@radialdevgroup.com, and other members to the team.  Set Ben, Rebecca, and yourself as admins for the group.
     -This should be set up by the dev lead
   - [ ] Slack Channels
-    - #projectname-internal for developer discussions
-      - Pin links to relevant documentation such as the Project Briefing (located in [Google Drive>Customers](https://drive.google.com/drive/folders/1Zg5SIxUgW2cbQ_ZJGmIncIZOEJt4a34i)/<customer name>)
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
-  -This should be set up by management
+    - #projectname-internal for developer discussions
+      - Using Slack's Workflow Builder, create a workflow for new channel members. Add Sales, Ben, DOE, and your manager as Collaborators. The content should be similar to the following, including any other relevant info, such as links to Netlify.
+        > Hey {Person who joined}!
+        >
+        > Here’s some important info to help bring you up to speed on what’s going on in the {channel that was joined} channel.
+        >
+        > :pushpin: *Resources:*
+        > >*Heroku:*   
+        > >*Staging site:*   
+        > >*Pivotal Tracker:*   
+        > >*Github:*  
+        > >*Briefing:*   
+        >
+        > If you do not have access to any of the above, please contact your dev lead or manager.
+
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
 
