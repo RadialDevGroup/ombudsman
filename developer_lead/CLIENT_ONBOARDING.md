@@ -1,11 +1,11 @@
 ## Client Onboarding Checklist
 
-When a contract is finalized and a dev lead is assigned, the dev lead should ensure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the dev lead, but by someone on the management or sales team.
+When a contract is finalized and a develeoper lead is assigned, the develeoper lead should ensure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the develeoper lead, but by someone on the management or sales team.
 
 - **Create accounts as applicable:**
   - [ ] Github Repository
     - Add Client to permissions if requested
-    - This will be set up by sales in the event the repository is being imported. Otherwise the dev lead can set it up.
+    - This will be set up by sales in the event the repository is being imported. Otherwise the develeoper lead can set it up.
   - [ ] Pivotal Tracker project
     - Set project settings:
       - Project Start Date
@@ -22,7 +22,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
     3. Use `team.{projectname}` for the "Group Email Address"
     4. Under "Basic Permissions" set the "Post" permission to "Public"
     5. Add ben@radialdevgroup.com, rebecca@radialdevgroup.com, and other members to the team.  Set Ben, Rebecca, and yourself as admins for the group.
-    -This should be set up by the dev lead
+    -This should be set up by the develeoper lead
   - [ ] Slack Channels
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
     - #projectname-internal for developer discussions
@@ -39,7 +39,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
         > >*GitHub:*  
         > >*Briefing:*   
         >
-        > If you do not have access to any of the above, please contact your dev lead or manager.
+        > If you do not have access to any of the above, please contact your develeoper lead or manager.
 
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
