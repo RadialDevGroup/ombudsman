@@ -32,7 +32,7 @@ When a contract is finalized and a develeoper lead is assigned, the develeoper l
         > Here’s some important info to help bring you up to speed on what’s going on in the {channel that was joined} channel.
         >
         > :pushpin: *Resources:*
-        > >*Heroku:*   
+        > >*Heroku, Netlify, AWS, or other deployment:*   
         > >*Staging site:*   
         > >*Production site:*
         > >*Pivotal Tracker:*   
