@@ -26,7 +26,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
   - [ ] Slack Channels
     - #projectname for client discussion (if client wishes to communicate via Slack). Be sure to invite the client as a single channel guest.
     - #projectname-internal for developer discussions
-      - Using Slack's Workflow Builder, create a workflow for new channel members. Add Sales, Ben, DOE, and your manager as Collaborators. The content should be similar to the following, including any other relevant info, such as links to Netlify.
+      - Using Slack's Workflow Builder, create a workflow for new channel members. Add the Company Owner, Director of Sales, Director of Engineering, and your manager as Collaborators. The content should be similar to the following. Include any other project-specific resources that team members will need.
         > Hey {Person who joined}!
         >
         > Here’s some important info to help bring you up to speed on what’s going on in the {channel that was joined} channel.
