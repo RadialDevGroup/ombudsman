@@ -36,7 +36,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
         > >*Staging site:*   
         > >*Production site:*
         > >*Pivotal Tracker:*   
-        > >*Github:*  
+        > >*GitHub:*  
         > >*Briefing:*   
         >
         > If you do not have access to any of the above, please contact your dev lead or manager.
