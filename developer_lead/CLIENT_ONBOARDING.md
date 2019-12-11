@@ -34,6 +34,7 @@ When a contract is finalized and a dev lead is assigned, the dev lead should ens
         > :pushpin: *Resources:*
         > >*Heroku:*   
         > >*Staging site:*   
+        > >*Production site:*
         > >*Pivotal Tracker:*   
         > >*Github:*  
         > >*Briefing:*   
