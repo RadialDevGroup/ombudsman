@@ -5,7 +5,7 @@ When a contract is finalized and a developer lead is assigned, the developer lea
 - **Create accounts as applicable:**
   - [ ] Github Repository
     - Add Client to permissions if requested
-    - This will be set up by sales in the event the repository is being imported. Otherwise the develeoper lead can set it up.
+    - This will be set up by sales in the event the repository is being imported. Otherwise the developer lead can set it up.
   - [ ] Pivotal Tracker project
     - Set project settings:
       - Project Start Date
