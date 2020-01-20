@@ -25,6 +25,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 ## Developer Expectations
 - [Code Standards](developer/CODE_STANDARDS.md)
 - [Peer Review](developer/PEER_REVIEW.md)
+- [Hack Time](developer/HACK_TIME.md)
 
 #### Helpful Links:
 - [Welcome!](https://github.com/RadialDevGroup/Policy/wiki/Welcome-from-the-Director-of-Engineering)
