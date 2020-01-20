@@ -290,6 +290,8 @@ Be very careful with your wording when making commitments. Don’t make promises
 
 Sprint delivery is when you meet with the client and go over the features/bugs that were completed that sprint. This is important to show the client the value they are getting for their money.
 
+If we miss sprint goals and do not deliver two sprints in a row, then a meeting should be scheduled with the developer lead, the client, and a member of management. The purpose of the meeting is to discuss why goals were not met, what could have been done differently, and what changes will be made in the future. Even if internally we know why we did not meet goals this meeting should occur to ensure that everyone is on the same page. In hindsight, we realized that many project/client issues could have been prevented had we held a meeting such as this.
+
 ### Sprint Policy (don't change priorities mid-sprint)
 
 Once a sprint has started, the work that is expected to be done should not change. From time to time, clients will try to add a story because they have this new idea that they want done right away. The only time the sprint should ever change is for a true emergency, such as the app is broken and no one can use it. When clients try to add things to the sprint, explain to them that it is better for a client to prioritize the new story for the next sprint because:
