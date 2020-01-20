@@ -67,6 +67,7 @@ Goal:
 ### Setup
 - GitHub
   - Confirm user has set up two-factor authentication.
+  - Add user's name to their "Public Profile" on the "Settings" page.
   - Add user to Radial teams on GitHub (Employees).
 - Heroku *(developers only)*
   - Confirm user has set up two-factor authentication.
