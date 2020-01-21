@@ -141,7 +141,7 @@ Goal:
   - Discuss Developer Lead resources:
     - [Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
     - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
-  - If the project is not new to Radial the employee should work on the project before leading it. The amount of time they should work on the project will differ for each project, but should be long enough so that they are somewhat familiar with the codebase.
+  - The employee should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize them with the codebase.
   - Give the employee "project creator" permission in Pivotal Tracker.
   - Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
