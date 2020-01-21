@@ -10,22 +10,6 @@ Set an end date for payroll.
 
 ## Accounts
 
-### Noko
-
-Disable Noko Account / Change Password
-
-### Google
-
-Disable Google Account / Change Password
-
-### Pivotal Tracker
-
-Disable Pivotal Tracker Account / Change Password
-
-### GitHub
-
-Remove user from Radial organization on GitHub (Employees)
-
 ### Asana
 
 Disable Asana Account / Change Password
@@ -34,15 +18,35 @@ Disable Asana Account / Change Password
 
 Disable AWS Account / Change Password
 
-### Slack
-
-Convert the account to a multi-channel guest account. They will
-remain a member of the #help, #random, #events, and #lunch
-channels.
-
 ### Calendar
 
 Remove Birthday and Anniversary events from the Radial Events calendar
+
+### Fellow
+
+[Deactivate Account](https://app.fellow.co/account/users/)
+
+### GitHub
+
+Remove user from Radial organization on GitHub (Employees)
+
+### Google
+
+Disable Google Account / Change Password
+
+### Noko
+
+Disable Noko Account / Change Password
+
+### Pivotal Tracker
+
+Disable Pivotal Tracker Account / Change Password
+
+### Slack
+
+Convert the account to a multi-channel guest account. They will
+remain a member of the #guest-help, #guest-general, #random, and #lunch
+channels.
 
 ### Project-Specific
 
@@ -51,7 +55,7 @@ Remove Birthday and Anniversary events from the Radial Events calendar
 
 ## Equipment
 
-Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords). 
+Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords).
 Give the departing employee time to pull any personal files off of the equipment (e.g. SSH
 keys) when possible.
 
