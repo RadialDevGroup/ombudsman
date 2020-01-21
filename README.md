@@ -41,6 +41,7 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
 - [Project Handoff](developer_lead/PROJECT_HANDOFF.md)
 - [Responsibilities](developer_lead/RESPONSIBILITIES.md)
+- [Things To Think About When Training To Be a Dev Lead](https://github.com/RadialDevGroup/Policy/wiki/Dev-Lead-Training-Thoughts)
 
 Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-lead-support).
 
