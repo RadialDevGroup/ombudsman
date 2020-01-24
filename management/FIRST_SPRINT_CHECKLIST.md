@@ -28,6 +28,7 @@ Print this and turn it in to the Director of Engineering once complete. Please a
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
 - [ ] Explain that when setting up a project locally, update the ReadMe with any improvements or issues that you find.
+- [ ] Every project has a PROCESS.md that explains the workflow and project management tools (such as Pivotal Tracker) for that particular project.
 - [ ] All of our projects should have a Technology section at the top of the README
 - [ ] Commenting on pull requests
 - [ ] Completing work (how to choose/complete a story, what to do when stuck)
