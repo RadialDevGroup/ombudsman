@@ -32,7 +32,7 @@ Remove user from Radial organization on GitHub (Employees)
 
 ### Google
 
-- [Transfer](https://admin.google.com/AdminHome#AppDetails:service=Drive+and+Docs&flyout=tools) all docs to Ben (More detailed instructions can be found [here](https://support.google.com/a/answer/1247799?hl=en))
+- [Transfer](https://admin.google.com/AdminHome#AppDetails:service=Drive+and+Docs&flyout=tools) all docs to Ben (see [detailed instructions](https://support.google.com/a/answer/1247799?hl=en))
 - [Delete User](https://admin.google.com/ac/users)
 
 ### Grasshopper
