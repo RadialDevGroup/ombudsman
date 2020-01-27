@@ -14,9 +14,9 @@ Set an end date for payroll.
 
 Disable Asana Account / Change Password
 
-### AWS
+### [AWS](https://console.aws.amazon.com/iam/home?region=us-west-2#/users)
 
-Go to IAM, Users, select and delete the user
+The link above should take you to Users inside of IAM. Select and delete the user.
 
 ### Calendar
 
