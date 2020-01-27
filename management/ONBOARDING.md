@@ -55,6 +55,10 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Email insurance application to KP Group list: <a href="mailto:csc-den-roc-group@kp.org" target="_blank">csc-den-roc-group@kp.org</a>.
 - If they do not receive an insurance card for Kaiser within 2 months, they should let Ben know.
 
+### Feedback and Management Communication
+  - Ben typically reserves Tuesdays as a day when staff can book ad hoc meetings on his calendar. Any available time on other days of the week is fine, but Tuesdays are generally reserved for staff. You can use these links to schedule a time: [15 minutes](https://calendly.com/benatradial/1-1s), [1 hour](https://calendly.com/benatradial/employee-check-ins-60)
+  - Retrospectives, one-on-ones, skip-levels
+
 ### Equipment, desk space, network, keys
 Goal:
   - Check out company equipment. <a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Equipment%20Release.pdf" target="_blank">(Release)</a>
@@ -76,6 +80,7 @@ Goal:
   - Add user to Heroku team.
 - Google Drive
   - To access the Radial Drive, type "radial" in the search bar, and it will show in the dropdown.
+  - Note that anything created in your Drive will be transferred to Radial when you leave the company. (Don't keep personal documents in it)
 
 ### Training
 - Time reporting ([Noko](https://radialdevelopmentgroup.nokotime.com))
@@ -85,7 +90,7 @@ Goal:
 - Schedule
   - How to communicate vacations/absences.
   - Explain calendar (part time employees should post their time they will be in office).
-  - Add the new employee's birthday and hire date (anniversary) to the Radial Events calendar.
+  - Add the new employee's birthday and hire date (Team Member's Work Anniversary) to the Radial Events calendar.
 - Attendance
   - Commitments (Google Calendar).
   - Communication (Slack, Email, team@ google group, team.<project> communication).
