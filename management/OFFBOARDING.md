@@ -16,7 +16,7 @@ Disable Asana Account / Change Password
 
 ### [AWS](https://console.aws.amazon.com/iam/home?region=us-west-2#/users)
 
-The link above should take you to Users inside of IAM. Select and delete the user.
+In [Users inside of IAM](https://console.aws.amazon.com/iam/home?region=us-west-2#/users): select and delete the user.
 
 ### Calendar
 
