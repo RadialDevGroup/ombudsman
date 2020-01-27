@@ -10,39 +10,44 @@ Set an end date for payroll.
 
 ## Accounts
 
-### Asana
+### [Asana](https://app.asana.com/)
 
 Disable Asana Account / Change Password
 
 ### AWS
 
-Disable AWS Account / Change Password
+Go to IAM, Users, select and delete the user
 
 ### Calendar
 
 Remove Birthday and Anniversary events from the Radial Events calendar
 
-### Fellow
+### [Fellow](https://app.fellow.co/account/users/)
 
-[Deactivate Account](https://app.fellow.co/account/users/)
+Deactivate Account
 
-### GitHub
+### [GitHub](https://github.com/orgs/RadialDevGroup/people)
 
 Remove user from Radial organization on GitHub (Employees)
 
 ### Google
 
-Disable Google Account / Change Password
+- [Transfer](https://admin.google.com/AdminHome#AppDetails:service=Drive+and+Docs&flyout=tools) all docs to Ben (More detailed instructions can be found [here](https://support.google.com/a/answer/1247799?hl=en))
+- [Delete User](https://admin.google.com/ac/users)
+
+### Grasshopper
+
+Remove user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
 ### Noko
 
-Disable Noko Account / Change Password
+Deactivate Noko Account
 
-### Pivotal Tracker
+### [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships)
 
-Disable Pivotal Tracker Account / Change Password
+Remove member
 
-### Slack
+### [Slack](https://radialdevgroup.slack.com/admin)
 
 Convert the account to a multi-channel guest account. They will
 remain a member of the #guest-help, #guest-general, #random, and #lunch
