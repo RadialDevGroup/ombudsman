@@ -39,6 +39,10 @@ Remove user from Radial organization on GitHub (Employees)
 
 Remove user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
+### [Netlify](https://app.netlify.com/teams/radial-development-group/members)
+
+Remove from team
+
 ### Noko
 
 Deactivate Noko Account
