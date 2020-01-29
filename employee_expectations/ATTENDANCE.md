@@ -171,7 +171,7 @@ Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more inf
 
 At this time Radial does not offer paid parental leave. If you anticipate needing time off for the birth or adoption of a child, we suggest you plan to use your Paid Time Off. If you need to borrow vacation time from the next year, please speak with management as that may be an option.
 
-We realize that everyone has different needs when they return to work after the arrival of a child. Management will work with you to create a plan and make any accommodations necessary, including a plan to come back part-time and work up to full-time if that is desired.
+We realize everyone has different needs when they return to work after the arrival of a child. Management will work with you to create a plan and make any accommodations necessary, including returning part-time and working up to full-time if that is desired.
 
 ### Work From Home/Remote/Flex Time
 
