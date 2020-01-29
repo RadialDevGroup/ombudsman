@@ -167,7 +167,7 @@ At the beginning of any consecutive unpaid leave period, management reserves the
 
 #### Parental Leave
 
-Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm). In addition to FMLA, the leave policy explained in the previous section is still applicable.
+Radial will follow the [Family and Medical Leave Act (FMLA) of 1993](https://www.dol.gov/WHD/fmla/index.htm). In addition to FMLA, the leave policy explained in the previous section is still applicable.
 
 At this time Radial does not offer paid parental leave. If you anticipate needing time off for the birth or adoption of a child, we suggest you plan to use your Paid Time Off. If you need to borrow vacation time from the next year, please speak with management as that may be an option.
 
