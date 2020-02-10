@@ -58,18 +58,29 @@ Please put your days off and major appointments on your google calendar as OOO.
 Email [team](mailto:team@radialdevgroup.com) to notify them of the days you will be out.
 Please update your team if there are any significant changes to your calendar.
 
-## Hourly Employees
-### Compensation
-Hourly employees receive 20% more compensation per hour than salaried employees since they do not accrue vacation time and are disproportionately harmed by closures.
+## Compensation
+### Hourly Employees
+Hourly Employees will be paid $31.50/hour, 24 times per year on the 1st or 16th or on the preceding business day.  The pay period ends 5 business days before the pay date.
 
-### Availability
-Hourly employees may set their availability as needed. Changes to availability should be made with 2 weeks notice, where possible, but can be modified at any time with management.
+### Salaried Employees
+Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 16th or on the preceding business day.
 
-### Hours reduction
+## Availability
+### Hourly Employees
+Hourly employees may set their availability as needed. Changes to availability should be made prior to the Wednesday before the sprint starts, where possible.  Two (2) weeks notice, when possible, is appreciated.
+
+## Furloughs, Hours reduction, etc
+## Hourly Staff
 Hourly employees requested to take a reduction in hours will be assisted in applying for temporary unemployment benefits, if requested.
 
-## Salaried Employees
-### Hours and Hour Requirements
+## PTO
+### Hourly Employees (at 31.50 rate, only)
+PTO hours will be accrued at a rate of .268 hours per hour worked.
+
+**Philosophy**:
+- In order for part-time or hourly staff to be paid equitably their accrual needs to include the 2 weeks of december closure and 2 weeks of holidays which can be taken as floating holidays or on the date.
+- The expectation is that hourly employees will not be compensated for professional development time, but are allotted 3 hours weekly for Retrospectives, 1:1's, and other administrative concerns, totalling 35-hours per week maximum.
+- The total accrual is 384.58 hours
 
 Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation time and added to your PTO total.
 
