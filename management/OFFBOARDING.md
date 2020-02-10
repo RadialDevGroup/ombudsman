@@ -51,6 +51,7 @@ channels.
 ### Project-Specific
 
 * Heroku: Transfer ownership and revoke privileges as required.
+* Rollbar: Transfer ownership and revoke privileges as required.
 * CircleCI: Transfer ownership and revoke privileges as required.
 
 ## Equipment
