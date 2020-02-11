@@ -69,9 +69,12 @@ Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 1
 ### Hourly Employees
 Hourly employees may set their availability as needed. Changes to availability should be made prior to the Wednesday before the sprint starts, where possible.  Two (2) weeks notice, when possible, is appreciated.
 
+### Salaried Employees
+Salaried Staff should plan to be available between 10:00am and 3:00pm on days when they are working
+
 ## Furloughs, Hours reduction, etc
 ## Hourly Staff
-Hourly employees requested to take a reduction in hours will be assisted in applying for temporary unemployment benefits, if requested.
+Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits, if requested.
 
 ## PTO
 ### Hourly Employees (at 31.50 rate, only)
@@ -82,14 +85,8 @@ PTO hours will be accrued at a rate of .268 hours per hour worked.
 - The expectation is that hourly employees will not be compensated for professional development time, but are allotted 3 hours weekly for Retrospectives, 1:1's, and other administrative concerns, totalling 35-hours per week maximum.
 - The total accrual is 384.58 hours
 
-Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation time and added to your PTO total.
+### Salaried Employees
 
-In practice this means you are able to "flex" your hour requirements from week to week.
-
-* Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
-if you are unable to be available during core hours.
-
-* Please work 40 hours per week or allocate PTO to cover.
 
 ### Internal Time
 
