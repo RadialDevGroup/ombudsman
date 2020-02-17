@@ -35,7 +35,7 @@ Remove user from Radial organization on GitHub (Employees)
 - [Transfer](https://admin.google.com/AdminHome#AppDetails:service=Drive+and+Docs&flyout=tools) all docs to Ben (see [detailed instructions](https://support.google.com/a/answer/1247799?hl=en))
 - [Delete User](https://admin.google.com/ac/users)
 
-### Grasshopper
+### [Grasshopper](https://nuui.us.grasshopper.com/Settings)
 
 Remove user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
