@@ -53,6 +53,7 @@ Remove member
 
 ### [Slack](https://radialdevgroup.slack.com/admin)
 
+Change the email to their personal email, and send them an email notifying them you did that.
 Convert the account to a multi-channel guest account. They will
 remain a member of the #guest-help, #guest-general, #random, and #lunch
 channels.
