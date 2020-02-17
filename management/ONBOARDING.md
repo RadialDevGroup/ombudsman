@@ -81,6 +81,7 @@ Goal:
   - Suggest downloading the mac and mobile apps.
   - Demonstrate timer, time tracking, hashtags, and 'starred' activities.
   - Discuss billing for breaks, how to clock standup, cover "Personal Time".
+  - [Common Time Reporting Codes](https://github.com/RadialDevGroup/Policy/wiki/Common-Time-Reporting-Codes-%28Noko%29)
 - Schedule
   - How to communicate vacations/absences.
   - Explain calendar (part time employees should post their time they will be in office).
