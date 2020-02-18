@@ -8,7 +8,7 @@ employee to make sure they are removed from any resources not listed here (e.g. 
 
 Set an end date for payroll.
 
-## Equipment
+### Equipment
 
 Retrieve and test company equipment and the credentials set on that equipment (e.g. system passwords).
 Give the departing employee time to pull any personal files off of the equipment (e.g. SSH
@@ -16,7 +16,7 @@ keys) when possible.
 
 Create a 'Radial' account with the password 'purple' and remove the employee's account, files, etc.
 
-## Keys
+### Keys
 
 Retrieve the departing employee's office keys and store them safely for reuse.
 
