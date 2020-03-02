@@ -130,6 +130,7 @@ Hourly employees may bill hack time with approval from their manager.
 ### Salaried Employees
 Salaried staff may take/use hack time per the explanation above
 
+
 ## Hour Requirements, Overtime and Comptime
 
 For Salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate.  Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
@@ -155,10 +156,22 @@ All unpaid leave must be taken for a reason. The reason can be any reason, but t
 
 At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment.
 
-#### Maternity and Paternity Leave
+#### Parental Leave
 
-Radial will follow the Family and Medical Leave Act (FMLA) of 1993. For more
-information about the FMLA, please use [this](https://www.dol.gov/WHD/fmla/index.htm)
+Radial will follow the [Family and Medical Leave Act (FMLA) of 1993](https://www.dol.gov/WHD/fmla/index.htm). In addition to FMLA, the leave policy explained in the previous section is still applicable.
+
+At this time Radial does not offer paid parental leave. However, you can sign up for Short Term Disability through Aflac*. If you anticipate needing more paid time off for the birth or adoption of a child, we suggest you plan to use your Paid Time Off. If you need to borrow vacation time from the next year, please speak with management as that may be an option.
+
+We realize everyone has different needs when they return to work after the arrival of a child. Management will work with you to create a plan and make any accommodations necessary, including returning part-time and working back up to full-time if that is desired.
+
+*Open Enrollment for Aflac is in December each year, with new plans starting Jan 1.
+
+*At the time of this writing, Aflac's Short Term Disability policy offers the following for Maternity Leave:
+> You must have the policy in place 10 full months before delivery
+>
+> Normal delivery is 6 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
+>
+> C-Section is 8 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
 
 ### Work From Home/Remote/Flex Time
 
