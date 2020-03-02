@@ -86,15 +86,17 @@ PTO hours will be accrued at a rate of .268 hours per hour worked.
 - The total accrual is 384.58 hours
 
 ### Salaried Employees
+PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
 
+### Sick Time and Self Care
 
-### Internal Time
+Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized 'Personal time' by management, and excused.
 
-As a Radial team member, you may be asked to attend and participate in internal time.
-This is classified as unbillable meetings and projects like all-hands meetings,
-retrospectives, trainings, business development meetings, development spikes
-and internal projects.
+If you are sick, stay home. Don't give us your germs.
 
+If you do miss time, you do have the option to make that up within the sprint, however, if you are unable to do so, please add PTO to your time-tracking to account for it.  As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
+
+## Internal Time
 Depending on the meeting and/or project, the most common Freckle tags may be
 "Admin" or "#{internal-project-name}" (see [Time Reporting](TIME_REPORTING.md) for details).
 Internal time will be counted towards your 40 hour work week.
@@ -111,61 +113,41 @@ Examples of internal time meetings
 * Business Development - Employees may be called upon to showcase their technical
   chops in business development meetings. These meetings may be offsite or at the
   Radial offices.
+ 
+## Hack Time
 
-### Hack Time
+### Explanantion
 
 * Provided all project goals are met, any remaining
   time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
+  
+### Hourly Employees
+Hourly employees may bill hack time with approval from their manager.
 
-### Overtime and Comptime
+### Salaried Employees
+Salaried staff may take/use hack time per the explanation above
 
-40 hours of work will be required, and any additional time worked will be
-accrued as PTO. If it is important to client delivery that additional time
-be spent, please ensure that we are aware so that the entire team can participate.
-Please report any client request for overtime, in writing, and in context, as
-additional fees may apply and additional steps may need to be taken to account for
-this time. In the event that an employee is given business-mandated weekend work,
-the employee will be given a $45 bonus per instance. This includes working any
-Saturday or Sunday, working during a scheduled company closure, or any necessary 
-work done after 6 pm.
+## Hour Requirements, Overtime and Comptime
 
-### Sick Time and Self Care
+For Salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate.  Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
+this time.  No comptime or overtime will be applied except as required by law.
 
-Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.
+Concering compliance with expectations of 40 hours per week: On a quarterly basis, if there is an meaningful shortage of hours, this will result in a conversation, and chronic shortfall on a shorter time-scale may seperately resuly in a conversation.  Initially, we will identify if the organization or team need to make adjustments to facilitate better compliance; if that is inneffective, we will identify steps and employee should take to bring time-keeping into compliance, and if issues persist, this will become ground for disciplinary action.
 
-You may take up to a day for any sort of self care reason. If you need to take more than a day, it should be considered PTO.
+In the event that an employee is given business-mandated weekend work, the employee will be given a $45 bonus per instance. This includes working any Saturday or Sunday, working during a scheduled company closure, or any necessary work done after 6 pm.  This time must be identified and approved by Ben.
 
-These accommodations will generally be referred to as sick time or self care time. You are not required to take PTO for this time.
+### Philosophy
 
-The funding for this comes out of company profit, and is not accounted for as compensation.
+Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completeable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexibie in what we could resource and plan for.
 
-However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.
+In 2020, we are revising this policy again because some of the benefits and limits did not align with our goals.  The 40 hour requirement can now be made more flexible to account for the ebb and flow of daily life.  We will not be taking a strict view of this requirement UNLESS it causes a secondary problem or is determined to be a chronic non-compliance issue.
 
-If this is for more than one day, this is probably not sick/self care time, and should be taken as vacation or unpaid leave.
+## Leave
 
-You must identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.
-
-### Paid Time Off
-
-Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance (e.g. on Jan 1 you can borrow up to 3 weeks of PTO).
-
-PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice. Do not forget to add the time to Noko at the start of your absence.
-
-PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
-
-Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
-
- Your vacation time should be recorded in Noko under the project "PTO" and tagged as #vacation.
-- Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
-
-Coming in when sick is discouraged. Don't give us your germs.
-
-### Leave
-
-The three week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
+The three week notice requirements apply to unpaid leave (except FMLA), to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
 
 Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
