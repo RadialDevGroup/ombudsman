@@ -70,7 +70,7 @@ Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 1
 Hourly employees may set their availability as needed. Changes to availability should be made prior to the Wednesday before the sprint starts, where possible.  Two (2) weeks notice, when possible, is appreciated.
 
 ### Salaried Employees
-Salaried Staff should plan to be available between 10:00am and 3:00pm on days when they are working
+Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working.
 
 ## Furloughs, Hours reduction, etc
 ## Hourly Staff
