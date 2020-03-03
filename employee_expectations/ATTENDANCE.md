@@ -116,7 +116,7 @@ Examples of internal time meetings
  
 ## Hack Time
 
-### Explanantion
+### Explanation
 
 * Provided all project goals are met, any remaining
   time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
