@@ -28,7 +28,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
    - Share the Radial Events and Conference Room calendars with them
    - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
  - Github
-  - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
+   - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
  - [Fellow App](https://app.fellow.co/account/users/)
  - [Heroku](https://dashboard.heroku.com/teams/radial-developers/access)
