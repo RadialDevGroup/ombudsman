@@ -35,7 +35,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
- - Grasshopper, add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
+ - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
 ## New Hire Orientation/Onboarding
 
