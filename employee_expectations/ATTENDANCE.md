@@ -92,7 +92,6 @@ PTO hours will be accrued at a rate of .268 hours per hour worked.
 PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
 
 ### Sick Time and Self Care
-
 Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized 'Personal time' by management, and excused.
 
 If you are sick, stay home. Don't give us your germs.
