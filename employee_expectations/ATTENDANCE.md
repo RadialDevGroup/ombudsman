@@ -1,5 +1,16 @@
 # Attendance Policy
 
+#### Table of Contents:
+- [Intents and Values](#intents-and-values)
+- [Communication Standards](#communication-standards)
+- [Compensation](#compensation)
+- [Availability](#availability)
+- [Furloughs, Hours reduction, etc](#furloughs-hours-reduction-etc)
+- [PTO](#pto)
+- [Hack Time](#hack-time)
+- [Hour Requirements, Overtime, and Comp Time](#hour-requirements-overtime-and-comp-time)
+- [Leave](#leave)
+
 ## Intents and Values
 
 Every opportunity must be afforded an employee to live wholeheartedly at work
