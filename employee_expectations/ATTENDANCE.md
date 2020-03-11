@@ -122,7 +122,7 @@ Examples of internal time meetings
   time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
-  mention the company, etc., along with other reported times in Freckle.
+  mention the company, etc., along with other reported times in Noko.
   
 ### Hourly Employees
 Hourly employees may bill hack time with approval from their manager.
