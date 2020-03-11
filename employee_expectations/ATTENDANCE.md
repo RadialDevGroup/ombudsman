@@ -73,7 +73,7 @@ Hourly employees may set their availability as needed. Changes to availability s
 Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working.
 
 ## Furloughs, Hours reduction, etc
-## Hourly Staff
+### Hourly Employees
 Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits, if requested.
 
 ## PTO
