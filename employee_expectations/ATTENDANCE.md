@@ -63,7 +63,7 @@ Please update your team if there are any significant changes to your calendar.
 Hourly employees will be paid $31.50/hour. The pay period ends five (5) business days before the pay date.
 
 ### Salaried Employees
-Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 16th or on the preceding business day.
+Salaried employees will be paid $65,520/year.
 
 ## Availability
 ### Hourly Employees
