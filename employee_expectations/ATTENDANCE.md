@@ -13,12 +13,6 @@ that schedule, as soon as possible. A failure to effectively communicate
 schedule changes or to meet commitments may be grounds for dismissal if not
 corrected.
 
-## Schedule
-
-Core hours are from 10am to 3pm M-F. Please be sure to notify the team via email if you are unable to be available during core hours.
-Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
-Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
-
 ## Communication Standards
 
 ### Tell your team.
@@ -66,11 +60,14 @@ Hourly Employees will be paid $31.50/hour, 24 times per year on the 1st or 16th 
 Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 16th or on the preceding business day.
 
 ## Availability
+Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
+Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
+
 ### Hourly Employees
 Hourly employees may set their availability as needed. Changes to availability should be made prior to the Wednesday before the sprint starts, where possible.  Two (2) weeks notice, when possible, is appreciated.
 
 ### Salaried Employees
-Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working.
+Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working. Please be sure to notify the team via email if you are unable to be available during core hours.
 
 ## Furloughs, Hours reduction, etc
 ## Hourly Staff
@@ -90,7 +87,7 @@ PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum
 
 ### Sick Time and Self Care
 
-Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized 'Personal time' by management, and excused.
+Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized as 'Personal time' by management, and excused.
 
 If you are sick, stay home. Don't give us your germs.
 
@@ -113,7 +110,7 @@ Examples of internal time meetings
 * Business Development - Employees may be called upon to showcase their technical
   chops in business development meetings. These meetings may be offsite or at the
   Radial offices.
- 
+
 ## Hack Time
 
 ### Explanation
@@ -123,7 +120,7 @@ Examples of internal time meetings
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Freckle.
-  
+
 ### Hourly Employees
 Hourly employees may bill hack time with approval from their manager.
 
