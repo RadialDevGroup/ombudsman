@@ -77,7 +77,7 @@ Salaried staff should plan to be available between 10:00am and 3:00pm on days wh
 
 ## Furloughs, Hours reduction, etc
 ### Hourly Employees
-Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits, if requested.
+Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits upon request.
 
 ## PTO
 ### Hourly Employees (at 31.50 rate, only)
