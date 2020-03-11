@@ -128,7 +128,7 @@ Examples of internal time meetings
 Hourly employees may bill hack time with approval from their manager.
 
 ### Salaried Employees
-Salaried staff may take/use hack time per the explanation above
+Salaried staff may take/use hack time per the explanation above.
 
 
 ## Hour Requirements, Overtime and Comptime
