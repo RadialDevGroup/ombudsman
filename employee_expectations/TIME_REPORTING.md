@@ -20,6 +20,8 @@ Unbillable time may be in one of several categories and is to be recorded the sa
  - **Technical Writing/Blogging**: Time spent writing or editing white papers, case-studies, or blogs
  - **[specific company initiatives]**: from time to time unbillable job codes may be assigned to specific internal projects.
 
+See [the wiki](https://github.com/RadialDevGroup/Policy/wiki/Common-Time-Reporting-Codes-%28Noko%29) for more details.
+
 ### Statuses
 These are not required or enforced, but are recommended.
 

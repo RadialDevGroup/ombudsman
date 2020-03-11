@@ -126,25 +126,6 @@ If you are sick, stay home. Don't give us your germs.
 
 If you do miss time, you do have the option to make that up within the sprint, however, if you are unable to do so, please add PTO to your time-tracking to account for it.  As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
 
-## Internal Time
-
-Depending on the meeting and/or project, the most common Noko tags may be
-"Admin" or "#{internal-project-name}" (see [Time Reporting](TIME_REPORTING.md) for details).
-Internal time will be counted towards your 40 hour work week.
-
-Examples of internal time meetings
-* Weekly Retrospectives - An all-hands retrospective meeting is held every
-  Friday at 9:00 AM. Attendance is required unless you have taken PTO. In-person
-  participation is preferred, and infrequent remote attendance is acceptable.
-
-* Trainings - Radial tries to help advance each employee's technical and
-  soft skills by providing training opportunities. Effort will be spent on scheduling
-  these meetings during business hours.
-
-* Business Development - Employees may be called upon to showcase their technical
-  chops in business development meetings. These meetings may be offsite or at the
-  Radial offices.
-
 ## Hack Time
 
 ### Explanation
