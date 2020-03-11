@@ -60,7 +60,7 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Compensation
 ### Hourly Employees
-Hourly Employees will be paid $31.50/hour, 24 times per year on the 1st or 16th or on the preceding business day.  The pay period ends 5 business days before the pay date.
+Hourly employees will be paid $31.50/hour. The pay period ends five (5) business days before the pay date.
 
 ### Salaried Employees
 Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 16th or on the preceding business day.
