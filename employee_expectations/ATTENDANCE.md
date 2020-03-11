@@ -127,11 +127,11 @@ Radial will be closed on the following days and employees are expected to not wo
 
 ### Sick Time and Self Care
 
-Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized 'Personal time' by management, and excused.
+Life is bumpy, but we are happy to accommodate those bumps (doctor's appointments, renewing your driver's license, participating in a citizenship activity, etc). If you are struggling with a personal issue, you may take the time you need to get better. Having notified your team, you may take up to a day off of work for any sort of self-care reason, without prior permission. If you are sick, stay home. Don't give us your germs. Please use PTO for this time.
 
-If you are sick, stay home. Don't give us your germs.
+If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception. Exceptions will be evaluated on a case-by-case basis and may be excused as 'Personal time' by management.
 
-If you do miss time, you do have the option to make that up within the sprint, however, if you are unable to do so, please add PTO to your time-tracking to account for it.  As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
+If you do miss time, you have the option to make that up within the sprint, however, this should be discussed with your Team Lead. Team Leads may direct employees to clock time as PTO or mandate how and when it is to be made up. As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
 
 ## Hack Time
 
