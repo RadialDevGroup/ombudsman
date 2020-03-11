@@ -65,6 +65,9 @@ Hourly employees will be paid $31.50/hour. The pay period ends five (5) business
 ### Salaried Employees
 Salaried employees will be paid $65,520/year.
 
+### Pay Dates
+Employees will be paid twenty-four times per year, on the 1st and 16th of the month. If that day is a weekend or holiday, they will be paid on the preceding business day.
+
 ## Availability
 ### Hourly Employees
 Hourly employees may set their availability as needed. It is greatly appreciated if changes to availability are made prior to the Wednesday before the sprint starts and communicated to their manager.
