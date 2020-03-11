@@ -78,6 +78,13 @@ Hourly employees will be paid $31.50/hour. The pay period ends five (5) business
 Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
 Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
 
+### Work From Home/Remote/Flex Time
+
+Work from home, working remotely, and flex time is permitted so long as it does not interfere with project delivery or company training or retrospective.
+
+We will provide facilities, such as we are able, to allow all members of teams
+to work in a clean, safe, common, public space.
+
 ### Salaried Employees
 
 Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working. Please be sure to notify the team via email if you are unable to be available during core hours.
@@ -136,16 +143,21 @@ If you do miss time, you do have the option to make that up within the sprint, h
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Noko.
 
-### Hourly Employees
-Hourly employees may bill hack time with approval from their manager.
+* If you are not sure how to bill your time please see [this wiki](https://github.com/RadialDevGroup/Policy/wiki/Common-Time-Reporting-Codes-%28Noko%29).
 
 ### Salaried Employees
+
 Salaried staff may take/use hack time per the explanation above.
 
+### Hourly Employees
+
+Hourly employees may bill hack time with approval from their manager
 
 ## Hour Requirements, Overtime, and Comp Time
 
-For salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate. Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
+### Salaried Employees
+
+40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate. Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
 this time. No comp time or overtime will be applied except as required by law.
 
 If full-time employees regularly fail to meet the expectation that they report roughly 40 hours per week of work, this will result in a conversation with management. Initially, we will identify if the organization or team needs to make adjustments to facilitate better compliance; if that is ineffective, we will identify steps that an employee should take to bring time-keeping into compliance, and if issues persist, this will become grounds for disciplinary action.
@@ -162,7 +174,7 @@ All unpaid leave must be taken for a reason. The reason can be any reason, but t
 
 At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment.
 
-#### Parental Leave
+### Parental Leave
 
 Radial will follow the [Family and Medical Leave Act (FMLA) of 1993](https://www.dol.gov/WHD/fmla/index.htm). In addition to FMLA, the leave policy explained in the previous section is still applicable.
 
@@ -178,10 +190,3 @@ We realize everyone has different needs when they return to work after the arriv
 > Normal delivery is 6 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
 >
 > C-Section is 8 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
-
-### Work From Home/Remote/Flex Time
-
-Work from home, working remotely, and flex time is permitted so long as it does not interfere with project delivery or company training or retrospective.
-
-We will provide facilities, such as we are able, to allow all members of teams
-to work in a clean, safe, common, public space.
