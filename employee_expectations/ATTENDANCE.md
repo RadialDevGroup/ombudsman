@@ -6,7 +6,7 @@
 - [Compensation](#compensation)
 - [Availability](#availability)
 - [Furloughs, Hours reduction, etc](#furloughs-hours-reduction-etc)
-- [PTO](#pto)
+- [PTO and Holidays](#pto)
 - [Hack Time](#hack-time)
 - [Hour Requirements, Overtime, and Comp Time](#hour-requirements-overtime-and-comp-time)
 - [Leave](#leave)
