@@ -54,24 +54,27 @@ Please update your team if there are any significant changes to your calendar.
 
 ## Compensation
 ### Hourly Employees
-Hourly Employees will be paid $31.50/hour, 24 times per year on the 1st or 16th or on the preceding business day.  The pay period ends 5 business days before the pay date.
+Hourly employees will be paid $31.50/hour. The pay period ends five (5) business days before the pay date.
 
 ### Salaried Employees
-Salaried Employees will be paid $65,520 per year in 24 payments on the 1st and 16th or on the preceding business day.
+Salaried employees will be paid $65,520/year.
+
+### Pay Dates
+Employees will be paid twenty-four times per year, on the 1st and 16th of the month. If that day is a weekend or holiday, they will be paid on the preceding business day.
 
 ## Availability
 Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
 Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
 
 ### Hourly Employees
-Hourly employees may set their availability as needed. Changes to availability should be made prior to the Wednesday before the sprint starts, where possible.  Two (2) weeks notice, when possible, is appreciated.
+Hourly employees may set their availability as needed. It is greatly appreciated if changes to availability are made prior to the Wednesday before the sprint starts and communicated to their manager.
 
 ### Salaried Employees
 Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working. Please be sure to notify the team via email if you are unable to be available during core hours.
 
 ## Furloughs, Hours reduction, etc
-## Hourly Staff
-Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits, if requested.
+### Hourly Employees
+Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits upon request.
 
 ## PTO
 ### Hourly Employees (at 31.50 rate, only)
@@ -86,8 +89,7 @@ PTO hours will be accrued at a rate of .268 hours per hour worked.
 PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
 
 ### Sick Time and Self Care
-
-Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized as 'Personal time' by management, and excused.
+Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.  If you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.  Having notified your team, you may take up to a day for any sort of self care reason, without prior permission.  Please use PTO for this time.  If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception.  Exceptions will be evaluated on a case-by-case basis and may be recategorized 'Personal time' by management, and excused.
 
 If you are sick, stay home. Don't give us your germs.
 
@@ -119,19 +121,19 @@ Examples of internal time meetings
   time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
-  mention the company, etc., along with other reported times in Freckle.
+  mention the company, etc., along with other reported times in Noko.
 
 ### Hourly Employees
 Hourly employees may bill hack time with approval from their manager.
 
 ### Salaried Employees
-Salaried staff may take/use hack time per the explanation above
+Salaried staff may take/use hack time per the explanation above.
 
 
-## Hour Requirements, Overtime and Comptime
+## Hour Requirements, Overtime, and Comp Time
 
-For Salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate.  Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
-this time.  No comptime or overtime will be applied except as required by law.
+For salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate. Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
+this time. No comp time or overtime will be applied except as required by law.
 
 Concering compliance with expectations of 40 hours per week: On a quarterly basis, if there is an meaningful shortage of hours, this will result in a conversation, and chronic shortfall on a shorter time-scale may seperately resuly in a conversation.  Initially, we will identify if the organization or team need to make adjustments to facilitate better compliance; if that is inneffective, we will identify steps and employee should take to bring time-keeping into compliance, and if issues persist, this will become ground for disciplinary action.
 
@@ -139,13 +141,13 @@ In the event that an employee is given business-mandated weekend work, the emplo
 
 ### Philosophy
 
-Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completeable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexibie in what we could resource and plan for.
+Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexible in what we could resource and plan for.
 
 In 2020, we are revising this policy again because some of the benefits and limits did not align with our goals.  The 40 hour requirement can now be made more flexible to account for the ebb and flow of daily life.  We will not be taking a strict view of this requirement UNLESS it causes a secondary problem or is determined to be a chronic non-compliance issue.
 
 ## Leave
 
-The three week notice requirements apply to unpaid leave (except FMLA), to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
+The three-week notice requirements apply to unpaid leave (except FMLA), to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
 
 Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
