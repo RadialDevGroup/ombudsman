@@ -82,7 +82,7 @@ PTO hours will be accrued at a rate of .268 hours per hour worked.
 
 **Philosophy**:
 - In order for part-time or hourly staff to be paid equitably their accrual needs to include the 2 weeks of december closure and 2 weeks of holidays which can be taken as floating holidays or on the date.
-- The expectation is that hourly employees will not be compensated for professional development time, but are allotted 3 hours weekly for Retrospectives, 1:1's, and other administrative concerns, totalling 35-hours per week maximum.
+- The expectation is that hourly employees will not be compensated for professional development time, but are estimated to spend 3 hours weekly for Retrospectives, 1:1's, and other administrative concerns, totalling 35-hours per week maximum.
 - The total accrual is 384.58 hours
 
 ### Salaried Employees
