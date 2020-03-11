@@ -142,7 +142,7 @@ In the event that an employee is given business-mandated weekend work, the emplo
 
 ### Philosophy
 
-Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completeable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexibie in what we could resource and plan for.
+Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexible in what we could resource and plan for.
 
 In 2020, we are revising this policy again because some of the benefits and limits did not align with our goals.  The 40 hour requirement can now be made more flexible to account for the ebb and flow of daily life.  We will not be taking a strict view of this requirement UNLESS it causes a secondary problem or is determined to be a chronic non-compliance issue.
 
