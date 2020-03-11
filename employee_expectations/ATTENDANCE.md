@@ -133,7 +133,7 @@ Hourly employees may bill hack time with approval from their manager.
 Salaried staff may take/use hack time per the explanation above.
 
 
-## Hour Requirements, Overtime and Comptime
+## Hour Requirements, Overtime, and Comp Time
 
 For Salaried employees, 40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate.  Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
 this time.  No comptime or overtime will be applied except as required by law.
