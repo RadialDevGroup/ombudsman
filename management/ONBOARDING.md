@@ -9,7 +9,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
   - [Set up accounts](#set-up-accounts)
   - Include the Google email login, initial password, and personalized login instructions.
-  - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
+  - Hire paperwork (I-9, and insurance application)[[1]](#f1)[[2]](#f2).
   - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
 - Welcome the new hire on Twitter.
 - Send a welcome email to the team, and link the tweet in the email.
@@ -37,6 +37,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
  - [UseTogether](https://web.use-together.com/account/team)
  - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
+ - [Gusto](https://support.gusto.com/team-management/team-details/employee-profile-details-/1001604681/Hire-new-employees.htm)
 
 ## New Hire Orientation/Onboarding
 
