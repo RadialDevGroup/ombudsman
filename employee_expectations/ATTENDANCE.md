@@ -142,7 +142,7 @@ Life is bumpy, but we are happy to accommodate those bumps (doctor's appointment
 
 If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception. Exceptions will be evaluated on a case-by-case basis and may be excused as 'Personal time' by management.
 
-If you do miss time, you have the option to make that up within the sprint, however, this should be discussed with your Team Lead. Team Leads may direct employees to clock time as PTO or mandate how and when it is to be made up. As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
+If you do miss time, you have the option to make that up within the sprint. However, this should be discussed with your Team Lead. Team Leads may direct employees to clock time as PTO or mandate how and when it is to be made up. As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
 
 ## Hack Time
 
