@@ -1,5 +1,16 @@
 # Attendance Policy
 
+#### Table of Contents:
+- [Intents and Values](#intents-and-values)
+- [Communication Standards](#communication-standards)
+- [Compensation](#compensation)
+- [Availability](#availability)
+- [Furloughs, Hours reduction, etc](#furloughs-hours-reduction-etc)
+- [PTO and Holidays](#pto)
+- [Hack Time](#hack-time)
+- [Hour Requirements, Overtime, and Comp Time](#hour-requirements-overtime-and-comp-time)
+- [Leave](#leave)
+
 ## Intents and Values
 
 Every opportunity must be afforded an employee to live wholeheartedly at work
@@ -13,18 +24,17 @@ that schedule, as soon as possible. A failure to effectively communicate
 schedule changes or to meet commitments may be grounds for dismissal if not
 corrected.
 
-## Schedule
+#### Background
 
-Core hours are from 10am to 3pm M-F. Please be sure to notify the team via email if you are unable to be available during core hours.
-Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
-Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
+Historically, the requirement had been 32 hours of billable work were required.  We discovered, however that this did not give us adequate time to take care of some of the business activities essential to our operation, limited feedback and made it difficult to delegate staff-completable work.  We also discovered that actually reliably working the 32 hours was also inconsistent.  When in 2017, we changed the requirement to 40 hours, we found that we were much more reliable in completing goals for clients, accounting for sick time and vacation, and more flexible in what we could resource and plan for.
+
+In 2020, we are revising this policy again because some of the benefits and limits did not align with our goals.  The 40 hour requirement can now be made more flexible to account for the ebb and flow of daily life.  We will not be taking a strict view of this requirement UNLESS it causes a secondary problem or is determined to be a chronic non-compliance issue.
 
 ## Communication Standards
 
 ### Tell your team.
 
-If you will be late to or absent from your committed work schedule, please
-contact:
+If you will be late to or absent from your committed work schedule, please contact:
 
 * your supervisor
 
@@ -54,110 +64,120 @@ that you arrive, than that you arrive on time.
 
 ### Keep your team in the loop.
 
-Please put your days off and major appointments on your google calendar as OOO.
+When requesting vacation days, send your request to the Director of Engineering.
+Once your request has been approved put your days off on your google calendar as an Out of Office event.
+Please also put major appointments as OOO so your team knows that you will not be available.
 Email [team](mailto:team@radialdevgroup.com) to notify them of the days you will be out.
 Please update your team if there are any significant changes to your calendar.
 
-## Hourly Employees
-### Compensation
-Hourly employees receive 20% more compensation per hour than salaried employees since they do not accrue vacation time and are disproportionately harmed by closures.
+## Compensation
 
-### Availability
-Hourly employees may set their availability as needed. Changes to availability should be made with 2 weeks notice, where possible, but can be modified at any time with management.
+### Pay Dates
 
-### Hours reduction
-Hourly employees requested to take a reduction in hours will be assisted in applying for temporary unemployment benefits, if requested.
+Employees will be paid twenty-four times per year, on the 1st and 16th of the month. If that day is a weekend or holiday, they will be paid on the preceding business day.
 
-## Salaried Employees
-### Hours and Hour Requirements
+### Salaried Employees
 
-Any time not accounted for which does not add up to weekly hour requirements will be deducted from your PTO total. Any additional time worked will be credited as compensation time and added to your PTO total.
+Salaried employees will be paid $65,520/year.
 
-In practice this means you are able to "flex" your hour requirements from week to week.
+### Hourly Employees
 
-* Core hours are from 10:00am to 3pm M-F Please be sure to notify the team, via email,
-if you are unable to be available during core hours.
+Hourly employees will be paid $31.50/hour. The pay period ends five (5) business days before the pay date.
 
-* Please work 40 hours per week or allocate PTO to cover.
+## Availability
 
-### Internal Time
+Adding absences to your work calendar is necessary so that your planned time off can be accounted for during resource planning.
+Client communication should occur between 9am and 6pm M-F only, except by absolute necessity.
 
-As a Radial team member, you may be asked to attend and participate in internal time.
-This is classified as unbillable meetings and projects like all-hands meetings,
-retrospectives, trainings, business development meetings, development spikes
-and internal projects.
+### Work From Home/Remote/Flex Time
 
-Depending on the meeting and/or project, the most common Freckle tags may be
-"Admin" or "#{internal-project-name}" (see [Time Reporting](TIME_REPORTING.md) for details).
-Internal time will be counted towards your 40 hour work week.
+Work from home, working remotely, and flex time is permitted so long as it does not interfere with project delivery or company training or retrospective.
 
-Examples of internal time meetings
-* Weekly Retrospectives - An all-hands retrospective meeting is held every
-  Friday at 9:00 AM. Attendance is required unless you have taken PTO. In-person
-  participation is preferred, and infrequent remote attendance is acceptable.
+We will provide facilities, such as we are able, to allow all members of teams
+to work in a clean, safe, common, public space.
 
-* Trainings - Radial tries to help advance each employee's technical and
-  soft skills by providing training opportunities. Effort will be spent on scheduling
-  these meetings during business hours.
+### Salaried Employees
 
-* Business Development - Employees may be called upon to showcase their technical
-  chops in business development meetings. These meetings may be offsite or at the
-  Radial offices.
+Salaried staff should plan to be available between 10:00am and 3:00pm on days when they are working. Please be sure to notify the team via email if you are unable to be available during core hours.
 
-### Hack Time
+### Hourly Employees
+
+Hourly employees may set their availability as needed. It is greatly appreciated if changes to availability are made prior to the Wednesday before the sprint starts and communicated to their manager.
+
+## Furloughs, Hours reduction, etc
+
+### Hourly Employees
+
+Hourly employees may be requested to take a reduction in hours. If so, individuals will be assisted in applying for temporary unemployment benefits upon request.
+
+## PTO
+
+### Salaried Employees
+
+PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
+
+### Hourly Employees (at 31.50 rate, only)
+
+PTO hours will be accrued at a rate of .268 hours per hour worked.
+
+**Philosophy**:
+- In order for part-time or hourly staff to be paid equitably their accrual needs to include the 2 weeks of December closure and 2 weeks of holidays which can be taken as floating holidays or on the date.
+- The expectation is that hourly employees will not be compensated for professional development time, but are estimated to spend 3 hours weekly on average for Retrospectives, 1:1's, and other administrative concerns, totaling 35-hours per week maximum.
+- The total accrual is 384.58 hours of PTO
+
+### Holidays
+
+Radial will be closed on the following days and employees are expected to not work.
+- Employee Appreciation Day (first Friday in March)
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving Day & the Friday after Thanksgiving
+- "Voting Day" (the Monday 8 days before the November Election Day for municipal, county and state elections). **Because Colorado generally votes early by mail, we take the time to research and fill out our ballots on a less-disruptive day.**
+- Annual Winter closure (two weeks) as announced
+
+### Sick Time and Self Care
+
+Life is bumpy, but we are happy to accommodate those bumps (doctor's appointments, renewing your driver's license, participating in a citizenship activity, etc). If you are struggling with a personal issue, you may take the time you need to get better. Having notified your team, you may take up to a day off of work for any sort of self-care reason, without prior permission. If you are sick, stay home. Don't give us your germs. Please use PTO for this time.
+
+If you believe that this will limit your ability to take vacation as otherwise scheduled or planned, please request an exception. Exceptions will be evaluated on a case-by-case basis and may be excused as 'Personal time' by management.
+
+If you do miss time, you have the option to make that up within the sprint. However, this should be discussed with your Team Lead. Team Leads may direct employees to clock time as PTO or mandate how and when it is to be made up. As with other attendance concerns, this timeline is subject to exception, on a case-by-case basis.
+
+## Hack Time
+
+### Explanation
 
 * Provided all project goals are met, any remaining
   time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
-  mention the company, etc., along with other reported times in Freckle.
+  mention the company, etc., along with other reported times in Noko.
 
-### Overtime and Comptime
+* If you are not sure how to bill your time please see [this wiki](https://github.com/RadialDevGroup/Policy/wiki/Common-Time-Reporting-Codes-%28Noko%29).
 
-40 hours of work will be required, and any additional time worked will be
-accrued as PTO. If it is important to client delivery that additional time
-be spent, please ensure that we are aware so that the entire team can participate.
-Please report any client request for overtime, in writing, and in context, as
-additional fees may apply and additional steps may need to be taken to account for
-this time. In the event that an employee is given business-mandated weekend work,
-the employee will be given a $45 bonus per instance. This includes working any
-Saturday or Sunday, working during a scheduled company closure, or any necessary
-work done after 6 pm.
+### Salaried Employees
 
-### Sick Time and Self Care
+Salaried staff may take/use hack time per the explanation above.
 
-Life is bumpy. We are happy to accommodate the bumpiness of life. These generally could include items such as being out of the office for a few hours for a doctor's appointment, renewing your driver's license, participating in a citizenship activity, et cetera.
+### Hourly Employees
 
-You may take up to a day for any sort of self care reason. If you need to take more than a day, it should be considered PTO.
+Hourly employees may bill hack time with approval from their manager
 
-These accommodations will generally be referred to as sick time or self care time. You are not required to take PTO for this time.
+## Hour Requirements, Overtime, and Comp Time
 
-The funding for this comes out of company profit, and is not accounted for as compensation.
+### Salaried Employees
 
-However, if you are sick or struggling in some other way, you may, having given notice to your team, take the time you need to take to be better.
+40 hours of work per week will be required. If it is important to client delivery that additional time be spent, please ensure that we are aware so that the entire team can participate. Please report any client request for overtime, in writing, and in context, as additional fees may apply and additional steps may need to be taken to account for
+this time. No comp time or overtime will be applied except as required by law.
 
-If this is for more than one day, this is probably not sick/self care time, and should be taken as vacation or unpaid leave.
+If full-time employees regularly fail to meet the expectation that they report roughly 40 hours per week of work, this will result in a conversation with management. Initially, we will identify if the organization or team needs to make adjustments to facilitate better compliance; if that is ineffective, we will identify steps that an employee should take to bring time-keeping into compliance, and if issues persist, this will become grounds for disciplinary action.
 
-You must identify in your timesheet how much leave, vacation, sick time, or self care time you are taking, and the reason.
+In the event that an employee is given business-mandated weekend work, the employee will be given a $45 bonus per instance. This includes working any Saturday or Sunday, working during a scheduled company closure, or any necessary work done after 6 pm.  This time must be identified and approved by Ben.
 
-### Paid Time Off
+## Leave
 
-Paid Time Off is six weeks or 240 hours annually, accrued on an hourly basis. It resets every year and up to 50 percent can be borrowed in advance (e.g. on Jan 1 you can borrow up to 3 weeks of PTO).
-
-PTO requests where you will be out of office for two weeks or fewer will generally be approved by default. However, you should always notify management by email at least three weeks prior to taking the time off. In addition, add an "OOO" event to your calendar for your days off so it can be accounted for during resource planning. If management plans to deny PTO, they must give you two weeks notice. Do not forget to add the time to Noko at the start of your absence.
-
-PTO requests with a length of greater than two weeks (10 business days) will not be approved by default, but can be approved after discussion with management. The best way to get this type of request approved would be to give more advance notice.
-
-Upon separation, the employee will receive compensation in the amount of unused accrued PTO.
-
- Your vacation time should be recorded in Noko under the project "PTO" and tagged as #vacation.
-- Other non-vacation PTO time should be recorded in Freckle under the project "PTO" and tagged as relevant. (e.g. #watchingworldcup)
-
-Coming in when sick is discouraged. Don't give us your germs.
-
-### Leave
-
-The three week notice requirements apply to unpaid leave, to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
+The three-week notice requirements apply to unpaid leave (except FMLA), to the extent possible. We understand that there are sometimes emergency circumstances which make this type of notice challenging, and management will do its best to approve leave in these circumstances as well.
 
 Unpaid leave is available in increments of less than or equal to 6 weeks at a time.
 
@@ -165,7 +185,7 @@ All unpaid leave must be taken for a reason. The reason can be any reason, but t
 
 At the beginning of any consecutive unpaid leave period, management reserves the right to determine whether this leave constitutes job abandonment.
 
-#### Parental Leave
+### Parental Leave
 
 Radial will follow the [Family and Medical Leave Act (FMLA) of 1993](https://www.dol.gov/WHD/fmla/index.htm). In addition to FMLA, the leave policy explained in the previous section is still applicable.
 
@@ -181,21 +201,3 @@ We realize everyone has different needs when they return to work after the arriv
 > Normal delivery is 6 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
 >
 > C-Section is 8 weeks of paid leave less the waiting period of 7 or 14 days which ever the employee has chosen
-
-### Work From Home/Remote/Flex Time
-
-Work from home, working remotely, and flex time is permitted so long as it does not interfere with project delivery or company training or retrospective.
-
-We will provide facilities, such as we are able, to allow all members of teams
-to work in a clean, safe, common, public space.
-
-## Holiday Time
-
-Radial will be closed on the following days and employees are expected to not work.
-- Employee Appreciation Day (first Friday in March)
-- Memorial Day
-- Independence Day
-- Labor Day
-- Thanksgiving Day & the Friday after Thanksgiving
-- "Voting Day" (the Monday 8 days before the November Election Day for municipal, county and state elections). **Because Colorado generally votes early by mail, we take the time to research and fill out our ballots on a less-disruptive day.**
-- Annual Winter closure as announced
