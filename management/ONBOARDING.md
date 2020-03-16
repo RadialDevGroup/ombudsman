@@ -157,4 +157,4 @@ Goal:
 
 
 ## Footnotes
-1. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
+1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
