@@ -36,7 +36,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
  - [UseTogether](https://web.use-together.com/account/team)
- - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
+ - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user (Add extension, then click View Details, click User Access and invite the new employee) and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
  - [Gusto](https://support.gusto.com/team-management/team-details/employee-profile-details-/1001604681/Hire-new-employees.htm)
 
 ## New Hire Orientation/Onboarding
@@ -76,7 +76,7 @@ Goal:
   - Confirm user has set up two-factor authentication.
   - Add user to Heroku team.
 - Google Drive
-  - To access the Radial Drive, type "radial" in the search bar, and it will show in the dropdown.
+  - To access the Radial Drive, type "radial" in the search bar, and it will show in the dropdown, click on it. Right click on the new folder, select "Add to My Drive", now it should show in the left navigation.
   - Note that anything created in your Drive will be transferred to Radial when you leave the company. (Don't keep personal documents in it)
 
 ### Training
