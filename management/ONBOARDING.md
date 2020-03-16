@@ -9,7 +9,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
   - [Set up accounts](#set-up-accounts)
   - Include the Google email login, initial password, and personalized login instructions.
-  - Hire paperwork (insurance application)[[1]](#f1)[[2]](#f2).
+  - Hire paperwork (insurance application)[[1]](#f1).
   - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
 - Welcome the new hire on Twitter.
 - Send a welcome email to the team, and link the tweet in the email.
@@ -45,12 +45,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - It is best to do this at stand-up on the employee's first or second day. Have the rest of the team introduce themselves at this time.
 
 ### Payroll
-- Verify and copy ID documents and complete I-9.
-- Scan employment packet documents and file paper copies.
-- Email W-4, I-9, and Direct Deposit to Journey.
-- Submit all payroll information to Journey, and confirm Hub subscription.
-  - Assist employee with entering their ACH information.
-  - Let the new employee know that this is where they will be able to see their paystubs.
+- Show/explain Gusto to new employee. Make sure they have completed all forms that Gusto prompted them for.
 
 ### Benefits
 *Salaried employees only*
@@ -162,5 +157,4 @@ Goal:
 
 
 ## Footnotes
-1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202019.pdf" target="_blank">New Hire Packet</a></span>
-2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
+1. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
