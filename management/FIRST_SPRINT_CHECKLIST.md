@@ -6,7 +6,7 @@ Print this and turn it in to the Director of Engineering once complete. Please a
 
 - [ ] Welcome
 - [ ] Everything in [Employee Expectations](../employee_expectations)
-- [ ] Everything under Developer Expectations in the [README](README.md)
+- [ ] Everything under Developer Expectations in the [README](https://github.com/RadialDevGroup/Policy#developer-expectations)
 - [ ] Watch the [Kathy Sierra video](https://github.com/RadialDevGroup/Policy/wiki/Learning)
 
 
