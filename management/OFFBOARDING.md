@@ -20,6 +20,10 @@ Create a 'Radial' account with the password 'purple' and remove the employee's a
 
 Retrieve the departing employee's office keys and store them safely for reuse.
 
+### Website
+
+Ask the website dev lead to remove the employee from the "About Us" page.
+
 ## Accounts
 
 ### [Asana](https://app.asana.com/)
