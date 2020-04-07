@@ -146,7 +146,7 @@ Goal:
 - If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
 - Schedule one-on-ones and 90 day review.
 
-### Developer Lead Onboarding
+### Developer Lead Transition (First Project)
   - Discuss Developer Lead resources:
     - [Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
     - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
