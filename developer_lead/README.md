@@ -7,6 +7,7 @@ You will shadow a Developer Lead for 2 weeks to become familiar with duties and 
   1. You will start with the [Developer Lead Quickstart Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
   2. Remind the new Lead to keep projects up to date by checking on each project quarterly and to due [recurring tasks](./RECURRING_TASKS.md)
   3. Give the employee "project creator" permission in Pivotal Tracker.
+  4. Review and ensure that you have covered key [Dev Lead Training Thoughts](https://github.com/RadialDevGroup/Policy/wiki/Dev-Lead-Training-Thoughts)
 
 ## Developer Lead - Project Transitions
   - The employee should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize them with the codebase.
@@ -14,6 +15,9 @@ You will shadow a Developer Lead for 2 weeks to become familiar with duties and 
 
 ### First Project
 
+WIP
 
 ## Project Kickoffs
+
+WIP
 
