@@ -1,6 +1,6 @@
 # Developer Lead Portal
 
-> Welcome to the Developer Lead Portal.  This resource should give you adequate preparation and materials to be successful as a developer lead.  As with everything else, your success also depends on your team, and letting your support people (Managers, Technical Leaders) know when you need additional support.
+Welcome to the Developer Lead Portal.  This resource should give you adequate preparation and materials to be successful as a developer lead.  As with everything else, your success also depends on your team, and letting your support people (Managers, Technical Leaders) know when you need additional support.
 
 ## Developer Lead Training
 You will shadow a Developer Lead for 2 weeks to become familiar with duties and processes you will need to know to sucessfully manage a Project.
@@ -10,7 +10,7 @@ You will shadow a Developer Lead for 2 weeks to become familiar with duties and 
   4. Review and ensure that you have covered key [Dev Lead Training Thoughts](https://github.com/RadialDevGroup/Policy/wiki/Dev-Lead-Training-Thoughts)
 
 ### First Project
-This is where the rubber meets the road with your training.  Be sure to leverage your Team Lead/Dev Lead mentor as you begin to talk through this new project.  If this is a [new project](#new-projects), schedule a time to talk through your kickoff.  Review the [Client Onboarding Checklist](./CLIENT_ONBOARDING.md) and [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf) and ask any questions that you have.  If this an [existing project](#developer-lead-project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.  Also make sure to review the [Developer Lead Guide](./DEVELOPER_LEAD_GUIDE.md) and ask any questions that arrise.
+This is where the rubber meets the road with your training.  Be sure to leverage your Team Lead/Dev Lead mentor as you begin to talk through this new project.  If this is a [new project](#new-projects), schedule a time to talk through your kickoff.  Review the [Client Onboarding Checklist](./CLIENT_ONBOARDING.md) and [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf) and ask any questions that you have.  If this an [existing project](#developer-lead---project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.  Also make sure to review the [Developer Lead Guide](./DEVELOPER_LEAD_GUIDE.md) and ask any questions that arrise.
 
 ## Developer Lead - Project Transitions
 Every effort should be made to transition leadership on a project (Changing a client's point of contact) with no less than 2 weeks notice.  Ideal transitions are 2 weeks to 2 months.  When this becomes neccesary, follow the following steps:
