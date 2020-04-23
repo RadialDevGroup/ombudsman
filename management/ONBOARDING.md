@@ -147,8 +147,8 @@ Goal:
 - Schedule one-on-ones and 90 day review.
 
 ### Developer Leads
-- Whereas this is not part of new hire onboarding, it is nontheless an onboarding process.  Please see the [Developer Lead Portal](../developer_lead/README.md) for more information:
-  -
+Whereas this is not part of new hire onboarding, it is nontheless an onboarding process.  Please see the [Developer Lead Portal](../developer_lead/README.md) for more information:
+
 
 
 ### Sales Onboarding
