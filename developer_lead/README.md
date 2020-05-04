@@ -5,7 +5,7 @@ Welcome to the Developer Lead Portal. This resource should give you adequate pre
 ## Developer Lead Training
 You will shadow a developer lead for two weeks to become familiar with duties and processes you will need to know to successfully manage a project.
   1. Please start by reading the [Developer Lead Quickstart Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
-  2. Set a personal reminder to keep your projects up to date by checking on each project quarterly and to due [recurring tasks](./RECURRING_TASKS.md)
+  2. Go over the list of [recurring tasks](./RECURRING_TASKS.md) developer leads are expected to complete. Be sure to discuss these quarterly responsibilities with the lead you are shadowing.  Set a personal reminder to keep your projects up to date.
   3. Get "project creator" permission in Pivotal Tracker for your project from management.
   4. Review [Dev Lead Training Thoughts](https://github.com/RadialDevGroup/Policy/wiki/Dev-Lead-Training-Thoughts) for tips and best practices on how to effectively lead a project.
 
