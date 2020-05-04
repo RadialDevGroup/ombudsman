@@ -10,7 +10,10 @@ You will shadow a developer lead for two weeks to become familiar with duties an
   4. Review [Dev Lead Training Thoughts](https://github.com/RadialDevGroup/Policy/wiki/Dev-Lead-Training-Thoughts) for tips and best practices on how to effectively lead a project.
 
 ### First Project
-This is where the rubber meets the road with your training.  Be sure to leverage your Team Lead/Dev Lead mentor as you begin to talk through this new project.  If this is a [new project](#new-projects), schedule a time to talk through your kickoff.  Review the [Client Onboarding Checklist](./CLIENT_ONBOARDING.md) and [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf) and ask any questions that you have.  If this an [existing project](#developer-lead---project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.  Also make sure to review the [Developer Lead Guide](./DEVELOPER_LEAD_GUIDE.md) and ask any questions that arrise.
+This is where the rubber meets the road with your training.  Be sure to leverage your Team Lead/Dev Lead mentor as you begin to talk through this new project.
+- Make sure to review the [Developer Lead Guide](./DEVELOPER_LEAD_GUIDE.md) and ask any questions that arise.
+- If this is a [new project](#new-projects), schedule a time to talk through your kickoff.
+- If this is an [existing project](#developer-lead---project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.
 
 ## Developer Lead - Project Transitions
 Every effort should be made to transition leadership on a project (changing a client's point of contact) with no less than 2 weeks notice.  Ideal transitions are 2 weeks to 2 months.  When this becomes necessary, follow the following steps:
@@ -24,8 +27,8 @@ Every effort should be made to transition leadership on a project (changing a cl
 
 Review the [Client Onboarding Checklist](./CLIENT_ONBOARDING.md) and the [Client Onboarding Guide](https://github.com/RadialDevGroup/Policy/blob/master/documents/ClientOnboardingGuide.pdf) and be sure to escalate any questions that you have.
 
-- Things to reiterate to clients as part of your initial reactions
-  - You ARE the Developer Lead and the main point of contact, but that we try to limit dedicating our most technical people to individual projects and that they contribute to projects accross all teams.
+Things to reiterate to clients as part of your initial interactions:
+  - You ARE the Developer Lead and the main point of contact, but that we try to limit dedicating people to particular projects and that projects benefit from a broad range of staff.
   - The success of the project is a team effort and relies on our ability to work as a team to pair, do code reviews, create brainshare, etc. Our lifetime as a company has been invested in finding the most effective way to do these things. It's cheaper to hire a freelancer, if what you want is the success that an individual is capable of, but we believe that's a risky proposition. Most clients who have been around the block already know better.
 - Things to think about
   - You are forging a new relationship, and forges mean fire. Put in the time and effort and you'll have a strong client relationship. If you don't, you'll get burned.

@@ -36,6 +36,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wiki#developer-support).
 
 ## Developer Lead Expectations
+- [Developer Lead Portal](./developer_lead/README.md)
 - [Quick Start Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
 - [Dev Lead Guide](developer_lead/DEVELOPER_LEAD_GUIDE.md)
 - [Client Onboarding](developer_lead/CLIENT_ONBOARDING.md)
