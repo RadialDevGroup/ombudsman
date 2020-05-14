@@ -11,13 +11,7 @@ To get you started, we have a few things to go over.
 
 Orientation will begin at 9:15 am. The Wifi is "Radial Development Group" and the password is "perfect purple password".
 
-On your first day, remember to bring a US passport or 2 forms of ID.
-
-We have attached your contract, W-4, I-9, and a direct deposit form to be filled out. You can complete this step while at Radial.
-
-We have set you up with a handful of accounts. Please accept the invitations as soon as possible and please set up two-factor authentication on Github, so that we can begin to give you access to projects.
-
-Your Radial email address is (insert Radial email here) and your initial password is (insert initial password). When you log in, you will also notice we have sent you invites to use Noko.
+Your Radial email address is (insert Radial email here) and your initial password is (insert initial password). We are setting you up with a handful of accounts. Please accept the invitations as soon as possible and please set up two-factor authentication on Github, so that we can begin to give you access to projects.
 
 Join our Slack workspace with your radial email (https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
 
