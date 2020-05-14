@@ -27,6 +27,10 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
    - Share the Radial Events and Conference Room calendars with them
    - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
+ - Gusto
+   - [Hire a new person](https://manage.gusto.com/payroll_admin/hire_and_onboard)
+     - The manager should be set as Rebecca Vetter
+     - The email can be their Radial email
  - Github
    - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
