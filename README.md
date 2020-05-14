@@ -53,6 +53,7 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [Onboarding](management/ONBOARDING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
 - [Shadowing Checklist](management/FIRST_SPRINT_CHECKLIST.md)
+- [Team Lead Responsibilities](management/TEAM_LEAD.md)
 
 ## Services not offered
 - [Hardware and Equipment Service](employee_expectations/HARDWARE.md)
