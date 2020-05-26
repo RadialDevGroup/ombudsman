@@ -91,7 +91,7 @@ Goal:
 - Schedule
   - How to communicate vacations/absences.
   - Explain calendar (part time employees should post their time they will be in office).
-  - Add the new employee's birthday and hire date (Team Member's Work Anniversary) to the Radial Events calendar.
+  - Add the new employee's birthday and hire date ("[Team Member]'s Work Anniversary") to the Radial Events calendar.
 - Attendance
   - Commitments (Google Calendar).
   - Communication (Slack, Email, team@ google group, team.<project> communication).
@@ -104,7 +104,7 @@ Goal:
   - Quick notes on positivity and "2-minutes-" channels (remember to mute the hate channel)
 
 ### Additional Training
-*Handoff to relevant director*
+*Handoff to relevant director or team lead*
 - Standup
   - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
 
@@ -143,8 +143,10 @@ Goal:
   - Subscribe to the slack channels
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
-- If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
+- If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Team Lead.
+- If they have not officially met, introduce the new employee to their Team Lead.
 - Schedule one-on-ones and 90 day review.
+- Ask Ben and the Director of Engineering to set up skip-levels.
 
 ### Developer Lead Onboarding
   - Discuss Developer Lead resources:

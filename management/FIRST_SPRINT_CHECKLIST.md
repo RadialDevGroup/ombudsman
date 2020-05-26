@@ -1,6 +1,6 @@
 # First Sprint checklist
 
-Print this and turn it in to the Director of Engineering once complete. Please add notes/questions/suggestions.
+Print this and turn it in to the your Team Lead once complete. Please add notes/questions/suggestions.
 
 ## Documents to Read
 
