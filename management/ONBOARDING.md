@@ -9,8 +9,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
   - [Set up accounts](#set-up-accounts)
   - Include the Google email login, initial password, and personalized login instructions.
-  - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
-  - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
 - Welcome the new hire on Twitter.
 - Send a welcome email to the team, and link the tweet in the email.
 - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
@@ -27,6 +25,10 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
    - Share the Radial Events and Conference Room calendars with them
    - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
+ - Gusto
+   - [Hire a new person](https://manage.gusto.com/payroll_admin/hire_and_onboard)
+     - The manager should be set as Rebecca Vetter
+     - The email can be their Radial email
  - Github
    - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
@@ -35,7 +37,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
- - Grasshopper, add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
+ - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
 ## New Hire Orientation/Onboarding
 
@@ -158,8 +160,3 @@ Goal:
 - Dropbox Account
 - Sales Playbook
 - Add to Sales team on Asana
-
-
-## Footnotes
-1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202019.pdf" target="_blank">New Hire Packet</a></span>
-2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>
