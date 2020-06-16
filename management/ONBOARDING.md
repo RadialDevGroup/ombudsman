@@ -28,7 +28,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - Gusto
    - [Hire a new person](https://manage.gusto.com/payroll_admin/hire_and_onboard)
      - The manager should be set as Rebecca Vetter
-     - The email can be their Radial email
  - Github
    - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
@@ -37,7 +36,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
- - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
 ## New Hire Orientation/Onboarding
 
@@ -154,6 +152,7 @@ Goal:
     - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
   - The employee should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize them with the codebase.
   - Give the employee "project creator" permission in Pivotal Tracker.
+   - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
   - Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
 ### Sales Onboarding
