@@ -27,7 +27,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Peer Review](developer/PEER_REVIEW.md)
 
 #### Helpful Links:
-- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki/Welcome-from-the-Director-of-Engineering)
+- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki#welcome)
 - [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup)
 - [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow)
 - [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
