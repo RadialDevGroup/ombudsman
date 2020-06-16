@@ -27,6 +27,7 @@ Print this and turn it in to the Director of Engineering once complete. Please a
 - [ ] git flow (pull requests, why protected branches are important etc)
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
+- [ ] Did you set up your computer for your first project? (See the developer journeys in the wiki)
 - [ ] Explain that when setting up a project locally, update the ReadMe with any improvements or issues that you find.
 - [ ] Every project has a PROCESS.md that explains the workflow and project management tools (such as Pivotal Tracker) for that particular project.
 - [ ] All of our projects should have a Technology section at the top of the README
