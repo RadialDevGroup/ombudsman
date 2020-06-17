@@ -8,7 +8,7 @@ A Team Lead's role, in short, is to ensure that the team has what it needs to be
 
 - Team Leads should make upper management aware of cross-team issues so they can handle it.
 
-- Team Leads can decide to put a member of their team on a Performance Improvement Plan (PIP), but need to include the Director of Engineering in the process.
+- Team Leads can decide to put a member of their team on a Performance Improvement Plan (PIP), but need to include the Director of Engineering in the process. PIPs will be made on a case by case basis but will be a minimum of 30 days.
 
 - We value all members of our team and want to work together so employees can be successful. We do not take actions such as suspension or letting someone go lightly, but sometimes this is the right choice for both parties. With that in mind:
 
