@@ -49,6 +49,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Submit all payroll information to Journey, and confirm Hub subscription.
   - Assist employee with entering their ACH information.
   - Let the new employee know that this is where they will be able to see their paystubs.
+- Review with new employee that paydays are on the 1st and 16th unless they fall on the weekends in which case it would be the business day before.
 
 ### Benefits
 *Salaried employees only*
