@@ -17,10 +17,10 @@ This is where the rubber meets the road with your training.  Be sure to leverage
 
 ## Developer Lead - Project Transitions
 Every effort should be made to transition leadership on a project (changing a client's point of contact) with no less than 2 weeks notice.  Ideal transitions are 2 weeks to 2 months.  When this becomes necessary, follow the following steps:
-  1. The employee should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize them with the codebase.
-  2. Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
-  3. Advise the client of the date of the transition. If possible give the client a reason that their point of contact is changing.  Send over a [professional introduction](https://github.com/RadialDevGroup/Policy/wiki/How-to-make-a-professional-Introduction) and let the client know some more useful things about their new Developer Lead.  It's often helpful to provide background information, such as relevant pre-Radial experience or the projects they have successfully led at Radial.
-  4. Have the new dev lead take over writing the reports, and slowly transition running all meetings.
+  1. You should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize yourself with the codebase.
+  2. Receive any credentials you will need to be an effective Developer Lead on projects you are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
+  3. The current developer lead should advise the client of the date of the transition. If possible they should give the client a reason that their point of contact is changing.  They should send over a [professional introduction](https://github.com/RadialDevGroup/Policy/wiki/How-to-make-a-professional-Introduction) and let the client know some more useful things about their new Developer Lead.  It's often helpful to provide background information, such as relevant pre-Radial experience or the projects they have successfully led at Radial.
+  4. You, the new dev lead, should take over writing the reports, but the original developer lead should continue to run meetings and so-fourth until handoff.
   5. Deploy all deployables during this transitional phase and update documentation as necessary.
   6. Finally, the last sprint report should identify the Monday that the new developer lead will take over.
 
