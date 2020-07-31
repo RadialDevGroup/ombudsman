@@ -9,8 +9,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Send a [welcome email](../management/WELCOME_EMAIL.md) to their personal email address. Include the following:
   - [Set up accounts](#set-up-accounts)
   - Include the Google email login, initial password, and personalized login instructions.
-  - Hire paperwork (W-4, I-9, and insurance application)[[1]](#f1)[[2]](#f2).
-  - Request that the new hire bring ID documents (typically drivers license + social security card or passport).
 - Welcome the new hire on Twitter.
 - Send a welcome email to the team, and link the tweet in the email.
 - Obtain/borrow a DSLR (if you will be taking a picture on the first day, let the new hire know in advance) and schedule staff pictures.
@@ -27,6 +25,9 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
    - Add to [team@ group](https://groups.google.com/a/radialdevgroup.com/forum/#!managemembers/team/members/active) and initial resourcing if applicable.
    - Share the Radial Events and Conference Room calendars with them
    - Manually send personalized login and instruction email, as part of the [welcome email](../management/WELCOME_EMAIL.md), See [Before First Day](#before-first-day).
+ - Gusto
+   - [Hire a new person](https://manage.gusto.com/payroll_admin/hire_and_onboard)
+     - The manager should be set as Rebecca Vetter
  - Github
    - We should have obtained the user's GitHub account from the new-hire questionnaire. Add them as a Member to the [Radial GitHub](https://github.com/orgs/RadialDevGroup/people), but do not add them to any teams until 2FA has been verified.
  - AWS Credentials (See [AWS Credential provisioning instructions](https://github.com/RadialDevGroup/Policy/wiki/AWS-Credential-Provisioning-\(IAM\)))
@@ -35,7 +36,6 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
  - [Noko](https://radialdevelopmentgroup.nokotime.com/people). Assign them "Leader" permissions. Training to occur at orientation.
  - Slack. Set up or use the welcome email to provide the link to [user self-sign-up](https://join.slack.com/t/radialdevgroup/signup?x=x-11720792966-282636290290).
  - [Pivotal Tracker](https://www.pivotaltracker.com/accounts/954909/memberships), add to relevant projects
- - Grasshopper, add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
 
 ## New Hire Orientation/Onboarding
 
@@ -49,6 +49,7 @@ Review [Hiring](HIRING.md) and ensure all steps are completed.
 - Submit all payroll information to Journey, and confirm Hub subscription.
   - Assist employee with entering their ACH information.
   - Let the new employee know that this is where they will be able to see their paystubs.
+- Review with new employee that paydays are on the 1st and 16th unless they fall on the weekends in which case it would be the business day before.
 
 ### Benefits
 *Salaried employees only*
@@ -91,7 +92,7 @@ Goal:
 - Schedule
   - How to communicate vacations/absences.
   - Explain calendar (part time employees should post their time they will be in office).
-  - Add the new employee's birthday and hire date (Team Member's Work Anniversary) to the Radial Events calendar.
+  - Add the new employee's birthday and hire date ("[Team Member]'s Work Anniversary") to the Radial Events calendar.
 - Attendance
   - Commitments (Google Calendar).
   - Communication (Slack, Email, team@ google group, team.<project> communication).
@@ -104,7 +105,7 @@ Goal:
   - Quick notes on positivity and "2-minutes-" channels (remember to mute the hate channel)
 
 ### Additional Training
-*Handoff to relevant director*
+*Handoff to relevant director or team lead*
 - Standup
   - How it works (in person and on Slack), what should be reported (see Slack channel description for the most up to date format)
 
@@ -143,20 +144,21 @@ Goal:
   - Subscribe to the slack channels
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
-- If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Director of Engineering or Ben.
+- If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Team Lead.
+- If they have not officially met, introduce the new employee to their Team Lead.
 - Schedule one-on-ones and 90 day review.
+- Ask Ben and the Director of Engineering to set up skip-levels.
 
-### Developer Leads
-Whereas this is not part of new hire onboarding, it is nontheless an onboarding process.  Please see the [Developer Lead Portal](../developer_lead/README.md) for more information:
-
-
+### Developer Lead Onboarding
+  - Discuss Developer Lead resources:
+    - [Developer Lead Guide](https://github.com/RadialDevGroup/Policy/wiki/Quick-Start-Developer-Lead-Guide)
+    - Remind the new Lead to keep projects up to date by checking on each project quarterly, and add to the [Asana Item](https://app.asana.com/0/563279970321589/1104682103889694)
+  - The employee should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize them with the codebase.
+  - Give the employee "project creator" permission in Pivotal Tracker.
+   - [Grasshopper](https://nuui.us.grasshopper.com/Extensions), add user and update [wiki](https://github.com/RadialDevGroup/Policy/wiki/Telephone-Extensions)
+  - Provide any credentials the employee will need to be an effective Developer Lead on projects they are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
 
 ### Sales Onboarding
 - Dropbox Account
 - Sales Playbook
 - Add to Sales team on Asana
-
-
-## Footnotes
-1. <span id="f1"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/Complete%20Employee%20Packet%202019.pdf" target="_blank">New Hire Packet</a></span>
-2. <span id="f2"><a href="https://github.com/RadialDevGroup/Policy/raw/master/documents/DORA_Application.pdf" target="blank">Insurance Application</a></span>

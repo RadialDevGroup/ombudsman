@@ -27,7 +27,7 @@ As Barbossa would say, the files in the Policy [wiki](https://github.com/RadialD
 - [Peer Review](developer/PEER_REVIEW.md)
 
 #### Helpful Links:
-- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki/Welcome-from-the-Director-of-Engineering)
+- [Welcome!](https://github.com/RadialDevGroup/Policy/wiki#welcome)
 - [Computer Setup](https://github.com/RadialDevGroup/Policy/wiki/Computer-Setup)
 - [Developer Workflow](https://github.com/RadialDevGroup/Policy/wiki/Developer-Workflow)
 - [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
@@ -54,6 +54,7 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 - [Onboarding](management/ONBOARDING.md)
 - [Sales Onboarding](management/SALES_ONBOARDING.md)
 - [Shadowing Checklist](management/FIRST_SPRINT_CHECKLIST.md)
+- [Team Lead Responsibilities](management/TEAM_LEAD.md)
 
 ## Services not offered
 - [Hardware and Equipment Service](employee_expectations/HARDWARE.md)
