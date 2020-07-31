@@ -64,7 +64,7 @@ that you arrive, than that you arrive on time.
 
 ### Keep your team in the loop. (How to request time off)
 
-When requesting vacation days, email your request to the Director of Engineering.
+When requesting vacation days, email your request to the Director of Engineering and cc your Team Lead.
 Once your request has been approved put your days off on your google calendar as an Out of Office event.
 Please also put major appointments as OOO so your team knows that you will not be available.
 Email [team](mailto:team@radialdevgroup.com) to notify them of the days you will be out.
