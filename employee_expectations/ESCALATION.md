@@ -22,7 +22,7 @@ When working with clients, you may encounter issues that you cannot solve indepe
 
 ### Stakeholder Time Bandits
 Projects may have stakeholders who could require you to spend additional time with them that does not benefit the project's deliverables. If your project should have one of these time bandits, below are suggested action items that will help you begin a discussion with the client.
-* Separately log time in Freckle spent working on non-value-add work directed by a Time Bandit with the tag `#bandit` and make a note in the description about what was done.
+* Separately log time in Noko spent working on non-value-add work directed by a Time Bandit with the tag `#bandit` and make a note in the description about what was done.
 * Find out the best form of communication that causes the least amount of confusion and back-and-forth with the stakeholder in question, and try to have all communication be in that form. This may be email, phone, or in-person.
 
 ### Methodology
