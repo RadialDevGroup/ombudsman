@@ -171,7 +171,7 @@ Each day when you come into the office, some of the first things you should do a
 
 * Check the error logs (Rollbar/Sentry) for anything new or critical. Add items to Pivotal Tracker if needed.
 
-* Check Freckle to see the hours spent on the project during the sprint. If too much/too little seems to have been used for where you are in the sprint, notify the team.
+* Check Noko to see the hours spent on the project during the sprint. If too much/too little seems to have been used for where you are in the sprint, notify the team.
 
 * Check Pivotal Tracker
 
