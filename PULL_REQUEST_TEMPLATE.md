@@ -1,4 +1,4 @@
-# Please describe what problem this is meant to solve. Use concrete examples if available/applicableo
+# Please describe what problem this is meant to solve. Use concrete examples if available/applicable
 
 # Background information
 
