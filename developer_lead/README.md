@@ -16,7 +16,7 @@ This is where the rubber meets the road with your training.  Be sure to leverage
 - If this is an [existing project](#developer-lead---project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.
 
 ## Developer Lead - Project Transitions
-See [Prjoect Handoff](./PROJECT_HANDOFF.md)
+See [Project Handoff](./PROJECT_HANDOFF.md)
 
 ## New Projects
 
