@@ -16,22 +16,7 @@ This is where the rubber meets the road with your training.  Be sure to leverage
 - If this is an [existing project](#developer-lead---project-transitions), make sure to take time to reflect as you begin to take on the reporting role, to ensure you ask any questions that you have.
 
 ## Developer Lead - Project Transitions
-Every effort should be made to transition leadership on a project (changing a client's point of contact) with no less than 2 weeks notice.  Ideal transitions are 2 weeks to 2 months.  When this becomes necessary, follow the following steps:
-  1. You should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize yourself with the codebase.
-  2. Receive any credentials you will need to be an effective Developer Lead on projects you are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
-  3. The current developer lead should advise the client of the date of the transition. If possible they should give the client a reason that their point of contact is changing.  They should send over a [professional introduction](https://github.com/RadialDevGroup/Policy/wiki/How-to-make-a-professional-Introduction) and let the client know some more useful things about their new Developer Lead.  It's often helpful to provide background information, such as relevant pre-Radial experience or the projects they have successfully led at Radial.
-  4. You, the new dev lead, should take over writing the reports, but the original developer lead should continue to run meetings and so-fourth until handoff.
-  5. Deploy all deployables during this transitional phase and update documentation as necessary.
-  6. Finally, the last sprint report should identify the Monday that the new developer lead will take over.
-
-Team transitions affect customers and projects as well.  We do our best to keep team changes small and do our best to limit the impact on projects, but clients can be uneasy when developers who have been working on the project change.
-  1. If the project is moving to another team itself, this will be the biggest change for a project and the client should be notified that the team responsible for the project will be changing.
-  2. Plan to check in with the customer about how the transition is affecting them during the first sprint after the change, at the end, and at the end of the following sprint.  If things do not go well, please advise invoicing/accounting (Ben, basically) if you feel we need to adjust their invoice or budget to accomodate this inconvenience.
-  3. Always reassure the client that this is a strategic change for them and Radial and that the purpose of a change to teams is always to serve clients better in general.
-    a. Make them aware that putting new eyes on the project consistently improves quality and reliability in deployment
-    b. Explain that Radials pricing structure and various other capabilities leverage the fact that we are a training organization and that this is reflected, in part, in the low cost per sprint.
-    c. Ensure that they understand that a premium pricing model is available to customers who wish to be assigned a set team in the long term, including 'use it or lose it' budgets, higher overall fees, and limitations in assigning new staff in the event of illness, vacation, or departure.
-
+See [Prjoect Handoff](./PROJECT_HANDOFF.md)
 
 ## New Projects
 

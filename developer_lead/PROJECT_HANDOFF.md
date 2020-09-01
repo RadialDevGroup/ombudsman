@@ -1,24 +1,28 @@
-# Project leadership handoffs
+## Developer Lead - Project Transitions
 
-## Intents and Values
-Under normal circumstances, some members of the team, particularly members of leadership, will be away doing business, on alternate schedules for deployments, on vacation, or out on personal leave.  It is important that we accommodate the humanity of every employee, but project leadership handoffs must be made if the project lead or developer lead on the project will be unavailable.  This process should address continuation of excellent execution by providing a project handoff process.  In particular, the intent of this document is to instruct developer leads in handing off projects in a manner keeping with Radial's values of care and accountability: the incumbent developer lead should consider how they can continue to provide value for the client and maximally position the new developer lead for success in their role.
+If at all possible, plan for handoff time to occur at a non-critical juncture of the project development.  Ideally this means before starting a large or difficult feature set, but not before finishing another important, in-progress feature set.  This will minimize loss of context on any work in progress, especially if the original dev lead will be moved to another project or unreachable.
+
+Every effort should be made to transition leadership on a project (changing a client's point of contact) with no less than 2 weeks notice.  Ideal transitions are 2 weeks to 2 months.  When this becomes necessary, follow the following steps:
+  1. You should work on any existing Radial project before leading it. This onboarding time should be long enough to familiarize yourself with the codebase.
+  2. Receive any credentials you will need to be an effective Developer Lead on projects you are assigned to (i.e. GitHub credentials for WorkGrades, specific communication system to contact the project owner for Aleph, Apple ID credentials for Plan to Eat, Lastpass passwords, etc.)
+  3. The current developer lead should advise the client of the date of the transition. If possible they should give the client a reason that their point of contact is changing.  They should send over a [professional introduction](https://github.com/RadialDevGroup/Policy/wiki/How-to-make-a-professional-Introduction) and let the client know some more useful things about their new Developer Lead.  It's often helpful to provide background information, such as relevant pre-Radial experience or the projects they have successfully led at Radial.
+  4. You, the new dev lead, should take over writing the reports, but the original developer lead should continue to run meetings and so-fourth until handoff.
+  5. Deploy all deployables during this transitional phase and update documentation as necessary.
+  6. Finally, the last sprint report should identify the Monday that the new developer lead will take over.
+
+Team transitions affect customers and projects as well.  We do our best to keep team changes small and do our best to limit the impact on projects, but clients can be uneasy when developers who have been working on the project change.
+  1. If the project is moving to another team itself, this will be the biggest change for a project and the client should be notified that the team responsible for the project will be changing.
+  2. Plan to check in with the customer about how the transition is affecting them during the first sprint after the change, at the end, and at the end of the following sprint.  If things do not go well, please advise invoicing/accounting (Ben, basically) if you feel we need to adjust their invoice or budget to accomodate this inconvenience.
+  3. Always reassure the client that this is a strategic change for them and Radial and that the purpose of a change to teams is always to serve clients better in general.
+    a. Make them aware that putting new eyes on the project consistently improves quality and reliability in deployment
+    b. Explain that Radials pricing structure and various other capabilities leverage the fact that we are a training organization and that this is reflected, in part, in the low cost per sprint.
+    c. Ensure that they understand that a premium pricing model is available to customers who wish to be assigned a set team in the long term, including 'use it or lose it' budgets, higher overall fees, and limitations in assigning new staff in the event of illness, vacation, or departure.
+
+## Work in progress
+All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout, prior to departure.  This meeting should be echoed in an email with CC to management
 
 ## Duties
 As the developer lead, try to document as many of your duties and responsibilities as possible, including particular processes or relevant strategies (e.g. ideal deployment flow, QA process, etc.).  All projects have idiosyncrasies, history and accompanying context that the developer lead carries with them, informing their decision making and everyday work.  The dev lead should keep in mind their responsibility to document these processes and context as appropriate, so that in theory their role is offloaded onto paper as much as possible.  This will minimize loss of context or momentum at the time of hand off.
-
-## Timeline
-When possible, the responsible person will notify the client of the handoff no less than one week from the day of the handoff.  This allows the client to adjust to the idea, and ask any questions, before the change takes place.  Some clients may require more (or less) than a week to adjust to the idea and build a relationship with the next developer lead: the current dev lead should consider what an appropriate amount of client "warm up" time is depending on the circumstances.
-
-Depending on how involved working on the project is, it may be appropriate to ease the new developer lead into their new responsibilities over time.  This can be as simple as asking the developer-lead-to-be to intermittently handle communications with the client as appropriate, leading to the new developer lead eventually encompassing all client communiques.  Ideally a given project will have accompanying manifests of what duties belong to a developer lead, so that the graduated handoff of these responsibilities can be scheduled ahead of time.  Note that these responsibilities should be enumerated concretely somewhere, per the 'Duties' section.
-
-## Concerning throwing the project over the wall
-Sales, Account Management, Operations, and Management team members who delegate a project shall not assume that the new lead is familiar with the state of the project.  A status-of-project email should be sent to the new Project Lead for any project whenever responsibility for the project or customer relationship changes.
-
-- Recommendations requested for status criteria [Issue 19](https://github.com/RadialDevGroup/Policy/issues/19)
-
-If working on the project involves being integrated with external services (e.g. a credit check provider), make sure that the new developer lead is made familiar with their points of contact for these services and that the integration partners are aware that the new developer lead will be communicating with them.
-
-When you hand off the project, make sure you make the new dev lead an admin on all appropriate services (Github, Heroku, Pivotal, etc.)
 
 ## Concerning the customer
 Whoever is currently responsible for the project will introduce the new responsible team member to the client before becoming unavailable.  If the client already knows the new responsible team member, the client should receive notice that for [Business reason, explicit | Reasons of Personal Emergency | Standard reasons (Vacation | Sick | etc), explicit ] the current lead will be unavailable, and shall inform the client of the new point-of-contact (POC), CC to the POC's email. With permission, please provide the new POC's phone number for emergencies during the transition.  We may consider using a virtual assistant service for this, at some point.
@@ -35,8 +39,3 @@ Whoever is currently responsible for the project will introduce the new responsi
 
   Thanks,
   ```
-
-## Work in progress
-All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout, prior to departure.  This meeting should be echoed in an email with CC to management
-
-If at all possible, plan for handoff time to occur at a non-critical juncture of the project development.  Ideally this means before starting a large or difficult feature set, but not before finishing another important, in-progress feature set.  This will minimize loss of context on any work in progress, especially if the original dev lead will be moved to another project or unreachable.
