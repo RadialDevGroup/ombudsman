@@ -14,7 +14,7 @@ Team transitions affect customers and projects as well.  We do our best to keep 
   1. If the project is moving to another team itself, this will be the biggest change for a project and the client should be notified that the team responsible for the project will be changing.
   2. Plan to check in with the customer about how the transition is affecting them during the first sprint after the change, at the end, and at the end of the following sprint.  If things do not go well, please advise invoicing/accounting (Ben, basically) if you feel we need to adjust their invoice or budget to accomodate this inconvenience.
   3. Always reassure the client that this is a strategic change for them and Radial and that the purpose of a change to teams is always to serve clients better in general.
-    a. Make them aware that putting new eyes on the project consistently improves quality and reliability in deployment
+    a. Make them aware that putting new eyes on the project consistently improves quality and reliability in deployment.
     b. Explain that Radials pricing structure and various other capabilities leverage the fact that we are a training organization and that this is reflected, in part, in the low cost per sprint.
     c. Ensure that they understand that a premium pricing model is available to customers who wish to be assigned a set team in the long term, including 'use it or lose it' budgets, higher overall fees, and limitations in assigning new staff in the event of illness, vacation, or departure.
 
