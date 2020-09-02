@@ -41,4 +41,4 @@ Whoever is currently responsible for the project will introduce the new responsi
   ```
 
 ## Temporary Handoffs
-When there is a temporary handoff (because of vacation, etc) we have a template in Fellow to help guide your discussion with the temporary deveopler lead. The template is called "Temporary Dev Lead Handoff". It covers items such as what the client is excited/anxious about, their expectations, etc. This template could also be beneficial in non-temporary situations.
+When there is a temporary handoff (because of vacation, etc) we have a template in Fellow to help guide your discussion with the temporary developer lead. The template is called "Temporary Dev Lead Handoff". It covers items such as what the client is excited/anxious about, their expectations, etc. This template could also be beneficial in non-temporary situations.
