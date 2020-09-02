@@ -19,7 +19,7 @@ Team transitions affect customers and projects as well.  We do our best to keep 
     c. Ensure that they understand that a premium pricing model is available to customers who wish to be assigned a set team in the long term, including 'use it or lose it' budgets, higher overall fees, and limitations in assigning new staff in the event of illness, vacation, or departure.
 
 ## Work in progress
-All work in progress should be reassigned and thoroughly explained to new assignee, in person or over hangout, prior to departure.  This meeting should be echoed in an email with CC to management
+All work in progress should be reassigned and thoroughly explained to new assignee, in person or over video call, prior to departure.  This meeting should be echoed in an email with CC to management.
 
 ## Duties
 As the developer lead, try to document as many of your duties and responsibilities as possible, including particular processes or relevant strategies (e.g. ideal deployment flow, QA process, etc.).  All projects have idiosyncrasies, history and accompanying context that the developer lead carries with them, informing their decision making and everyday work.  The dev lead should keep in mind their responsibility to document these processes and context as appropriate, so that in theory their role is offloaded onto paper as much as possible.  This will minimize loss of context or momentum at the time of hand off.
