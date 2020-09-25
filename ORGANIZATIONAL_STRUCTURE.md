@@ -56,7 +56,7 @@ If a sales inquiry comes into the office while Management is away, inform the co
 - Quality (integrity)
 - Process Accountability (Intentionality)
 - Delegation (Cooperation)
-- Allowing others to fail/constructively supporting delivery (Relationally)
+- Allowing others to fail/constructively supporting delivery (Relationality)
 - Assigning dev leads within team
 - Protect their flock
 
