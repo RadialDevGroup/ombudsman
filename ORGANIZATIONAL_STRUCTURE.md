@@ -39,3 +39,51 @@ Management of Radial Development Group is done by the members of Radial Developm
 # Management Delegations
 ## Sales
 If a sales inquiry comes into the office while Management is away, inform the contact that Management is out of the office and of the date when the person will be returning. Then send Management an email with the necessary contact information and a brief description of the sales lead.
+
+# Spheres of Autonomy (Responsibilities)
+
+## Developers
+- Finish stories
+- Delivery on their story
+
+## Dev Leads
+- Project process/readme/Definition of Done/documentation
+- Delivery on their project
+
+## Team Leads
+- Accountability around delivery (follow-up when not met, etc)
+- Performance (values alignment and compliance, quality)
+- Quality (integrity)
+- Process Accountability (Intentionality)
+- Delegation (Cooperation)
+- Allowing others to fail/constructively supporting delivery (Relationally)
+- Assigning dev leads within team
+- Protect their flock
+
+## Principal Developer
+- Code standards
+- Framework choices
+- Technical Advancement
+- Special projects (code fixes behind the scenes, etc)
+- Technical advisory support
+
+## DoE
+- Support for team leads
+- Leadership Practice
+- Operations Planning (teams, resourcing)
+- Representing Delivery Team (communicating about the planning/protect my flock)
+
+## Ben
+- Money (billing, taxes, payroll, spending, facilities, $$$$$)
+- Public Relations
+- Final Customer Recovery
+- Legal
+- HR
+- Hiring
+
+## Dave (Product Success)
+- Rate/contract Term changes (also Deals, MM&A, Products)
+- Sales
+- Prospecting for sales
+- Marketing
+- General meddling
