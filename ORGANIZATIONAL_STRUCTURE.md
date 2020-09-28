@@ -67,7 +67,7 @@ If a sales inquiry comes into the office while Management is away, inform the co
 - Special projects (code fixes behind the scenes, etc)
 - Technical advisory support
 
-## DoE
+## Director of Engineering (Rebecca)
 - Support for team leads
 - Leadership Practice
 - Operations Planning (teams, resourcing)
