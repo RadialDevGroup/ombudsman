@@ -81,7 +81,7 @@ If a sales inquiry comes into the office while Management is away, inform the co
 - HR
 - Hiring
 
-## Dave (Product Success)
+## Product Success (Dave)
 - Rate/contract Term changes (also Deals, MM&A, Products)
 - Sales
 - Prospecting for sales
