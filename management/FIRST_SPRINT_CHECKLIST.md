@@ -25,7 +25,7 @@ Print this and turn it in to your Team Lead once complete. Please add notes/ques
 - [ ] [Pairing](https://github.com/RadialDevGroup/Policy/wiki/Pairing)
   - Switch computers each day (use the new employees computer every other day if possible)
 - [ ] [Video: How Do I Check My Hours In Noko?](https://drive.google.com/file/d/1WPiXZQTkfXLTY6xCyafHeWCNxRbpuDtK/view?usp=sharing)
-  If you are not a video person [here is a screenshot version of the video on how to check your Noko hours](https://github.com/RadialDevGroup/Policy/wiki/How-to-check-your-hours-in-Noko)
+  If you are not a video person, you can view [a screenshot version of the video](https://github.com/RadialDevGroup/Policy/wiki/How-to-check-your-hours-in-Noko) on how to check your Noko hours]
 - [ ] git flow (pull requests, why protected branches are important etc)
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
