@@ -112,6 +112,8 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
+Effective January 1st 2021, All Accrued PTO Expires January 1st.
+
 ### Salaried Employees
 
 PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
