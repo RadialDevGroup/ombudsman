@@ -148,8 +148,7 @@ If you do miss time, you have the option to make that up within the sprint. Howe
 
 ### Explanation
 
-* Provided all project goals are met, any remaining
-  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
+* Provided all project goals are (or will be) met, any remaining time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Noko.
