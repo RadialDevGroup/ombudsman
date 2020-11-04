@@ -74,6 +74,8 @@ channels.
 * Heroku: Transfer ownership and revoke privileges as required.
 * Rollbar: Transfer ownership and revoke privileges as required.
 * CircleCI: Transfer ownership and revoke privileges as required.
+* Invision: Remove user from project accounts.
+* Twilio/Sendgrid: Remove user and update 2FA phone numbers as required.
 
 ### Google
 
