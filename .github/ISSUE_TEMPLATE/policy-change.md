@@ -8,6 +8,9 @@ assignees: timblodgett
 ---
 
 ### Define the issue and the problem that it is causing
-### How can this issue be addressed
-### What is your prescribed change to correct this issue
-## Links to existing policy documentation that will be impacted by change?
+
+### Can you give an example of something that has happened to help describe the problem. What happened? What did you expect to happen?
+
+### What is your suggesion of how this might be solved
+
+## Can you provide linkes to any existing policy that would be changed to solve this issue?
