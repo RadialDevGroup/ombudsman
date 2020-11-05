@@ -16,7 +16,7 @@ Team transitions affect customers and projects as well.  We do our best to keep 
   3. Always reassure the client that this is a strategic change for them and Radial and that the purpose of a change to teams is always to serve clients better in general.
     a. Make them aware that putting new eyes on the project consistently improves quality and reliability in deployment.
     b. Explain that Radials pricing structure and various other capabilities leverage the fact that we are a training organization and that this is reflected, in part, in the low cost per sprint.
-    c. Ensure that they understand that a premium pricing model is available to customers who wish to be assigned a set team in the long term, including 'use it or lose it' budgets, higher overall fees, and limitations in assigning new staff in the event of illness, vacation, or departure.
+    c. Ensure that they understand that other consultancies offer a set team in the context of a premium pricing model. Usually this model includes 'use it or lose it' budgets, higher overall fees, minimum budgets, and limitations in assigning new staff in the event of illness, vacation, or departure.  Clients who want a set team should consider whether they are willing to commit to hiring their own staff.
 
 ## Work in progress
 All work in progress should be reassigned and thoroughly explained to new assignee, in person or over video call, prior to departure.  This meeting should be echoed in an email with CC to management.
