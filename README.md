@@ -64,3 +64,14 @@ Find more information [in the wiki](https://github.com/RadialDevGroup/Policy/wik
 ## Contributing
 - Submit bugs in policy via github issues
 - Follow the [process](PROCESS.MD) to resolve issues
+
+## Updating Policy
+When "Policy Ombudsperson" is referenced, this will mean the individual who is currently responsible for coordinating Radial Development Group policy changes. At this time, this individual is [Tim Blodgett](mailto:tim@radialdevgroup.com).
+
+In the event that you feel there is a need to address current policy you may do so directly, or you may enlist the help of the Policy Ombudsperson if you wish to remain anonymous.
+
+Any change that does not impact the spirit of an existing policy (fixing a typo, improving verbiage) can be suggested using a Pull Request. 
+
+Significant policy changes or introductions of new policy should be suggested by creating a [new Issue](https://github.com/RadialDevGroup/Policy/issues/new).
+
+All policy updates/changes should be addressed by management or introduced to the entire team no later than the next scheduled All Hands Retrospective.
