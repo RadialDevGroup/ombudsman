@@ -147,7 +147,7 @@ Goal:
 - If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Team Lead.
 - If they have not officially met, introduce the new employee to their Team Lead.
 - Schedule one-on-ones and 90 day review.
-- Add checkins to ensure that team lead, DoE and Principal engineer have an opportunity to work with new hire early ( within first 4 weeks ) and later (within 4 weeks of 90-day review)
+- Add checkins to ensure that team lead, DoE and Principal engineer have an opportunity to work with new hire early (within first 4 weeks) and later (within 4 weeks of 90-day review)
 - Ask Ben and the Director of Engineering to set up skip-levels.
 
 ### Developer Lead Onboarding
