@@ -112,7 +112,7 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
-Effective January 1st 2021, All Accrued PTO Expires January 1st.
+Effective January 1st 2021, all un-allocated PTO Expires January 1st. (this means that you can use PTO after the first of the year, provided that the vacation is scheduled before the end of the previous year.
 
 ### Salaried Employees
 
