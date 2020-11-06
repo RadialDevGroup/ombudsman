@@ -147,7 +147,7 @@ Goal:
   - Subscribe to the slack channels
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
-  - Your first job is to update the ReadMe with any improvements or issues that you find.
+  - Your first job for the project is to update the ReadMe with any improvements or issues that you find.
 - If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Team Lead.
 - If they have not officially met, introduce the new employee to their Team Lead.
 - Schedule one-on-ones and 90 day review.
