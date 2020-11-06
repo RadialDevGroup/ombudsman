@@ -29,7 +29,7 @@ Print this and turn it in to your Team Lead once complete. Please add notes/ques
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
 - [ ] Did you set up your computer for your first project? (See the developer journeys in the wiki)
-- [ ] Explain that when setting up a project locally, your first job is to update the ReadMe with any improvements or issues that you find.
+- [ ] Explain that when setting up a project locally, your first job for that project is to update the ReadMe with any improvements or issues that you find.
 - [ ] Every project has a PROCESS.md that explains the workflow and project management tools (such as Pivotal Tracker) for that particular project.
 - [ ] All of our projects should have a Technology section at the top of the README
 - [ ] Commenting on pull requests
