@@ -11,6 +11,6 @@ assignees: timblodgett
 
 ### Can you give an example of something that has happened to help describe the problem. What happened? What did you expect to happen?
 
-### What is your suggesion of how this might be solved?
+### What is your suggestion of how this might be solved?
 
 ## Can you provide links to any existing policy that would be changed to solve this issue?
