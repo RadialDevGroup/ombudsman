@@ -3,6 +3,7 @@
 When a contract is finalized and a developer lead is assigned, the developer lead should ensure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the developer lead, but by someone on the management or sales team.
 
 - **Create accounts as applicable:**
+  - [ ] Noko project time code (request Team Lead or Director of Engineering to do this)
   - [ ] Github Repository
     - Add Client to permissions if requested
     - This will be set up by sales in the event the repository is being imported. Otherwise the developer lead can set it up.
