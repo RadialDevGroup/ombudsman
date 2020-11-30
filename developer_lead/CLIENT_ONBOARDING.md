@@ -47,7 +47,7 @@ When a contract is finalized and a developer lead is assigned, the developer lea
 
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
-  - Invite a senior or principal developer to the kickoff, especially if it is a green field project. This developer should decide on the tech stack.
+  - Invite a senior or principal developer to the kickoff, especially if it is a greenfield project. This developer should decide on the tech stack and the deployment mechanism, if it will be nonstandard.
 
 ## Client Onboarding Email Template
 
