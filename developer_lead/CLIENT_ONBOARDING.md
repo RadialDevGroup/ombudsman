@@ -2,8 +2,10 @@
 
 When a contract is finalized and a developer lead is assigned, the developer lead should ensure that the following tools are made available, as appropriate, to the client. Some of these tools will not be set up directly by the developer lead, but by someone on the management or sales team.
 
+- **Team Lead:**
+  - [ ] Select a developer lead and notify them of the new project
+  - [ ] Set up Noko project time code
 - **Create accounts as applicable:**
-  - [ ] Noko project time code (request Team Lead or Director of Engineering to do this)
   - [ ] Github Repository
     - Add Client to permissions if requested
     - This will be set up by sales in the event the repository is being imported. Otherwise the developer lead can set it up.
@@ -34,17 +36,18 @@ When a contract is finalized and a developer lead is assigned, the developer lea
         > Here’s some important info to help bring you up to speed on what’s going on in the {channel that was joined} channel.
         >
         > :pushpin: *Resources:*
-        > >*Heroku, Netlify, AWS, or other deployment:*   
-        > >*Staging site:*   
+        > >*Heroku, Netlify, AWS, or other deployment:*
+        > >*Staging site:*
         > >*Production site:*
-        > >*Pivotal Tracker:*   
-        > >*GitHub:*  
-        > >*Briefing:*   
+        > >*Pivotal Tracker:*
+        > >*GitHub:*
+        > >*Briefing:*
         >
         > If you do not have access to any of the above, please contact your develeoper lead or manager.
 
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
+  - Invite a senior or principal developer to the kickoff, especially if it is a green field project. This developer should decide on the tech stack.
 
 ## Client Onboarding Email Template
 
