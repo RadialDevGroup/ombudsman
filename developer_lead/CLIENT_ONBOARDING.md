@@ -43,7 +43,7 @@ When a contract is finalized and a developer lead is assigned, the developer lea
         > >*GitHub:*
         > >*Briefing:*
         >
-        > If you do not have access to any of the above, please contact your develeoper lead or manager.
+        > If you do not have access to any of the above, please contact your developer lead or manager.
 
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
