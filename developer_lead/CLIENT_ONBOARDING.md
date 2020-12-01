@@ -47,7 +47,13 @@ When a contract is finalized and a developer lead is assigned, the developer lea
 
 - Email the client with information (see template below). This should not be done until the sales team has confirmed that NDAs and contracts have been finalized.
 - Schedule [Kickoff](https://github.com/RadialDevGroup/Policy/wiki/Project-Kickoff). This should be done after the sales team has sent the client their onboarding email.
-  - Invite a senior or principal developer to the kickoff, especially if it is a greenfield project. This developer should decide on the tech stack and the deployment mechanism, if it will be nonstandard.
+- Invite a senior or principal developer to the kickoff, especially if it is a greenfield project.
+  - The principal developer or senior developer may elect to delegate this responsibility to another architect.
+  - The architect should decide on the tech stack and the deployment mechanism, if it will be nonstandard.
+  - The architect should complete the following:
+    - Rails new or otherwise create the project and commit it to version control.
+    - Set up and smoke-test the test suite.
+    - Add an error-reporting framework such as Rollbar (for Desktop Applications, this should be opt-in).
 
 ## Client Onboarding Email Template
 
