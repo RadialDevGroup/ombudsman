@@ -26,6 +26,7 @@ Print this and turn it in to your Team Lead once complete. Please add notes/ques
   - Switch computers each day (use the new employees computer every other day if possible)
 - [ ] [Video: How Do I Check My Hours In Noko?](https://drive.google.com/file/d/1WPiXZQTkfXLTY6xCyafHeWCNxRbpuDtK/view?usp=sharing)
   If you are not a video person, you can view [a screenshot version of the video](https://github.com/RadialDevGroup/Policy/wiki/How-to-check-your-hours-in-Noko) on how to check your Noko hours
+- [ ] Ask Kayla (Kayla Larson) to add you to the list for Java Unscripted meetups with your peers.
 - [ ] git flow (pull requests, why protected branches are important etc)
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
