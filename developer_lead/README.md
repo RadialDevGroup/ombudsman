@@ -22,7 +22,7 @@ See [Project Handoff](./PROJECT_HANDOFF.md)
 
 Each developer lead should select a backup dev lead for their project. The backup dev lead's role is to step in for an unplanned absence. They should not necessarily be the person who takes over your project when you are out for a planned absence, although they can be. 
 
-If have a plan to be out, you should find someone to take over the project and do an official handoff with them. If the acting dev lead for your planned absence will not be the backup dev lead, inform the backup dev lead so they know they do not need to take over your project while you are out.
+If you have a scheduled absence, you should find someone to take over the project and do an official handoff with them. If the acting dev lead for your scheduled absence will not be the backup dev lead, inform the backup dev lead so they know they do not need to take over your project while you are out.
 
 Example 1: Natasha is the Hapyn backup dev lead, but Tim (Hapyn dev lead) is out this week for a planned vacation. Natasha is busy with other work, so Tim asks Kayla to be his acting dev lead and does a handoff with her the week prior to his vacation. He tells Natasha so she is aware Kayla will be acting dev lead while he is out.
 
