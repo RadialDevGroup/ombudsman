@@ -26,7 +26,7 @@ If have a plan to be out, you should find someone to take over the project and d
 
 Example 1: Natasha is the Hapyn backup dev lead, but Tim (Hapyn dev lead) is out this week for a planned vacation. Natasha is busy with other work, so Tim asks Kayla to be his acting dev lead and does a handoff with her the week prior to his vacation. He tells Natasha so she is aware Kayla will be acting dev lead while he is out.
 
-Example 2: Tim is working this week as the Hapyn dev lead, but his daughter gets sick on Wednesday and he has to take the day off to care for them. Natasha, who is the backup dev lead, becomes dev lead for the day while Tim is out.
+Example 2: Tim is working this week as the Hapyn dev lead, but his daughter gets sick on Wednesday and he has to take the day off to care for her. Natasha, who is the backup dev lead, becomes dev lead for the day while Tim is out.
 
 ## New Projects
 
