@@ -54,6 +54,7 @@ When a contract is finalized and a developer lead is assigned, the developer lea
     - Rails new or otherwise create the project and commit it to version control.
     - Set up and smoke-test the test suite.
     - Add an error-reporting framework such as Rollbar (for Desktop Applications, this should be opt-in).
+    - Set up asset pipeline.
 
 ## Client Onboarding Email Template
 
