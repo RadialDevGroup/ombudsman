@@ -68,8 +68,11 @@ Goal:
   - Provide welcome "basket" (Radial shirt, notebook, etc)
 
 ### WiFi
- - Radial Development Group: perfect purple password
- - TheArmory: Coworking411
+  - 413 Railroad
+    - Radial Development Group: perfect purple password
+    - TheArmory: Coworking411
+  - 430 Cleveland
+    - RadialDG: CodeIsForPeople
 
 ### Setup
 - GitHub
@@ -144,9 +147,11 @@ Goal:
   - Subscribe to the slack channels
   - Where to find project briefings
   - How to get added to the Heroku and Pivotal
+  - Your first job for the project is to update the ReadMe with any improvements or issues that you find.
 - If you have questions or concerns about a project, talk to your Developer Lead. If that’s not working, then escalate it to the Team Lead.
 - If they have not officially met, introduce the new employee to their Team Lead.
 - Schedule one-on-ones and 90 day review.
+- Add checkins to ensure that team lead, DoE and Principal engineer have an opportunity to work with new hire early (within first 4 weeks) and later (within 4 weeks of 90-day review)
 - Ask Ben and the Director of Engineering to set up skip-levels.
 
 ### Developer Lead Onboarding

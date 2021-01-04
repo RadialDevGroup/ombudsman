@@ -26,11 +26,12 @@ Print this and turn it in to your Team Lead once complete. Please add notes/ques
   - Switch computers each day (use the new employees computer every other day if possible)
 - [ ] [Video: How Do I Check My Hours In Noko?](https://drive.google.com/file/d/1WPiXZQTkfXLTY6xCyafHeWCNxRbpuDtK/view?usp=sharing)
   If you are not a video person, you can view [a screenshot version of the video](https://github.com/RadialDevGroup/Policy/wiki/How-to-check-your-hours-in-Noko) on how to check your Noko hours
+- [ ] (Optional) Ask Kayla Larson to add you to the list for Java Unscripted meetups with your peers.
 - [ ] git flow (pull requests, why protected branches are important etc)
   - Have the new employee click the buttons and interact with Pivotal and GitHub
 - [ ] Setting up your computer will take time.
 - [ ] Did you set up your computer for your first project? (See the developer journeys in the wiki)
-- [ ] Explain that when setting up a project locally, update the ReadMe with any improvements or issues that you find.
+- [ ] Explain that when setting up a project locally, your first job for that project is to update the ReadMe with any improvements or issues that you find.
 - [ ] Every project has a PROCESS.md that explains the workflow and project management tools (such as Pivotal Tracker) for that particular project.
 - [ ] All of our projects should have a Technology section at the top of the README
 - [ ] Commenting on pull requests

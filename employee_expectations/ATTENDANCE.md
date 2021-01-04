@@ -112,7 +112,10 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
+
 Effective January 1st 2021, all un-allocated PTO Expires January 1st. (this means that you can use PTO after the first of the year, provided that the vacation is scheduled before the end of the previous year.
+
+Three weeks notice is required for scheduled PTO requests. We understand that some things come up last minute (see [Sick Time and Self Care](#sick-time-and-self-care) below), and we will try to honor those urgent requests as much as is possible and reasonable. Non-urgent requests with less than three weeks notice will be considered on a case-by-case basis.
 
 ### Salaried Employees
 
@@ -150,8 +153,7 @@ If you do miss time, you have the option to make that up within the sprint. Howe
 
 ### Explanation
 
-* Provided all project goals are met, any remaining
-  time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
+* Provided all project goals are (or will be) met, any remaining time may be used for personal projects or professional development.  Staff activities such as trainings and retrospectives shall take priority over this time. Please allow us to promote any successes relevant to building the company's reputation.
 
 * Please account for your hack time, any networking events or meetups where you
   mention the company, etc., along with other reported times in Noko.
