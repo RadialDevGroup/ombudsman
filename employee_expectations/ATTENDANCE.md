@@ -112,7 +112,7 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
-Three weeks notice is required for PTO requests. We understand that some things come up last minute (see [Sick Time and Self Care](#sick-time-and-self-care) below), and we will try to honor those urgent requests as much as is possible and reasonable. Non-urgent requests with less than three weeks notice will be considered on a case-by-case basis.
+Three weeks notice is required for scheduled PTO requests. We understand that some things come up last minute (see [Sick Time and Self Care](#sick-time-and-self-care) below), and we will try to honor those urgent requests as much as is possible and reasonable. Non-urgent requests with less than three weeks notice will be considered on a case-by-case basis.
 
 ### Salaried Employees
 
