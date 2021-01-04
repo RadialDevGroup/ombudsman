@@ -112,6 +112,8 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
+Three weeks notice is required for scheduled PTO requests. We understand that some things come up last minute (see [Sick Time and Self Care](#sick-time-and-self-care) below), and we will try to honor those urgent requests as much as is possible and reasonable. Non-urgent requests with less than three weeks notice will be considered on a case-by-case basis.
+
 ### Salaried Employees
 
 PTO Hours will be accrued at a rate of 11.67 Hours per pay period with a maximum of 280 per year.
