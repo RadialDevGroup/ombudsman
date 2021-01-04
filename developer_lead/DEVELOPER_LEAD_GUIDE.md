@@ -402,6 +402,8 @@ Requirements:
 
 * What is something that could have been done to have made the sprint more successful?
 
+* Is there any other feedback I want to send to management only? (Not to be answered here, but sent in another email)
+
 ### How to communicate about missing deadlines
 
 If you realize that you might miss or struggle to meet a deadline, let management know immediately. There are multiple options that can be taken depending on the situation that will not all be explained here. The main point is to let both management and the client know what the situation is as soon as possible. This way, a plan can be made to resolve the issue (will the client pay more, will the work roll over to the next sprint, etc).
