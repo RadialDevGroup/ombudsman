@@ -112,6 +112,9 @@ Hourly employees may be requested to take a reduction in hours. If so, individua
 
 ## PTO
 
+
+Effective January 1st 2021, all un-allocated PTO Expires January 1st. (this means that you can use PTO after the first of the year, provided that the vacation is scheduled before the end of the previous year.
+
 Three weeks notice is required for scheduled PTO requests. We understand that some things come up last minute (see [Sick Time and Self Care](#sick-time-and-self-care) below), and we will try to honor those urgent requests as much as is possible and reasonable. Non-urgent requests with less than three weeks notice will be considered on a case-by-case basis.
 
 ### Salaried Employees
